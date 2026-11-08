@@ -72,6 +72,7 @@ A wiki of **Mercenary Brotherhood**, generated from the game's shipped modding d
 
 ## About this wiki
 
+- [[README]] — what this vault is and how to open it
 - [[Coverage]] — what was generated, what was left out and why
 - [[Unresolved References]] — ids in the game data that point at nothing
 
