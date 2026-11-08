@@ -1,0 +1,38 @@
+---
+id: st_shadow_darksight
+type: skill_trait
+category: Skill Traits
+aliases:
+  - st_shadow_darksight
+tags:
+  - rarity/common
+  - skill-trait/passive
+  - type/skill_trait
+source: skills/magic_skill_traits.json
+ranks: 2
+rarity: common
+skill: Shadow Magic
+trait_type: passive
+---
+
+A common passive skill trait of [[Shadow Magic]] with 2 ranks.
+
+> Shadow affinity sharpens aim in darkness. +3 Ranged Attack.
+
+## Effects
+
+Rank 1:
+
+- +3 [[Stats#Ranged Attack|Ranged Attack]]
+
+## Upgrades
+
+When an upgrade restates a bonus, the new value **replaces** the old one (it is not added on top).
+
+### Rank 2
+
+Increased to +5 Ranged Attack.
+
+- +5 [[Stats#Ranged Attack|Ranged Attack]]
+
+*Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -1,0 +1,40 @@
+---
+id: mag_vampiric_2
+type: magic_property
+category: Magic Properties
+aliases:
+  - mag_vampiric_2
+tags:
+  - magic-property/base
+  - rarity/legendary
+  - type/magic_property
+source: items/magic_properties.json
+allowed_types:
+  - weapon
+family: vampiric
+group: base
+name_theme: blood
+rarity_min: legendary
+weight: 4
+---
+
+A legendary-or-better magic property for weapons.
+
+> On hit, drain 12 HP from target
+
+## Stats
+
+|  | Value |
+|---|---|
+| Group | Base |
+| Family | Vampiric |
+| Allowed on | Weapons |
+| Minimum rarity | Legendary |
+| [[Glossary#Numbers used on this wiki\|Weight (power)]] | 4 |
+| Naming theme | [[Magic Item Names#Blood\|Blood]] |
+
+## Same family
+
+Properties of the *Vampiric* family: [[Vampiric Touch]], **Vampiric Embrace**
+
+*Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

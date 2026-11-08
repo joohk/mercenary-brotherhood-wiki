@@ -1,0 +1,38 @@
+---
+id: st_bv_weakness_spotter
+type: skill_trait
+category: Skill Traits
+aliases:
+  - st_bv_weakness_spotter
+tags:
+  - rarity/common
+  - skill-trait/passive
+  - type/skill_trait
+source: skills/defense_skill_traits.json
+ranks: 2
+rarity: common
+skill: Bloodied Veteran
+trait_type: passive
+---
+
+A common passive skill trait of [[Bloodied Veteran]] with 2 ranks.
+
+> +3 Crit Chance. You know exactly where it hurts.
+
+## Effects
+
+Rank 1:
+
+- +3% [[Stats#Crit Chance|Crit Chance]]
+
+## Upgrades
+
+When an upgrade restates a bonus, the new value **replaces** the old one (it is not added on top).
+
+### Rank 2
+
++5 Crit Chance.
+
+- +5% [[Stats#Crit Chance|Crit Chance]]
+
+*Generated from `skills/defense_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -1,0 +1,25 @@
+---
+id: awakening_cataclysm
+type: trait
+category: Traits
+subtype: awakening
+aliases:
+  - Cataclysm
+  - awakening_cataclysm
+tags:
+  - trait/awakening
+  - type/trait
+source: traits/awakening_traits.json
+awakening_tier: 10
+rarity: awakening
+---
+
+A tier-10 awakening trait (ability) that grants the active ability [[Cataclysm (Ability)|Cataclysm]]. At each awakening tier the player picks one trait from that tier's offer.
+
+> Active: deal unmitigable damage equal to 50% of each enemy's current HP (minimum 10, maximum 50) to ALL enemies on the battlefield. Once per battle.
+
+## Effects
+
+- Grants ability: [[Cataclysm (Ability)|Cataclysm]]
+
+*Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

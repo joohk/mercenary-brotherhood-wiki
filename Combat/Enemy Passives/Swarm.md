@@ -1,0 +1,31 @@
+---
+id: passive_swarm
+type: enemy_passive
+category: Enemy Passives
+aliases:
+  - passive_swarm
+tags:
+  - enemy-passive/coded
+  - type/enemy_passive
+source: passives/enemy_passives.json
+coded: true
+---
+
+An enemy passive handled in game code: the description is its rules text.
+
+> +3 melee attack per adjacent ally, max +12.
+
+## Tuning parameters
+
+Numbers the game code uses for this passive (fractions shown as %).
+
+| Parameter | Value |
+|---|---|
+| Per Ally | 3 |
+| Cap | 12 |
+
+## Referenced by
+
+- **Enemies with this passive:** [[Ratkin Chieftain]]
+
+*Generated from `passives/enemy_passives.json`. Edits will be overwritten — put your own notes in Notes/.*

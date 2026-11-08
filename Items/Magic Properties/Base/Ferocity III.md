@@ -1,0 +1,43 @@
+---
+id: mag_ferocity_3
+type: magic_property
+category: Magic Properties
+aliases:
+  - mag_ferocity_3
+tags:
+  - magic-property/base
+  - rarity/legendary
+  - type/magic_property
+source: items/magic_properties.json
+allowed_types:
+  - weapon
+family: ferocity
+group: base
+name_theme: brutal
+rarity_min: legendary
+weight: 3
+---
+
+A legendary-or-better magic property for weapons.
+
+## Stats
+
+|  | Value |
+|---|---|
+| Group | Base |
+| Family | Ferocity |
+| Allowed on | Weapons |
+| Minimum rarity | Legendary |
+| [[Glossary#Numbers used on this wiki\|Weight (power)]] | 3 |
+| Naming theme | [[Magic Item Names#Brutal\|Brutal]] |
+
+## Effects
+
+- +35% [[Stats#Damage Min|Damage Min]], +35% [[Stats#Damage Max|Damage Max]]
+- On a ranged weapon the bonus goes to Ranged Damage Min and Ranged Damage Max instead of [[Stats#Damage Min|Damage Min]] and [[Stats#Damage Max|Damage Max]].
+
+## Tiers
+
+Properties of the *Ferocity* family: [[Ferocity I]] → [[Ferocity II]] → **Ferocity III**
+
+*Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

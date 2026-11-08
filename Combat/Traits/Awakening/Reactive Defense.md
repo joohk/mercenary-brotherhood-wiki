@@ -1,0 +1,20 @@
+---
+id: awakening_reactive_defense
+type: trait
+category: Traits
+subtype: awakening
+aliases:
+  - awakening_reactive_defense
+tags:
+  - trait/awakening
+  - type/trait
+source: traits/awakening_traits.json
+awakening_tier: 5
+rarity: awakening
+---
+
+A tier-5 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
+
+> +15 melee defense when attacked by 2+ enemies in a single round.
+
+*Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

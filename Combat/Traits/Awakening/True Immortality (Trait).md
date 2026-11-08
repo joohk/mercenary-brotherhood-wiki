@@ -1,0 +1,25 @@
+---
+id: awakening_true_immortality
+type: trait
+category: Traits
+subtype: awakening
+aliases:
+  - True Immortality
+  - awakening_true_immortality
+tags:
+  - trait/awakening
+  - type/trait
+source: traits/awakening_traits.json
+awakening_tier: 10
+rarity: awakening
+---
+
+A tier-10 awakening trait (ability) that grants the active ability [[True Immortality (Ability)|True Immortality]]. At each awakening tier the player picks one trait from that tier's offer.
+
+> Active: instantly restore ALL of your HP. Once per battle.
+
+## Effects
+
+- Grants ability: [[True Immortality (Ability)|True Immortality]]
+
+*Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*
