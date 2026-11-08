@@ -247,7 +247,8 @@ Meanings marked *inferred* come from how the data is used, not from a stated def
 - **Threat cost** — *inferred:* how much of an encounter's budget an enemy uses up; stronger enemies cost more, so a
   fight has fewer of them.
 - **XP / Gold value** — experience and gold the company earns for defeating that enemy.
-- **Potential value** — present on enemies but undocumented in the data.
+- **Potential value** — how much [[#Potential]] a recruit earns for killing that enemy (100% for the kill, 25% for an
+  assist, 5% for being present).
 - **Hire cost ×** (backgrounds) — multiplier on a recruit's hiring price: ×0.6 is cheap, ×2.5 very expensive.
 - **Recruitment threshold** (races) — undocumented in the data; *inferred:* how established your company must be before
   that race shows up for hire (0 = always available).
