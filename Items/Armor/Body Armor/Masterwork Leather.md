@@ -18,7 +18,10 @@ rarity: normal
 slot: body_armor
 spawn_weight: 8
 tier: 5
+up: "[[Light Armor]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Armor]] › [[Light Armor]]
 
 A tier-5 light armor giving 14 Armor, worth 2040 gold.
 

@@ -13,7 +13,10 @@ metric: hammer_kills
 points_per_threshold: 2
 requires_weapon_tag: hammer
 spec_category: weapon_mastery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Weapon Mastery specialization. Tracks *Hammer Kills* — every 3 → 2 points. Only while wielding a **hammer**.
 

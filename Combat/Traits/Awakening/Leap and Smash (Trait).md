@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: melee
 awakening_tier: 7
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-7 awakening trait (ability) for the melee archetype that grants the active ability [[Leap and Smash (Ability)|Leap and Smash]]. At each awakening tier the player picks one trait from that tier's offer.
 

@@ -19,7 +19,10 @@ location: surface
 map_type: abandoned_fort
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon surface enemy base held by [[Bandits]], appearing from company level 3.
 

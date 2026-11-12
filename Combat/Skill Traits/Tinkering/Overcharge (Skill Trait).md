@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Tinkering
 trait_type: passive
+up: "[[Tinkering]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tinkering]]
 
 A rare passive skill trait of [[Tinkering]] with 2 ranks.
 

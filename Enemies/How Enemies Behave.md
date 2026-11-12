@@ -3,7 +3,10 @@ type: ai_profile_page
 tags:
   - type/ai_profile_page
 source: ai/ai_profiles.json
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 Every enemy faction fights with one of 7 AI profiles. The profile decides how well units coordinate, whom they target and when they break.
 

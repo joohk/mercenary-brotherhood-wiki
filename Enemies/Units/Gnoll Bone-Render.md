@@ -17,8 +17,11 @@ race: Gnoll
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Feral Gnolls]]"
 xp: 13
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Feral Gnolls]]
 
 A tier-1 Gnoll enemy of the [[Feral Gnolls]] faction — 50 HP, 1 armor, worth 13 XP and 7 gold.
 

@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Cultist
 race: Orc
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Orc recruits with the Cultist background can roll the exclusive trait Dark Vessel.
 

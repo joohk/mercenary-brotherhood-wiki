@@ -20,7 +20,10 @@ services:
   - tavern
   - quest_board
 settlement_type: town
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground town in the deep depth zone (company level 7+).
 

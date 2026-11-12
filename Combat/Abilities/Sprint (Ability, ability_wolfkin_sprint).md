@@ -15,7 +15,10 @@ fatigue_cost: 15
 requires_los: false
 source_type: Racial
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability used on yourself.
 

@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.77
 starting_skills:
   - Holy Magic
   - Wand Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.77) that starts with Holy Magic and Wand Mastery.
 

@@ -13,7 +13,10 @@ metrics:
   - spell_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Abilities Used* (every 6) **and** *Spell Kills* (every 5) — both must climb; 2 points per threshold.
 

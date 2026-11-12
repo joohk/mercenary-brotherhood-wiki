@@ -15,8 +15,11 @@ range: 4
 requires_los: false
 source_type: Skill
 target_type: ally
+up: "[[Telekinesis]]"
 uses_per_battle: 2
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Telekinesis]]
 
 A 1-AP magic ability targeting an ally up to 4 hexes away, usable twice per battle.
 

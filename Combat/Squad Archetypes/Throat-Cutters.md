@@ -10,7 +10,10 @@ tags:
 source: traits/squad_archetypes.json
 family: the_first_strike
 tier: 2
+up: "[[Squad Archetypes]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Squad Archetypes]]
 
 Tier 2 of 5 in the squad archetype family [[The First Strike]].
 

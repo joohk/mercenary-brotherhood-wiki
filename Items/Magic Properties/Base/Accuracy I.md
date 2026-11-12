@@ -16,8 +16,11 @@ group: base
 melee_only: true
 name_theme: keen
 rarity_min: uncommon
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An uncommon-or-better magic property for weapons (melee weapons only).
 

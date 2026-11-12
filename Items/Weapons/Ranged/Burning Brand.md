@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 0
+up: "[[Throwing Weapons]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Throwing Weapons]]
 
 A tier-0 one-handed blunt throwing weapon dealing 3-6 damage at range 3, worth 2 gold.
 

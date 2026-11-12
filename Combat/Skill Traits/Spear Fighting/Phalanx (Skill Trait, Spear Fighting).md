@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Spear Fighting
 trait_type: passive
+up: "[[Spear Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Spear Fighting]]
 
 A rare passive skill trait of [[Spear Fighting]] with 3 ranks.
 

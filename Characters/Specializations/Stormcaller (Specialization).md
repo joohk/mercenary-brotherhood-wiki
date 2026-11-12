@@ -14,7 +14,10 @@ metrics:
   - ice_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Fire* (every 3) **and** *Frost Kills* (every 3) — both must climb; 2 points per threshold.
 

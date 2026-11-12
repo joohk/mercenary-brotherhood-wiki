@@ -13,7 +13,10 @@ base_threshold_interval: 20
 metric: healing_done
 points_per_threshold: 2
 spec_category: restoration
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Restoration specialization. Tracks *Total HP Healed* — every 20 → 2 points.
 

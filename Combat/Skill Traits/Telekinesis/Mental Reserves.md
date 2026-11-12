@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Telekinesis
 trait_type: passive
+up: "[[Telekinesis]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Telekinesis]]
 
 A common passive skill trait of [[Telekinesis]] with 2 ranks.
 

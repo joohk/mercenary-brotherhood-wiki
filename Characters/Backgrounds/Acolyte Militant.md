@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.75
 starting_skills:
   - Holy Magic
 temple_only: true
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.75) that starts with Holy Magic.
 

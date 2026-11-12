@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Tactician
 trait_type: ability
+up: "[[Tactician]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tactician]]
 
 An uncommon ability skill trait of [[Tactician]] with 2 ranks, granting [[Command (Ability)|Command]].
 

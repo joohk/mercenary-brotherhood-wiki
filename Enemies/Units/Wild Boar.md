@@ -16,8 +16,11 @@ hp: 45
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Beasts]]"
 xp: 10
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Beasts]] › [[Beasts]]
 
 A tier-1 enemy of the [[Beasts]] faction — 45 HP, 2 armor, worth 10 XP and 2 gold.
 

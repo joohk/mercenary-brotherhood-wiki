@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.15
 starting_skills:
   - Crossbow Mastery
   - Tinkering
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.15) that starts with Crossbow Mastery and Tinkering.
 

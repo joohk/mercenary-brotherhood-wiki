@@ -17,8 +17,11 @@ family: fortitude
 group: base
 name_theme: iron
 rarity_min: uncommon
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An uncommon-or-better magic property for body armor, helmets and accessories.
 

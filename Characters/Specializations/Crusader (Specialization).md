@@ -14,7 +14,10 @@ metric: mace_kills
 points_per_threshold: 1
 requires_weapon_tag: mace
 spec_category: weapon_mastery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Weapon Mastery specialization. Tracks *Mace Kills* — every 4 → 1 point. Only while wielding a **mace**.
 

@@ -15,8 +15,11 @@ range: 1
 requires_los: false
 source_type: Skill
 target_type: ally
+up: "[[Abilities]]"
 uses_per_battle: 2
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP support ability targeting an adjacent ally, usable twice per battle.
 

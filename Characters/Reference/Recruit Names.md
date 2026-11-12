@@ -5,7 +5,10 @@ tags:
 source:
   - world/realm_name_pools.json
   - "races/*.json"
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 First names given to new recruits: settlement recruits are named from their home realm's pool first, and fall back to their race's own pool when the realm has none.
 

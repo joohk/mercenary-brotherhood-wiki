@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 30
 ranged_defense: 32
 recruitment_threshold: 12
+up: "[[Beastfolk]]"
 vision: 5
 willpower: 42
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Beastfolk]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 12), strongest in Max Fatigue and weakest in Melee Defense and Ranged Defense compared with other races.
 

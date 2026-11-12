@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Assassination
 trait_type: ability
+up: "[[Assassination]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Assassination]]
 
 An uncommon ability skill trait of [[Assassination]] with 1 rank, granting [[Sneak Attack (Ability)|Sneak Attack]].
 

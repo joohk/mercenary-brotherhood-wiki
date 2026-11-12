@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Death Dealer
 race: Vampling
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Vampling recruits with the Death Dealer background can roll the exclusive trait Sanguine Feast.
 

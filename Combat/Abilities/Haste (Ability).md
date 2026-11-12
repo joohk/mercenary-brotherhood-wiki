@@ -17,7 +17,10 @@ range: 4
 requires_los: false
 source_type: Skill
 target_type: ally
+up: "[[Arcane Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Arcane Mastery]]
 
 A 1-AP magic ability targeting an ally up to 4 hexes away.
 

@@ -11,7 +11,10 @@ source: faith/deities.json
 blessing_stat: melee_attack
 blessing_value: 1
 lean: dark
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of Death in the Faith system, with a dark lean.
 

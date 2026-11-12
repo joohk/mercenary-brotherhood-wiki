@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Staff Mastery
 trait_type: ability
+up: "[[Staff Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Staff Mastery]]
 
 An uncommon ability skill trait of [[Staff Mastery]] with 2 ranks, granting [[Staff Slam (Ability)|Staff Slam]].
 

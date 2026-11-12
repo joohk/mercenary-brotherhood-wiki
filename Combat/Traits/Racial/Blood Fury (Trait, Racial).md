@@ -12,7 +12,10 @@ tags:
   - type/trait
 source: traits/racial_traits.json
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare Orc racial trait.
 

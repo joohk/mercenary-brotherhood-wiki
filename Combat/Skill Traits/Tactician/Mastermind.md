@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Tactician
 trait_type: passive
+up: "[[Tactician]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tactician]]
 
 A rare passive skill trait of [[Tactician]] with 2 ranks.
 

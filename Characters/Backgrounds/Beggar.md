@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.59
 starting_skills:
   - Dodge Master
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.59) that starts with Dodge Master.
 

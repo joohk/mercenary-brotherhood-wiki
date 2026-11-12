@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.03
 starting_skills:
   - Spear Fighting
   - Battle Hardened
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.03) that starts with Spear Fighting and Battle Hardened.
 

@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 30
 tier: 3
+up: "[[Maces & Clubs]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
 A tier-3 one-handed blunt mace dealing 15-24 damage, worth 480 gold.
 

@@ -4,7 +4,10 @@ tags:
   - items/magic
   - type/page
 source: items/magic_names.json
+up: "[[Arms & Armor]]"
 ---
+
+[[Home]] › [[Arms & Armor]]
 
 How randomly generated magic items get their names: the item's rarity picks the naming pattern and its magic properties pick the theme words.
 

@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: melee
 awakening_tier: 10
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-10 awakening trait (ability) for the melee archetype that grants the active ability [[Blade Storm (Ability)|Blade Storm]]. At each awakening tier the player picks one trait from that tier's offer.
 

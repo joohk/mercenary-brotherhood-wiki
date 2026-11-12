@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Formation Fighter
 trait_type: ability
+up: "[[Formation Fighter]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Formation Fighter]]
 
 An uncommon ability skill trait of [[Formation Fighter]] with 2 ranks, granting [[Brace (Ability, ability_brace)|Brace]].
 

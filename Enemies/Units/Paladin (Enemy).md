@@ -17,8 +17,11 @@ hp: 156
 stance: aggressive
 threat_cost: 9
 tier: 4
+up: "[[The Inquisition]]"
 xp: 55
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[The Inquisition]]
 
 A tier-4 enemy of [[The Inquisition]] faction — 156 HP, 17 armor, worth 55 XP and 48 gold.
 

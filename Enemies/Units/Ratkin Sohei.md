@@ -17,8 +17,11 @@ race: Ratkin
 stance: aggressive
 threat_cost: 8
 tier: 4
+up: "[[Ratkin Empire]]"
 xp: 48
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[Ratkin Empire]]
 
 A tier-4 Ratkin enemy of the [[Ratkin Empire]] faction — 126 HP, 12 armor, worth 48 XP and 36 gold.
 

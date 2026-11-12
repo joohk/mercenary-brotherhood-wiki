@@ -22,9 +22,12 @@ quest_source: chain
 quest_type: escort
 reputation_change: 6
 time_limit_days: 30
+up: "[[Quests]]"
 xp_company: 30
 xp_squad: 20
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A chain-stage quest (escort) for company level 4+, given by a settlement.
 

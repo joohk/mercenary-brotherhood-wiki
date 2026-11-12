@@ -15,7 +15,10 @@ max_level: 10
 skill_category: weapon
 skill_group: Weapon
 skill_traits: 7
+up: "[[Weapon Skills]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]]
 
 A weapon skill from the Weapon group, with 10 levels and 7 skill traits.
 

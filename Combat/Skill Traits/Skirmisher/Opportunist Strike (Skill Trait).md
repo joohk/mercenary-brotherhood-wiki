@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Skirmisher
 trait_type: ability
+up: "[[Skirmisher (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Skirmisher (Skill)]]
 
 An uncommon ability skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 ranks, granting [[Opportunist Strike (Ability)|Opportunist Strike]].
 

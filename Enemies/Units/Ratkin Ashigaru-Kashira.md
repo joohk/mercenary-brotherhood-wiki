@@ -17,9 +17,12 @@ race: Ratkin
 stance: aggressive
 threat_cost: 3
 tier: 2
+up: "[[Ratkin Empire]]"
 variant_archetype: warlord
 xp: 22
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[Ratkin Empire]]
 
 A tier-2 Ratkin enemy of the [[Ratkin Empire]] faction — 88 HP, 9 armor, worth 22 XP and 16 gold.
 

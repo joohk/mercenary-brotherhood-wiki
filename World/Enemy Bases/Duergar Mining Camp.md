@@ -18,7 +18,10 @@ location: underground
 map_type: cave_lair
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon underground enemy base held by [[Duergar]].
 

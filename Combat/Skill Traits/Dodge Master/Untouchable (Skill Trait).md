@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Dodge Master
 trait_type: passive
+up: "[[Dodge Master]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Dodge Master]]
 
 A rare passive skill trait of [[Dodge Master]] with 2 ranks.
 

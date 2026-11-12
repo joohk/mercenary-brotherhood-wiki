@@ -19,9 +19,12 @@ quest_source: trade
 quest_type: escort
 reputation_change: 6
 time_limit_days: 60
+up: "[[Quests]]"
 xp_company: 35
 xp_squad: 20
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A trade quest (escort) for company level 2+, given by a settlement.
 

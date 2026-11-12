@@ -12,7 +12,10 @@ base_threshold_interval: 5
 metric: aura_sustained_turns
 points_per_threshold: 2
 spec_category: performance
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Performance specialization. Tracks *Turns Sustaining Auras* — every 5 → 2 points.
 

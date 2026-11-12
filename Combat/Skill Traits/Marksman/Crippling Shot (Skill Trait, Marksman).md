@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Marksman
 trait_type: ability
+up: "[[Marksman (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Marksman (Skill)]]
 
 A rare ability skill trait of [[Marksman (Skill)|Marksman]] with 2 ranks, granting [[Crippling Shot (Ability)|Crippling Shot]].
 

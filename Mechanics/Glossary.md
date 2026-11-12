@@ -3,7 +3,10 @@ type: mechanics
 tags:
   - type/mechanics
 source: glossary.json
+up: "[[Mechanics]]"
 ---
+
+[[Home]] › [[Mechanics]]
 
 Game keywords and mechanics, as defined by the in-game Guide and tooltips.
 

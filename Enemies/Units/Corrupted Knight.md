@@ -16,8 +16,11 @@ hp: 137
 stance: aggressive
 threat_cost: 7
 tier: 3
+up: "[[Demons]]"
 xp: 40
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[Demons]]
 
 A tier-3 enemy of the [[Demons]] faction — 137 HP, 15 armor, worth 40 XP and 30 gold.
 

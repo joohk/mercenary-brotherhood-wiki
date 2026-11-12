@@ -16,8 +16,11 @@ group: cdr
 name_theme: swift
 rarity_min: ascendant
 spawn_weight: 0.1
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An ascendant-only magic property for accessories.
 

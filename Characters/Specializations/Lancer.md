@@ -13,7 +13,10 @@ metric: spear_kills
 points_per_threshold: 1
 requires_weapon_tag: spear
 spec_category: weapon_mastery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Weapon Mastery specialization. Tracks *Spear Kills* — every 4 → 1 point. Only while wielding a **spear**.
 

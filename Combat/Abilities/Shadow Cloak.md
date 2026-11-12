@@ -15,7 +15,10 @@ range: 0
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Shadow Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 A 1-AP magic ability used on yourself.
 

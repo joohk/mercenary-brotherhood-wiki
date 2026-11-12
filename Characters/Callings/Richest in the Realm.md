@@ -9,7 +9,10 @@ tags:
 source: callings/callings.json
 condition: gold
 target: 50000
+up: "[[Callings]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Callings]]
 
 A calling (the campaign's victory goal): Amass 50,000 gold.
 

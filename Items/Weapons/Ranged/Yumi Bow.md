@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 3
+up: "[[Bows]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Bows]]
 
 A tier-3 two-handed piercing bow dealing 8-14 damage at range 6, worth 55 gold.
 

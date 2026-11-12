@@ -17,7 +17,10 @@ level_min: 3
 terrain:
   - tunnel
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for tunnel terrain, from company level 3, with 4 enemy groups.
 

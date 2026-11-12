@@ -4,7 +4,10 @@ tags:
   - type/index
 source: enemies/
 count: 24
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 24 factions in the game data.
 

@@ -16,8 +16,11 @@ family: undying
 group: base
 name_theme: iron
 rarity_min: ascendant
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An ascendant-only magic property for body armor.
 

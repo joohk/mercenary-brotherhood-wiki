@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Phantom Lord
 race: Wraithkin
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Wraithkin recruits with the Phantom Lord background can roll the exclusive trait Spectral Rend.
 

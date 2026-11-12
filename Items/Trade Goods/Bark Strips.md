@@ -15,7 +15,10 @@ family: raw material
 price: 40
 rarity: common
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A common trade good (raw material), base price 40 gold.
 

@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 2
+up: "[[Crossbows]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Crossbows]]
 
 A tier-2 two-handed piercing crossbow dealing 6-10 damage at range 5, worth 12 gold.
 

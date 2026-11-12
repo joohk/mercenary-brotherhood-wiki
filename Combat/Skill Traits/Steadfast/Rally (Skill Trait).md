@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Steadfast
 trait_type: ability
+up: "[[Steadfast]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Steadfast]]
 
 An uncommon ability skill trait of [[Steadfast]] with 1 rank, granting [[Rally (Ability)|Rally]].
 

@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.15
 starting_skills:
   - Swordsmanship
   - Melee Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.15) that starts with Swordsmanship and Melee Mastery.
 

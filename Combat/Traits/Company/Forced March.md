@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: traits/company_traits.json
 rarity: uncommon
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 An uncommon company trait: it applies to every member of the company.
 

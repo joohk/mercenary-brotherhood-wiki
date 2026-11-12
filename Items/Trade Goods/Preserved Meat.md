@@ -15,7 +15,10 @@ family: food
 price: 90
 rarity: uncommon
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 An uncommon trade good (food), base price 90 gold.
 

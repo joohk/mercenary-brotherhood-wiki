@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 3
 tier: 6
+up: "[[Spears]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Spears]]
 
 A tier-6 one-handed piercing spear dealing 26-41 damage, worth 2640 gold.
 

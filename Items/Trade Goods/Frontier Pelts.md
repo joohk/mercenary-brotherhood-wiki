@@ -15,7 +15,10 @@ family: textile
 price: 85
 rarity: common
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A common realm-specialty trade good (textile), base price 85 gold.
 

@@ -12,7 +12,10 @@ base_threshold_interval: 4
 metric: turns_survived_surrounded
 points_per_threshold: 2
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Turns Surrounded* — every 4 → 2 points.
 

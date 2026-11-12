@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Armor Breaker
 trait_type: ability
+up: "[[Armor Breaker]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Armor Breaker]]
 
 A rare ability skill trait of [[Armor Breaker]] with 2 ranks, granting [[Shatter (Ability)|Shatter]].
 

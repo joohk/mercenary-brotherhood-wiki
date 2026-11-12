@@ -17,8 +17,11 @@ race: Elf
 stance: ranged
 threat_cost: 2
 tier: 1
+up: "[[Bandits]]"
 xp: 20
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Bandits]]
 
 A tier-1 Elf enemy of the [[Bandits]] faction — 48 HP, 1 armor, worth 20 XP and 13 gold.
 

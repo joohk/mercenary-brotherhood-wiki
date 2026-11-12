@@ -15,7 +15,10 @@ starting_skills:
   - Holy Magic
   - Battle Hardened
 temple_only: true
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.15) that starts with Holy Magic and Battle Hardened.
 

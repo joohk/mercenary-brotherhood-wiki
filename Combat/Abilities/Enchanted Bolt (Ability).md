@@ -15,7 +15,10 @@ fatigue_cost: 12
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ranged ability used on yourself.
 

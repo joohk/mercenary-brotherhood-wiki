@@ -15,8 +15,11 @@ family: soulfire
 group: base
 name_theme: fire
 rarity_min: ascendant
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An ascendant-only magic property for weapons.
 

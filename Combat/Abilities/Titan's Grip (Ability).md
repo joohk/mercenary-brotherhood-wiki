@@ -17,7 +17,10 @@ range: 1
 requires_los: true
 source_type: Awakening
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting an adjacent enemy.
 

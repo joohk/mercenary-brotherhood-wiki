@@ -18,8 +18,11 @@ family: warding
 group: base
 name_theme: ward
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for shields, body armor, helmets and accessories.
 

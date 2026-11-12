@@ -17,7 +17,10 @@ location: surface
 rarity: uncommon
 repeatable: true
 rooms: 2
+up: "[[Dungeons]]"
 ---
+
+[[Home]] › [[World]] › [[Dungeons]]
 
 An uncommon surface dungeon held by [[Bandits]]; repeatable.
 

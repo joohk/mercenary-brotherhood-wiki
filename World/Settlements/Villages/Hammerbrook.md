@@ -15,7 +15,10 @@ services:
   - quest_board
   - shop
 settlement_type: village
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A village with a mostly [[Dwarf]] population.
 

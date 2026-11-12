@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 10
 tier: 4
+up: "[[War Hammers]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[War Hammers]]
 
 A tier-4 two-handed blunt war hammer dealing 31-49 damage, worth 1680 gold.
 

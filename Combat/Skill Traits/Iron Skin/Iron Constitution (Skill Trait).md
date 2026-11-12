@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Iron Skin
 trait_type: passive
+up: "[[Iron Skin]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Iron Skin]]
 
 A common passive skill trait of [[Iron Skin]] with 2 ranks.
 

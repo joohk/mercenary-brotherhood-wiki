@@ -13,7 +13,10 @@ ranks: 3
 rarity: rare
 skill: Two-Handed Mastery
 trait_type: passive
+up: "[[Two-Handed Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Two-Handed Mastery]]
 
 A rare passive skill trait of [[Two-Handed Mastery]] with 3 ranks.
 

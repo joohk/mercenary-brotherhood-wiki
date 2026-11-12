@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Nature Magic
 trait_type: ability
+up: "[[Nature Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Nature Magic]]
 
 An uncommon ability skill trait of [[Nature Magic]] with 2 ranks, granting [[Verdant Wind (Ability)|Verdant Wind]].
 

@@ -20,9 +20,12 @@ quest_source: leader
 quest_type: escort
 reputation_change: 4
 time_limit_days: 50
+up: "[[Quests]]"
 xp_company: 20
 xp_squad: 10
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (escort) for company level 1+, given by a settlement leader. In game the title reads `Deliver Message to {destination_name}`, with the blanks filled in when it is posted.
 

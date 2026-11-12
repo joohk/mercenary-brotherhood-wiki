@@ -16,9 +16,12 @@ hp: 106
 stance: aggressive
 threat_cost: 4
 tier: 2
+up: "[[Deserters]]"
 variant_archetype: warlord
 xp: 25
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Deserters]]
 
 A tier-2 enemy of the [[Deserters]] faction — 106 HP, 10 armor, worth 25 XP and 20 gold.
 

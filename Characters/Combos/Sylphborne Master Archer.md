@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Master Archer
 race: Sylphborne
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Sylphborne recruits with the Master Archer background can roll the exclusive trait Zephyr Shot.
 

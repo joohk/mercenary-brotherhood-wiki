@@ -20,9 +20,12 @@ quest_source: kings_hall
 quest_type: escort
 reputation_change: 8
 time_limit_days: 30
+up: "[[Quests]]"
 xp_company: 80
 xp_squad: 50
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A prestige contract (escort) for company level 5+, given by the King. In game the title reads `Royal Escort to {destination_name}`, with the blanks filled in when it is posted.
 

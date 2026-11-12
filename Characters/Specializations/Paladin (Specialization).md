@@ -14,7 +14,10 @@ metrics:
   - holy_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Charges* (every 3) **and** *Holy Kills* (every 4) — both must climb; 2 points per threshold.
 

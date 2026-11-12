@@ -13,7 +13,10 @@ metrics:
   - blood_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Melee Kills* (every 5) **and** *Blood Kills* (every 4) — both must climb; 2 points per threshold.
 

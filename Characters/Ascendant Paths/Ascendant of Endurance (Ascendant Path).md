@@ -11,7 +11,10 @@ source: ascendancy/ascendant_paths.json
 domain: Endurance
 eligibility_bias: survivals
 special: death_save_50
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of Endurance. Candidates are favoured by *survivals*.
 

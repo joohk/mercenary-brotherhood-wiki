@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.25
 starting_skills:
   - Archery
   - Light Armor Proficiency
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.25) that starts with Archery and Light Armor Proficiency.
 

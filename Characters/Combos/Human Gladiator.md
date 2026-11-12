@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Gladiator
 race: Human
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Human recruits with the Gladiator background can roll the exclusive trait Blood Tide.
 

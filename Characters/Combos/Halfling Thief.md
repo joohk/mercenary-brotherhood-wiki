@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Thief
 race: Halfling
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Halfling recruits with the Thief background can roll the exclusive trait Halfling Luck.
 

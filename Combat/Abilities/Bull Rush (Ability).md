@@ -16,7 +16,10 @@ range: 3
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP melee ability targeting one enemy up to 3 hexes away.
 

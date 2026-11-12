@@ -12,7 +12,10 @@ base_threshold_interval: 4
 metric: turns_spent_poisoned
 points_per_threshold: 3
 spec_category: endurance
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 An Endurance specialization. Tracks *Turns Poisoned* — every 4 → 3 points.
 

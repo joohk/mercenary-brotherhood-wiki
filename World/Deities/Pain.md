@@ -11,7 +11,10 @@ source: faith/deities.json
 blessing_stat: crit_chance
 blessing_value: 3
 lean: dark
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of Pain in the Faith system, with a dark lean.
 

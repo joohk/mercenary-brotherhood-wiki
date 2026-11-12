@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 30
 ranged_defense: 38
 recruitment_threshold: 0
+up: "[[Deep & Stone Folk]]"
 vision: 3
 willpower: 55
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Deep & Stone Folk]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 0), strongest in Willpower and weakest in Initiative compared with other races.
 

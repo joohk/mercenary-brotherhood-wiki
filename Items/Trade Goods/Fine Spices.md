@@ -15,7 +15,10 @@ family: luxury
 price: 250
 rarity: rare
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A rare trade good (luxury), base price 250 gold.
 

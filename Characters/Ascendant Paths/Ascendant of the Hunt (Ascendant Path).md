@@ -10,7 +10,10 @@ tags:
 source: ascendancy/ascendant_paths.json
 domain: the Hunt
 eligibility_bias: vendetta_kills
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of the Hunt. Candidates are favoured by *vendetta kills*.
 

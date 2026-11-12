@@ -13,7 +13,10 @@ base_threshold_interval: 3
 metric: patient_kills
 points_per_threshold: 3
 spec_category: precision
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Precision specialization. Tracks *Patient Kills* — every 3 → 3 points.
 

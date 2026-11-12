@@ -14,7 +14,10 @@ starting_skills:
   - Archery
   - Light Armor Proficiency
   - Marksman
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.36) that starts with Archery, Light Armor Proficiency and Marksman.
 

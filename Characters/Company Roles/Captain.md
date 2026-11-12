@@ -9,7 +9,10 @@ tags:
 source: roles/company_roles.json
 max_level: 5
 unlock_company_level: 2
+up: "[[Company Roles]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Company Roles]]
 
 A company role, unlocked at company level 2. One unit holds it; the role levels up to 5 as it earns role XP.
 

@@ -17,8 +17,11 @@ group: base
 name_theme: sight
 rarity_min: uncommon
 spawn_weight: 0.5
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An uncommon-or-better magic property for helmets and accessories.
 

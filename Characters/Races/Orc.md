@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 25
 ranged_defense: 30
 recruitment_threshold: 10
+up: "[[Greenskins & Giant-blood]]"
 vision: 3
 willpower: 50
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Greenskins & Giant-blood]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 10), weakest in Ranged Defense and Initiative compared with other races.
 

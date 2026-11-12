@@ -15,8 +15,11 @@ family: aegis
 group: base
 name_theme: ward
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for shields.
 

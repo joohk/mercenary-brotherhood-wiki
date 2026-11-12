@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.18
 starting_skills:
   - Archery
   - Skirmisher
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.18) that starts with Archery and Skirmisher.
 

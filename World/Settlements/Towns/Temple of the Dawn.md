@@ -12,7 +12,10 @@ tags:
 source: settlements/towns.json
 race_theme: neutral
 settlement_type: temple
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A temple (one of 2 in the world).
 

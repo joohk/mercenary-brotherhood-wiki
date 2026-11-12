@@ -17,9 +17,12 @@ race: Orc
 stance: aggressive
 threat_cost: 10
 tier: 4
+up: "[[Veteran Company]]"
 variant_archetype: warlord
 xp: 55
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Veteran Company]]
 
 A tier-4 Orc enemy of the [[Veteran Company]] faction — 166 HP, 19 armor, worth 55 XP and 44 gold.
 

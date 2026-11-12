@@ -15,7 +15,10 @@ starting_skills:
   - Swordsmanship
   - Heavy Armor Proficiency
   - Giant Slayer
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.5) that starts with Swordsmanship, Heavy Armor Proficiency and Giant Slayer.
 

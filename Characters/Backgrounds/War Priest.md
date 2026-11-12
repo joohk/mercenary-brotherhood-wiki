@@ -15,7 +15,10 @@ starting_skills:
   - Holy Magic
   - Mace Fighting
   - Battle Hardened
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.75) that starts with Holy Magic, Mace Fighting and Battle Hardened.
 

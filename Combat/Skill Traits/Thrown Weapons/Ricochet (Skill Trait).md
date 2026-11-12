@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Thrown Weapons
 trait_type: ability
+up: "[[Thrown Weapons]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Thrown Weapons]]
 
 A rare ability skill trait of [[Thrown Weapons]] with 3 ranks, granting [[Ricochet (Ability)|Ricochet]].
 

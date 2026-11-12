@@ -13,7 +13,10 @@ base_threshold_interval: 1
 metric: solo_kills_outnumbered
 points_per_threshold: 5
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Solo Kills While Outnumbered* — every 1 → 5 points.
 

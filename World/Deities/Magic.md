@@ -11,7 +11,10 @@ source: faith/deities.json
 blessing_stat: willpower
 blessing_value: 3
 lean: neutral
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of Magic in the Faith system, with a neutral lean.
 

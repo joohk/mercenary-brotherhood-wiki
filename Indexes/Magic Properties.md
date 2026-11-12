@@ -4,7 +4,10 @@ tags:
   - type/index
 source: items/magic_properties.json
 count: 477
+up: "[[Arms & Armor]]"
 ---
+
+[[Home]] › [[Arms & Armor]]
 
 All 477 magic properties in the game data.
 

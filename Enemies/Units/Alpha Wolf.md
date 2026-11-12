@@ -17,8 +17,11 @@ size: large
 stance: aggressive
 threat_cost: 6
 tier: 3
+up: "[[Wolf Pack (Faction)]]"
 xp: 35
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Beasts]] › [[Wolf Pack (Faction)]]
 
 A tier-3 large enemy of the [[Wolf Pack (Faction)|Wolf Pack]] faction — 130 HP, 8 armor, worth 35 XP and 16 gold.
 

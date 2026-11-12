@@ -16,8 +16,11 @@ family: steady
 group: base
 name_theme: wild
 rarity_min: rare
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A rare-or-better magic property for body armor and accessories.
 

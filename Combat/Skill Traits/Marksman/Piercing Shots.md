@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Marksman
 trait_type: passive
+up: "[[Marksman (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Marksman (Skill)]]
 
 A common passive skill trait of [[Marksman (Skill)|Marksman]] with 2 ranks.
 

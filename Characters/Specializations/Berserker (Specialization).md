@@ -13,7 +13,10 @@ base_threshold_interval: 3
 metric: kills_while_wounded
 points_per_threshold: 3
 spec_category: slaughter
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Slaughter specialization. Tracks *Kills While Wounded* — every 3 → 3 points.
 

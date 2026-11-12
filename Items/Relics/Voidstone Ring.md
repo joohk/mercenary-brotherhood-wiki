@@ -17,7 +17,10 @@ rarity: relic
 slot: accessory
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic ring dropped by the arch-villain [[The Void Herald]]. It awakens in three stages as its wielder racks up kills.
 

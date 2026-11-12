@@ -17,7 +17,10 @@ range: 5
 requires_los: false
 source_type: Awakening
 target_type: ally
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP support ability targeting an ally up to 5 hexes away.
 

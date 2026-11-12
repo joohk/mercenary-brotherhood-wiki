@@ -13,7 +13,10 @@ ranks: 1
 rarity: common
 skill: Performance
 trait_type: passive
+up: "[[Performance]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Performance]]
 
 A common passive skill trait of [[Performance]] with 1 rank.
 

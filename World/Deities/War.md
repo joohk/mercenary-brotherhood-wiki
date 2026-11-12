@@ -11,7 +11,10 @@ source: faith/deities.json
 blessing_stat: melee_attack
 blessing_value: 2
 lean: martial
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of War in the Faith system, with a martial lean.
 

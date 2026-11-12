@@ -15,7 +15,10 @@ starting_skills:
   - Dark Magic
   - Battle Hardened
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.85) that starts with Dark Magic, Battle Hardened and Staff Mastery.
 

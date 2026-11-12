@@ -12,7 +12,10 @@ tags:
 source: traits/hidden_depth_traits.json
 rarity: legendary
 stage: 3
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 Stage 3 of 3 of a hidden depth: a legendary trait that can surface and deepen over a unit's career.
 

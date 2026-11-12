@@ -17,7 +17,10 @@ rarity: relic
 slot: accessory
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic amulet dropped by the arch-villain [[The Witch Queen]]. It awakens in three stages as its wielder racks up kills.
 

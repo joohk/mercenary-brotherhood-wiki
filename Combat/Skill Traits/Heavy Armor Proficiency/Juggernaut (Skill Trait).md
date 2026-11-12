@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Heavy Armor Proficiency
 trait_type: passive
+up: "[[Heavy Armor Proficiency]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Armor Skills]] › [[Heavy Armor Proficiency]]
 
 A rare passive skill trait of [[Heavy Armor Proficiency]] with 3 ranks.
 

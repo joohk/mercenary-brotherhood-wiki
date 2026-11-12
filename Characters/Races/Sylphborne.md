@@ -19,9 +19,12 @@ move_range: 2
 ranged_attack: 50
 ranged_defense: 58
 recruitment_threshold: 15
+up: "[[Fey & Elemental]]"
 vision: 6
 willpower: 42
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Fey & Elemental]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Melee Defense and Ranged Defense and weakest in Melee Attack and Max HP compared with other races.
 

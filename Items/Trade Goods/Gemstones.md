@@ -15,7 +15,10 @@ family: precious
 price: 300
 rarity: rare
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A rare trade good (precious), base price 300 gold.
 

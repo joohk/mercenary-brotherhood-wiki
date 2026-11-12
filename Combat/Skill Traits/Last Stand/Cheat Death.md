@@ -13,7 +13,10 @@ ranks: 1
 rarity: rare
 skill: Last Stand
 trait_type: passive
+up: "[[Last Stand (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Last Stand (Skill)]]
 
 A rare passive skill trait of [[Last Stand (Skill)|Last Stand]] with 1 rank.
 

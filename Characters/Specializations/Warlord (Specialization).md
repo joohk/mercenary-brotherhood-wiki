@@ -13,7 +13,10 @@ base_threshold_interval: 3
 metric: enemies_routed
 points_per_threshold: 3
 spec_category: precision
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Precision specialization. Tracks *Enemies Routed* — every 3 → 3 points.
 

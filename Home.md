@@ -6,74 +6,28 @@ tags:
 
 A wiki of **Mercenary Brotherhood**, generated from the game's shipped modding data (`modding/reference_data`). Every page is rebuilt on each game patch; put your own notes in the `Notes/` folder, which the build never touches.
 
-## Characters
+## Start here
 
-- [[Ascendant Paths]] (8)
-- [[Backgrounds]] (115)
-- [[Callings]] (5)
-- [[Company Roles]] (10)
-- [[Foundings]] (6)
-- [[Personalities]] (12)
-- [[Race-Background Combos]] (31)
-- [[Races]] (26)
-- [[Recruit Names]]
-- [[Specializations]] (60)
+| Section | What's there |
+|---|---|
+| [[Your Company]] | Races, backgrounds, skills and traits: who you recruit and how they grow. |
+| [[Magic & Spells]] | Schools of magic, every spell, spellcasting backgrounds, caster gear and faith. |
+| [[Arms & Armor]] | Weapons by type, armor, accessories, relics and magic properties. |
+| [[Bestiary]] | Enemy types, factions, tiers, bosses, and how encounters are built. |
+| [[World]] | Settlements, dungeons, enemy bases, quests, guilds, deities and trade. |
+| [[Mechanics]] | Guides to how the game works under the hood, plus the glossary and stats. |
 
-## Combat
+## Every list
 
-- [[Abilities]] (286)
-- [[Enemy Passives]] (89)
-- [[Skill Traits]] (422)
-- [[Skills]] (52)
-- [[Squad Archetype Families]] (15)
-- [[Squad Archetypes]] (75)
-- [[Traits]] (418)
+One table per kind of thing in the game: [[Abilities]], [[Arch-Villains]], [[Ascendant Paths]], [[Backgrounds]], [[Battle Events]], [[Callings]], [[Company Roles]], [[Deities]], [[Dungeon Rooms]], [[Dungeons]], [[Encounter Tables]], [[Enemies]], [[Enemy Bases]], [[Enemy Passives]], [[Enemy Variants]], [[Factions]], [[Foundings]], [[Guilds]], [[Items]], [[Magic Properties]], [[Personalities]], [[Points of Interest]], [[Quest Chains]], [[Quests]], [[Race-Background Combos]], [[Races]], [[Settlements]], [[Skill Traits]], [[Skills]], [[Specializations]], [[Squad Archetype Families]], [[Squad Archetypes]], [[Traits]], [[Vendetta Abilities]], [[Vendetta Traits]]. Master lists with sortable views: [[All Weapons]], [[All Armor]], [[All Spells]].
 
-## Enemies
-
-- [[Arch-Villains]] (8)
-- [[Encounter Tables]] (55)
-- [[Encounters]]
-- [[Enemies]] (188)
-- [[Enemy Variants]] (6)
-- [[Enemy Warbands]]
-- [[Factions]] (24)
-- [[How Enemies Behave]] (7 ai profiles)
-- [[Vendetta Abilities]] (5)
-- [[Vendetta Traits]] (18)
-- [[Vendetta Trophies]] (6 vendetta loot)
-- [[Vendetta]]
-
-## Items
-
-- [[Items]] (309)
-- [[Magic Item Names]]
-- [[Magic Properties]] (477)
-
-## World
-
-- [[Battle Events]] (6)
-- [[Deities]] (8)
-- [[Dungeon Rooms]] (9)
-- [[Dungeons]] (29)
-- [[Enemy Bases]] (38)
-- [[Guilds]] (10)
-- [[Points of Interest]] (13)
-- [[Quest Chains]] (5)
-- [[Quests]] (51)
-- [[Settlements]] (270)
-- [[Tavern Rumors]]
-
-## Mechanics
+## Guides
 
 - [[Ability Upgrade Values]]
 - [[Encounter Scaling]]
 - [[Magic Academy]]
 - [[Save Files]]
 - [[Skill Traits and Upgrades]]
-- [[Glossary]]
-- [[Stats]]
-- [[Racial Relations]]
 
 ## About this wiki
 

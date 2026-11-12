@@ -17,8 +17,11 @@ race: Lizardfolk
 stance: aggressive
 threat_cost: 9
 tier: 4
+up: "[[Saurian Legions]]"
 xp: 55
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[Saurian Legions]]
 
 A tier-4 Lizardfolk enemy of the [[Saurian Legions]] faction — 170 HP, 19 armor, worth 55 XP and 48 gold.
 

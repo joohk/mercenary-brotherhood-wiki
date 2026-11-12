@@ -19,7 +19,10 @@ location: surface
 map_type: palisade_camp
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon surface enemy base held by [[Wilding Elves]], appearing from company level 3.
 

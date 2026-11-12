@@ -14,7 +14,10 @@ starting_skills:
   - Melee Mastery
   - Shield Wall
   - Swordsmanship
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.43) that starts with Melee Mastery, Shield Wall and Swordsmanship.
 

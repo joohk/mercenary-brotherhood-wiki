@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Telekinesis
 trait_type: ability
+up: "[[Telekinesis]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Telekinesis]]
 
 A rare ability skill trait of [[Telekinesis]] with 2 ranks, granting [[Telekinetic Wave]].
 

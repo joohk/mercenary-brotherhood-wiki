@@ -13,7 +13,10 @@ source: traits/combat_traits.json
 attack_affinity:
   - melee
 rarity: uncommon
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 An uncommon combat trait (stat boost).
 

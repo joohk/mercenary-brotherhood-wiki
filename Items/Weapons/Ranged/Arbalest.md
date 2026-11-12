@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 12
 tier: 4
+up: "[[Crossbows]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Crossbows]]
 
 A tier-4 two-handed piercing crossbow dealing 20-32 damage at range 6, worth 1080 gold.
 

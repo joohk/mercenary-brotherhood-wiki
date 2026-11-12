@@ -15,7 +15,10 @@ family: manufactured
 price: 165
 rarity: rare
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A rare realm-specialty trade good (manufactured), base price 165 gold.
 

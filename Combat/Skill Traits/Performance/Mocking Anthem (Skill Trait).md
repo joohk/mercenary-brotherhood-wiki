@@ -14,7 +14,10 @@ ranks: 1
 rarity: rare
 skill: Performance
 trait_type: ability
+up: "[[Performance]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Performance]]
 
 A rare ability skill trait of [[Performance]] with 1 rank, granting [[Mocking Anthem (Ability)|Mocking Anthem]].
 

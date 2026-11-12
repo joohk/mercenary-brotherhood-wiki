@@ -10,7 +10,10 @@ tags:
   - vendetta/power
 source: vendetta/vendetta_traits.json
 trait_category: power
+up: "[[Vendetta Traits]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Vendetta Traits]]
 
 A [[Vendetta|vendetta]] trait: a power trait.
 

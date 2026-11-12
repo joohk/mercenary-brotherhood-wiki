@@ -16,8 +16,11 @@ hp: 99
 stance: aggressive
 threat_cost: 4
 tier: 2
+up: "[[Swamp Dwellers]]"
 xp: 20
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Swamp Dwellers]]
 
 A tier-2 enemy of the [[Swamp Dwellers]] faction — 99 HP, 10 armor, worth 20 XP and 6 gold.
 

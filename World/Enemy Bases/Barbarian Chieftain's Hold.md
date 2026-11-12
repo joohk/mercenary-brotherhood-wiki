@@ -19,7 +19,10 @@ location: surface
 map_type: fortified_outpost
 rarity: rare
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A rare surface enemy base held by [[Wilding Elves]], appearing from company level 5.
 

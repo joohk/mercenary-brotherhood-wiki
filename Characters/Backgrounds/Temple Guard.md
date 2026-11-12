@@ -13,7 +13,10 @@ recruitment_cost_modifier: 0.85
 starting_skills:
   - Shield Wall
 temple_only: true
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.85) that starts with Shield Wall.
 

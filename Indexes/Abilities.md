@@ -4,7 +4,10 @@ tags:
   - type/index
 source: abilities/combat_abilities.json
 count: 286
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 286 abilities in the game data.
 

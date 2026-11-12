@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: caster
 awakening_tier: 8
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-8 awakening trait (ability) for the caster archetype that grants the active ability [[Phase Shift (Ability)|Phase Shift]]. At each awakening tier the player picks one trait from that tier's offer.
 

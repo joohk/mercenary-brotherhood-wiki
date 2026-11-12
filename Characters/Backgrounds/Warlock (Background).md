@@ -15,7 +15,10 @@ recruitment_cost_modifier: 1.35
 starting_skills:
   - Dark Magic
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.35) that starts with Dark Magic and Staff Mastery.
 

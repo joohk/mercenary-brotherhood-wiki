@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Shadow Magic
 trait_type: ability
+up: "[[Shadow Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 A common ability skill trait of [[Shadow Magic]] with 2 ranks, granting [[Shadow Bolt]].
 

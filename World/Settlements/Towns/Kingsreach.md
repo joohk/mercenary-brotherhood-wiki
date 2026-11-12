@@ -22,7 +22,10 @@ services:
   - magic_shop
   - kings_hall
 settlement_type: capital
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 The capital.
 

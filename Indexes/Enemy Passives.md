@@ -4,7 +4,10 @@ tags:
   - type/index
 source: passives/enemy_passives.json
 count: 89
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 89 enemy passives in the game data.
 

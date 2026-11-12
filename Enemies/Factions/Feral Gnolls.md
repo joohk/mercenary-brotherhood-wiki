@@ -15,7 +15,10 @@ level_min: 1
 tier_max: 2
 tier_min: 0
 units: 8
+up: "[[Wild Peoples]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]]
 
 An enemy faction that appears at company levels 1-3 and fights as [[How Enemies Behave#Undisciplined|Undisciplined]] (unpredictable, low coordination): 8 unit types, tiers 0-2.
 

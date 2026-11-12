@@ -9,7 +9,10 @@ tags:
 source: callings/callings.json
 condition: villains
 target: 8
+up: "[[Callings]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Callings]]
 
 A calling (the campaign's victory goal): Defeat all 8 arch-villains.
 

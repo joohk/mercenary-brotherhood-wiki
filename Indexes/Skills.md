@@ -4,7 +4,10 @@ tags:
   - type/index
 source: skills/
 count: 52
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 52 skills in the game data.
 

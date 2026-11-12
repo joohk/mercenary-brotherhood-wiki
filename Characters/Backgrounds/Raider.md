@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.02
 starting_skills:
   - Axe Fighting
   - Thrown Weapons
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.02) that starts with Axe Fighting and Thrown Weapons.
 

@@ -17,8 +17,11 @@ race: Elf
 stance: ranged
 threat_cost: 5
 tier: 3
+up: "[[Veteran Company]]"
 xp: 28
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Veteran Company]]
 
 A tier-3 Elf enemy of the [[Veteran Company]] faction — 90 HP, 8 armor, worth 28 XP and 20 gold.
 

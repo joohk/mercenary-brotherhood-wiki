@@ -12,7 +12,10 @@ source: faith/deities.json
 blessing_stat: max_hp
 blessing_value: 6
 lean: stoic
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of Endurance in the Faith system, with a stoic lean.
 

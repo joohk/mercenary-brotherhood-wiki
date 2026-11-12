@@ -16,7 +16,10 @@ range: 1
 requires_los: true
 source_type: Enemy
 target_type: area
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting an area up to 1 hex away.
 

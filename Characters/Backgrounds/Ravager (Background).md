@@ -15,7 +15,10 @@ starting_skills:
   - Axe Fighting
   - Battle Hardened
   - Berserker
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.54) that starts with Axe Fighting, Battle Hardened and Berserker.
 

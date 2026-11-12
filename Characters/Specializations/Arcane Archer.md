@@ -13,7 +13,10 @@ metrics:
   - arcane_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Ranged Kills* (every 5) **and** *Arcane Kills* (every 5) — both must climb; 2 points per threshold.
 

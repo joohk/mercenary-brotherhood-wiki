@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Swordsmanship
 trait_type: ability
+up: "[[Swordsmanship]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Swordsmanship]]
 
 An uncommon ability skill trait of [[Swordsmanship]] with 2 ranks, granting [[Disarming Strike (Ability)|Disarming Strike]].
 

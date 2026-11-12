@@ -14,7 +14,10 @@ starting_skills:
   - Archery
   - Battle Hardened
   - Skirmisher
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.55) that starts with Archery, Battle Hardened and Skirmisher.
 

@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Staff Mastery
 trait_type: passive
+up: "[[Staff Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Staff Mastery]]
 
 An uncommon passive skill trait of [[Staff Mastery]] with 2 ranks.
 

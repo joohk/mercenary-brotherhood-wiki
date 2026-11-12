@@ -9,8 +9,11 @@ tags:
   - type/battle_event
 source: encounters/battle_events.json
 company_level_min: 2
+up: "[[Battle Events]]"
 weight: 15
 ---
+
+[[Home]] › [[World]] › [[Battle Events]]
 
 A battle event from company level 2 (weight 15).
 

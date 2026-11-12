@@ -20,8 +20,11 @@ stance: aggressive
 threat_cost: 30
 tier: 5
 title: Xar'kethos
+up: "[[Arch-Villains]]"
 xp: 250
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of the [[Demons]] — *Xar'kethos*. Awakens from company level 8; 300 HP, 12 armor, worth 250 XP and 200 gold.
 

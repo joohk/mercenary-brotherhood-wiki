@@ -17,8 +17,11 @@ size: small
 stance: aggressive
 threat_cost: 1
 tier: 1
+up: "[[Beasts]]"
 xp: 5
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Beasts]] › [[Beasts]]
 
 A tier-1 small enemy of the [[Beasts]] faction — 22 HP, 0 armor, worth 5 XP and 1 gold.
 

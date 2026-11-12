@@ -3,7 +3,10 @@ type: encounters_page
 tags:
   - type/encounters_page
 source: encounters/encounter_config.json
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 How random fights are chosen: each terrain rolls a different encounter table as your company levels up, and the chance of an encounter depends on depth underground and on nearby settlement security.
 

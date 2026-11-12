@@ -17,8 +17,11 @@ race: Human
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Bandits]]"
 xp: 18
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Bandits]]
 
 A tier-1 Human enemy of the [[Bandits]] faction — 62 HP, 3 armor, worth 18 XP and 12 gold.
 

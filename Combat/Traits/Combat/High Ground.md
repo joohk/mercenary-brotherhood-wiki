@@ -14,7 +14,10 @@ attack_affinity:
   - ranged
   - magic
 rarity: uncommon
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 An uncommon combat trait (terrain).
 

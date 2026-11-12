@@ -20,8 +20,11 @@ stance: ranged
 threat_cost: 26
 tier: 5
 title: Seraphel of the Veil
+up: "[[Arch-Villains]]"
 xp: 230
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of [[The Umbral Court]] — *Seraphel of the Veil*. Awakens from company level 7; 200 HP, 6 armor, worth 230 XP and 160 gold.
 

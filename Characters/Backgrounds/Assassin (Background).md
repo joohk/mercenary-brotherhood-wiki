@@ -15,7 +15,10 @@ starting_skills:
   - Dagger Mastery
   - Light Armor Proficiency
   - Assassination
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.49) that starts with Dagger Mastery, Light Armor Proficiency and Assassination.
 

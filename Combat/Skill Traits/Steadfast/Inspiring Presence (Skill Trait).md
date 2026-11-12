@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Steadfast
 trait_type: passive
+up: "[[Steadfast]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Steadfast]]
 
 An uncommon passive skill trait of [[Steadfast]] with 2 ranks.
 

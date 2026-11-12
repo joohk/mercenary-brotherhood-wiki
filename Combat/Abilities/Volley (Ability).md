@@ -17,7 +17,10 @@ range: 6
 requires_los: true
 source_type: Skill
 target_type: area
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ranged ability targeting an area up to 6 hexes away.
 

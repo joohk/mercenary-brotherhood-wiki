@@ -13,7 +13,10 @@ ranks: 3
 rarity: rare
 skill: Swordsmanship
 trait_type: passive
+up: "[[Swordsmanship]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Swordsmanship]]
 
 A rare passive skill trait of [[Swordsmanship]] with 3 ranks.
 

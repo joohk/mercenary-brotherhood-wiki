@@ -20,8 +20,11 @@ stance: aggressive
 threat_cost: 24
 tier: 5
 title: Vaelith of the Deep Dark
+up: "[[Arch-Villains]]"
 xp: 220
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of [[The Umbral Court]] — *Vaelith of the Deep Dark*. Awakens from company level 7; 180 HP, 5 armor, worth 220 XP and 170 gold.
 

@@ -8,7 +8,10 @@ source:
   - settlements/towns.json
   - settlements/villages.json
 count: 270
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 270 settlements in the game data.
 
@@ -321,5 +324,11 @@ All 270 settlements in the game data.
 | [[The Blind Bazaar]] | Town | Deep zone | Dark Forge, Fungus Market, Shadow Broker, Magic Shop | 3 | [[Rare Herbs]], [[Fine Silk]], [[Spice]], [[Gemstones]] |
 | [[The Crawling Dark]] | Village | Deep zone | Fungus Market, Shadow Broker | 2 | [[Hemp]], [[Rope]], [[Fine Silk]] |
 | [[Voidreach]] | Town | Deep zone | Magic Shop, Shadow Broker | 2 | [[Embalming Herbs]], [[Sulfur]], [[Gemstones]], [[Rare Herbs]] |
+
+## Sortable view
+
+In Obsidian with the **Bases** core plugin on (Settings → Core plugins → Bases), this view sorts and filters by any column. Click a column header to sort.
+
+![[All Settlements.base]]
 
 *Generated from `settlements/_underground_settlements.json`, `settlements/forts.json`, `settlements/towns.json`, `settlements/villages.json`. Edits will be overwritten — put your own notes in Notes/.*

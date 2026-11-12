@@ -17,8 +17,11 @@ range: 1
 requires_los: false
 source_type: Racial
 target_type: area
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting an area up to 1 hex away, usable once per battle.
 

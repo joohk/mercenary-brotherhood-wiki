@@ -17,8 +17,11 @@ size: large
 stance: aggressive
 threat_cost: 10
 tier: 4
+up: "[[Swamp Dwellers]]"
 xp: 55
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Swamp Dwellers]]
 
 A tier-4 large enemy of the [[Swamp Dwellers]] faction — 218 HP, 14 armor, worth 55 XP and 30 gold.
 

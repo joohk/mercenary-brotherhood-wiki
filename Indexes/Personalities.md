@@ -4,7 +4,10 @@ tags:
   - type/index
 source: personality_traits.json
 count: 12
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 12 personalities in the game data.
 

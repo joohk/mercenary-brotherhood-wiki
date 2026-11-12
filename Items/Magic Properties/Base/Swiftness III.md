@@ -16,8 +16,11 @@ family: swiftness
 group: base
 name_theme: swift
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for helmets and accessories.
 

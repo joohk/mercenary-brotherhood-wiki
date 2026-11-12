@@ -16,9 +16,12 @@ hp: 156
 stance: aggressive
 threat_cost: 10
 tier: 4
+up: "[[Rival Mercenaries]]"
 variant_archetype: warlord
 xp: 58
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Rival Mercenaries]]
 
 A tier-4 enemy of the [[Rival Mercenaries]] faction — 156 HP, 18 armor, worth 58 XP and 50 gold.
 

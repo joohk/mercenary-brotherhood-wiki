@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: combos/combo_exclusive_traits.json
 rarity: legendary
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A legendary combo-exclusive trait — only Orc Grave Knight recruits can roll it.
 

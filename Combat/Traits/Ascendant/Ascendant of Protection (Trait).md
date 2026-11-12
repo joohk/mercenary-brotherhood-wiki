@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: traits/ascendant_traits.json
 rarity: ascendant
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 The trait a unit gains on becoming an Ascendant of the [[Ascendant of Protection (Ascendant Path)|Ascendant of Protection]] path.
 

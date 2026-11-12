@@ -10,7 +10,10 @@ tags:
 source: ascendancy/ascendant_paths.json
 domain: War
 eligibility_bias: kills
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of War. Candidates are favoured by *kills*.
 

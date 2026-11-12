@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Dual Wield Mastery
 trait_type: passive
+up: "[[Dual Wield Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Dual Wield Mastery]]
 
 A common passive skill trait of [[Dual Wield Mastery]] with 2 ranks.
 

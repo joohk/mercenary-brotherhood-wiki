@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Thrown Weapons
 trait_type: ability
+up: "[[Thrown Weapons]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Thrown Weapons]]
 
 An uncommon ability skill trait of [[Thrown Weapons]] with 2 ranks, granting [[Aimed Throw (Ability)|Aimed Throw]].
 

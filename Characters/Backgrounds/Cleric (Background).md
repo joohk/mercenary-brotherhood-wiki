@@ -15,7 +15,10 @@ recruitment_cost_modifier: 1.15
 starting_skills:
   - Holy Magic
   - Mace Fighting
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.15) that starts with Holy Magic and Mace Fighting.
 

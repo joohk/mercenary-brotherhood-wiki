@@ -19,9 +19,12 @@ gold_min: 210
 quest_source: security
 quest_type: destroy_base
 reputation_change: 8
+up: "[[Quests]]"
 xp_company: 40
 xp_squad: 25
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A security quest (destroy base) for company level 2+, given by a settlement. In game the title reads `Destroy the {base_name} near {settlement_name}`, with the blanks filled in when it is posted.
 

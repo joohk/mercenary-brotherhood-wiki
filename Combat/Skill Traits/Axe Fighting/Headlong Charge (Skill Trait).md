@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Axe Fighting
 trait_type: ability
+up: "[[Axe Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Axe Fighting]]
 
 A rare ability skill trait of [[Axe Fighting]] with 3 ranks, granting [[Headlong Charge (Ability)|Headlong Charge]].
 

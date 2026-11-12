@@ -15,7 +15,10 @@ services:
   - shop
   - tavern
 settlement_type: village
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground village in the shallow depth zone (accessible from early game).
 

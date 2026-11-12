@@ -18,7 +18,10 @@ rarity: relic
 slot: helmet
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic helmet dropped by the arch-villain [[Plague Bishop Malachar]]. It awakens in three stages as its wielder racks up kills.
 

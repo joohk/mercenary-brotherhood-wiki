@@ -17,7 +17,10 @@ location: underground
 rarity: legendary
 repeatable: false
 rooms: 4
+up: "[[Dungeons]]"
 ---
+
+[[Home]] › [[World]] › [[Dungeons]]
 
 A legendary underground dungeon held by [[Demons]]; can be cleared once.
 

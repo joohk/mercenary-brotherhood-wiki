@@ -16,8 +16,11 @@ hp: 113
 stance: ranged
 threat_cost: 9
 tier: 4
+up: "[[The Umbral Court]]"
 xp: 52
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]] › [[The Umbral Court]]
 
 A tier-4 enemy of [[The Umbral Court]] faction — 113 HP, 8 armor, worth 52 XP and 44 gold.
 

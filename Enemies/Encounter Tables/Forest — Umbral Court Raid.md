@@ -19,7 +19,10 @@ terrain:
   - forest
   - ruins
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for forest and ruins terrain, from company level 7, with 6 enemy groups.
 

@@ -17,7 +17,10 @@ fatigue_cost: 18
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Holy Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Holy Magic]]
 
 A 1-AP magic ability centred on yourself (radius 1).
 

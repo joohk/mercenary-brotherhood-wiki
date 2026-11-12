@@ -16,7 +16,10 @@ fatigue_cost: 12
 requires_los: false
 source_type: Awakening
 target_type: empty_hex
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP magic ability targeting an empty hex.
 

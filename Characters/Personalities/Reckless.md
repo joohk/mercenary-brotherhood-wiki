@@ -7,7 +7,10 @@ aliases:
 tags:
   - type/personality
 source: personality_traits.json
+up: "[[Personalities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Personalities]]
 
 A recruit personality — *reckless*, *wild-eyed*, *fearless*.
 

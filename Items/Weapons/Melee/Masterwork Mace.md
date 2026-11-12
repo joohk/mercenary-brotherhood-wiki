@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 7
 tier: 5
+up: "[[Maces & Clubs]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
 A tier-5 one-handed blunt mace dealing 24-37 damage, worth 1920 gold.
 

@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: traits/company_traits.json
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare company trait: it applies to every member of the company.
 

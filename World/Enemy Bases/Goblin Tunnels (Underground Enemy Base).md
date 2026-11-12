@@ -19,7 +19,10 @@ location: underground
 map_type: cave_lair
 rarity: common
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A common underground enemy base held by [[Greenskin Warband]].
 

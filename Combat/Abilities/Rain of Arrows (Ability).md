@@ -18,7 +18,10 @@ range: 8
 requires_los: true
 source_type: Awakening
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP ranged ability targeting one enemy up to 8 hexes away.
 

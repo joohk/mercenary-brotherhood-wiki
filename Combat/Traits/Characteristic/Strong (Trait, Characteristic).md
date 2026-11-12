@@ -13,7 +13,10 @@ tags:
 source: traits/characteristic_traits.json
 exclusion_group: strength
 rarity: common
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A common physical characteristic in the *strength* group. Every unit rolls exactly one characteristic at creation.
 

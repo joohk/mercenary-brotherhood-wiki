@@ -16,8 +16,11 @@ group: base
 name_theme: keen
 ranged_only: true
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for weapons (ranged weapons only).
 

@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Warchief
 race: Minotaur
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Minotaur recruits with the Warchief background can roll the exclusive trait Gore Charge.
 

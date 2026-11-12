@@ -17,7 +17,10 @@ rarity: relic
 slot: body_armor
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic light armor dropped by the arch-villain [[The Shadow Weaver]]. It awakens in three stages as its wielder racks up kills.
 

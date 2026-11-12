@@ -14,7 +14,10 @@ metrics:
   - healing_done
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Melee Kills* (every 5) **and** *HP Healed* (every 15) — both must climb; 2 points per threshold.
 

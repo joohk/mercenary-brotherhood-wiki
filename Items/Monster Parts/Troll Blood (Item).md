@@ -15,7 +15,10 @@ family: reagent
 price: 130
 rarity: normal
 tier: 3
+up: "[[Monster Parts]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Monster Parts]]
 
 A tier-3 reagent (monster part), harvested from slain creatures, worth 130 gold.
 

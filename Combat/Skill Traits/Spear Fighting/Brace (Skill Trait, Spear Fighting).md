@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Spear Fighting
 trait_type: ability
+up: "[[Spear Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Spear Fighting]]
 
 An uncommon ability skill trait of [[Spear Fighting]] with 2 ranks, granting [[Brace (Ability, ability_brace)|Brace]].
 

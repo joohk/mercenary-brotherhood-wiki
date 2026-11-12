@@ -8,7 +8,10 @@ tags:
   - type/squad_archetype_family
 source: traits/squad_archetypes.json
 tiers: 5
+up: "[[Squad Archetype Families]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Squad Archetype Families]]
 
 A squad archetype family with 5 tiers. A squad earns an archetype once its combat record meets every requirement of that tier.
 

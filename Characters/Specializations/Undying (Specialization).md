@@ -13,7 +13,10 @@ base_threshold_interval: 1
 metric: times_survived_lethal
 points_per_threshold: 5
 spec_category: endurance
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 An Endurance specialization. Tracks *Near-Death Survivals* — every 1 → 5 points.
 

@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Bloodied Veteran
 trait_type: passive
+up: "[[Bloodied Veteran]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Bloodied Veteran]]
 
 An uncommon passive skill trait of [[Bloodied Veteran]] with 2 ranks.
 

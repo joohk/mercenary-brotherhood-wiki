@@ -12,7 +12,10 @@ base_threshold_interval: 2
 metric: kills_after_ally_death
 points_per_threshold: 4
 spec_category: resolve
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Resolve specialization. Tracks *Revenge Kills* — every 2 → 4 points.
 

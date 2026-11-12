@@ -16,8 +16,11 @@ fatigue_cost: 20
 requires_los: false
 source_type: Skill
 target_type: area
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting an area, usable once per battle.
 

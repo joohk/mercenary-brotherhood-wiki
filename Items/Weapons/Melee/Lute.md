@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 25
 tier: 1
+up: "[[Other Weapons]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Other Weapons]]
 
 A tier-1 one-handed blunt instrument dealing 3-6 damage, worth 30 gold.
 

@@ -9,7 +9,10 @@ tags:
   - type/enemy_passive
 source: passives/enemy_passives.json
 coded: false
+up: "[[Enemy Passives]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Passives]]
 
 An enemy passive that gives a fixed stat bonus.
 

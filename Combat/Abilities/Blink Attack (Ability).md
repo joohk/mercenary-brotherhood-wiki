@@ -17,7 +17,10 @@ range: 5
 requires_los: true
 source_type: Awakening
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP melee ability targeting one enemy up to 5 hexes away.
 

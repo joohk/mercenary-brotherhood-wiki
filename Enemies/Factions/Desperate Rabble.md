@@ -15,7 +15,10 @@ level_min: 1
 tier_max: 1
 tier_min: 0
 units: 5
+up: "[[Outlaws & Sellswords]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]]
 
 An enemy faction that appears at company levels 1-2 and fights as [[How Enemies Behave#Undisciplined|Undisciplined]] (unpredictable, low coordination): 5 unit types, tiers 0-1.
 

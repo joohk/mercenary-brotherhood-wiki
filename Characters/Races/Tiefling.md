@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 40
 ranged_defense: 40
 recruitment_threshold: 5
+up: "[[Otherworldly]]"
 vision: 4
 willpower: 58
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Otherworldly]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 5), strongest in Willpower compared with other races.
 

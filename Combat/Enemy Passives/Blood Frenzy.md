@@ -9,7 +9,10 @@ tags:
   - type/enemy_passive
 source: passives/enemy_passives.json
 coded: true
+up: "[[Enemy Passives]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Passives]]
 
 An enemy passive handled in game code: the description is its rules text.
 

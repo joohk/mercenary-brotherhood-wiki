@@ -17,7 +17,10 @@ level_min: 1
 terrain:
   - castle
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for castle terrain, from company level 1, with 1 enemy group.
 

@@ -16,8 +16,11 @@ family: resilience
 group: base
 name_theme: iron
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for shields and body armor.
 

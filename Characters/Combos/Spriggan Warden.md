@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Warden
 race: Spriggan
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Spriggan recruits with the Warden background can roll the exclusive trait Thornveil.
 

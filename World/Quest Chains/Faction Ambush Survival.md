@@ -10,7 +10,10 @@ source: quests/quest_chains.json
 company_level_min: 3
 stages: 3
 trigger_chance: 0.04
+up: "[[Quest Chains]]"
 ---
+
+[[Home]] › [[World]] › [[Quest Chains]]
 
 A 3-stage quest chain from company level 3, with a 4% chance to trigger.
 

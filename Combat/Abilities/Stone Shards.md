@@ -15,7 +15,10 @@ range: 5
 requires_los: true
 source_type: Background
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP magic ability targeting one enemy up to 5 hexes away.
 

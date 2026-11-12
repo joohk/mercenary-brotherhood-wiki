@@ -21,7 +21,10 @@ terrain:
   - plains
   - hills
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for forest, plains and hills terrain, from company level 1, with 1 enemy group.
 

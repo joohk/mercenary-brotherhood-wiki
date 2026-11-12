@@ -4,7 +4,10 @@ tags:
   - type/index
 source: faith/deities.json
 count: 8
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 8 deities in the game data.
 

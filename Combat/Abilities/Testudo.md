@@ -16,7 +16,10 @@ range: 0
 requires_los: false
 source_type: Villain
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ability centred on yourself (radius 1).
 

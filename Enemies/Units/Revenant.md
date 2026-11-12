@@ -16,8 +16,11 @@ hp: 144
 stance: aggressive
 threat_cost: 6
 tier: 3
+up: "[[The Restless Dead]]"
 xp: 40
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[The Restless Dead]]
 
 A tier-3 enemy of [[The Restless Dead]] faction — 144 HP, 14 armor, worth 40 XP and 20 gold.
 

@@ -4,7 +4,10 @@ tags:
   - type/index
 source: villains/arch_villains.json
 count: 8
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 8 arch-villains in the game data.
 

@@ -15,7 +15,10 @@ max_level: 10
 skill_category: combat
 skill_group: Defense
 skill_traits: 8
+up: "[[Defense Skills]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]]
 
 A combat skill from the Defense group, with 10 levels and 8 skill traits.
 

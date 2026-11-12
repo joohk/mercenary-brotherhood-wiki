@@ -16,8 +16,11 @@ group: slayer
 name_theme: brutal
 rarity_min: rare
 spawn_weight: 0.35
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A rare-or-better magic property for weapons. The bonus applies to members of the [[Wolf Pack (Faction)|Wolf Pack]] faction only.
 

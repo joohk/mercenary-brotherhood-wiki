@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Performance
 trait_type: ability
+up: "[[Performance]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Performance]]
 
 An uncommon ability skill trait of [[Performance]] with 1 rank, granting [[Hymn of Shielding (Ability)|Hymn of Shielding]].
 

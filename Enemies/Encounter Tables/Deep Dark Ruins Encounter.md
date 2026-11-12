@@ -18,7 +18,10 @@ level_min: 6
 terrain:
   - dark_ruins
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for dark ruins terrain, from company level 6, with 3 enemy groups.
 

@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.02
 starting_skills:
   - Thrown Weapons
   - Poisoner
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.02) that starts with Thrown Weapons and Poisoner.
 

@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 22
 ranged_defense: 42
 recruitment_threshold: 15
+up: "[[Beastfolk]]"
 vision: 4
 willpower: 58
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Beastfolk]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Willpower and Max HP and weakest in Ranged Attack and Initiative compared with other races.
 

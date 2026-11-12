@@ -15,7 +15,10 @@ max_level: 10
 skill_category: combat
 skill_group: Ranged
 skill_traits: 11
+up: "[[Ranged Skills]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]]
 
 A combat skill from the Ranged group, with 10 levels and 11 skill traits.
 

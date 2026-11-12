@@ -15,7 +15,10 @@ range: 3
 requires_los: true
 source_type: Background
 target_type: ally
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP support ability targeting an ally up to 3 hexes away.
 

@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Siege Breaker
 race: Half-Ogre
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Half-Ogre recruits with the Siege Breaker background can roll the exclusive trait Siege Born.
 

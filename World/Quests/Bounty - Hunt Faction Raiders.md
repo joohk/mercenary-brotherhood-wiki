@@ -20,9 +20,12 @@ gold_max: 220
 gold_min: 130
 quest_type: bounty
 reputation_change: 5
+up: "[[Quests]]"
 xp_company: 35
 xp_squad: 25
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A bounty for company level 1-5, given by a settlement. In game the title reads `Bounty: Hunt {faction_name} Raiders`, with the blanks filled in when it is posted.
 

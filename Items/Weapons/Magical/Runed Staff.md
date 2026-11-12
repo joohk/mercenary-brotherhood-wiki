@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 25
 tier: 3
+up: "[[Staves]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
 
 A tier-3 two-handed blunt staff dealing 9-16 damage, worth 500 gold.
 

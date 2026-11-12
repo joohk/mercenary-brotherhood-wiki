@@ -20,9 +20,12 @@ gold_min: 120
 quest_type: escort
 reputation_change: 4
 time_limit_days: 70
+up: "[[Quests]]"
 xp_company: 25
 xp_squad: 50
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (escort) for company level 1-3, given by a settlement. In game the title reads `Escort Merchant to {destination_name}`, with the blanks filled in when it is posted.
 

@@ -3,7 +3,10 @@ type: meta
 tags:
   - type/meta
 count: 1
+up: "[[Mechanics]]"
 ---
+
+[[Home]] › [[Mechanics]]
 
 Ids in the game data that point at nothing of the expected kind. They are shown as `code` on their pages instead of links.
 

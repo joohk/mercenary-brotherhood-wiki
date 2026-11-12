@@ -13,7 +13,10 @@ recruitment_cost_modifier: 0.91
 starting_skills:
   - Melee Mastery
   - Thrown Weapons
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.91) that starts with Melee Mastery and Thrown Weapons.
 

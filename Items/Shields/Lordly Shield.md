@@ -17,7 +17,10 @@ rarity: normal
 slot: offhand
 spawn_weight: 2
 tier: 6
+up: "[[Shields]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Armor]] › [[Shields]]
 
 A tier-6 shield, worth 2640 gold.
 

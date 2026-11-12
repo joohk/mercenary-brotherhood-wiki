@@ -3,7 +3,10 @@ type: vendetta_loot_page
 tags:
   - type/vendetta_loot_page
 source: vendetta/vendetta_loot.json
+up: "[[Vendetta]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Vendetta]]
 
 When you kill a [[Vendetta|vendetta]], it drops a trophy: a real item from the game's item lists, renamed after the rival and given bonus stats that grow with its power level.
 

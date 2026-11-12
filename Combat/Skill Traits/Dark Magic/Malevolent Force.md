@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Dark Magic
 trait_type: passive
+up: "[[Dark Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Dark Magic]]
 
 An uncommon passive skill trait of [[Dark Magic]] with 2 ranks.
 

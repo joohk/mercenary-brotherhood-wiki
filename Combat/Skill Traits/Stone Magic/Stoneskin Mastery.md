@@ -13,7 +13,10 @@ ranks: 1
 rarity: common
 skill: Stone Magic
 trait_type: ability
+up: "[[Stone Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Stone Magic]]
 
 A common ability skill trait of [[Stone Magic]] with 1 rank.
 

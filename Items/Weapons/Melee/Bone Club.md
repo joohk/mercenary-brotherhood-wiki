@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 0
 tier: 0
+up: "[[Maces & Clubs]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
 A tier-0 one-handed blunt club dealing 4-7 damage, worth 3 gold.
 

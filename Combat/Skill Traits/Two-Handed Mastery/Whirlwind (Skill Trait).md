@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Two-Handed Mastery
 trait_type: ability
+up: "[[Two-Handed Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Two-Handed Mastery]]
 
 A rare ability skill trait of [[Two-Handed Mastery]] with 3 ranks, granting [[Whirlwind (Ability)|Whirlwind]].
 

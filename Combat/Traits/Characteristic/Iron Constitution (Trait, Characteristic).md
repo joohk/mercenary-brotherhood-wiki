@@ -13,7 +13,10 @@ tags:
 source: traits/characteristic_traits.json
 exclusion_group: constitution
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare physical characteristic in the *constitution* group. Every unit rolls exactly one characteristic at creation.
 

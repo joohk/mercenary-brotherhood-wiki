@@ -19,9 +19,12 @@ quest_source: kings_hall
 quest_type: kill_enemies
 reputation_change: 12
 time_limit_days: 45
+up: "[[Quests]]"
 xp_company: 120
 xp_squad: 70
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A prestige contract (kill enemies) for company level 6+, given by the King.
 

@@ -14,7 +14,10 @@ fatigue_cost: 25
 requires_los: false
 source_type: Granted by game code
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP support ability used on yourself.
 

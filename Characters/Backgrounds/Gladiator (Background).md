@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.24
 starting_skills:
   - Dual Wield Mastery
   - Melee Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.24) that starts with Dual Wield Mastery and Melee Mastery.
 

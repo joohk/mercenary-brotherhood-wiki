@@ -17,8 +17,11 @@ race: Goblin
 stance: ranged
 threat_cost: 5
 tier: 3
+up: "[[Veteran Company]]"
 xp: 26
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Veteran Company]]
 
 A tier-3 Goblin enemy of the [[Veteran Company]] faction — 83 HP, 9 armor, worth 26 XP and 22 gold.
 

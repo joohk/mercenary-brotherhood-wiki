@@ -12,7 +12,10 @@ tags:
 source: traits/characteristic_traits.json
 exclusion_group: eyesight
 rarity: common
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A common physical characteristic in the *eyesight* group. Every unit rolls exactly one characteristic at creation.
 

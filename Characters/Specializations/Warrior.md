@@ -12,7 +12,10 @@ base_threshold_interval: 20
 metric: turns_in_melee_contact
 points_per_threshold: 1
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Turns in Melee* — every 20 → 1 point.
 

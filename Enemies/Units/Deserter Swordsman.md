@@ -16,8 +16,11 @@ hp: 60
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Deserters]]"
 xp: 16
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Deserters]]
 
 A tier-1 enemy of the [[Deserters]] faction — 60 HP, 2 armor, worth 16 XP and 12 gold.
 

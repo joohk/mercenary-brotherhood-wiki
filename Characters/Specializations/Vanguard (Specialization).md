@@ -13,7 +13,10 @@ base_threshold_interval: 3
 metric: charges_completed
 points_per_threshold: 3
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Charges Completed* — every 3 → 3 points.
 

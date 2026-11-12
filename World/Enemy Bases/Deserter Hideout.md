@@ -18,7 +18,10 @@ location: surface
 map_type: abandoned_fort
 rarity: common
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A common surface enemy base held by [[Deserters]].
 

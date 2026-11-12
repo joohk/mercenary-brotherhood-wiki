@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Two-Handed Mastery
 trait_type: ability
+up: "[[Two-Handed Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Two-Handed Mastery]]
 
 An uncommon ability skill trait of [[Two-Handed Mastery]] with 2 ranks, granting [[Cleave (Ability)|Cleave]].
 

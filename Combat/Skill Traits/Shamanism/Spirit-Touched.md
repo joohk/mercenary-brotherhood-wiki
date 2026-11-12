@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Shamanism
 trait_type: passive
+up: "[[Shamanism]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shamanism]]
 
 A common passive skill trait of [[Shamanism]] with 2 ranks.
 

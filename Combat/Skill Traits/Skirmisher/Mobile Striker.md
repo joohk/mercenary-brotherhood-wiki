@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Skirmisher
 trait_type: passive
+up: "[[Skirmisher (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Skirmisher (Skill)]]
 
 A common passive skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 ranks.
 

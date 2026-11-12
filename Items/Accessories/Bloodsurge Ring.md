@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 10
 tier: 4
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-4 magic ring that grants [[Battle Surge]], worth 280 gold.
 

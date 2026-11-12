@@ -17,7 +17,10 @@ services:
   - tavern
   - magic_shop
 settlement_type: fort
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A fort with a mostly [[Dwarf]] population.
 

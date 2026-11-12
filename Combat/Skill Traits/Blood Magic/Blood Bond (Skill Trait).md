@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Blood Magic
 trait_type: ability
+up: "[[Blood Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Blood Magic]]
 
 A rare ability skill trait of [[Blood Magic]] with 2 ranks, granting [[Blood Bond (Ability)|Blood Bond]].
 

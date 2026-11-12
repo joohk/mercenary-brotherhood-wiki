@@ -18,8 +18,11 @@ fatigue_cost: 25
 requires_los: false
 source_type: Awakening
 target_type: self
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP magic ability centred on yourself (radius 4), usable once per battle.
 

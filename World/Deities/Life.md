@@ -11,7 +11,10 @@ source: faith/deities.json
 blessing_stat: willpower
 blessing_value: 2
 lean: benevolent
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of Life in the Faith system, with a benevolent lean.
 

@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 10
 tier: 4
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-4 magic amulet that grants [[Aegis Barrier]], worth 280 gold.
 

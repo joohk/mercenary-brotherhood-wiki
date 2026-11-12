@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Hammer Fighting
 trait_type: ability
+up: "[[Hammer Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Hammer Fighting]]
 
 An uncommon ability skill trait of [[Hammer Fighting]] with 2 ranks, granting [[Armor Crush (Ability)|Armor Crush]].
 

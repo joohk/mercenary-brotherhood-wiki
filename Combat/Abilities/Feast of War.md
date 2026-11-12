@@ -16,8 +16,11 @@ fatigue_cost: 35
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Shamanism]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shamanism]]
 
 A 2-AP magic ability centred on yourself (radius 2), usable once per battle.
 

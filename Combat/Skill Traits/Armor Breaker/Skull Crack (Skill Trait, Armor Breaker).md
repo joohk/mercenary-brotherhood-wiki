@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Armor Breaker
 trait_type: ability
+up: "[[Armor Breaker]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Armor Breaker]]
 
 An uncommon ability skill trait of [[Armor Breaker]] with 2 ranks, granting [[Skull Crack (Ability)|Skull Crack]].
 

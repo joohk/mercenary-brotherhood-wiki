@@ -10,7 +10,10 @@ tags:
 source: ascendancy/ascendant_paths.json
 domain: Magic
 eligibility_bias: magic
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of Magic. Candidates are favoured by *magic*.
 

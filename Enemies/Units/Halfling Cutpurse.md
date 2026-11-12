@@ -17,8 +17,11 @@ race: Halfling
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Bandits]]"
 xp: 15
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Bandits]]
 
 A tier-1 Halfling enemy of the [[Bandits]] faction — 44 HP, 1 armor, worth 15 XP and 12 gold.
 

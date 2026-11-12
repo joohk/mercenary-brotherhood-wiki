@@ -4,7 +4,10 @@ tags:
   - type/index
 source: traits/squad_archetypes.json
 count: 15
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 15 squad archetype families in the game data.
 

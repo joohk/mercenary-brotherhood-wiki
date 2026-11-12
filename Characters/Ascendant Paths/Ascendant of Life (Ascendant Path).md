@@ -11,7 +11,10 @@ source: ascendancy/ascendant_paths.json
 domain: Life
 eligibility_bias: healing
 special: life_font
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of Life. Candidates are favoured by *healing*.
 

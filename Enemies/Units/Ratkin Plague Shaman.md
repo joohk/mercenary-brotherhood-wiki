@@ -16,8 +16,11 @@ hp: 28
 stance: ranged
 threat_cost: 2
 tier: 1
+up: "[[Ratkin Swarm]]"
 xp: 14
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Ratkin Swarm]]
 
 A tier-1 enemy of the [[Ratkin Swarm]] faction — 28 HP, 0 armor, worth 14 XP and 8 gold.
 

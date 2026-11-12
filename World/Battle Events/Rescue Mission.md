@@ -10,8 +10,11 @@ tags:
 source: encounters/battle_events.json
 company_level_min: 1
 retired: true
+up: "[[Battle Events]]"
 weight: 0
 ---
+
+[[Home]] › [[World]] › [[Battle Events]]
 
 A battle event from company level 1 that is never rolled randomly (weight 0).
 

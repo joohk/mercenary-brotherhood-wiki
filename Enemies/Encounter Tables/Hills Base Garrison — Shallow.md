@@ -19,7 +19,10 @@ level_min: 3
 terrain:
   - hills
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for hills terrain, at company levels 3-4, with 2 enemy groups.
 

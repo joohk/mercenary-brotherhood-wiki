@@ -16,7 +16,10 @@ range: 1
 requires_los: true
 source_type: Racial
 target_type: cone
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting a cone up to 1 hex away.
 

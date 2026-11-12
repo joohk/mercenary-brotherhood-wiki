@@ -10,7 +10,10 @@ tags:
 source: variants/variant_pools.json
 abilities: 10
 assignment: auto
+up: "[[Enemy Variants]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Variants]]
 
 A variant archetype the default for every melee enemy that matches nothing else.
 

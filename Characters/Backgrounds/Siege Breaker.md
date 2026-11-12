@@ -14,7 +14,10 @@ starting_skills:
   - Hammer Fighting
   - Heavy Armor Proficiency
   - Armor Breaker
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.71) that starts with Hammer Fighting, Heavy Armor Proficiency and Armor Breaker.
 

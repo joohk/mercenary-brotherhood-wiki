@@ -16,8 +16,11 @@ group: dtype
 name_theme: arcane
 rarity_min: legendary
 spawn_weight: 0.12
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for weapons.
 

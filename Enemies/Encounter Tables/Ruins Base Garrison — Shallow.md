@@ -19,7 +19,10 @@ level_min: 3
 terrain:
   - ruins
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for ruins terrain, at company levels 3-4, with 2 enemy groups.
 

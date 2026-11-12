@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Counter Fighter
 trait_type: passive
+up: "[[Counter Fighter]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Counter Fighter]]
 
 An uncommon passive skill trait of [[Counter Fighter]] with 2 ranks.
 

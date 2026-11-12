@@ -15,7 +15,10 @@ max_level: 10
 skill_category: armor
 skill_group: Armor
 skill_traits: 8
+up: "[[Armor Skills]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Armor Skills]]
 
 An armor skill from the Armor group, with 10 levels and 8 skill traits.
 

@@ -15,7 +15,10 @@ family: textile
 price: 280
 rarity: rare
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A rare trade good (textile), base price 280 gold.
 

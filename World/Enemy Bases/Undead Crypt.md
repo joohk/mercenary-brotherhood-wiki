@@ -18,7 +18,10 @@ location: underground
 map_type: dark_sanctum
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon underground enemy base held by [[The Restless Dead]].
 

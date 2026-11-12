@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 14
 tier: 4
+up: "[[Axes]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
 A tier-4 one-handed slashing axe dealing 22-36 damage, worth 1380 gold.
 

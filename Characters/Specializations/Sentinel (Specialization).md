@@ -13,7 +13,10 @@ base_threshold_interval: 8
 metric: battles_survived
 points_per_threshold: 1
 spec_category: endurance
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 An Endurance specialization. Tracks *Battles Survived* — every 8 → 1 point.
 

@@ -21,7 +21,10 @@ rarity: relic
 slot: weapon
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic one-handed sword dropped by the arch-villain [[Warlord Ash]]. It awakens in three stages as its wielder racks up kills.
 

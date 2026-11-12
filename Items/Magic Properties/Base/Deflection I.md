@@ -17,8 +17,11 @@ family: deflection
 group: base
 name_theme: ward
 rarity_min: uncommon
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An uncommon-or-better magic property for shields, body armor and helmets.
 

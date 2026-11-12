@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Giant Slayer
 trait_type: passive
+up: "[[Giant Slayer]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Giant Slayer]]
 
 A rare passive skill trait of [[Giant Slayer]] with 2 ranks.
 

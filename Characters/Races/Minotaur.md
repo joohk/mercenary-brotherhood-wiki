@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 15
 ranged_defense: 28
 recruitment_threshold: 15
+up: "[[Greenskins & Giant-blood]]"
 vision: 3
 willpower: 65
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Greenskins & Giant-blood]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Willpower and Melee Attack and weakest in Ranged Attack and Ranged Defense compared with other races.
 

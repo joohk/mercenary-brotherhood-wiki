@@ -17,7 +17,10 @@ location: underground
 rarity: common
 repeatable: true
 rooms: 1
+up: "[[Dungeons]]"
 ---
+
+[[Home]] › [[World]] › [[Dungeons]]
 
 A common underground dungeon held by [[Greenskin Warband]]; repeatable.
 

@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Trapper
 race: Arachne
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Arachne recruits with the Trapper background can roll the exclusive trait Web Snare.
 

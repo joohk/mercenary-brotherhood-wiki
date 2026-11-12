@@ -20,7 +20,10 @@ location: surface
 map_type: cave_lair
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon surface enemy base held by [[Beasts]], appearing from company level 3.
 

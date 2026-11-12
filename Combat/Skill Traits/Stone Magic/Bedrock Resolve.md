@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Stone Magic
 trait_type: passive
+up: "[[Stone Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Stone Magic]]
 
 An uncommon passive skill trait of [[Stone Magic]] with 2 ranks.
 

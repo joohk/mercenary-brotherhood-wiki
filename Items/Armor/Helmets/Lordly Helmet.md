@@ -18,7 +18,10 @@ rarity: normal
 slot: helmet
 spawn_weight: 2
 tier: 6
+up: "[[Helmets]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Armor]] › [[Helmets]]
 
 A tier-6 helmet giving 12 Armor, worth 2400 gold.
 

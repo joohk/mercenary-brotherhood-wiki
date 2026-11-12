@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 20
 tier: 4
+up: "[[Daggers]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Daggers]]
 
 A tier-4 one-handed piercing dagger dealing 13-22 damage, worth 480 gold.
 

@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Battle Hardened
 trait_type: passive
+up: "[[Battle Hardened (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Battle Hardened (Skill)]]
 
 A common passive skill trait of [[Battle Hardened (Skill)|Battle Hardened]] with 2 ranks.
 

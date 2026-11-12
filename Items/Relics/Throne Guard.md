@@ -18,7 +18,10 @@ rarity: relic
 slot: offhand
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic shield dropped by the arch-villain [[Warlord Ash]]. It awakens in three stages as its wielder racks up kills.
 

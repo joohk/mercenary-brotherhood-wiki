@@ -12,7 +12,10 @@ base_threshold_interval: 3
 metric: flanking_kills
 points_per_threshold: 3
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Flanking Kills* — every 3 → 3 points.
 

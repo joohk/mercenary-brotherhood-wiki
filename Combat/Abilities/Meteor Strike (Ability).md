@@ -18,8 +18,11 @@ range: 6
 requires_los: false
 source_type: Awakening
 target_type: area
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 3-AP magic ability targeting an area up to 6 hexes away, usable once per battle.
 

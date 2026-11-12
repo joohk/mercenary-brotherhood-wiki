@@ -12,7 +12,10 @@ tags:
   - type/trait
 source: combos/combo_exclusive_traits.json
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare combo-exclusive trait — only Goblin Scout recruits can roll it.
 

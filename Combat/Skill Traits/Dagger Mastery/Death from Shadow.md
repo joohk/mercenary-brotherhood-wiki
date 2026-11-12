@@ -13,7 +13,10 @@ ranks: 3
 rarity: rare
 skill: Dagger Mastery
 trait_type: passive
+up: "[[Dagger Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Dagger Mastery]]
 
 A rare passive skill trait of [[Dagger Mastery]] with 3 ranks.
 

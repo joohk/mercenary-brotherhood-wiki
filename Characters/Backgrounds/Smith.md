@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.04
 starting_skills:
   - Hammer Fighting
   - Heavy Armor Proficiency
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.04) that starts with Hammer Fighting and Heavy Armor Proficiency.
 

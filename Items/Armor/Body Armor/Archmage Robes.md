@@ -18,7 +18,10 @@ rarity: normal
 slot: body_armor
 spawn_weight: 5
 tier: 5
+up: "[[Robes]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Armor]] › [[Robes]]
 
 A tier-5 robe giving 5 Armor, worth 2040 gold.
 

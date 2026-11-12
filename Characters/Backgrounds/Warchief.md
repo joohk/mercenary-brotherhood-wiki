@@ -14,7 +14,10 @@ starting_skills:
   - Melee Mastery
   - Battle Hardened
   - Tactician
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.28) that starts with Melee Mastery, Battle Hardened and Tactician.
 

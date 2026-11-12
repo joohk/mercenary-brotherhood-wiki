@@ -4,7 +4,10 @@ tags:
   - type/index
 source: specializations/specializations.json
 count: 60
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 60 specializations in the game data.
 

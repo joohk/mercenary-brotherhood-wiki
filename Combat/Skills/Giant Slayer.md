@@ -15,7 +15,10 @@ max_level: 10
 skill_category: combat
 skill_group: Melee
 skill_traits: 9
+up: "[[Melee Skills]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]]
 
 A combat skill from the Melee group, with 10 levels and 9 skill traits.
 

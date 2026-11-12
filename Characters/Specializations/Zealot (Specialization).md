@@ -13,7 +13,10 @@ base_threshold_interval: 1
 metric: allies_died_adjacent
 points_per_threshold: 5
 spec_category: resolve
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Resolve specialization. Tracks *Allies Lost Nearby* — every 1 → 5 points.
 

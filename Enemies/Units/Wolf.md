@@ -16,8 +16,11 @@ hp: 30
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Wolf Pack (Faction)]]"
 xp: 8
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Beasts]] › [[Wolf Pack (Faction)]]
 
 A tier-1 enemy of the [[Wolf Pack (Faction)|Wolf Pack]] faction — 30 HP, 0 armor, worth 8 XP and 2 gold.
 

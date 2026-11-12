@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.08
 starting_skills:
   - Dual Wield Mastery
   - Swordsmanship
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.08) that starts with Dual Wield Mastery and Swordsmanship.
 

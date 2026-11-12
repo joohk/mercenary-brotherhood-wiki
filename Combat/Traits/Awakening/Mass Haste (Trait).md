@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: caster
 awakening_tier: 4
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-4 awakening trait (ability) for the caster archetype that grants the active ability [[Mass Haste (Ability)|Mass Haste]]. At each awakening tier the player picks one trait from that tier's offer.
 

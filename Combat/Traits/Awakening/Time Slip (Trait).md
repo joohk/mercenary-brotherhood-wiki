@@ -12,7 +12,10 @@ tags:
 source: traits/awakening_traits.json
 awakening_tier: 8
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-8 awakening trait (ability) that grants the active ability [[Time Slip (Ability)|Time Slip]]. At each awakening tier the player picks one trait from that tier's offer.
 

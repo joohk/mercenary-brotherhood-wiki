@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Shadow Magic
 trait_type: ability
+up: "[[Shadow Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 An uncommon ability skill trait of [[Shadow Magic]] with 2 ranks, granting [[Shadow Veil (Ability)|Shadow Veil]].
 

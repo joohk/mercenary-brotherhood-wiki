@@ -13,7 +13,10 @@ source: traits/awakening_traits.json
 awakening_tier: 6
 rarity: awakening
 retired: true
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-6 awakening trait (stat boost). At each awakening tier the player picks one trait from that tier's offer.
 

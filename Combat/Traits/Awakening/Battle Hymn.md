@@ -13,7 +13,10 @@ source: traits/awakening_traits.json
 archetype: bard
 awakening_tier: 5
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-5 awakening trait (passive) for the bard archetype. At each awakening tier the player picks one trait from that tier's offer.
 

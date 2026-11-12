@@ -17,7 +17,10 @@ pool_scale: 0.55
 terrain:
   - plains
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for plains terrain, from company level 1, with 1 enemy group.
 

@@ -15,7 +15,10 @@ starting_skills:
   - Swordsmanship
   - Heavy Armor Proficiency
   - Melee Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×2.16) that starts with Swordsmanship, Heavy Armor Proficiency and Melee Mastery.
 

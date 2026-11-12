@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: melee
 awakening_tier: 4
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-4 awakening trait (passive) for the melee archetype. At each awakening tier the player picks one trait from that tier's offer.
 

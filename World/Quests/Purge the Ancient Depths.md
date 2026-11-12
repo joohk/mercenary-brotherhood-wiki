@@ -18,9 +18,12 @@ gold_min: 1040
 quest_source: kings_hall
 quest_type: clear_dungeon
 reputation_change: 12
+up: "[[Quests]]"
 xp_company: 130
 xp_squad: 80
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A prestige contract (clear dungeon) for company level 6+, given by the King.
 

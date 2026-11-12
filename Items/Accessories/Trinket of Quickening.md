@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 16
 tier: 2
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-2 magic trinket that grants [[Quickening]], worth 120 gold.
 

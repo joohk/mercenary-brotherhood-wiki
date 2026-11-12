@@ -20,9 +20,12 @@ gold_min: 280
 quest_source: exploration
 quest_type: explore
 reputation_change: 8
+up: "[[Quests]]"
 xp_company: 50
 xp_squad: 30
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (explore) for company level 2-6, given by a settlement. In game the title reads `Lost Expedition at {dungeon_name}`, with the blanks filled in when it is posted.
 

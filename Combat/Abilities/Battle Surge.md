@@ -14,8 +14,11 @@ fatigue_cost: 20
 requires_los: false
 source_type: Item
 target_type: self
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability used on yourself, usable once per battle.
 

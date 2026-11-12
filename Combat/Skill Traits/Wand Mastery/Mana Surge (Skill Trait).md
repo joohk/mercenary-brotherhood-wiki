@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Wand Mastery
 trait_type: ability
+up: "[[Wand Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Wand Mastery]]
 
 A rare ability skill trait of [[Wand Mastery]] with 2 ranks, granting [[Mana Surge (Ability)|Mana Surge]].
 

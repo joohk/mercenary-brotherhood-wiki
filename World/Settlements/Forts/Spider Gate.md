@@ -17,7 +17,10 @@ services:
   - blacksmith
   - magic_shop
 settlement_type: fort
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A fort with a mostly [[Dark Elf]] population.
 

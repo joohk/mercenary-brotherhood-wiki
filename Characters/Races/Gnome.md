@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 45
 ranged_defense: 42
 recruitment_threshold: 0
+up: "[[Small Folk]]"
 vision: 5
 willpower: 40
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Small Folk]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 0), weakest in Melee Attack and Max HP compared with other races.
 

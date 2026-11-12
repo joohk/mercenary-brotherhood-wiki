@@ -15,7 +15,10 @@ fatigue_cost: 20
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ranged ability targeting one enemy.
 

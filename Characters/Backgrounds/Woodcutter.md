@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.65
 starting_skills:
   - Axe Fighting
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.65) that starts with Axe Fighting.
 

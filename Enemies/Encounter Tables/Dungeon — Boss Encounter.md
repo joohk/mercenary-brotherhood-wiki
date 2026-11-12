@@ -35,7 +35,10 @@ pool_scale: 2
 terrain:
   - dungeon
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for dungeon terrain, from company level 1, with 22 enemy groups.
 

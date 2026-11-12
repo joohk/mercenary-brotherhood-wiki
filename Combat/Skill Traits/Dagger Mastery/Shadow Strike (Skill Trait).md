@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Dagger Mastery
 trait_type: ability
+up: "[[Dagger Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Dagger Mastery]]
 
 A rare ability skill trait of [[Dagger Mastery]] with 3 ranks, granting [[Shadow Strike (Ability)|Shadow Strike]].
 

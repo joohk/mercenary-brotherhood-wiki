@@ -6,7 +6,10 @@ source:
   - world/dungeons.json
   - world/underground_dungeons.json
 count: 29
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 29 dungeons in the game data.
 

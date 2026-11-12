@@ -17,7 +17,10 @@ services:
   - quest_board
   - shadow_broker
 settlement_type: fort
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground fort in the deep depth zone (company level 7+).
 

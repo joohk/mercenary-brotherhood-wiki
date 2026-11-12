@@ -17,7 +17,10 @@ range: 3
 requires_los: false
 source_type: Skill
 target_type: ally
+up: "[[Nature Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Nature Magic]]
 
 A 2-AP magic ability targeting an ally up to 3 hexes away.
 

@@ -17,7 +17,10 @@ range: 0
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Blood Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Blood Magic]]
 
 A 1-AP magic ability centred on yourself (radius 2).
 

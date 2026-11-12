@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 2
+up: "[[Staves]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
 
 A tier-2 one-handed blunt staff dealing 5-9 damage at range 5, worth 20 gold.
 

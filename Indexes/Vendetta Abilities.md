@@ -4,7 +4,10 @@ tags:
   - type/index
 source: vendetta/vendetta_abilities.json
 count: 5
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 5 vendetta abilities in the game data.
 

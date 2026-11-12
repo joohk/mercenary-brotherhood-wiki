@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Flanking
 trait_type: ability
+up: "[[Flanking]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Flanking]]
 
 A rare ability skill trait of [[Flanking]] with 2 ranks, granting [[Two Fronts (Ability)|Two Fronts]].
 

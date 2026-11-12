@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Charging
 trait_type: ability
+up: "[[Charging]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Charging]]
 
 A common ability skill trait of [[Charging]] with 2 ranks, granting [[Rout (Ability)|Rout]].
 

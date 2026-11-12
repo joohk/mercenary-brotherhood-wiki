@@ -14,7 +14,10 @@ ranks: 1
 rarity: rare
 skill: Steadfast
 trait_type: passive
+up: "[[Steadfast]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Steadfast]]
 
 A rare passive skill trait of [[Steadfast]] with 1 rank.
 

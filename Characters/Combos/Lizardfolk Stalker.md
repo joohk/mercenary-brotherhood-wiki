@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Stalker
 race: Lizardfolk
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Lizardfolk recruits with the Stalker background can roll the exclusive trait Cold-Blooded Patience.
 

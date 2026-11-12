@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Last Stand
 trait_type: ability
+up: "[[Last Stand (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Last Stand (Skill)]]
 
 An uncommon ability skill trait of [[Last Stand (Skill)|Last Stand]] with 1 rank, granting [[Defiance (Ability)|Defiance]].
 

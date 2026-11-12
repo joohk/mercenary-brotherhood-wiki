@@ -15,8 +15,11 @@ family: resolve_aura
 group: base
 name_theme: willpower
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for accessories.
 

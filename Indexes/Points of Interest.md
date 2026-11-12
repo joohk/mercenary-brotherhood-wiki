@@ -4,7 +4,10 @@ tags:
   - type/index
 source: pois/poi_templates.json
 count: 13
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 13 points of interest in the game data.
 

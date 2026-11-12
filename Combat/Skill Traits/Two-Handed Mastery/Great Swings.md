@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Two-Handed Mastery
 trait_type: passive
+up: "[[Two-Handed Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Two-Handed Mastery]]
 
 A common passive skill trait of [[Two-Handed Mastery]] with 2 ranks.
 

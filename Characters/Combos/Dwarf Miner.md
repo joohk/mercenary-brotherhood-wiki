@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Miner
 race: Dwarf
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Dwarf recruits with the Miner background can roll the exclusive trait Undermine.
 

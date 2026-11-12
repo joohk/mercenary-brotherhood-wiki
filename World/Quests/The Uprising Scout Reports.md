@@ -21,9 +21,12 @@ gold_min: 140
 quest_source: chain
 quest_type: kill_enemies
 reputation_change: 4
+up: "[[Quests]]"
 xp_company: 25
 xp_squad: 15
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A chain-stage quest (kill enemies) for company level 4+, given by a settlement.
 

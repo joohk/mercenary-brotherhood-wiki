@@ -20,9 +20,12 @@ gold_max: 560
 gold_min: 350
 quest_type: bounty
 reputation_change: 10
+up: "[[Quests]]"
 xp_company: 60
 xp_squad: 40
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A bounty for company level 3-7, given by a settlement. In game the title reads `Bounty: Purge {faction_name} Near {settlement_name}`, with the blanks filled in when it is posted.
 

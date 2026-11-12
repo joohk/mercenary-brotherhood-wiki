@@ -17,7 +17,10 @@ level_min: 7
 terrain:
   - stalagmite_field
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for stalagmite field terrain, from company level 7, with 2 enemy groups.
 

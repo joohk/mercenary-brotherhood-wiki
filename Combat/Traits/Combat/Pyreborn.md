@@ -14,7 +14,10 @@ attack_affinity:
   - melee
   - magic
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare combat trait (conditional).
 

@@ -16,7 +16,10 @@ fatigue_cost: 10
 requires_los: false
 source_type: Awakening
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP magic ability used on yourself.
 

@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Nightblade
 race: Dark Elf
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Dark Elf recruits with the Nightblade background can roll the exclusive trait Abyssal Whisper.
 

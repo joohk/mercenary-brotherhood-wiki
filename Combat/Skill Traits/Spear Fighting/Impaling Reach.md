@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Spear Fighting
 trait_type: passive
+up: "[[Spear Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Spear Fighting]]
 
 An uncommon passive skill trait of [[Spear Fighting]] with 2 ranks.
 

@@ -11,7 +11,10 @@ source: pois/poi_templates.json
 count: 8
 poi_kind: persistent
 spacing_tier: major
+up: "[[Points of Interest]]"
 ---
+
+[[Home]] › [[World]] › [[Points of Interest]]
 
 A persistent point of interest (8 placed in each world).
 

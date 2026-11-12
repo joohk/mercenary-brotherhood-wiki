@@ -12,7 +12,10 @@ tags:
 source: traits/awakening_traits.json
 awakening_tier: 1
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-1 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 

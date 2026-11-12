@@ -14,7 +14,10 @@ starting_skills:
   - Shield Wall
   - Heavy Armor Proficiency
   - Spear Fighting
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.92) that starts with Shield Wall, Heavy Armor Proficiency and Spear Fighting.
 

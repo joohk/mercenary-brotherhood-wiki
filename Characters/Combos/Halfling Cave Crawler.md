@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Cave Crawler
 race: Halfling
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Halfling recruits with the Cave Crawler background can roll the exclusive trait Tunnel Rat.
 

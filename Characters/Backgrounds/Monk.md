@@ -15,7 +15,10 @@ starting_skills:
   - Holy Magic
   - Light Armor Proficiency
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.91) that starts with Holy Magic, Light Armor Proficiency and Staff Mastery.
 

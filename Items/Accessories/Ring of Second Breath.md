@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 18
 tier: 2
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-2 magic ring that grants [[Second Breath (Ability)|Second Breath]], worth 120 gold.
 

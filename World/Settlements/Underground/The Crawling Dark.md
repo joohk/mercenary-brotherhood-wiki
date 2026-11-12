@@ -16,7 +16,10 @@ services:
   - tavern
   - shadow_broker
 settlement_type: village
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground village in the deep depth zone (company level 7+).
 

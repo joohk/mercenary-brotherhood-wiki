@@ -15,7 +15,10 @@ range: 1
 requires_los: false
 source_type: Enemy
 target_type: ally
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP support ability targeting an adjacent ally.
 

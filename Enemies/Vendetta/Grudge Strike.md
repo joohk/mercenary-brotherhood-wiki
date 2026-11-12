@@ -12,8 +12,11 @@ ap_cost: 1
 fatigue_cost: 5
 power_threshold: 3
 target: enemy
+up: "[[Vendetta Abilities]]"
 uses_per_battle: 2
 ---
+
+[[Home]] › [[Bestiary]] › [[Vendetta Abilities]]
 
 A [[Vendetta|vendetta]] ability that a named rival unlocks at power level 3.
 

@@ -15,7 +15,10 @@ recruitment_cost_modifier: 1.07
 starting_skills:
   - Holy Magic
   - Battle Hardened
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.07) that starts with Holy Magic and Battle Hardened.
 

@@ -17,7 +17,10 @@ level_min: 2
 terrain:
   - fungal_bog
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for fungal bog terrain, from company level 2, with 2 enemy groups.
 

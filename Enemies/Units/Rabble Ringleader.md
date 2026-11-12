@@ -16,9 +16,12 @@ hp: 48
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Desperate Rabble]]"
 variant_archetype: warlord
 xp: 12
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Desperate Rabble]]
 
 A tier-1 enemy of the [[Desperate Rabble]] faction — 48 HP, 2 armor, worth 12 XP and 8 gold.
 

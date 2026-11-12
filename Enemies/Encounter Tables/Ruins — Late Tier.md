@@ -23,7 +23,10 @@ pool_scale: 1.3
 terrain:
   - ruins
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for ruins terrain, from company level 8, with 7 enemy groups.
 

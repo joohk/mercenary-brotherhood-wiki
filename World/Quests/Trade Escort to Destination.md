@@ -20,9 +20,12 @@ quest_source: trade
 quest_type: escort
 reputation_change: 4
 time_limit_days: 60
+up: "[[Quests]]"
 xp_company: 25
 xp_squad: 15
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A trade quest (escort) for company level 1+, given by a settlement. In game the title reads `Escort Merchant to {destination_name}`, with the blanks filled in when it is posted.
 

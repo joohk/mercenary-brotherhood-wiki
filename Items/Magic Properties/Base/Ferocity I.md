@@ -15,8 +15,11 @@ family: ferocity
 group: base
 name_theme: brutal
 rarity_min: rare
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A rare-or-better magic property for weapons.
 

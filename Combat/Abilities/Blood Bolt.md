@@ -16,7 +16,10 @@ range: 4
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Blood Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Blood Magic]]
 
 A 1-AP magic ability targeting one enemy up to 4 hexes away.
 

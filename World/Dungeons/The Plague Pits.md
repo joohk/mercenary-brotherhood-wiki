@@ -17,7 +17,10 @@ location: surface
 rarity: rare
 repeatable: false
 rooms: 3
+up: "[[Dungeons]]"
 ---
+
+[[Home]] › [[World]] › [[Dungeons]]
 
 A rare surface dungeon held by [[The Restless Dead]]; can be cleared once.
 

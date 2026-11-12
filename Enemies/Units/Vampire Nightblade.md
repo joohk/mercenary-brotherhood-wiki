@@ -16,8 +16,11 @@ hp: 108
 stance: aggressive
 threat_cost: 7
 tier: 3
+up: "[[Vampires]]"
 xp: 44
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[Vampires]]
 
 A tier-3 enemy of the [[Vampires]] faction — 108 HP, 8 armor, worth 44 XP and 32 gold.
 

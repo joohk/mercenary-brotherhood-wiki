@@ -17,7 +17,10 @@ fatigue_cost: 30
 requires_los: false
 source_type: Awakening
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP melee ability centred on yourself (radius 2).
 

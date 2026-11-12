@@ -17,7 +17,10 @@ starting_skills:
   - Swordsmanship
   - Heavy Armor Proficiency
 temple_only: true
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×2) that starts with Holy Magic, Swordsmanship and Heavy Armor Proficiency.
 

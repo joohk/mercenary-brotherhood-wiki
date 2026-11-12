@@ -13,7 +13,10 @@ source: traits/characteristic_traits.json
 exclusion_group: size
 negative: true
 rarity: common
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A negative common physical characteristic in the *size* group. Every unit rolls exactly one characteristic at creation.
 

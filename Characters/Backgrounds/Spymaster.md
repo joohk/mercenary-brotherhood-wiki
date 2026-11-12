@@ -14,7 +14,10 @@ starting_skills:
   - Crossbow Mastery
   - Light Armor Proficiency
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.74) that starts with Crossbow Mastery, Light Armor Proficiency and Dagger Mastery.
 

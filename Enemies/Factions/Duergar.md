@@ -14,7 +14,10 @@ level_min: 3
 tier_max: 5
 tier_min: 2
 units: 11
+up: "[[Underdark]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]]
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Disciplined|Disciplined]] (holds formation, coordinated): 11 unit types, tiers 2-5.
 

@@ -13,7 +13,10 @@ ranks: 1
 rarity: rare
 skill: Arcane Mastery
 trait_type: passive
+up: "[[Arcane Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Arcane Mastery]]
 
 A rare passive skill trait of [[Arcane Mastery]] with 1 rank.
 

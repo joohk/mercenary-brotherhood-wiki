@@ -11,7 +11,10 @@ tags:
 source: traits/squad_archetypes.json
 family: the_anvil
 tier: 1
+up: "[[Squad Archetypes]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Squad Archetypes]]
 
 Tier 1 of 5 in the squad archetype family [[The Anvil]].
 

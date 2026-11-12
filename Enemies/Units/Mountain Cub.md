@@ -16,8 +16,11 @@ hp: 121
 stance: ranged
 threat_cost: 2
 tier: 2
+up: "[[The Jotunblight]]"
 xp: 16
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Giants]] › [[The Jotunblight]]
 
 A tier-2 enemy of [[The Jotunblight]] faction — 121 HP, 9 armor, worth 16 XP and 12 gold.
 

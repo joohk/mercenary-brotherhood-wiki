@@ -14,7 +14,10 @@ metric: dagger_kills
 points_per_threshold: 2
 requires_weapon_tag: dagger
 spec_category: weapon_mastery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Weapon Mastery specialization. Tracks *Dagger Kills* — every 3 → 2 points. Only while wielding a **dagger**.
 

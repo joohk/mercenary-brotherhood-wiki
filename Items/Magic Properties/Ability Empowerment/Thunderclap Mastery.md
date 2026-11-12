@@ -18,8 +18,11 @@ group: ability_empower
 name_theme: lightning
 rarity_min: rare
 spawn_weight: 0.2
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A rare-or-better magic property for weapons, helmets and accessories.
 

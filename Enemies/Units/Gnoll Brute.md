@@ -18,8 +18,11 @@ size: large
 stance: aggressive
 threat_cost: 2
 tier: 1
+up: "[[Feral Gnolls]]"
 xp: 14
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Feral Gnolls]]
 
 A tier-1 large Gnoll enemy of the [[Feral Gnolls]] faction — 70 HP, 2 armor, worth 14 XP and 8 gold.
 

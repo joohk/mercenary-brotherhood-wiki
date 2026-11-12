@@ -17,8 +17,11 @@ size: huge
 stance: ranged
 threat_cost: 13
 tier: 5
+up: "[[The Jotunblight]]"
 xp: 70
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Giants]] › [[The Jotunblight]]
 
 A tier-5 huge enemy of [[The Jotunblight]] faction — 211 HP, 11 armor, worth 70 XP and 56 gold.
 

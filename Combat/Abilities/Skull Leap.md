@@ -17,7 +17,10 @@ range: 10
 requires_los: true
 source_type: Villain
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting one enemy up to 10 hexes away.
 

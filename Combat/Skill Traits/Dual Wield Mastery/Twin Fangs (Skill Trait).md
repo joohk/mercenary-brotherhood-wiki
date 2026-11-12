@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Dual Wield Mastery
 trait_type: ability
+up: "[[Dual Wield Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Dual Wield Mastery]]
 
 An uncommon ability skill trait of [[Dual Wield Mastery]] with 1 rank, granting [[Twin Fangs (Ability)|Twin Fangs]].
 

@@ -15,7 +15,10 @@ fatigue_cost: 0
 requires_los: false
 source_type: Awakening
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability used on yourself.
 

@@ -17,7 +17,10 @@ range: 4
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Dark Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Dark Magic]]
 
 A 1-AP ranged ability targeting one enemy up to 4 hexes away.
 

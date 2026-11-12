@@ -14,7 +14,10 @@ starting_skills:
   - Heavy Armor Proficiency
   - Shield Wall
   - Last Stand
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.35) that starts with Heavy Armor Proficiency, Shield Wall and Last Stand.
 

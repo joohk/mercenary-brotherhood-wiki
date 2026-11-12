@@ -16,9 +16,12 @@ hp: 172
 stance: aggressive
 threat_cost: 11
 tier: 4
+up: "[[The Dread Host]]"
 variant_archetype: warlord
 xp: 62
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[The Dread Host]]
 
 A tier-4 enemy of [[The Dread Host]] faction — 172 HP, 18 armor, worth 62 XP and 56 gold.
 

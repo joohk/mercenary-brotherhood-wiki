@@ -15,7 +15,10 @@ starting_skills:
   - Dual Wield Mastery
   - Light Armor Proficiency
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.78) that starts with Dual Wield Mastery, Light Armor Proficiency and Dagger Mastery.
 

@@ -16,8 +16,11 @@ hp: 94
 stance: ranged
 threat_cost: 5
 tier: 3
+up: "[[Kesharan Dominion]]"
 xp: 32
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[Kesharan Dominion]]
 
 A tier-3 enemy of the [[Kesharan Dominion]] faction — 94 HP, 9 armor, worth 32 XP and 28 gold.
 

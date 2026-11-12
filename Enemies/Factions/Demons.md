@@ -14,7 +14,10 @@ level_min: 3
 tier_max: 4
 tier_min: 2
 units: 6
+up: "[[Undead & Unholy]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]]
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 6 unit types, tiers 2-4.
 

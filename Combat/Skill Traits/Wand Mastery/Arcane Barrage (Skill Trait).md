@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Wand Mastery
 trait_type: ability
+up: "[[Wand Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Wand Mastery]]
 
 An uncommon ability skill trait of [[Wand Mastery]] with 2 ranks, granting [[Arcane Barrage (Ability)|Arcane Barrage]].
 

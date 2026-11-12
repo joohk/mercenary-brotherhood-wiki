@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Feral Champion
 race: Half-Troll
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Half-Troll recruits with the Feral Champion background can roll the exclusive trait Feral Rage.
 

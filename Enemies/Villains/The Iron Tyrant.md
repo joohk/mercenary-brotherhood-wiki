@@ -20,8 +20,11 @@ stance: defensive
 threat_cost: 28
 tier: 5
 title: Imperator Ssethek
+up: "[[Arch-Villains]]"
 xp: 220
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of the [[Saurian Legions]] — *Imperator Ssethek*. Awakens from company level 7; 280 HP, 16 armor, worth 220 XP and 180 gold.
 

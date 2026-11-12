@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 8
 tier: 2
+up: "[[Firearms]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Firearms]]
 
 A tier-2 one-handed piercing hand cannon dealing 20-31 damage at range 2, worth 400 gold.
 

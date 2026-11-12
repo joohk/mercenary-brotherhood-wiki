@@ -14,7 +14,10 @@ ranks: 1
 rarity: rare
 skill: Nature Magic
 trait_type: ability
+up: "[[Nature Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Nature Magic]]
 
 A rare ability skill trait of [[Nature Magic]] with 1 rank, granting [[Sporecloud (Ability)|Sporecloud]].
 

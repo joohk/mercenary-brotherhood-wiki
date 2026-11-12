@@ -4,7 +4,10 @@ tags:
   - type/index
 source: backgrounds/
 count: 115
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 115 backgrounds in the game data.
 

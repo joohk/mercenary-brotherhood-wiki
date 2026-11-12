@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 45
 tier: 1
+up: "[[Axes]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
 A tier-1 two-handed slashing axe dealing 15-25 damage, worth 65 gold.
 

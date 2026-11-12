@@ -11,8 +11,11 @@ source: dungeons/room_prefabs.json
 height: 13
 roles:
   - boss
+up: "[[Dungeon Rooms]]"
 width: 11
 ---
+
+[[Home]] › [[World]] › [[Dungeon Rooms]]
 
 An 11×13 prefab dungeon room, used as a boss room.
 

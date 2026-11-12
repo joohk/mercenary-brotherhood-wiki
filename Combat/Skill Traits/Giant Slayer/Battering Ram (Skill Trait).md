@@ -14,7 +14,10 @@ ranks: 1
 rarity: rare
 skill: Giant Slayer
 trait_type: ability
+up: "[[Giant Slayer]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Giant Slayer]]
 
 A rare ability skill trait of [[Giant Slayer]] with 1 rank, granting [[Battering Ram (Ability)|Battering Ram]].
 

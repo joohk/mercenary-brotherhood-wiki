@@ -13,7 +13,10 @@ recruitment_cost_modifier: 0.93
 starting_skills:
   - Thrown Weapons
   - Battle Hardened
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.93) that starts with Thrown Weapons and Battle Hardened.
 

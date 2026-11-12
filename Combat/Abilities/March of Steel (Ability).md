@@ -17,7 +17,10 @@ fatigue_per_turn: 5
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP support ability centred on yourself (radius 2).
 

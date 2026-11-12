@@ -13,7 +13,10 @@ ranks: 1
 rarity: rare
 skill: Field Medicine
 trait_type: passive
+up: "[[Field Medicine]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Field Medicine]]
 
 A rare passive skill trait of [[Field Medicine]] with 1 rank.
 

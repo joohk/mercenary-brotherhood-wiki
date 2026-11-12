@@ -14,7 +14,10 @@ family: pelt
 price: 25
 rarity: normal
 tier: 1
+up: "[[Monster Parts]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Monster Parts]]
 
 A tier-1 pelt (monster part), harvested from slain creatures, worth 25 gold.
 

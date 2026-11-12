@@ -16,7 +16,10 @@ level_min: 3
 terrain:
   - forest
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for forest terrain, from company level 3, with 1 enemy group.
 

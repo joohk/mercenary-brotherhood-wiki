@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Nature Magic
 trait_type: passive
+up: "[[Nature Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Nature Magic]]
 
 A common passive skill trait of [[Nature Magic]] with 2 ranks.
 

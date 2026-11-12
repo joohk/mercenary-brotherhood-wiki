@@ -9,7 +9,10 @@ source:
   - enemies/encounter_tables_plains.json
   - enemies/underground_encounter_tables.json
 count: 55
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 55 encounter tables in the game data.
 

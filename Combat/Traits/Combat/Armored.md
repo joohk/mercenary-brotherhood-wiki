@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: traits/combat_traits.json
 rarity: common
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A common combat trait (stat boost).
 

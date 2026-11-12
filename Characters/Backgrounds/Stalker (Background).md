@@ -15,7 +15,10 @@ starting_skills:
   - Archery
   - Light Armor Proficiency
   - Skirmisher
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.66) that starts with Archery, Light Armor Proficiency and Skirmisher.
 

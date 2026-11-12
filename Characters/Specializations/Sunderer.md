@@ -12,7 +12,10 @@ base_threshold_interval: 3
 metric: shield_blocks_negated
 points_per_threshold: 3
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Shield Blocks Broken* — every 3 → 3 points.
 

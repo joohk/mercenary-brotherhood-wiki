@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Mace Fighting
 trait_type: passive
+up: "[[Mace Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Mace Fighting]]
 
 An uncommon passive skill trait of [[Mace Fighting]] with 2 ranks.
 

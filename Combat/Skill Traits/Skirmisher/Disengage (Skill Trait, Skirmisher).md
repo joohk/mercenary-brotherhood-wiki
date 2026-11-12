@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Skirmisher
 trait_type: passive
+up: "[[Skirmisher (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Skirmisher (Skill)]]
 
 An uncommon passive skill trait of [[Skirmisher (Skill)|Skirmisher]] with 1 rank.
 

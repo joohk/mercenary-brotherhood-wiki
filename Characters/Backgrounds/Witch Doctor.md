@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.62
 recruitment_weight: 30
 starting_skills:
   - Shamanism
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.62) that starts with Shamanism.
 

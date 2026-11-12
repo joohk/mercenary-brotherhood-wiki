@@ -15,8 +15,11 @@ family: battle_fury
 group: base
 name_theme: death
 rarity_min: ascendant
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An ascendant-only magic property for weapons.
 

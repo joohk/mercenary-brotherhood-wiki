@@ -23,7 +23,10 @@ pool_scale: 1.4
 terrain:
   - forest
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for forest terrain, from company level 7, with 8 enemy groups.
 

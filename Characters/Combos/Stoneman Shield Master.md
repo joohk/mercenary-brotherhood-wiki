@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Shield Master
 race: Stoneman
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Stoneman recruits with the Shield Master background can roll the exclusive trait Living Bulwark.
 

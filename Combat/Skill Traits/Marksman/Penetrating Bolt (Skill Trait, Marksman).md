@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Marksman
 trait_type: ability
+up: "[[Marksman (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Marksman (Skill)]]
 
 An uncommon ability skill trait of [[Marksman (Skill)|Marksman]] with 2 ranks, granting [[Penetrating Bolt (Ability)|Penetrating Bolt]].
 

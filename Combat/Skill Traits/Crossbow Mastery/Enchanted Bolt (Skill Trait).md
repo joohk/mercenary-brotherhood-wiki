@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Crossbow Mastery
 trait_type: ability
+up: "[[Crossbow Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Crossbow Mastery]]
 
 A rare ability skill trait of [[Crossbow Mastery]] with 3 ranks, granting [[Enchanted Bolt (Ability)|Enchanted Bolt]].
 

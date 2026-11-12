@@ -17,8 +17,11 @@ melee_only: true
 name_theme: arcane
 rarity_min: legendary
 spawn_weight: 0.12
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for weapons (melee weapons only).
 

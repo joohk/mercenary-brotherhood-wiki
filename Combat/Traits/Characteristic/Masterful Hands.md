@@ -12,7 +12,10 @@ tags:
 source: traits/characteristic_traits.json
 exclusion_group: coordination
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare physical characteristic in the *coordination* group. Every unit rolls exactly one characteristic at creation.
 

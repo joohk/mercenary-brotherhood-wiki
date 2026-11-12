@@ -17,8 +17,11 @@ size: large
 stance: aggressive
 threat_cost: 12
 tier: 4
+up: "[[Demons]]"
 xp: 70
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[Demons]]
 
 A tier-4 large enemy of the [[Demons]] faction — 234 HP, 19 armor, worth 70 XP and 60 gold.
 

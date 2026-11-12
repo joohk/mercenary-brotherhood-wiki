@@ -20,8 +20,11 @@ stance: aggressive
 threat_cost: 26
 tier: 5
 title: The Oathbreaker
+up: "[[Arch-Villains]]"
 xp: 200
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of the [[Rival Mercenaries]] — *The Oathbreaker*. Awakens from company level 6; 240 HP, 10 armor, worth 200 XP and 200 gold.
 

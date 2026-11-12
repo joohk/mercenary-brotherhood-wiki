@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Blood Magic
 trait_type: passive
+up: "[[Blood Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Blood Magic]]
 
 A rare passive skill trait of [[Blood Magic]] with 3 ranks.
 

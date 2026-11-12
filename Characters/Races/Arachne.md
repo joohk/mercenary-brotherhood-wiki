@@ -21,9 +21,12 @@ ranged_attack: 60
 ranged_defense: 50
 recruitable: false
 recruitment_threshold: 15
+up: "[[Beastfolk]]"
 vision: 5
 willpower: 38
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Beastfolk]]
 
 A non-recruitable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Ranged Attack and Ranged Defense and weakest in Melee Attack and Max HP compared with other races.
 

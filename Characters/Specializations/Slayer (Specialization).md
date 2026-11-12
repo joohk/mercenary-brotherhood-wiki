@@ -13,7 +13,10 @@ base_threshold_interval: 10
 metric: enemies_killed_total
 points_per_threshold: 1
 spec_category: slaughter
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Slaughter specialization. Tracks *Total Kills* — every 10 → 1 point.
 

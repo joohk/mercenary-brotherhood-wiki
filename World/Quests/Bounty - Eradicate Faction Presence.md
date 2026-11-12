@@ -19,9 +19,12 @@ gold_max: 980
 gold_min: 630
 quest_type: bounty
 reputation_change: 14
+up: "[[Quests]]"
 xp_company: 100
 xp_squad: 70
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A bounty for company level 6+, given by a settlement. In game the title reads `Bounty: Eradicate {faction_name} Presence`, with the blanks filled in when it is posted.
 

@@ -16,8 +16,11 @@ hp: 79
 stance: ranged
 threat_cost: 5
 tier: 3
+up: "[[The Inquisition]]"
 xp: 32
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[The Inquisition]]
 
 A tier-3 enemy of [[The Inquisition]] faction — 79 HP, 8 armor, worth 32 XP and 24 gold.
 

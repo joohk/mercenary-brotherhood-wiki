@@ -9,7 +9,10 @@ tags:
   - type/calling
 source: callings/callings.json
 condition: none
+up: "[[Callings]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Callings]]
 
 A calling (the campaign's victory goal): Open-ended — no victory condition.
 

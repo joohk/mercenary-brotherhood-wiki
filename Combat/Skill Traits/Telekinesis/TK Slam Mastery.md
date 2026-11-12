@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Telekinesis
 trait_type: ability
+up: "[[Telekinesis]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Telekinesis]]
 
 An uncommon ability skill trait of [[Telekinesis]] with 2 ranks, granting [[Telekinetic Slam]].
 

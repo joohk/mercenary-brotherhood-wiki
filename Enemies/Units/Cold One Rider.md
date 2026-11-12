@@ -18,8 +18,11 @@ size: large
 stance: aggressive
 threat_cost: 7
 tier: 3
+up: "[[Saurian Legions]]"
 xp: 42
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[Saurian Legions]]
 
 A tier-3 large Lizardfolk enemy of the [[Saurian Legions]] faction — 136 HP, 15 armor, worth 42 XP and 32 gold.
 

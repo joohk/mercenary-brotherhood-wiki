@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 2
+up: "[[Firearms]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Firearms]]
 
 A tier-2 two-handed piercing firearm dealing 9-15 damage at range 6, worth 30 gold.
 

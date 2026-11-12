@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 4
 tier: 6
+up: "[[Swords]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
 A tier-6 one-handed slashing sword dealing 27-42 damage, worth 4560 gold.
 

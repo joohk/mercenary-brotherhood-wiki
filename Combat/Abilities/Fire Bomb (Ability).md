@@ -17,8 +17,11 @@ range: 3
 requires_los: true
 source_type: Skill
 target_type: area
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ranged ability targeting an area up to 3 hexes away, usable once per battle.
 

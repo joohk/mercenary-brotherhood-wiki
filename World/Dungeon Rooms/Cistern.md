@@ -11,8 +11,11 @@ source: dungeons/room_prefabs.json
 height: 11
 roles:
   - filler
+up: "[[Dungeon Rooms]]"
 width: 11
 ---
+
+[[Home]] › [[World]] › [[Dungeon Rooms]]
 
 An 11×11 prefab dungeon room, used as a filler room.
 

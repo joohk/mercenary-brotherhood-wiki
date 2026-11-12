@@ -20,7 +20,10 @@ location: surface
 map_type: castle
 rarity: legendary
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A legendary surface enemy base held by [[Deserters]], appearing from company level 9.
 

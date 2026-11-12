@@ -4,7 +4,10 @@ tags:
   - type/index
 source: quests/quest_chains.json
 count: 5
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 5 quest chains in the game data.
 

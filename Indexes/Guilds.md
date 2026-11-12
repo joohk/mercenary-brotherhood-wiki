@@ -4,7 +4,10 @@ tags:
   - type/index
 source: guilds/guilds.json
 count: 10
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 10 guilds in the game data.
 

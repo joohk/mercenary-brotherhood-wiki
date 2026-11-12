@@ -19,9 +19,12 @@ gold_max: 980
 gold_min: 560
 quest_type: destroy_base
 reputation_change: 15
+up: "[[Quests]]"
 xp_company: 100
 xp_squad: 200
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (destroy base) for company level 3-8, given by a settlement. In game the title reads `Clear the Roads of {faction_name}`, with the blanks filled in when it is posted.
 

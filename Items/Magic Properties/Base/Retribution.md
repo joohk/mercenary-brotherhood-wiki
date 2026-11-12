@@ -16,8 +16,11 @@ family: retribution
 group: base
 name_theme: thorns
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for shields and body armor.
 

@@ -16,8 +16,11 @@ family: courage
 group: base
 name_theme: willpower
 rarity_min: uncommon
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An uncommon-or-better magic property for helmets and accessories.
 

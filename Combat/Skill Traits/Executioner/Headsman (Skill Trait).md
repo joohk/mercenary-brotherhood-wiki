@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Executioner
 trait_type: passive
+up: "[[Executioner (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Executioner (Skill)]]
 
 A common passive skill trait of [[Executioner (Skill)|Executioner]] with 2 ranks.
 

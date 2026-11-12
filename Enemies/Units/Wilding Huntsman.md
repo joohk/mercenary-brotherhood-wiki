@@ -17,8 +17,11 @@ race: Wild Elf
 stance: ranged
 threat_cost: 3
 tier: 2
+up: "[[Wilding Elves]]"
 xp: 18
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Wilding Elves]]
 
 A tier-2 Wild Elf enemy of the [[Wilding Elves]] faction — 69 HP, 6 armor, worth 18 XP and 10 gold.
 

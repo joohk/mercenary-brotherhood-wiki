@@ -11,7 +11,10 @@ tags:
 source: vendetta/vendetta_traits.json
 counters: poison
 trait_category: adaptation
+up: "[[Vendetta Traits]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Vendetta Traits]]
 
 A [[Vendetta|vendetta]] trait: an adaptation that counters poison.
 

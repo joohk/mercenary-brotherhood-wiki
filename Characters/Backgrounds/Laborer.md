@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.53
 starting_skills:
   - Endurance
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.53) that starts with Endurance.
 

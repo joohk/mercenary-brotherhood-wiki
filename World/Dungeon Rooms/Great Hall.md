@@ -13,8 +13,11 @@ height: 13
 roles:
   - boss
   - hall
+up: "[[Dungeon Rooms]]"
 width: 11
 ---
+
+[[Home]] › [[World]] › [[Dungeon Rooms]]
 
 An 11×13 prefab dungeon room, used as a boss room and a hall room.
 

@@ -12,7 +12,10 @@ tags:
 source: traits/awakening_traits.json
 awakening_tier: 5
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-5 awakening trait (ability) that grants the active ability [[Life Burn (Ability)|Life Burn]]. At each awakening tier the player picks one trait from that tier's offer.
 

@@ -15,7 +15,10 @@ starting_skills:
   - Blood Magic
   - Battle Hardened
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.55) that starts with Blood Magic, Battle Hardened and Staff Mastery.
 

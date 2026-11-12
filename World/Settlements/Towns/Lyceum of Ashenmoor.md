@@ -17,7 +17,10 @@ services:
   - arcane_training
   - scrying_chamber
 settlement_type: magic_academy
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A magic academy (one of 2 in the world).
 

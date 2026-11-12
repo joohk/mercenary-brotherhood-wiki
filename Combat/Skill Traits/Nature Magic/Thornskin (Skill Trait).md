@@ -14,7 +14,10 @@ ranks: 3
 rarity: uncommon
 skill: Nature Magic
 trait_type: ability
+up: "[[Nature Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Nature Magic]]
 
 An uncommon ability skill trait of [[Nature Magic]] with 3 ranks, granting [[Thornskin (Ability)|Thornskin]].
 

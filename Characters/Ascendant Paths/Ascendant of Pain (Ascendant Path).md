@@ -10,7 +10,10 @@ tags:
 source: ascendancy/ascendant_paths.json
 domain: Pain
 eligibility_bias: dot
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of Pain. Candidates are favoured by *dot*.
 

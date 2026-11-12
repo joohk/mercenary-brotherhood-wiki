@@ -8,7 +8,10 @@ source:
   - vendetta/vendetta_traits.json
   - vendetta/vendetta_loot.json
   - vendetta/vendetta_speeches.json
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 Named rivals that grow out of ordinary enemies and hunt your company: [[Glossary#Vendetta|Vendetta]].
 

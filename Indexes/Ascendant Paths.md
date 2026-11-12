@@ -4,7 +4,10 @@ tags:
   - type/index
 source: ascendancy/ascendant_paths.json
 count: 8
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 8 ascendant paths in the game data.
 

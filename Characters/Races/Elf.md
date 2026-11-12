@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 47
 ranged_defense: 40
 recruitment_threshold: 0
+up: "[[Elvenkind]]"
 vision: 5
 willpower: 42
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Elvenkind]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 0), strongest in Ranged Attack and weakest in Melee Attack and Melee Defense compared with other races.
 

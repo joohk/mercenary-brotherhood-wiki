@@ -20,9 +20,12 @@ gold_max: 200
 gold_min: 120
 quest_type: bounty
 reputation_change: 5
+up: "[[Quests]]"
 xp_company: 30
 xp_squad: 20
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A bounty for company level 1-4, given by a settlement. In game the title reads `Bounty: Clear Out {faction_name}`, with the blanks filled in when it is posted.
 

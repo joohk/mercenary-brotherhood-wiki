@@ -16,7 +16,10 @@ services:
   - shop
   - tavern
 settlement_type: village
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A village with a mostly [[Elf]] population.
 

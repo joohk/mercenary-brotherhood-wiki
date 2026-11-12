@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.65
 recruitment_weight: 25
 starting_skills:
   - Blood Magic
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.65) that starts with Blood Magic.
 

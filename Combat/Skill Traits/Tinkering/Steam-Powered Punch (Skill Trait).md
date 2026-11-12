@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Tinkering
 trait_type: ability
+up: "[[Tinkering]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tinkering]]
 
 A common ability skill trait of [[Tinkering]] with 2 ranks, granting [[Steam-Powered Punch (Ability)|Steam-Powered Punch]].
 

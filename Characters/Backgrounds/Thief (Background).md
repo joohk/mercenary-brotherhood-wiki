@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.93
 starting_skills:
   - Dodge Master
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.93) that starts with Dodge Master and Dagger Mastery.
 

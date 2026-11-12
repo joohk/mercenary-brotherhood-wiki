@@ -12,7 +12,10 @@ base_threshold_interval: 2
 metric: ranged_kills_at_max_range
 points_per_threshold: 4
 spec_category: precision
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Precision specialization. Tracks *Max Range Kills* — every 2 → 4 points.
 

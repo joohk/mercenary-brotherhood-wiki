@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Archery
 trait_type: ability
+up: "[[Archery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Archery]]
 
 An uncommon ability skill trait of [[Archery]] with 2 ranks, granting [[Called Shot (Ability, ability_called_shot)|Called Shot]].
 

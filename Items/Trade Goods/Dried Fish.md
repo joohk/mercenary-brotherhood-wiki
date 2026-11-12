@@ -15,7 +15,10 @@ family: food
 price: 45
 rarity: common
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 A common trade good (food), base price 45 gold.
 

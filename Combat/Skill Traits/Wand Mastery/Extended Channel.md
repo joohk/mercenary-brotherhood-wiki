@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Wand Mastery
 trait_type: passive
+up: "[[Wand Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Wand Mastery]]
 
 An uncommon passive skill trait of [[Wand Mastery]] with 2 ranks.
 

@@ -13,7 +13,10 @@ source: traits/characteristic_traits.json
 exclusion_group: constitution
 negative: true
 rarity: common
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A negative common physical characteristic in the *constitution* group. Every unit rolls exactly one characteristic at creation.
 

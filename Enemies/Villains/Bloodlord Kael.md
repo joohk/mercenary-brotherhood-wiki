@@ -20,8 +20,11 @@ stance: aggressive
 threat_cost: 25
 tier: 5
 title: The Undying
+up: "[[Arch-Villains]]"
 xp: 200
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of the [[Vampires]] — *The Undying*. Awakens from company level 6; 250 HP, 10 armor, worth 200 XP and 150 gold.
 

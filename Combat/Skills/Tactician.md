@@ -15,7 +15,10 @@ max_level: 10
 skill_category: combat
 skill_group: Utility
 skill_traits: 6
+up: "[[Utility Skills]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]]
 
 A combat skill from the Utility group, with 10 levels and 6 skill traits.
 

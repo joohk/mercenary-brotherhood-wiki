@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: healer
 awakening_tier: 8
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-8 awakening trait (ability) for the healer archetype that grants the active ability [[Guardian Spirit (Ability)|Guardian Spirit]]. At each awakening tier the player picks one trait from that tier's offer.
 

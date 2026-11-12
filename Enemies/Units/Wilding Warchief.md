@@ -17,9 +17,12 @@ race: Wild Elf
 stance: aggressive
 threat_cost: 9
 tier: 4
+up: "[[Wilding Elves]]"
 variant_archetype: warlord
 xp: 52
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Wilding Elves]]
 
 A tier-4 Wild Elf enemy of the [[Wilding Elves]] faction — 157 HP, 14 armor, worth 52 XP and 40 gold.
 

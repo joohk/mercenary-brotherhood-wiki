@@ -13,7 +13,10 @@ base_threshold_interval: 5
 metric: arcane_kills
 points_per_threshold: 2
 spec_category: sorcery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Sorcery specialization. Tracks *Arcane Kills* — every 5 → 2 points.
 

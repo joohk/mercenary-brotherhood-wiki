@@ -19,9 +19,12 @@ gold_max: 910
 gold_min: 560
 quest_type: destroy_base
 reputation_change: 12
+up: "[[Quests]]"
 xp_company: 120
 xp_squad: 240
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (destroy base) for company level 4-7, given by a settlement. In game the title reads `Crush the {base_name}`, with the blanks filled in when it is posted.
 

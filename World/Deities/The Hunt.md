@@ -12,7 +12,10 @@ source: faith/deities.json
 blessing_stat: ranged_attack
 blessing_value: 2
 lean: shadow
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of the Hunt in the Faith system, with a shadow lean.
 

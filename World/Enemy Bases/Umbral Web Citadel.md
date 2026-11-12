@@ -18,7 +18,10 @@ location: underground
 map_type: dark_sanctum
 rarity: rare
 repeatable: false
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A rare underground enemy base held by [[The Umbral Court]].
 

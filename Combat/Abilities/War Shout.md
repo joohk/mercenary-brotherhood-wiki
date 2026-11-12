@@ -16,8 +16,11 @@ range: 1
 requires_los: false
 source_type: Racial
 target_type: self
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability centred on yourself (radius 1), usable once per battle.
 

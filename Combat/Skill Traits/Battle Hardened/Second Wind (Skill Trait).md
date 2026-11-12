@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Battle Hardened
 trait_type: ability
+up: "[[Battle Hardened (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Battle Hardened (Skill)]]
 
 An uncommon ability skill trait of [[Battle Hardened (Skill)|Battle Hardened]] with 2 ranks, granting [[Second Wind (Ability)|Second Wind]].
 

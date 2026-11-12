@@ -17,7 +17,10 @@ level_min: 4
 terrain:
   - mushroom_forest
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for mushroom forest terrain, from company level 4, with 2 enemy groups.
 

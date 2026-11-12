@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 5
 tier: 5
+up: "[[War Hammers]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[War Hammers]]
 
 A tier-5 one-handed blunt war hammer dealing 26-40 damage, worth 2100 gold.
 

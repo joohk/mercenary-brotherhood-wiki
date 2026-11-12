@@ -15,7 +15,10 @@ range: 4
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Telekinesis]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Telekinesis]]
 
 A 1-AP magic ability targeting one enemy up to 4 hexes away.
 

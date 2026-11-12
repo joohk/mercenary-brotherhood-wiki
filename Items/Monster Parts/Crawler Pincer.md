@@ -14,7 +14,10 @@ family: trophy
 price: 40
 rarity: normal
 tier: 2
+up: "[[Monster Parts]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Monster Parts]]
 
 A tier-2 trophy (monster part), harvested from slain creatures, worth 40 gold.
 

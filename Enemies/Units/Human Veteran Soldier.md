@@ -17,8 +17,11 @@ race: Human
 stance: aggressive
 threat_cost: 6
 tier: 3
+up: "[[Veteran Company]]"
 xp: 30
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Veteran Company]]
 
 A tier-3 Human enemy of the [[Veteran Company]] faction — 115 HP, 14 armor, worth 30 XP and 24 gold.
 

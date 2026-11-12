@@ -18,8 +18,11 @@ family: poison_resist
 group: base
 name_theme: poison
 rarity_min: rare
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A rare-or-better magic property for shields, body armor, helmets and accessories.
 

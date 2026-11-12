@@ -15,7 +15,10 @@ fatigue_cost: 25
 requires_los: false
 source_type: Racial
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action melee ability used on yourself.
 

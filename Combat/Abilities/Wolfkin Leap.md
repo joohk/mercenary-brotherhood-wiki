@@ -15,7 +15,10 @@ range: 2
 requires_los: false
 source_type: Racial
 target_type: empty_hex
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability targeting an empty hex up to 2 hexes away.
 

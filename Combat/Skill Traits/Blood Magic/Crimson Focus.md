@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Blood Magic
 trait_type: passive
+up: "[[Blood Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Blood Magic]]
 
 A common passive skill trait of [[Blood Magic]] with 2 ranks.
 

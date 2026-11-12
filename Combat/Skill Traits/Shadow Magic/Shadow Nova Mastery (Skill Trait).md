@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Shadow Magic
 trait_type: ability
+up: "[[Shadow Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 A rare ability skill trait of [[Shadow Magic]] with 2 ranks, granting [[Shadow Nova]].
 

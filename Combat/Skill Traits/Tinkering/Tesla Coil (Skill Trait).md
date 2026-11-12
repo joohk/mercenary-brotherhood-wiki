@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Tinkering
 trait_type: ability
+up: "[[Tinkering]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tinkering]]
 
 A rare ability skill trait of [[Tinkering]] with 2 ranks, granting [[Tesla Coil (Ability)|Tesla Coil]].
 

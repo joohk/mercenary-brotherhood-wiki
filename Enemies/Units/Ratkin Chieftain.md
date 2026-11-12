@@ -16,9 +16,12 @@ hp: 86
 stance: aggressive
 threat_cost: 4
 tier: 2
+up: "[[Ratkin Swarm]]"
 variant_archetype: warlord
 xp: 25
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Ratkin Swarm]]
 
 A tier-2 enemy of the [[Ratkin Swarm]] faction — 86 HP, 8 armor, worth 25 XP and 16 gold.
 

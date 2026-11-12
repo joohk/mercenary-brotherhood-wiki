@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Lucky Strike
 trait_type: passive
+up: "[[Lucky Strike]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Lucky Strike]]
 
 A rare passive skill trait of [[Lucky Strike]] with 2 ranks.
 

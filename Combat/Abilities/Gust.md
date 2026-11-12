@@ -16,8 +16,11 @@ range: 1
 requires_los: true
 source_type: Racial
 target_type: enemy
+up: "[[Abilities]]"
 uses_per_battle: 2
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
 

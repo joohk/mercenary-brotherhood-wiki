@@ -11,7 +11,10 @@ source: ascendancy/ascendant_paths.json
 domain: Protection
 eligibility_bias: defense
 special: cannot_be_flanked
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of Protection. Candidates are favoured by *defense*.
 

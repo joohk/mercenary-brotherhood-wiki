@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Pincer
 trait_type: passive
+up: "[[Pincer]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Pincer]]
 
 A common passive skill trait of [[Pincer]] with 2 ranks.
 

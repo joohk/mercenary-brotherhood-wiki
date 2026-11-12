@@ -14,7 +14,10 @@ level_min: 5
 tier_max: 5
 tier_min: 2
 units: 7
+up: "[[Giants]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Giants]]
 
 An enemy faction that appears from company level 5 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 7 unit types, tiers 2-5.
 

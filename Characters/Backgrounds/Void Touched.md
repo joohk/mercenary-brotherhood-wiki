@@ -16,7 +16,10 @@ starting_skills:
   - Dodge Master
   - Battle Hardened
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.01) that starts with Dark Magic, Dodge Master, Battle Hardened and Staff Mastery.
 

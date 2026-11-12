@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.14
 starting_skills:
   - Axe Fighting
   - Berserker
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.14) that starts with Axe Fighting and Berserker.
 

@@ -15,8 +15,11 @@ family: arcane
 group: base
 name_theme: arcane
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for weapons.
 

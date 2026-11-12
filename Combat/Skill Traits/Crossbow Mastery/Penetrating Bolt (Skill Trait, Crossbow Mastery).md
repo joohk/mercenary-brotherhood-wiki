@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Crossbow Mastery
 trait_type: ability
+up: "[[Crossbow Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Crossbow Mastery]]
 
 An uncommon ability skill trait of [[Crossbow Mastery]] with 2 ranks, granting [[Penetrating Bolt (Ability)|Penetrating Bolt]].
 

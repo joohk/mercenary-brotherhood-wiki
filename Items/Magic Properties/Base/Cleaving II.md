@@ -16,8 +16,11 @@ group: base
 melee_only: true
 name_theme: brutal
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for weapons (melee weapons only).
 

@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: bard
 awakening_tier: 6
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-6 awakening trait (ability) for the bard archetype that grants the active ability [[Dissonant Chord (Ability)|Dissonant Chord]]. At each awakening tier the player picks one trait from that tier's offer.
 

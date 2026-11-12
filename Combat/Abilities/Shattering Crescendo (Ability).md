@@ -16,7 +16,10 @@ fatigue_cost: 30
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 3-AP support ability centred on yourself (radius 2).
 

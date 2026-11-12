@@ -17,7 +17,10 @@ services:
   - shop
   - tavern
 settlement_type: fort
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground fort in the deep depth zone (company level 7+).
 

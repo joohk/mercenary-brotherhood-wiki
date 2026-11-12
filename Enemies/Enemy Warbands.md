@@ -3,7 +3,10 @@ type: warband_page
 tags:
   - type/warband_page
 source: enemies/warband_config.json
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 Tuning for the enemy warbands that roam the overland map, move each day, patrol around their bases and start a battle when they reach your company. See also [[Glossary#Warband|Warband]].
 

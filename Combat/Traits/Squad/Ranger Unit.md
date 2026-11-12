@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: traits/squad_traits.json
 rarity: uncommon
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 An uncommon squad trait: its bonuses apply to every member of the squad.
 

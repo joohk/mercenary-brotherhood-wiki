@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 7
 tier: 5
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-5 magic amulet with -8% Damage Taken, worth 420 gold.
 

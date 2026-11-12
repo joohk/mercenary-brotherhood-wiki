@@ -15,7 +15,10 @@ level_min: 1
 tier_max: 2
 tier_min: 0
 units: 7
+up: "[[Wild Peoples]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]]
 
 An enemy faction that appears at company levels 1-2 and fights as [[How Enemies Behave#Swarm|Swarm]] (flanks and surrounds): 7 unit types, tiers 0-2.
 

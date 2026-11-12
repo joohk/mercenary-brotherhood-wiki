@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 40
 ranged_defense: 35
 recruitment_threshold: 0
+up: "[[Humans]]"
 vision: 4
 willpower: 45
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Humans]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 0), weakest in Max Fatigue and Melee Defense compared with other races.
 

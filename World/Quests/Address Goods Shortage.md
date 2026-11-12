@@ -19,9 +19,12 @@ gold_min: 60
 quest_source: trade
 quest_type: trade
 reputation_change: 3
+up: "[[Quests]]"
 xp_company: 15
 xp_squad: 10
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A trade quest for company level 1+, given by a settlement. In game the title reads `Address {good_name} Shortage`, with the blanks filled in when it is posted.
 

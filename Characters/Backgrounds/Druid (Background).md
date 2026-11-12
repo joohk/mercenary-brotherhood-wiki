@@ -15,7 +15,10 @@ recruitment_cost_modifier: 1.04
 starting_skills:
   - Nature Magic
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.04) that starts with Nature Magic and Staff Mastery.
 

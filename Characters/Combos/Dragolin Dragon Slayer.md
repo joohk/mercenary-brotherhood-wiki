@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Dragon Slayer
 race: Dragolin
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Dragolin recruits with the Dragon Slayer background can roll the exclusive trait Dragonfire Blood.
 

@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Charging
 trait_type: ability
+up: "[[Charging]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Charging]]
 
 A rare ability skill trait of [[Charging]] with 2 ranks, granting [[Death or Glory (Ability)|Death or Glory]].
 

@@ -20,7 +20,10 @@ level_min: 1
 terrain:
   - mountain
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for mountain terrain, from company level 1, with 8 enemy groups.
 

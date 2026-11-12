@@ -16,7 +16,10 @@ range: 0
 requires_los: false
 source_type: Item
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP support ability centred on yourself (radius 1).
 

@@ -20,7 +20,10 @@ level_min: 2
 terrain:
   - ruins
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for ruins terrain, at company levels 2-4, with 8 enemy groups.
 

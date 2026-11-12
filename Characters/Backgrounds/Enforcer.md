@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.14
 starting_skills:
   - Mace Fighting
   - Battle Hardened
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.14) that starts with Mace Fighting and Battle Hardened.
 

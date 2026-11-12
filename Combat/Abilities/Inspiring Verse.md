@@ -15,8 +15,11 @@ range: 3
 requires_los: true
 source_type: Granted by game code
 target_type: ally
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP support ability targeting an ally up to 3 hexes away, usable once per battle.
 

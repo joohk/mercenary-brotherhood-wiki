@@ -17,7 +17,10 @@ level_min: 3
 terrain:
   - crystal_cave
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for crystal cave terrain, from company level 3, with 2 enemy groups.
 

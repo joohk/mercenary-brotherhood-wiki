@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Poisoner
 trait_type: passive
+up: "[[Poisoner (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Poisoner (Skill)]]
 
 A common passive skill trait of [[Poisoner (Skill)|Poisoner]] with 2 ranks.
 

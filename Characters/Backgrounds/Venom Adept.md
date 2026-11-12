@@ -14,7 +14,10 @@ starting_skills:
   - Archery
   - Dagger Mastery
   - Poisoner
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.54) that starts with Archery, Dagger Mastery and Poisoner.
 

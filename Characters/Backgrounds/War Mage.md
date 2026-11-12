@@ -15,7 +15,10 @@ starting_skills:
   - Arcane Mastery
   - Battle Hardened
   - Wand Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.57) that starts with Arcane Mastery, Battle Hardened and Wand Mastery.
 

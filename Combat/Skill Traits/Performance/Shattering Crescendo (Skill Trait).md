@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Performance
 trait_type: ability
+up: "[[Performance]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Performance]]
 
 A rare ability skill trait of [[Performance]] with 2 ranks, granting [[Shattering Crescendo (Ability)|Shattering Crescendo]].
 

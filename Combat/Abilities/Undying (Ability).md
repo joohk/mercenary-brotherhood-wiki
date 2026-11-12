@@ -15,8 +15,11 @@ fatigue_cost: 0
 requires_los: false
 source_type: Awakening
 target_type: self
+up: "[[Abilities]]"
 uses_per_battle: 2
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ability used on yourself, usable twice per battle.
 

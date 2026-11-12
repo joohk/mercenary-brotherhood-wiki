@@ -11,7 +11,10 @@ tags:
 source: variants/variant_pools.json
 abilities: 9
 assignment: auto
+up: "[[Enemy Variants]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Variants]]
 
 A variant archetype auto-assigned to ranged enemies.
 

@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Crossbow Mastery
 trait_type: passive
+up: "[[Crossbow Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Crossbow Mastery]]
 
 An uncommon passive skill trait of [[Crossbow Mastery]] with 2 ranks.
 

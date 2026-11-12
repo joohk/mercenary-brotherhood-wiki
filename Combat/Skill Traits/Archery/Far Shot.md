@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Archery
 trait_type: passive
+up: "[[Archery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Archery]]
 
 A rare passive skill trait of [[Archery]] with 2 ranks.
 

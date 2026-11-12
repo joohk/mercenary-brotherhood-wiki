@@ -4,7 +4,10 @@ tags:
   - type/index
 source: variants/variant_pools.json
 count: 6
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 6 enemy variants in the game data.
 

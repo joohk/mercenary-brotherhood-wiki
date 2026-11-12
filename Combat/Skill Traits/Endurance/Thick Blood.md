@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Endurance
 trait_type: passive
+up: "[[Endurance (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Endurance (Skill)]]
 
 A common passive skill trait of [[Endurance (Skill)|Endurance]] with 2 ranks.
 

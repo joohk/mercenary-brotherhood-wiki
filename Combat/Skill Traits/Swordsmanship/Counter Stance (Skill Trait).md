@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Swordsmanship
 trait_type: ability
+up: "[[Swordsmanship]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Swordsmanship]]
 
 A rare ability skill trait of [[Swordsmanship]] with 3 ranks, granting [[Counter Stance (Ability)|Counter Stance]].
 

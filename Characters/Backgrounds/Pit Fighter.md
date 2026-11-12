@@ -14,7 +14,10 @@ starting_skills:
   - Melee Mastery
   - Dual Wield Mastery
   - Battle Hardened
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.5) that starts with Melee Mastery, Dual Wield Mastery and Battle Hardened.
 

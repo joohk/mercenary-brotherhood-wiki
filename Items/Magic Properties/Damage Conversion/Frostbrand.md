@@ -17,8 +17,11 @@ melee_only: true
 name_theme: arcane
 rarity_min: epic
 spawn_weight: 0.18
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for weapons (melee weapons only).
 

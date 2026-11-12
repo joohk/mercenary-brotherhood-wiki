@@ -14,7 +14,10 @@ ranks: 1
 rarity: rare
 skill: Assassination
 trait_type: ability
+up: "[[Assassination]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Assassination]]
 
 A rare ability skill trait of [[Assassination]] with 1 rank, granting [[Killing Blow (Ability)|Killing Blow]].
 

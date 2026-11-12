@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Tinkering
 trait_type: ability
+up: "[[Tinkering]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tinkering]]
 
 An uncommon ability skill trait of [[Tinkering]] with 2 ranks, granting [[Fire Bomb (Ability)|Fire Bomb]].
 

@@ -12,7 +12,10 @@ base_threshold_interval: 6
 metric: spells_cast
 points_per_threshold: 2
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Spells Cast* — every 6 → 2 points.
 

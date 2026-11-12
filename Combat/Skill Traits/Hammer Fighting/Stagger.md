@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Hammer Fighting
 trait_type: passive
+up: "[[Hammer Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Hammer Fighting]]
 
 A common passive skill trait of [[Hammer Fighting]] with 2 ranks.
 

@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 45
 ranged_defense: 45
 recruitment_threshold: 0
+up: "[[Small Folk]]"
 vision: 4
 willpower: 40
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Small Folk]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 0), strongest in Initiative and Melee Defense and weakest in Max Fatigue and Melee Attack compared with other races.
 

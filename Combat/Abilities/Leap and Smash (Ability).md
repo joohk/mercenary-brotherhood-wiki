@@ -18,7 +18,10 @@ range: 8
 requires_los: true
 source_type: Awakening
 target_type: empty_hex
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP melee ability targeting an empty hex up to 8 hexes away.
 

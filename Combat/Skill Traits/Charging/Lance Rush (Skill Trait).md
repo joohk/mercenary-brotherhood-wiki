@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Charging
 trait_type: ability
+up: "[[Charging]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Charging]]
 
 An uncommon ability skill trait of [[Charging]] with 2 ranks, granting [[Lance Rush (Ability)|Lance Rush]].
 

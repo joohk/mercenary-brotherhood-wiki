@@ -16,8 +16,11 @@ group: proc
 name_theme: arcane
 rarity_min: epic
 spawn_weight: 0.15
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for body armor.
 

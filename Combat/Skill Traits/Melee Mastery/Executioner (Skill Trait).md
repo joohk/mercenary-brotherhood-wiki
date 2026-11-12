@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Melee Mastery
 trait_type: passive
+up: "[[Melee Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Melee Mastery]]
 
 A rare passive skill trait of [[Melee Mastery]] with 2 ranks.
 

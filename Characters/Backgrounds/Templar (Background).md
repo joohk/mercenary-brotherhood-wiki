@@ -16,7 +16,10 @@ starting_skills:
   - Holy Magic
   - Swordsmanship
   - Shield Wall
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.86) that starts with Holy Magic, Swordsmanship and Shield Wall.
 

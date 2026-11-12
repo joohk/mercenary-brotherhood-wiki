@@ -10,7 +10,10 @@ tags:
   - type/enemy_passive
 source: passives/enemy_passives.json
 coded: true
+up: "[[Enemy Passives]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Passives]]
 
 An enemy passive: a fixed stat bonus (below) plus behaviour handled in game code.
 

@@ -17,8 +17,11 @@ group: crit_proc
 name_theme: keen
 rarity_min: epic
 spawn_weight: 0.2
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for weapons and helmets.
 

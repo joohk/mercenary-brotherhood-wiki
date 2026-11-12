@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Assassination
 trait_type: passive
+up: "[[Assassination]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Assassination]]
 
 An uncommon passive skill trait of [[Assassination]] with 2 ranks.
 

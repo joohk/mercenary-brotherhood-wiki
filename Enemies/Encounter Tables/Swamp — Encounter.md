@@ -18,7 +18,10 @@ level_min: 1
 terrain:
   - swamp
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for swamp terrain, from company level 1, with 3 enemy groups.
 

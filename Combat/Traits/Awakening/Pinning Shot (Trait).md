@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: ranged
 awakening_tier: 6
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-6 awakening trait (ability) for the ranged archetype that grants the active ability [[Pinning Shot (Ability, awakening_pinning_shot)|Pinning Shot]]. At each awakening tier the player picks one trait from that tier's offer.
 

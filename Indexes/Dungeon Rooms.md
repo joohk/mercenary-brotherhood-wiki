@@ -4,7 +4,10 @@ tags:
   - type/index
 source: dungeons/room_prefabs.json
 count: 9
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 9 dungeon rooms in the game data.
 

@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.1
 starting_skills:
   - Hammer Fighting
   - Endurance
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.1) that starts with Hammer Fighting and Endurance.
 

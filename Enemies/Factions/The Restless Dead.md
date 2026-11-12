@@ -14,7 +14,10 @@ level_min: 1
 tier_max: 4
 tier_min: 1
 units: 8
+up: "[[Undead & Unholy]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]]
 
 An enemy faction that appears from company level 1 and fights as [[How Enemies Behave#Relentless|Relentless]] (fearless, charges without thought): 8 unit types, tiers 1-4.
 

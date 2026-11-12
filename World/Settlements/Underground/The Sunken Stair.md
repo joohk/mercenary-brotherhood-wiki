@@ -18,7 +18,10 @@ services:
   - quest_board
   - blacksmith
 settlement_type: town
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground town in the shallow depth zone (accessible from early game).
 

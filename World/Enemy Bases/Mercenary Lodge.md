@@ -19,7 +19,10 @@ location: surface
 map_type: fortified_outpost
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon surface enemy base held by [[Rival Mercenaries]], appearing from company level 3.
 

@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Mace Fighting
 trait_type: ability
+up: "[[Mace Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Mace Fighting]]
 
 A rare ability skill trait of [[Mace Fighting]] with 3 ranks, granting [[Concussion (Ability)|Concussion]].
 

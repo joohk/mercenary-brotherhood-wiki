@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Shadow Magic
 trait_type: passive
+up: "[[Shadow Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 A rare passive skill trait of [[Shadow Magic]] with 2 ranks.
 

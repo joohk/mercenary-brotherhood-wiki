@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Charging
 trait_type: passive
+up: "[[Charging]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Charging]]
 
 An uncommon passive skill trait of [[Charging]] with 2 ranks.
 

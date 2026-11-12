@@ -9,7 +9,10 @@ tags:
   - vendetta/behavioral
 source: vendetta/vendetta_traits.json
 trait_category: behavioral
+up: "[[Vendetta Traits]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Vendetta Traits]]
 
 A [[Vendetta|vendetta]] trait: a behavioural trait.
 

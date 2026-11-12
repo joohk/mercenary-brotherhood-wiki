@@ -15,7 +15,10 @@ range: 1
 requires_los: true
 source_type: Granted by game code
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action melee ability targeting an adjacent enemy.
 

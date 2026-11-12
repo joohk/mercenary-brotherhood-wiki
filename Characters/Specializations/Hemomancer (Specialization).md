@@ -13,7 +13,10 @@ base_threshold_interval: 3
 metric: blood_kills
 points_per_threshold: 2
 spec_category: sorcery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Sorcery specialization. Tracks *Blood Magic Kills* — every 3 → 2 points.
 

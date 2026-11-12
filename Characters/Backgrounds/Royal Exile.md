@@ -14,7 +14,10 @@ starting_skills:
   - Swordsmanship
   - Battle Hardened
   - Tactician
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.2) that starts with Swordsmanship, Battle Hardened and Tactician.
 

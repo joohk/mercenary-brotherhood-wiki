@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Arcane Mastery
 trait_type: ability
+up: "[[Arcane Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Arcane Mastery]]
 
 A rare ability skill trait of [[Arcane Mastery]] with 2 ranks, granting [[Haste (Ability)|Haste]].
 

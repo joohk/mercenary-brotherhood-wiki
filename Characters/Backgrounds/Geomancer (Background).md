@@ -16,7 +16,10 @@ starting_skills:
   - Stone Magic
   - Battle Hardened
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.96) that starts with Stone Magic, Battle Hardened and Staff Mastery.
 

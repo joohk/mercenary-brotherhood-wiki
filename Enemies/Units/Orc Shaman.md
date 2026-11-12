@@ -16,8 +16,11 @@ hp: 94
 stance: ranged
 threat_cost: 6
 tier: 3
+up: "[[Greenskin Warband]]"
 xp: 35
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Greenskin Warband]]
 
 A tier-3 enemy of the [[Greenskin Warband]] faction — 94 HP, 8 armor, worth 35 XP and 28 gold.
 

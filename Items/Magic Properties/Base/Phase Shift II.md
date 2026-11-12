@@ -15,8 +15,11 @@ family: phase
 group: base
 name_theme: shadow
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for accessories.
 

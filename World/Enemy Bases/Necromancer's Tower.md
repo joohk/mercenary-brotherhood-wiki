@@ -19,7 +19,10 @@ location: surface
 map_type: dark_sanctum
 rarity: rare
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A rare surface enemy base held by [[The Restless Dead]], appearing from company level 5.
 

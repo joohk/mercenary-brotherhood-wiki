@@ -16,8 +16,11 @@ range: 3
 requires_los: false
 source_type: Skill
 target_type: empty_hex
+up: "[[Abilities]]"
 uses_per_battle: 2
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability targeting an empty hex up to 3 hexes away, usable twice per battle.
 

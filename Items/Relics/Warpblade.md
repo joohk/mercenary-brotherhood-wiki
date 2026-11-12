@@ -21,7 +21,10 @@ rarity: relic
 slot: weapon
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic one-handed dagger dropped by the arch-villain [[The Shadow Weaver]]. It awakens in three stages as its wielder racks up kills.
 

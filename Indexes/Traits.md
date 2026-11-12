@@ -6,7 +6,10 @@ source:
   - combos/
   - traits/
 count: 418
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 418 traits in the game data.
 

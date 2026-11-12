@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.56
 starting_skills:
   - Melee Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.56) that starts with Melee Mastery.
 

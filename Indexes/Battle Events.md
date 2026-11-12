@@ -4,7 +4,10 @@ tags:
   - type/index
 source: encounters/battle_events.json
 count: 6
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 6 battle events in the game data.
 

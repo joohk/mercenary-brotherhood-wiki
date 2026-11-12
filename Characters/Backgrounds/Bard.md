@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.55
 starting_skills:
   - Performance
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.55) that starts with Performance and Dagger Mastery.
 

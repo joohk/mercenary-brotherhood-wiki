@@ -19,9 +19,12 @@ gold_max: 1690
 gold_min: 1170
 quest_type: destroy_base
 reputation_change: 20
+up: "[[Quests]]"
 xp_company: 220
 xp_squad: 440
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (destroy base) for company level 6-9, given by a settlement. In game the title reads `Assault the {base_name}`, with the blanks filled in when it is posted.
 

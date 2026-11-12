@@ -17,7 +17,10 @@ services:
   - quest_board
   - accessories
 settlement_type: trading_post
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A trading post (one of 3 in the world).
 

@@ -12,7 +12,10 @@ base_threshold_interval: 1
 metric: vendetta_kills
 points_per_threshold: 5
 spec_category: slaughter
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Slaughter specialization. Tracks *Vendetta Kills* — every 1 → 5 points.
 

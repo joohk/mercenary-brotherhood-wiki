@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.57
 starting_skills:
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.57) that starts with Dagger Mastery.
 

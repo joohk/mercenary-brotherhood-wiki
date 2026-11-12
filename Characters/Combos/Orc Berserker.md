@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Berserker
 race: Orc
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Orc recruits with the Berserker background can roll the exclusive trait Iron Skull.
 

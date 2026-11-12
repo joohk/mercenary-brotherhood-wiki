@@ -16,8 +16,11 @@ hp: 83
 stance: ranged
 threat_cost: 6
 tier: 3
+up: "[[Cult of the Hollow Eye]]"
 xp: 36
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[Cult of the Hollow Eye]]
 
 A tier-3 enemy of the [[Cult of the Hollow Eye]] faction — 83 HP, 5 armor, worth 36 XP and 24 gold.
 

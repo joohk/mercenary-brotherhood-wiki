@@ -9,7 +9,10 @@ tags:
   - type/founding
 source: foundings/foundings.json
 founding_type: prime_race
+up: "[[Foundings]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Foundings]]
 
 A founding (your company's origin, chosen at new-game setup) of type *Prime Race*.
 

@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Shamanism
 trait_type: ability
+up: "[[Shamanism]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shamanism]]
 
 An uncommon ability skill trait of [[Shamanism]] with 2 ranks.
 

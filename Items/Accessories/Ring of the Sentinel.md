@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 12
 tier: 3
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-3 magic ring with +6 [[Stats#Armor|Armor]], worth 180 gold.
 

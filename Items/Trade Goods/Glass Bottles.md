@@ -15,7 +15,10 @@ family: crafted
 price: 85
 rarity: uncommon
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 An uncommon trade good (crafted), base price 85 gold.
 

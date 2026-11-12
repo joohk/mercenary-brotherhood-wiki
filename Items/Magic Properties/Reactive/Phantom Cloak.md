@@ -17,8 +17,11 @@ group: reactive
 name_theme: shadow
 rarity_min: legendary
 spawn_weight: 0.12
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for body armor and accessories.
 

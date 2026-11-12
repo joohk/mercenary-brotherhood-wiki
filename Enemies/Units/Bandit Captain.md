@@ -17,9 +17,12 @@ race: Human
 stance: aggressive
 threat_cost: 4
 tier: 2
+up: "[[Bandits]]"
 variant_archetype: warlord
 xp: 45
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Bandits]]
 
 A tier-2 Human enemy of the [[Bandits]] faction — 125 HP, 11 armor, worth 45 XP and 40 gold.
 

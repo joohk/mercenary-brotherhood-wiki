@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 70
 tier: 1
+up: "[[Axes]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
 A tier-1 one-handed slashing throwing axe dealing 10-16 damage, worth 25 gold.
 

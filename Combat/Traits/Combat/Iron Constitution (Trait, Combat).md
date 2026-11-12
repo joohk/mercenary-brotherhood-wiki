@@ -12,7 +12,10 @@ tags:
   - type/trait
 source: traits/combat_traits.json
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare combat trait (stat boost).
 

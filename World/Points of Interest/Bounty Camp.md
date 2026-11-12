@@ -12,7 +12,10 @@ active_count: 6
 poi_kind: respawning
 respawn_days: 14
 spacing_tier: minor
+up: "[[Points of Interest]]"
 ---
+
+[[Home]] › [[World]] › [[Points of Interest]]
 
 A respawning point of interest (up to 6 active at once, respawning after 14 days).
 

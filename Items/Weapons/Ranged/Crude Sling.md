@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 0
+up: "[[Other Weapons]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Other Weapons]]
 
 A tier-0 one-handed blunt sling dealing 2-4 damage at range 3, worth 1 gold.
 

@@ -16,8 +16,11 @@ hp: 109
 stance: ranged
 threat_cost: 8
 tier: 4
+up: "[[The Restless Dead]]"
 xp: 60
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[The Restless Dead]]
 
 A tier-4 enemy of [[The Restless Dead]] faction — 109 HP, 7 armor, worth 60 XP and 40 gold.
 

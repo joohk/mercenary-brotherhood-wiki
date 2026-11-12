@@ -11,7 +11,10 @@ tags:
 source: variants/variant_pools.json
 abilities: 7
 assignment: auto
+up: "[[Enemy Variants]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Variants]]
 
 A variant archetype auto-assigned to enemies that already have a healing ability.
 

@@ -13,7 +13,10 @@ base_threshold_interval: 4
 metric: nature_kills
 points_per_threshold: 1
 spec_category: sorcery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Sorcery specialization. Tracks *Nature Magic Kills* — every 4 → 1 point.
 

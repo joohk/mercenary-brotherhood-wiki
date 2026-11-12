@@ -15,8 +15,11 @@ range: 5
 requires_los: false
 source_type: Skill
 target_type: empty_hex
+up: "[[Shadow Magic]]"
 uses_per_battle: 3
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 A free-action magic ability targeting an empty hex up to 5 hexes away, usable 3 times per battle.
 

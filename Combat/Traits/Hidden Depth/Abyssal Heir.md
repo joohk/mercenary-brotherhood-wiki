@@ -12,7 +12,10 @@ tags:
 source: traits/hidden_depth_traits.json
 rarity: epic
 stage: 2
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 Stage 2 of 3 of a hidden depth: an epic trait that can surface and deepen over a unit's career.
 

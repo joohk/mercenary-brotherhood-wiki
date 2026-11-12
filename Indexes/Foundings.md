@@ -4,7 +4,10 @@ tags:
   - type/index
 source: foundings/foundings.json
 count: 6
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 6 foundings in the game data.
 

@@ -15,7 +15,10 @@ no_sell: true
 price: 750
 rarity: normal
 tier: 5
+up: "[[Monster Parts]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Monster Parts]]
 
 A tier-5 trophy (monster part), harvested from slain creatures, worth 750 gold. It cannot be sold.
 

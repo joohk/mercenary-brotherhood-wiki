@@ -21,7 +21,10 @@ rarity: normal
 slot: weapon
 spawn_weight: 35
 tier: 2
+up: "[[Swords]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
 A tier-2 two-handed slashing sword dealing 18-30 damage, worth 480 gold.
 

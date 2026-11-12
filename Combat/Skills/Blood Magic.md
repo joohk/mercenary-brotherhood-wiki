@@ -15,7 +15,10 @@ max_level: 10
 skill_category: combat
 skill_group: Magic
 skill_traits: 11
+up: "[[Schools of Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]]
 
 A combat skill from the Magic group, with 10 levels and 11 skill traits.
 

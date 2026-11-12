@@ -4,7 +4,10 @@ tags:
   - type/index
 source: quests/
 count: 51
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 51 quests in the game data.
 

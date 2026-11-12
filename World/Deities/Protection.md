@@ -11,7 +11,10 @@ source: faith/deities.json
 blessing_stat: armor
 blessing_value: 1
 lean: benevolent
+up: "[[Deities]]"
 ---
+
+[[Home]] › [[World]] › [[Deities]]
 
 The deity of Protection in the Faith system, with a benevolent lean.
 

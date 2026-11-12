@@ -14,7 +14,10 @@ attack_affinity:
   - melee
   - ranged
 rarity: uncommon
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 An uncommon combat trait (conditional).
 

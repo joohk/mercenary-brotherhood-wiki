@@ -21,9 +21,12 @@ gold_min: 210
 quest_source: chain
 quest_type: destroy_base
 reputation_change: 8
+up: "[[Quests]]"
 xp_company: 40
 xp_squad: 25
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A chain-stage quest (destroy base) for company level 2+, given by a settlement.
 

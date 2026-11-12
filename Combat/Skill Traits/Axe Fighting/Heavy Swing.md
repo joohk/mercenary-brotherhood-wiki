@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Axe Fighting
 trait_type: passive
+up: "[[Axe Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Axe Fighting]]
 
 A common passive skill trait of [[Axe Fighting]] with 2 ranks.
 

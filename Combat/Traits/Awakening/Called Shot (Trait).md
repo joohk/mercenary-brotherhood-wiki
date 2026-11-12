@@ -14,7 +14,10 @@ source: traits/awakening_traits.json
 archetype: ranged
 awakening_tier: 8
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-8 awakening trait (ability) for the ranged archetype that grants the active ability [[Called Shot (Ability, awakening_called_shot)|Called Shot]]. At each awakening tier the player picks one trait from that tier's offer.
 

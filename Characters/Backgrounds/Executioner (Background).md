@@ -15,7 +15,10 @@ starting_skills:
   - Axe Fighting
   - Melee Mastery
   - Executioner
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.78) that starts with Axe Fighting, Melee Mastery and Executioner.
 

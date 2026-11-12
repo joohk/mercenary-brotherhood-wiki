@@ -13,7 +13,10 @@ base_threshold_interval: 8
 metric: attacks_dodged
 points_per_threshold: 1
 spec_category: tactics
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Tactics specialization. Tracks *Attacks Dodged* — every 8 → 1 point.
 

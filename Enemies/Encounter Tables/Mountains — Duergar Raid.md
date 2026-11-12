@@ -20,7 +20,10 @@ terrain:
   - mountain
   - hills
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for mountain and hills terrain, from company level 5, with 5 enemy groups.
 

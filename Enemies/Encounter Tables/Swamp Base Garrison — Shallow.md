@@ -18,7 +18,10 @@ level_min: 3
 terrain:
   - swamp
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for swamp terrain, at company levels 3-4, with 1 enemy group.
 

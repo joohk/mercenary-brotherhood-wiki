@@ -16,8 +16,11 @@ group: base
 melee_only: true
 name_theme: death
 rarity_min: ascendant
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An ascendant-only magic property for weapons (melee weapons only).
 

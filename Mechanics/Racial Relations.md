@@ -3,7 +3,10 @@ type: mechanics
 tags:
   - type/mechanics
 source: races/_racial_relations.json
+up: "[[Mechanics]]"
 ---
+
+[[Home]] › [[Mechanics]]
 
 How well races get along inside your company, from -3 (blood feud) to +3 (close kin). Pairs not listed are 0 (strangers, no tension).
 

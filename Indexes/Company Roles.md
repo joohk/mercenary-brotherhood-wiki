@@ -4,7 +4,10 @@ tags:
   - type/index
 source: roles/company_roles.json
 count: 10
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 10 company roles in the game data.
 

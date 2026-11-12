@@ -18,8 +18,11 @@ size: large
 stance: aggressive
 threat_cost: 7
 tier: 3
+up: "[[The Umbral Court]]"
 xp: 40
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]] › [[The Umbral Court]]
 
 A tier-3 large enemy of [[The Umbral Court]] faction — 172 HP, 14 armor, worth 40 XP and 24 gold.
 

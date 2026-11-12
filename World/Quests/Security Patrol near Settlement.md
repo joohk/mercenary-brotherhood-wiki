@@ -19,9 +19,12 @@ gold_min: 100
 quest_source: security
 quest_type: kill_enemies
 reputation_change: 5
+up: "[[Quests]]"
 xp_company: 25
 xp_squad: 15
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A security quest (kill enemies) for company level 1+, given by a settlement. In game the title reads `Security Patrol near {settlement_name}`, with the blanks filled in when it is posted.
 

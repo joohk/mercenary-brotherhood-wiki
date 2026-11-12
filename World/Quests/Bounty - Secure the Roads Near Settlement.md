@@ -20,9 +20,12 @@ gold_max: 500
 gold_min: 310
 quest_type: bounty
 reputation_change: 8
+up: "[[Quests]]"
 xp_company: 50
 xp_squad: 35
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A bounty for company level 3-8, given by a settlement. In game the title reads `Bounty: Secure the Roads Near {settlement_name}`, with the blanks filled in when it is posted.
 

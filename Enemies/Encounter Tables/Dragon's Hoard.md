@@ -17,7 +17,10 @@ pool_scale: 2
 terrain:
   - mountain
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for mountain terrain, from company level 9, with 1 enemy group.
 

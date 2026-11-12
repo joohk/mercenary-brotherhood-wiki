@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Suppressor
 trait_type: passive
+up: "[[Suppressor]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Suppressor]]
 
 A common passive skill trait of [[Suppressor]] with 2 ranks.
 

@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Archery
 trait_type: ability
+up: "[[Archery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Archery]]
 
 A rare ability skill trait of [[Archery]] with 2 ranks, granting [[Pinning Shot (Ability, ability_pinning_shot)|Pinning Shot]].
 

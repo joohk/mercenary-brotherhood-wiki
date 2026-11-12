@@ -4,7 +4,10 @@ tags:
   - type/index
 source: enemies/
 count: 188
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 188 enemies in the game data.
 
@@ -315,5 +318,11 @@ All 188 enemies in the game data.
 | [[Wolf]] | ![[_assets/Units/Wolf.webp\|40]] | [[Wolf Pack (Faction)\|Wolf Pack]] | 1 | 30 | 0 | 48/30 | 6-10 | 8 |
 | [[Dire Wolf]] | ![[_assets/Units/DireWolf.webp\|40]] | [[Wolf Pack (Faction)\|Wolf Pack]] | 2 | 86 | 6 | 75/47 | 14-24 | 18 |
 | [[Alpha Wolf]] | ![[_assets/Units/AlphaWolf.webp\|40]] | [[Wolf Pack (Faction)\|Wolf Pack]] | 3 | 130 | 8 | 89/57 | 21-32 | 35 |
+
+## Sortable view
+
+In Obsidian with the **Bases** core plugin on (Settings → Core plugins → Bases), this view sorts and filters by any column. Click a column header to sort.
+
+![[All Enemies.base]]
 
 *Generated from `enemies/`. Edits will be overwritten — put your own notes in Notes/.*

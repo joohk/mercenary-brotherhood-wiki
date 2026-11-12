@@ -3,7 +3,10 @@ type: mechanics
 tags:
   - type/mechanics
 source: stats.json
+up: "[[Mechanics]]"
 ---
+
+[[Home]] › [[Mechanics]]
 
 Every unit stat with its in-game abbreviation and description. Stat names across the wiki link here.
 

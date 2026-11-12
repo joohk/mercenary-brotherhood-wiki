@@ -13,7 +13,10 @@ ranks: 1
 rarity: uncommon
 skill: Field Medicine
 trait_type: ability
+up: "[[Field Medicine]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Field Medicine]]
 
 An uncommon ability skill trait of [[Field Medicine]] with 1 rank, granting [[Smother Flames]].
 

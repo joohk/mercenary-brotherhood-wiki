@@ -14,7 +14,10 @@ ranks: 2
 rarity: rare
 skill: Stone Magic
 trait_type: ability
+up: "[[Stone Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Stone Magic]]
 
 A rare ability skill trait of [[Stone Magic]] with 2 ranks, granting [[Stone Bastion (Ability)|Stone Bastion]].
 

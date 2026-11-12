@@ -18,7 +18,10 @@ pool_scale: 1.2
 terrain:
   - forest
 trigger: static
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A static encounter table (fought at a fixed location) for forest terrain, from company level 5, with 1 enemy group.
 

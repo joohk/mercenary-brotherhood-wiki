@@ -16,9 +16,12 @@ hp: 90
 stance: aggressive
 threat_cost: 3
 tier: 2
+up: "[[The Umbral Court]]"
 variant_archetype: warlord
 xp: 20
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]] › [[The Umbral Court]]
 
 A tier-2 enemy of [[The Umbral Court]] faction — 90 HP, 7 armor, worth 20 XP and 14 gold.
 

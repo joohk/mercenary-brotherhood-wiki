@@ -18,7 +18,10 @@ level_min: 7
 terrain:
   - cavern
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for cavern terrain, from company level 7, with 3 enemy groups.
 

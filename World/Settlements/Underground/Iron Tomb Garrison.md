@@ -17,7 +17,10 @@ services:
   - quest_board
   - tavern
 settlement_type: fort
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground fort in the mid depth zone (company level 4-7).
 

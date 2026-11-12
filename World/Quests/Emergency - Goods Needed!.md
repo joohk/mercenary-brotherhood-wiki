@@ -20,9 +20,12 @@ quest_source: trade
 quest_type: trade
 reputation_change: 5
 time_limit_days: 30
+up: "[[Quests]]"
 xp_company: 30
 xp_squad: 15
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A trade quest for company level 2+, given by a settlement. In game the title reads `Emergency: {good_name} Needed!`, with the blanks filled in when it is posted.
 

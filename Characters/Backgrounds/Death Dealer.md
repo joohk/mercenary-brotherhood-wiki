@@ -14,7 +14,10 @@ starting_skills:
   - Dagger Mastery
   - Dual Wield Mastery
   - Assassination
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.32) that starts with Dagger Mastery, Dual Wield Mastery and Assassination.
 

@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.55
 starting_skills:
   - Archery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.55) that starts with Archery.
 

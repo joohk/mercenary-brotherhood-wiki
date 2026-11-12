@@ -20,8 +20,11 @@ stance: ranged
 threat_cost: 24
 tier: 5
 title: Voice of the Hollow Eye
+up: "[[Arch-Villains]]"
 xp: 210
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of the [[Cult of the Hollow Eye]] — *Voice of the Hollow Eye*. Awakens from company level 6; 220 HP, 6 armor, worth 210 XP and 140 gold.
 

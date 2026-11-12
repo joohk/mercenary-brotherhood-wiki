@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 45
 tier: 2
+up: "[[Throwing Weapons]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Throwing Weapons]]
 
 A tier-2 one-handed piercing throwing weapon dealing 6-11 damage at range 3, worth 150 gold.
 

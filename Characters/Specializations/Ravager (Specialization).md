@@ -13,7 +13,10 @@ base_threshold_interval: 30
 metric: overkill_damage_dealt
 points_per_threshold: 1
 spec_category: precision
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Precision specialization. Tracks *Overkill Damage* — every 30 → 1 point.
 

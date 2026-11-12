@@ -16,8 +16,11 @@ group: base
 melee_only: true
 name_theme: keen
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for weapons (melee weapons only).
 

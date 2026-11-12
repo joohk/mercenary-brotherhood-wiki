@@ -14,7 +14,10 @@ level_min: 3
 tier_max: 4
 tier_min: 2
 units: 7
+up: "[[Outlaws & Sellswords]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]]
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Professional|Professional]] (skilled and pragmatic): 7 unit types, tiers 2-4.
 

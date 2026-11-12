@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.32
 starting_skills:
   - Melee Mastery
   - Shield Wall
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.32) that starts with Melee Mastery and Shield Wall.
 

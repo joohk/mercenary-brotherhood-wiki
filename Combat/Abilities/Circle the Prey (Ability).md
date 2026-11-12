@@ -16,8 +16,11 @@ range: 1
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Abilities]]"
 uses_per_battle: 4
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability targeting an adjacent enemy, usable 4 times per battle.
 

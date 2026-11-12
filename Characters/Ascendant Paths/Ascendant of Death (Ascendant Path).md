@@ -11,7 +11,10 @@ source: ascendancy/ascendant_paths.json
 domain: Death
 eligibility_bias: kills
 special: reaping_ap
+up: "[[Ascendant Paths]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ascendant Paths]]
 
 An ascendant path: a veteran who ascends becomes a demigod of Death. Candidates are favoured by *kills*.
 

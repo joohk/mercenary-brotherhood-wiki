@@ -19,7 +19,10 @@ location: surface
 map_type: abandoned_fort
 rarity: rare
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A rare surface enemy base held by [[Deserters]], appearing from company level 5.
 

@@ -13,7 +13,10 @@ metrics:
   - shadow_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Dagger Kills* (every 4) **and** *Shadow Kills* (every 4) — both must climb; 2 points per threshold.
 

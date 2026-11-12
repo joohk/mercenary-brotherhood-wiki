@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 20
 tier: 1
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-1 magic amulet that grants [[Soothing Touch]], worth 90 gold.
 

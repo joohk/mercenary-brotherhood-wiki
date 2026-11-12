@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Blood Magic
 trait_type: ability
+up: "[[Blood Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Blood Magic]]
 
 An uncommon ability skill trait of [[Blood Magic]] with 1 rank, granting [[Bloodseeker (Ability)|Bloodseeker]].
 

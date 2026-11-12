@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 50
 ranged_defense: 45
 recruitment_threshold: 15
+up: "[[Deep & Stone Folk]]"
 vision: 5
 willpower: 65
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Deep & Stone Folk]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Willpower and Melee Attack compared with other races.
 

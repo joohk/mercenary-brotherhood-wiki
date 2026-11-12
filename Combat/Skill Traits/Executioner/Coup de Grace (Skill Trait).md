@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Executioner
 trait_type: ability
+up: "[[Executioner (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Executioner (Skill)]]
 
 An uncommon ability skill trait of [[Executioner (Skill)|Executioner]] with 2 ranks, granting [[Coup de Grace (Ability)|Coup de Grace]].
 

@@ -14,7 +14,10 @@ starting_skills:
   - Light Armor Proficiency
   - Dodge Master
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.08) that starts with Light Armor Proficiency, Dodge Master and Dagger Mastery.
 

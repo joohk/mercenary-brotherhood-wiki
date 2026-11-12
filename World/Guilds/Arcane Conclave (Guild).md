@@ -9,7 +9,10 @@ tags:
   - type/guild
 source: guilds/guilds.json
 signature_size: 5
+up: "[[Guilds]]"
 ---
+
+[[Home]] › [[World]] › [[Guilds]]
 
 A guild whose halls appear inside villages, towns and the capital, offering veteran recruits with themed backgrounds, signature skills and gear.
 

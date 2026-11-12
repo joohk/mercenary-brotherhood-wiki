@@ -16,8 +16,11 @@ family: berserker
 group: base
 name_theme: wild
 rarity_min: rare
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A rare-or-better magic property for weapons and body armor.
 

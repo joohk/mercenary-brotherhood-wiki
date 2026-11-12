@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Dagger Mastery
 trait_type: ability
+up: "[[Dagger Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Dagger Mastery]]
 
 An uncommon ability skill trait of [[Dagger Mastery]] with 2 ranks, granting [[Lacerate (Ability)|Lacerate]].
 

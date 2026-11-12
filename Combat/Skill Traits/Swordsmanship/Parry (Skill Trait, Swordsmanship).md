@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Swordsmanship
 trait_type: passive
+up: "[[Swordsmanship]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Swordsmanship]]
 
 An uncommon passive skill trait of [[Swordsmanship]] with 2 ranks.
 

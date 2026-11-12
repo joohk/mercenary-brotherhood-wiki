@@ -12,7 +12,10 @@ tags:
 source: traits/awakening_traits.json
 awakening_tier: 9
 rarity: awakening
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A tier-9 awakening trait (ability) that grants the active ability [[Avatar State (Minor) (Ability)|Avatar State (Minor)]]. At each awakening tier the player picks one trait from that tier's offer.
 

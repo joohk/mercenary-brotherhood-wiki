@@ -13,7 +13,10 @@ source: traits/combat_traits.json
 attack_affinity:
   - melee
 rarity: rare
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A rare combat trait (terrain).
 

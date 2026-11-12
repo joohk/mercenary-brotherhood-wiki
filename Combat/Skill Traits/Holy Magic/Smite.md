@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Holy Magic
 trait_type: ability
+up: "[[Holy Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Holy Magic]]
 
 An uncommon ability skill trait of [[Holy Magic]] with 2 ranks, granting [[Smite Undead]].
 

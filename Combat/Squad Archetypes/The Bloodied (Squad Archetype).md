@@ -11,7 +11,10 @@ tags:
 source: traits/squad_archetypes.json
 family: the_bloodied
 tier: 2
+up: "[[Squad Archetypes]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Squad Archetypes]]
 
 Tier 2 of 5 in the squad archetype family [[The Bloodied (Archetype Family)|The Bloodied]].
 

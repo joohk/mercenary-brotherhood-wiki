@@ -20,8 +20,11 @@ stance: aggressive
 threat_cost: 30
 tier: 5
 title: Warchief of the Broken Tusk
+up: "[[Arch-Villains]]"
 xp: 210
 ---
+
+[[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
 An arch-villain of the [[Greenskin Warband]] — *Warchief of the Broken Tusk*. Awakens from company level 6; 320 HP, 8 armor, worth 210 XP and 130 gold.
 

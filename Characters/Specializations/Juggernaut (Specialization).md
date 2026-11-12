@@ -13,7 +13,10 @@ base_threshold_interval: 80
 metric: damage_absorbed_total
 points_per_threshold: 1
 spec_category: endurance
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 An Endurance specialization. Tracks *Damage Absorbed* — every 80 → 1 point.
 

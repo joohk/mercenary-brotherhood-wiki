@@ -19,7 +19,10 @@ location: surface
 map_type: palisade_camp
 rarity: common
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A common surface enemy base held by [[Beasts]].
 

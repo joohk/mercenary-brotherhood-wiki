@@ -14,7 +14,10 @@ starting_skills:
   - Shield Wall
   - Heavy Armor Proficiency
   - Melee Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.69) that starts with Shield Wall, Heavy Armor Proficiency and Melee Mastery.
 

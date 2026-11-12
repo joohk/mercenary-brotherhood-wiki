@@ -15,7 +15,10 @@ range: 3
 requires_los: false
 source_type: Racial
 target_type: empty_hex
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP ability targeting an empty hex up to 3 hexes away.
 

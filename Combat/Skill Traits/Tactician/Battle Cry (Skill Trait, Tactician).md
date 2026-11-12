@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Tactician
 trait_type: ability
+up: "[[Tactician]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Tactician]]
 
 An uncommon ability skill trait of [[Tactician]] with 1 rank, granting [[Battle Cry (Ability)|Battle Cry]].
 

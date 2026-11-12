@@ -15,8 +15,11 @@ family: vampiric
 group: base
 name_theme: blood
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for weapons.
 

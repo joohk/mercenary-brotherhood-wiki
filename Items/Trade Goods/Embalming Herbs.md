@@ -15,7 +15,10 @@ family: herb
 price: 95
 rarity: uncommon
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 An uncommon realm-specialty trade good (herb), base price 95 gold.
 

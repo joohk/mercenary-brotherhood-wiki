@@ -14,7 +14,10 @@ starting_skills:
   - Swordsmanship
   - Light Armor Proficiency
   - Counter Fighter
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A legendary background (hire cost ×2.28) that starts with Swordsmanship, Light Armor Proficiency and Counter Fighter.
 

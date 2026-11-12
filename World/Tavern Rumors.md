@@ -4,7 +4,10 @@ tags:
   - type/config
   - world/tavern
 source: pois/tavern_rumors.json
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 What you hear when you buy a round of drinks at a tavern.
 

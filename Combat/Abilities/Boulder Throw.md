@@ -15,7 +15,10 @@ range: 6
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Stone Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Stone Magic]]
 
 A 1-AP magic ability targeting one enemy up to 6 hexes away.
 

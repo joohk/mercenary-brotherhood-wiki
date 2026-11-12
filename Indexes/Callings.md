@@ -4,7 +4,10 @@ tags:
   - type/index
 source: callings/callings.json
 count: 5
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 5 callings in the game data.
 

@@ -14,7 +14,10 @@ range: 1
 requires_los: false
 source_type: Granted by game code
 target_type: ally
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A free-action ability targeting an adjacent ally.
 

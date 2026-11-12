@@ -16,7 +16,10 @@ hp_cost: 8
 requires_los: false
 source_type: Granted by game code
 target_type: self
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP magic ability used on yourself.
 

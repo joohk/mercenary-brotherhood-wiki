@@ -12,7 +12,10 @@ base_threshold_interval: 3
 metric: turns_spent_on_fire
 points_per_threshold: 3
 spec_category: endurance
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 An Endurance specialization. Tracks *Turns Burning* — every 3 → 3 points.
 

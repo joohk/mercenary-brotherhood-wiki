@@ -15,7 +15,10 @@ range: 3
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Holy Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Holy Magic]]
 
 A 1-AP magic ability targeting one enemy up to 3 hexes away.
 

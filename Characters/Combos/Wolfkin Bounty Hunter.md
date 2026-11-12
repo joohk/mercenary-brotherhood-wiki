@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Bounty Hunter
 race: Wolfkin
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Wolfkin recruits with the Bounty Hunter background can roll the exclusive trait Blood Scent.
 

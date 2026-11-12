@@ -19,7 +19,10 @@ services:
   - fungus_market
   - shadow_broker
 settlement_type: town
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground town in the mid depth zone (company level 4-7).
 

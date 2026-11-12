@@ -22,7 +22,10 @@ level_min: 5
 terrain:
   - hills
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for hills terrain, from company level 5, with 6 enemy groups.
 

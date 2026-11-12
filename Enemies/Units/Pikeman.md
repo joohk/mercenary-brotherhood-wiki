@@ -16,8 +16,11 @@ hp: 101
 stance: defensive
 threat_cost: 5
 tier: 3
+up: "[[Rival Mercenaries]]"
 xp: 30
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Rival Mercenaries]]
 
 A tier-3 enemy of the [[Rival Mercenaries]] faction — 101 HP, 12 armor, worth 30 XP and 24 gold.
 

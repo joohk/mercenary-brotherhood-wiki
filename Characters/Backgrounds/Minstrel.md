@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.75
 recruitment_weight: 30
 starting_skills:
   - Performance
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.75) that starts with Performance.
 

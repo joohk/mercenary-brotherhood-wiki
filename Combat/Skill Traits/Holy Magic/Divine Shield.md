@@ -13,7 +13,10 @@ ranks: 3
 rarity: rare
 skill: Holy Magic
 trait_type: passive
+up: "[[Holy Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Holy Magic]]
 
 A rare passive skill trait of [[Holy Magic]] with 3 ranks.
 

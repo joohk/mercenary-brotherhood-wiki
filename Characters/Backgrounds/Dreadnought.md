@@ -14,7 +14,10 @@ starting_skills:
   - Heavy Armor Proficiency
   - Shield Wall
   - Mace Fighting
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.85) that starts with Heavy Armor Proficiency, Shield Wall and Mace Fighting.
 

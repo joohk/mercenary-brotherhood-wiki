@@ -15,8 +15,11 @@ fatigue_cost: 35
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP support ability centred on yourself (radius 1), usable once per battle.
 

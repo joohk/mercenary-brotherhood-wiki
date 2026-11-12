@@ -16,8 +16,11 @@ hp: 19
 stance: ranged
 threat_cost: 1
 tier: 0
+up: "[[Desperate Rabble]]"
 xp: 5
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Desperate Rabble]]
 
 A tier-0 enemy of the [[Desperate Rabble]] faction — 19 HP, 0 armor, worth 5 XP and 2 gold.
 

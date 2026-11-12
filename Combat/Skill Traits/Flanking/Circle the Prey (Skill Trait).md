@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Flanking
 trait_type: ability
+up: "[[Flanking]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Flanking]]
 
 A common ability skill trait of [[Flanking]] with 2 ranks, granting [[Circle the Prey (Ability)|Circle the Prey]].
 

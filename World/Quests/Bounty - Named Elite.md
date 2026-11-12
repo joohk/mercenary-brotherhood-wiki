@@ -19,9 +19,12 @@ gold_max: 700
 gold_min: 420
 quest_type: bounty
 reputation_change: 12
+up: "[[Quests]]"
 xp_company: 80
 xp_squad: 50
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A bounty for company level 3+, given by a settlement. In game the title reads `Bounty: {bounty_name}`, with the blanks filled in when it is posted.
 

@@ -20,9 +20,12 @@ quest_source: kings_hall
 quest_type: kill_enemies
 reputation_change: 10
 time_limit_days: 60
+up: "[[Quests]]"
 xp_company: 100
 xp_squad: 60
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A prestige contract (kill enemies) for company level 5+, given by the King. In game the title reads `Pacify the Lands Around {destination_name}`, with the blanks filled in when it is posted.
 

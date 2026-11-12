@@ -19,9 +19,12 @@ gold_max: 1120
 gold_min: 700
 quest_type: destroy_base
 reputation_change: 14
+up: "[[Quests]]"
 xp_company: 140
 xp_squad: 280
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (destroy base) for company level 4-7, given by a settlement. In game the title reads `Storm the {base_name}`, with the blanks filled in when it is posted.
 

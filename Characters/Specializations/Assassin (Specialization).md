@@ -13,7 +13,10 @@ base_threshold_interval: 5
 metric: critical_hits_landed
 points_per_threshold: 2
 spec_category: precision
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Precision specialization. Tracks *Critical Hits* — every 5 → 2 points.
 

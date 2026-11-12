@@ -16,8 +16,11 @@ group: cdr
 name_theme: swift
 rarity_min: epic
 spawn_weight: 0.18
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for accessories.
 

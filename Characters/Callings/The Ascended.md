@@ -9,7 +9,10 @@ tags:
 source: callings/callings.json
 condition: ascended
 target: 2
+up: "[[Callings]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Callings]]
 
 A calling (the campaign's victory goal): Bring 2 units to ascendancy.
 

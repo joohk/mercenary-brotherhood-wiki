@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Tinkerer
 race: Gnome
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Gnome recruits with the Tinkerer background can roll the exclusive trait Tinker's Trap.
 

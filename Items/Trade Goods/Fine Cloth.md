@@ -15,7 +15,10 @@ family: textile
 price: 120
 rarity: uncommon
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 An uncommon trade good (textile), base price 120 gold.
 

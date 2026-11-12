@@ -13,7 +13,10 @@ base_threshold_interval: 5
 metric: melee_finishing_blows
 points_per_threshold: 2
 spec_category: slaughter
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Slaughter specialization. Tracks *Melee Kills* — every 5 → 2 points.
 

@@ -21,7 +21,10 @@ rarity: relic
 slot: weapon
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic two-handed axe dropped by the arch-villain [[Gorthak the Beast King]]. It awakens in three stages as its wielder racks up kills.
 

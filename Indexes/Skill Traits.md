@@ -4,7 +4,10 @@ tags:
   - type/index
 source: skills/
 count: 422
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 422 skill traits in the game data.
 

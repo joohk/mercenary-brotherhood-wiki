@@ -26,7 +26,10 @@ terrain:
   - plains
   - road
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for plains and road terrain, from company level 5, with 9 enemy groups.
 

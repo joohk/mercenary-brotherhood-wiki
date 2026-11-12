@@ -15,7 +15,10 @@ range: 5
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Shadow Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Shadow Magic]]
 
 A 1-AP magic ability targeting one enemy up to 5 hexes away.
 

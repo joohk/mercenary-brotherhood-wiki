@@ -16,8 +16,11 @@ hp: 92
 stance: defensive
 threat_cost: 3
 tier: 2
+up: "[[Duergar]]"
 xp: 18
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]] › [[Duergar]]
 
 A tier-2 enemy of the [[Duergar]] faction — 92 HP, 9 armor, worth 18 XP and 12 gold.
 

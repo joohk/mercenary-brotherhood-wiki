@@ -16,8 +16,11 @@ hp: 45
 stance: aggressive
 threat_cost: 1
 tier: 1
+up: "[[The Inquisition]]"
 xp: 9
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]] › [[The Inquisition]]
 
 A tier-1 enemy of [[The Inquisition]] faction — 45 HP, 0 armor, worth 9 XP and 4 gold.
 

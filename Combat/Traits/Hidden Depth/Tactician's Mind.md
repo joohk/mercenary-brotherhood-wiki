@@ -12,7 +12,10 @@ tags:
 source: traits/hidden_depth_traits.json
 rarity: rare
 stage: 1
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 Stage 1 of 3 of a hidden depth: a rare trait that can surface and deepen over a unit's career.
 

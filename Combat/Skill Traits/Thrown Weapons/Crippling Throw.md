@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Thrown Weapons
 trait_type: passive
+up: "[[Thrown Weapons]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Thrown Weapons]]
 
 An uncommon passive skill trait of [[Thrown Weapons]] with 2 ranks.
 

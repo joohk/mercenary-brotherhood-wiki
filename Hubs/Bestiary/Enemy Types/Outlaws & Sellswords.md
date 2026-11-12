@@ -1,0 +1,59 @@
+---
+type: hub
+tags:
+  - type/hub
+up: "[[Enemy Types]]"
+---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]]
+
+5 factions, 32 unit types, from company level 1+.
+
+## Factions
+
+| Name | Company level | AI | Units | Tiers | Villains |
+|---|---|---|---|---|---|
+| [[Desperate Rabble]] | 1-2 | [[How Enemies Behave#Undisciplined\|Undisciplined]] | 5 | 0-1 | — |
+| [[Bandits]] | 1+ | [[How Enemies Behave#Undisciplined\|Undisciplined]] | 7 | 1-2 | — |
+| [[Deserters]] | 2+ | [[How Enemies Behave#Professional\|Professional]] | 8 | 1-3 | — |
+| [[Rival Mercenaries]] | 3+ | [[How Enemies Behave#Professional\|Professional]] | 7 | 2-4 | [[Warlord Ash]] |
+| [[Veteran Company]] | 7+ | [[How Enemies Behave#Professional\|Professional]] | 5 | 3-4 | — |
+
+## Units
+
+| Name | Art | Faction | Tier | HP | Armor | MAtk/MDef | Dmg | XP |
+|---|---|---|---|---|---|---|---|---|
+| [[Cutpurse]] | ![[_assets/Units/RabbleCutpurse.webp\|40]] | [[Desperate Rabble]] | 0 | 22 | 0 | 38/36 | 4-9 | 7 |
+| [[Starving Thug]] | ![[_assets/Units/StarvingThug.webp\|40]] | [[Desperate Rabble]] | 0 | 25 | 0 | 48/25 | 6-11 | 6 |
+| [[Stone Thrower]] | ![[_assets/Units/RabbleStoneThrower.webp\|40]] | [[Desperate Rabble]] | 0 | 19 | 0 | 20/18 | 6-11 (ranged) | 5 |
+| [[Bandit Cutthroat]] | ![[_assets/Units/BanditCutthroat.webp\|40]] | [[Bandits]] | 1 | 62 | 3 | 72/50 | 13-22 | 18 |
+| [[Deserter Footman]] | ![[_assets/Units/DeserterFootman.webp\|40]] | [[Deserters]] | 1 | 60 | 4 | 56/42 | 10-17 | 12 |
+| [[Deserter Militia]] | ![[_assets/Units/DeserterMilitia.webp\|40]] | [[Deserters]] | 1 | 55 | 3 | 51/38 | 10-17 | 10 |
+| [[Deserter Swordsman]] | ![[_assets/Units/DeserterSwordsman.webp\|40]] | [[Deserters]] | 1 | 60 | 2 | 61/42 | 11-17 | 16 |
+| [[Elf Bandit Archer]] | ![[_assets/Units/BanditArcher.webp\|40]] | [[Bandits]] | 1 | 48 | 1 | 35/36 | 12-20 (ranged) | 20 |
+| [[Goblin Bandit Shaman]] | ![[_assets/Units/BanditHedgeWitch.webp\|40]] | [[Bandits]] | 1 | 36 | 0 | 28/30 | 6-12 | 15 |
+| [[Halfling Cutpurse]] | ![[_assets/Units/HalflingCutpurse.webp\|40]] | [[Bandits]] | 1 | 44 | 1 | 55/56 | 8-15 | 15 |
+| [[Orc Bandit Raider]] | ![[_assets/Units/BanditRaider.webp\|40]] | [[Bandits]] | 1 | 88 | 6 | 66/40 | 11-19 | 16 |
+| [[Orc Thug]] | ![[_assets/Units/BanditRaider.webp\|40]] | [[Bandits]] | 1 | 98 | 6 | 61/35 | 12-21 | 14 |
+| [[Rabble Ringleader]] | ![[_assets/Units/RabbleRingleader.webp\|40]] | [[Desperate Rabble]] | 1 | 48 | 2 | 55/32 | 12-20 | 12 |
+| [[Torchbearer]] | ![[_assets/Units/RabbleTorchbearer.webp\|40]] | [[Desperate Rabble]] | 1 | 26 | 0 | 25/22 | 4-8 (ranged) | 8 |
+| [[Bandit Captain]] | ![[_assets/Units/BanditCaptain.webp\|40]] | [[Bandits]] | 2 | 125 | 11 | 82/64 | 15-25 | 45 |
+| [[Deserter Archer]] | ![[_assets/Units/DeserterArcher.webp\|40]] | [[Deserters]] | 2 | 66 | 7 | 55/47 | 10-16 (ranged) | 18 |
+| [[Deserter Sergeant]] | ![[_assets/Units/DeserterSergeant.webp\|40]] | [[Deserters]] | 2 | 106 | 10 | 77/62 | 14-22 | 25 |
+| [[Mercenary Crossbowman]] | ![[_assets/Units/MercenaryCrossbowman.webp\|40]] | [[Rival Mercenaries]] | 2 | 73 | 7 | 57/51 | 14-21 (ranged) | 20 |
+| [[Mercenary Mage]] | ![[_assets/Units/MercenaryMage.webp\|40]] | [[Rival Mercenaries]] | 2 | 66 | 4 | 46/44 | 7-12 (ranged) | 25 |
+| [[Rogue Battlemage]] | ![[_assets/Units/RogueBattleMage.webp\|40]] | [[Deserters]] | 2 | 61 | 3 | 44/40 | 7-12 (ranged) | 22 |
+| [[Sellsword (Enemy)\|Sellsword]] | ![[_assets/Units/Sellsword.webp\|40]] | [[Rival Mercenaries]] | 2 | 99 | 9 | 75/62 | 15-24 | 20 |
+| [[Shield Bearer]] | ![[_assets/Units/ShieldBearer.webp\|40]] | [[Rival Mercenaries]] | 2 | 112 | 12 | 68/73 | 14-22 | 18 |
+| [[Deserter Captain]] | ![[_assets/Units/DeserterCaptain.webp\|40]] | [[Deserters]] | 3 | 123 | 14 | 87/71 | 28-44 | 38 |
+| [[Elf Veteran Archer]] | ![[_assets/Units/ElfVeteranArcher.webp\|40]] | [[Veteran Company]] | 3 | 90 | 8 | 71/66 | 27-44 (ranged) | 28 |
+| [[Goblin Sapper-Veteran]] | ![[_assets/Units/GoblinSapperVeteran.webp\|40]] | [[Veteran Company]] | 3 | 83 | 9 | 67/63 | 25-41 (ranged) | 26 |
+| [[Halfling Scout-Veteran]] | ![[_assets/Units/HalflingScoutVeteran.webp\|40]] | [[Veteran Company]] | 3 | 78 | 8 | 86/86 | 27-41 | 26 |
+| [[Human Veteran Soldier]] | ![[_assets/Units/VeteranSoldier.webp\|40]] | [[Veteran Company]] | 3 | 115 | 14 | 89/75 | 30-49 | 30 |
+| [[Mercenary Knight]] | ![[_assets/Units/MercenaryKnight.webp\|40]] | [[Rival Mercenaries]] | 3 | 130 | 16 | 92/75 | 19-30 | 38 |
+| [[Pikeman]] | ![[_assets/Units/Pikeman.webp\|40]] | [[Rival Mercenaries]] | 3 | 101 | 12 | 87/69 | 18-29 | 30 |
+| [[Rogue Knight]] | ![[_assets/Units/RogueKnight.webp\|40]] | [[Deserters]] | 3 | 130 | 15 | 90/74 | 19-30 | 35 |
+| [[Mercenary Captain]] | ![[_assets/Units/MercenaryCaptain.webp\|40]] | [[Rival Mercenaries]] | 4 | 156 | 18 | 107/86 | 34-55 | 58 |
+| [[Orc Veteran Sergeant]] | ![[_assets/Units/OrcVeteranSergeant.webp\|40]] | [[Veteran Company]] | 4 | 166 | 19 | 108/89 | 45-73 | 55 |
+
+*Generated by `wiki-builder/build.py`. Edits will be overwritten — put your own notes in Notes/.*

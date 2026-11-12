@@ -15,8 +15,11 @@ family: phoenix
 group: base
 name_theme: nature
 rarity_min: ascendant
+up: "[[Magic Properties]]"
 weight: 4
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An ascendant-only magic property for accessories.
 

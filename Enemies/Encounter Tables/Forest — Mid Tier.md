@@ -21,7 +21,10 @@ level_min: 4
 terrain:
   - forest
 trigger: random
+up: "[[Encounter Tables]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Encounter Tables]]
 
 A random encounter table for forest terrain, from company level 4, with 6 enemy groups.
 

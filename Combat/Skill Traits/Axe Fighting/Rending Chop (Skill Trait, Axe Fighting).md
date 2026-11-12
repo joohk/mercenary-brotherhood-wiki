@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Axe Fighting
 trait_type: ability
+up: "[[Axe Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Axe Fighting]]
 
 An uncommon ability skill trait of [[Axe Fighting]] with 2 ranks, granting [[Rending Chop (Ability)|Rending Chop]].
 

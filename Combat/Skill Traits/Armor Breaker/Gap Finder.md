@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Armor Breaker
 trait_type: passive
+up: "[[Armor Breaker]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Armor Breaker]]
 
 A common passive skill trait of [[Armor Breaker]] with 2 ranks.
 

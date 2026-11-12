@@ -13,7 +13,10 @@ base_threshold_interval: 3
 metric: kills_with_poison_dot
 points_per_threshold: 3
 spec_category: resolve
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Resolve specialization. Tracks *Poison DoT Kills* — every 3 → 3 points.
 

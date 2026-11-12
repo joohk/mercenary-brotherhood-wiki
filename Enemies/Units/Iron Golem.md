@@ -16,8 +16,11 @@ hp: 450
 stance: aggressive
 threat_cost: 13
 tier: 4
+up: "[[Duergar]]"
 xp: 70
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]] › [[Duergar]]
 
 A tier-4 enemy of the [[Duergar]] faction — 450 HP, 26 armor, worth 70 XP and 50 gold.
 

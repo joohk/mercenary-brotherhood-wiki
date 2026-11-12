@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Berserker
 trait_type: ability
+up: "[[Berserker (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Berserker (Skill)]]
 
 An uncommon ability skill trait of [[Berserker (Skill)|Berserker]] with 1 rank, granting [[Bull Rush (Ability)|Bull Rush]].
 

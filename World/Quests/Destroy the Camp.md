@@ -19,9 +19,12 @@ gold_max: 180
 gold_min: 100
 quest_type: destroy_base
 reputation_change: 4
+up: "[[Quests]]"
 xp_company: 30
 xp_squad: 60
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (destroy base) for company level 1-4, given by a settlement. In game the title reads `Destroy the {base_name}`, with the blanks filled in when it is posted.
 

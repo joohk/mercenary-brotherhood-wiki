@@ -17,8 +17,11 @@ family: hardened
 group: base
 name_theme: iron
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for shields, body armor and helmets.
 

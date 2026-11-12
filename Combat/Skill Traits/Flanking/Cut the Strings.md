@@ -13,7 +13,10 @@ ranks: 2
 rarity: rare
 skill: Flanking
 trait_type: passive
+up: "[[Flanking]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Flanking]]
 
 A rare passive skill trait of [[Flanking]] with 2 ranks.
 

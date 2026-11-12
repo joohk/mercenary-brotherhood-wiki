@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Grave Knight
 race: Orc
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Orc recruits with the Grave Knight background can roll the exclusive trait Grave Pact.
 

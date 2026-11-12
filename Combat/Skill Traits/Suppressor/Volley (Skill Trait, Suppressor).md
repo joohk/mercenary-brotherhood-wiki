@@ -14,7 +14,10 @@ ranks: 1
 rarity: uncommon
 skill: Suppressor
 trait_type: ability
+up: "[[Suppressor]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Suppressor]]
 
 An uncommon ability skill trait of [[Suppressor]] with 1 rank, granting [[Volley (Ability)|Volley]].
 

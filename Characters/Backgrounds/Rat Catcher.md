@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.6
 starting_skills:
   - Thrown Weapons
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.6) that starts with Thrown Weapons.
 

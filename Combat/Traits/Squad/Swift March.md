@@ -11,7 +11,10 @@ tags:
   - type/trait
 source: traits/squad_traits.json
 rarity: common
+up: "[[Traits]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Traits]]
 
 A common squad trait: its bonuses apply to every member of the squad.
 

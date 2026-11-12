@@ -14,7 +14,10 @@ starting_skills:
   - Dual Wield Mastery
   - Light Armor Proficiency
   - Swordsmanship
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.58) that starts with Dual Wield Mastery, Light Armor Proficiency and Swordsmanship.
 

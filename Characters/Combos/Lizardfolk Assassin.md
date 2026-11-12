@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Assassin
 race: Lizardfolk
 rarity: rare
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A rare race–background combo: Lizardfolk recruits with the Assassin background can roll the exclusive trait Venomous Cunning.
 

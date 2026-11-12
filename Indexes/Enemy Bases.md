@@ -6,7 +6,10 @@ source:
   - world/enemy_bases.json
   - world/underground_enemy_bases.json
 count: 38
+up: "[[World]]"
 ---
+
+[[Home]] › [[World]]
 
 All 38 enemy bases in the game data.
 

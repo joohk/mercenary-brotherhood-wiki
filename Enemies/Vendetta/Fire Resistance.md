@@ -10,7 +10,10 @@ tags:
 source: vendetta/vendetta_traits.json
 counters: fire
 trait_category: adaptation
+up: "[[Vendetta Traits]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Vendetta Traits]]
 
 A [[Vendetta|vendetta]] trait: an adaptation that counters fire.
 

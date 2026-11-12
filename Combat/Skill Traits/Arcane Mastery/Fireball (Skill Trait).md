@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Arcane Mastery
 trait_type: ability
+up: "[[Arcane Mastery]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Arcane Mastery]]
 
 An uncommon ability skill trait of [[Arcane Mastery]] with 2 ranks, granting [[Fireball (Ability)|Fireball]].
 

@@ -15,7 +15,10 @@ no_sell: true
 price: 600
 rarity: normal
 tier: 5
+up: "[[Monster Parts]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Monster Parts]]
 
 A tier-5 ore (monster part), harvested from slain creatures, worth 600 gold. It cannot be sold.
 

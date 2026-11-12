@@ -17,7 +17,10 @@ range: 4
 requires_los: true
 source_type: Granted by game code
 target_type: ally
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP magic ability targeting an ally up to 4 hexes away.
 

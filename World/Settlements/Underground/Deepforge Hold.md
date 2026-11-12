@@ -17,7 +17,10 @@ services:
   - shop
   - quest_board
 settlement_type: fort
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 An underground fort in the shallow depth zone (accessible from early game).
 

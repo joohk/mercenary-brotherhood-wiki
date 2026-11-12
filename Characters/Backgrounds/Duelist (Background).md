@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.23
 starting_skills:
   - Swordsmanship
   - Dodge Master
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.23) that starts with Swordsmanship and Dodge Master.
 

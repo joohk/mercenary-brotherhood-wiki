@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Formation Fighter
 trait_type: passive
+up: "[[Formation Fighter]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Formation Fighter]]
 
 An uncommon passive skill trait of [[Formation Fighter]] with 2 ranks.
 

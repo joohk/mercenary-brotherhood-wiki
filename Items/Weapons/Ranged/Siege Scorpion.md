@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 3
+up: "[[Other Weapons]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Other Weapons]]
 
 A tier-3 two-handed piercing siege weapon dealing 10-16 damage at range 7, worth 100 gold.
 

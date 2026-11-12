@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.25
 starting_skills:
   - Crossbow Mastery
   - Dagger Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.25) that starts with Crossbow Mastery and Dagger Mastery.
 

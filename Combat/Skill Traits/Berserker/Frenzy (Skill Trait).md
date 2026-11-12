@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Berserker
 trait_type: ability
+up: "[[Berserker (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Berserker (Skill)]]
 
 An uncommon ability skill trait of [[Berserker (Skill)|Berserker]] with 2 ranks, granting [[Frenzy (Ability)|Frenzy]].
 

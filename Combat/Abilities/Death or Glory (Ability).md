@@ -16,8 +16,11 @@ range: 7
 requires_los: true
 source_type: Skill
 target_type: enemy
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 2-AP melee ability targeting one enemy up to 7 hexes away, usable once per battle.
 

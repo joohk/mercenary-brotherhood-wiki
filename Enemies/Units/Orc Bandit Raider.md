@@ -17,8 +17,11 @@ race: Orc
 stance: aggressive
 threat_cost: 4
 tier: 1
+up: "[[Bandits]]"
 xp: 16
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Bandits]]
 
 A tier-1 Orc enemy of the [[Bandits]] faction — 88 HP, 6 armor, worth 16 XP and 10 gold.
 

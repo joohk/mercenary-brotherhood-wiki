@@ -14,7 +14,10 @@ recruitment_cost_modifier: 1.27
 starting_skills:
   - Crossbow Mastery
   - Swordsmanship
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.27) that starts with Crossbow Mastery and Swordsmanship.
 

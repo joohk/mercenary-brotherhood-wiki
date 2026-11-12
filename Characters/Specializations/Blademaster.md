@@ -13,7 +13,10 @@ metric: sword_kills
 points_per_threshold: 1
 requires_weapon_tag: sword
 spec_category: weapon_mastery
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Weapon Mastery specialization. Tracks *Sword Kills* — every 4 → 1 point. Only while wielding a **sword**.
 

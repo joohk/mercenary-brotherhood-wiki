@@ -15,8 +15,11 @@ family: bleeding
 group: base
 name_theme: blood
 rarity_min: uncommon
+up: "[[Magic Properties]]"
 weight: 1
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An uncommon-or-better magic property for weapons.
 

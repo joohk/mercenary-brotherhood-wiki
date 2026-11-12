@@ -17,9 +17,12 @@ size: large
 stance: aggressive
 threat_cost: 9
 tier: 4
+up: "[[Greenskin Warband]]"
 variant_archetype: warlord
 xp: 55
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Greenskin Warband]]
 
 A tier-4 large enemy of the [[Greenskin Warband]] faction — 172 HP, 16 armor, worth 55 XP and 44 gold.
 

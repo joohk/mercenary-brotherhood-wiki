@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 12
 tier: 3
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-3 magic amulet with Reflect 6 damage to melee attackers, worth 180 gold.
 

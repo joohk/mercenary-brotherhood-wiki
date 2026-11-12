@@ -17,7 +17,10 @@ location: surface
 rarity: uncommon
 repeatable: false
 rooms: 2
+up: "[[Dungeons]]"
 ---
+
+[[Home]] › [[World]] › [[Dungeons]]
 
 An uncommon surface dungeon held by [[Cult of the Hollow Eye]]; can be cleared once.
 

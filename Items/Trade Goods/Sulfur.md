@@ -15,7 +15,10 @@ family: raw material
 price: 110
 rarity: uncommon
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 An uncommon trade good (raw material), base price 110 gold.
 

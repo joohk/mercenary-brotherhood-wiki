@@ -21,7 +21,10 @@ rarity: relic
 slot: weapon
 tier: 7
 unique: true
+up: "[[Relics]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Relics]]
 
 A unique relic two-handed sword dropped by the arch-villain [[Bloodlord Kael]]. It awakens in three stages as its wielder racks up kills.
 

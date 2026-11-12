@@ -15,7 +15,10 @@ family: luxury
 price: 130
 rarity: uncommon
 tier: 1
+up: "[[Trade Goods]]"
 ---
+
+[[Home]] › [[World]] › [[Trade Goods]]
 
 An uncommon trade good (luxury), base price 130 gold.
 

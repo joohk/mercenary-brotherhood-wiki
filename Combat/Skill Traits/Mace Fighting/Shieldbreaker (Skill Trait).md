@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Mace Fighting
 trait_type: ability
+up: "[[Mace Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Mace Fighting]]
 
 An uncommon ability skill trait of [[Mace Fighting]] with 2 ranks, granting [[Shieldbreaker (Ability)|Shieldbreaker]].
 

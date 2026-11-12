@@ -14,7 +14,10 @@ level_min: 3
 tier_max: 5
 tier_min: 1
 units: 11
+up: "[[Armies & Orders]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Armies & Orders]]
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Disciplined|Disciplined]] (holds formation, coordinated): 11 unit types, tiers 1-5.
 

@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Holy Magic
 trait_type: ability
+up: "[[Holy Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Holy Magic]]
 
 A rare ability skill trait of [[Holy Magic]] with 3 ranks, granting [[Mend (Ability)|Mend]].
 

@@ -9,7 +9,10 @@ tags:
 source: callings/callings.json
 condition: survive_days
 target: 2000
+up: "[[Callings]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Callings]]
 
 A calling (the campaign's victory goal): Survive to day 2000.
 

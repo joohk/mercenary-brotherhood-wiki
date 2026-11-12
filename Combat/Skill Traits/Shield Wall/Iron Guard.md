@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Shield Wall
 trait_type: passive
+up: "[[Shield Wall (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Shield Wall (Skill)]]
 
 An uncommon passive skill trait of [[Shield Wall (Skill)|Shield Wall]] with 2 ranks.
 

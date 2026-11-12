@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Warlock
 race: Tiefling
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Tiefling recruits with the Warlock background can roll the exclusive trait Hellfire Pact.
 

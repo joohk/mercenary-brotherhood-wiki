@@ -16,7 +16,10 @@ range: 12
 requires_los: true
 source_type: Villain
 target_type: enemy
+up: "[[Abilities]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP magic ability targeting one enemy up to 12 hexes away.
 

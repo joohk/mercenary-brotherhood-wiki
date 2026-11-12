@@ -12,7 +12,10 @@ base_threshold_interval: 2
 metric: kills_while_burning
 points_per_threshold: 4
 spec_category: slaughter
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Slaughter specialization. Tracks *Kills While Burning* — every 2 → 4 points.
 

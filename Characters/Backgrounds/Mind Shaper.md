@@ -15,7 +15,10 @@ starting_skills:
   - Telekinesis
   - Battle Hardened
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A rare background (hire cost ×1.55) that starts with Telekinesis, Battle Hardened and Staff Mastery.
 

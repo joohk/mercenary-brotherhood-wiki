@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 55
 tier: 2
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A plain tier-2 ring, worth 60 gold. It has no bonuses of its own — magical versions get theirs from [[Magic Properties]].
 

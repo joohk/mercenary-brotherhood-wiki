@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 9
 tier: 4
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A hand-made tier-4 magic trinket with +8% [[Stats#Crit Chance|Crit Chance]] and +20% [[Stats#Crit Damage|Crit Damage]], worth 280 gold.
 

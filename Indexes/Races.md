@@ -4,7 +4,10 @@ tags:
   - type/index
 source: races/
 count: 26
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 26 races in the game data.
 

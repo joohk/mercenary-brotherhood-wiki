@@ -16,9 +16,12 @@ hp: 115
 stance: aggressive
 threat_cost: 5
 tier: 3
+up: "[[Duergar]]"
 variant_archetype: warlord
 xp: 35
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]] › [[Duergar]]
 
 A tier-3 enemy of the [[Duergar]] faction — 115 HP, 12 armor, worth 35 XP and 30 gold.
 

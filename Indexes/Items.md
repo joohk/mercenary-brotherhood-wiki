@@ -4,7 +4,10 @@ tags:
   - type/index
 source: items/
 count: 309
+up: "[[Arms & Armor]]"
 ---
+
+[[Home]] › [[Arms & Armor]]
 
 All 309 items in the game data.
 

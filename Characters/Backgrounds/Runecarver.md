@@ -15,7 +15,10 @@ starting_skills:
   - Arcane Mastery
   - Battle Hardened
   - Staff Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×0.96) that starts with Arcane Mastery, Battle Hardened and Staff Mastery.
 

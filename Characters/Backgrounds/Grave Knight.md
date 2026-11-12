@@ -13,7 +13,10 @@ recruitment_cost_modifier: 1.35
 starting_skills:
   - Swordsmanship
   - Heavy Armor Proficiency
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 An uncommon background (hire cost ×1.35) that starts with Swordsmanship and Heavy Armor Proficiency.
 

@@ -17,8 +17,11 @@ family: second_wind
 group: base
 name_theme: nature
 rarity_min: epic
+up: "[[Magic Properties]]"
 weight: 2
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 An epic-or-better magic property for body armor and accessories.
 

@@ -10,7 +10,10 @@ source: quests/quest_chains.json
 company_level_min: 2
 stages: 2
 trigger_chance: 0.06
+up: "[[Quest Chains]]"
 ---
+
+[[Home]] › [[World]] › [[Quest Chains]]
 
 A 2-stage quest chain from company level 2, with a 6% chance to trigger.
 

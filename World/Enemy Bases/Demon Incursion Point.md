@@ -18,7 +18,10 @@ location: underground
 map_type: dark_sanctum
 rarity: legendary
 repeatable: false
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 A legendary underground enemy base held by [[Demons]].
 

@@ -12,7 +12,10 @@ rarity: common
 recruitment_cost_modifier: 0.89
 starting_skills:
   - Spear Fighting
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.89) that starts with Spear Fighting.
 

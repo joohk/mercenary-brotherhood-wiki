@@ -18,8 +18,11 @@ range: 3
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Abilities]]"
 uses_per_battle: 1
 ---
+
+[[Home]] › [[Your Company]] › [[Abilities]]
 
 A 1-AP melee ability centred on yourself (radius 3), usable once per battle.
 

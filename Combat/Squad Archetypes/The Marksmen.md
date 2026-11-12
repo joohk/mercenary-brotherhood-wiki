@@ -10,7 +10,10 @@ tags:
 source: traits/squad_archetypes.json
 family: the_eye
 tier: 3
+up: "[[Squad Archetypes]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Squad Archetypes]]
 
 Tier 3 of 5 in the squad archetype family [[The Eye]].
 

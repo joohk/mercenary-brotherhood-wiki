@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Shield Wall
 trait_type: ability
+up: "[[Shield Wall (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Defense Skills]] › [[Shield Wall (Skill)]]
 
 An uncommon ability skill trait of [[Shield Wall (Skill)|Shield Wall]] with 2 ranks, granting [[Shield Bash (Ability)|Shield Bash]].
 

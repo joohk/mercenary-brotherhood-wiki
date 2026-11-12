@@ -14,7 +14,10 @@ metrics:
   - caster_kills
 points_per_threshold: 2
 spec_category: battlemage
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Battlemage specialization. Tracks *Crossbow Kills* (every 4) **and** *Caster Kills* (every 3) — both must climb; 2 points per threshold.
 

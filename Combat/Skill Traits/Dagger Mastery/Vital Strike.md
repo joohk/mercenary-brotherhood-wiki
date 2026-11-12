@@ -13,7 +13,10 @@ ranks: 2
 rarity: uncommon
 skill: Dagger Mastery
 trait_type: passive
+up: "[[Dagger Mastery]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Dagger Mastery]]
 
 An uncommon passive skill trait of [[Dagger Mastery]] with 2 ranks.
 

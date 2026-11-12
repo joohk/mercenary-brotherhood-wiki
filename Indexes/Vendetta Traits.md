@@ -4,7 +4,10 @@ tags:
   - type/index
 source: vendetta/vendetta_traits.json
 count: 18
+up: "[[Bestiary]]"
 ---
+
+[[Home]] › [[Bestiary]]
 
 All 18 vendetta traits in the game data.
 

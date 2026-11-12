@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Hammer Fighting
 trait_type: ability
+up: "[[Hammer Fighting]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Hammer Fighting]]
 
 A rare ability skill trait of [[Hammer Fighting]] with 3 ranks, granting [[Earthshaker (Ability)|Earthshaker]].
 

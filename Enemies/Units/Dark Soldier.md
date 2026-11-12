@@ -16,8 +16,11 @@ hp: 106
 stance: aggressive
 threat_cost: 4
 tier: 2
+up: "[[The Dread Host]]"
 xp: 25
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[The Dread Host]]
 
 A tier-2 enemy of [[The Dread Host]] faction — 106 HP, 11 armor, worth 25 XP and 18 gold.
 

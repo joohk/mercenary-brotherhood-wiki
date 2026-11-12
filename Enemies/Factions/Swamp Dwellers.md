@@ -14,7 +14,10 @@ level_min: 3
 tier_max: 4
 tier_min: 1
 units: 5
+up: "[[Wild Peoples]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]]
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 5 unit types, tiers 1-4.
 

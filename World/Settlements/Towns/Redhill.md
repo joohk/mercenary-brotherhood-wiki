@@ -17,7 +17,10 @@ services:
   - tavern
   - magic_shop
 settlement_type: town
+up: "[[Settlements]]"
 ---
+
+[[Home]] › [[World]] › [[Settlements]]
 
 A town with a mixed population.
 

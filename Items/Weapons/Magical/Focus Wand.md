@@ -22,7 +22,10 @@ rarity: normal
 slot: ranged
 spawn_weight: 40
 tier: 2
+up: "[[Wands]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Wands]]
 
 A tier-2 one-handed arcane wand dealing 6-11 damage at range 3, worth 300 gold.
 

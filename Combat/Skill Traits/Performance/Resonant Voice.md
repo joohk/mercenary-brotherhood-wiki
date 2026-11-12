@@ -13,7 +13,10 @@ ranks: 2
 rarity: common
 skill: Performance
 trait_type: ability
+up: "[[Performance]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Utility Skills]] › [[Performance]]
 
 A common ability skill trait of [[Performance]] with 2 ranks, granting [[Dirge of Despair]].
 

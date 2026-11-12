@@ -18,7 +18,10 @@ rarity: normal
 slot: body_armor
 spawn_weight: 2
 tier: 6
+up: "[[Heavy Armor]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Armor]] › [[Heavy Armor]]
 
 A tier-6 heavy armor giving 24 Armor, worth 9120 gold.
 

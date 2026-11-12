@@ -11,7 +11,10 @@ source: combos/race_background_combos.json
 background: Iron Warden
 race: Frostborn
 rarity: legendary
+up: "[[Race-Background Combos]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Race-Background Combos]]
 
 A legendary race–background combo: Frostborn recruits with the Iron Warden background can roll the exclusive trait Permafrost Grip.
 

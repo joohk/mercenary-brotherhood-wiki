@@ -17,7 +17,10 @@ rarity: normal
 slot: accessory
 spawn_weight: 40
 tier: 3
+up: "[[Accessories]]"
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Accessories]]
 
 A plain tier-3 amulet, worth 100 gold. It has no bonuses of its own — magical versions get theirs from [[Magic Properties]].
 

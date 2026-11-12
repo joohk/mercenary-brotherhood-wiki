@@ -14,7 +14,10 @@ recruitment_cost_modifier: 0.65
 recruitment_weight: 30
 starting_skills:
   - Arcane Mastery
+up: "[[Backgrounds]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Backgrounds]]
 
 A common background (hire cost ×0.65) that starts with Arcane Mastery.
 

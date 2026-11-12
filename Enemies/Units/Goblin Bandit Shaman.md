@@ -17,8 +17,11 @@ race: Goblin
 stance: defensive
 threat_cost: 2
 tier: 1
+up: "[[Bandits]]"
 xp: 15
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Bandits]]
 
 A tier-1 Goblin enemy of the [[Bandits]] faction — 36 HP, 0 armor, worth 15 XP and 10 gold.
 

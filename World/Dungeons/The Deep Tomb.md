@@ -17,7 +17,10 @@ location: underground
 rarity: rare
 repeatable: false
 rooms: 3
+up: "[[Dungeons]]"
 ---
+
+[[Home]] › [[World]] › [[Dungeons]]
 
 A rare underground dungeon held by [[The Restless Dead]]; can be cleared once.
 

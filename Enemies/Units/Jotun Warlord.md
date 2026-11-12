@@ -17,9 +17,12 @@ size: huge
 stance: aggressive
 threat_cost: 18
 tier: 5
+up: "[[The Jotunblight]]"
 variant_archetype: warlord
 xp: 95
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Giants]] › [[The Jotunblight]]
 
 A tier-5 huge enemy of [[The Jotunblight]] faction — 406 HP, 22 armor, worth 95 XP and 90 gold.
 

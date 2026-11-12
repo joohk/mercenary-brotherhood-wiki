@@ -19,7 +19,10 @@ location: surface
 map_type: swamp_platform
 rarity: uncommon
 repeatable: true
+up: "[[Enemy Bases]]"
 ---
+
+[[Home]] › [[World]] › [[Enemy Bases]]
 
 An uncommon surface enemy base held by [[Swamp Dwellers]], appearing from company level 3.
 

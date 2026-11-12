@@ -19,9 +19,12 @@ gold_max: 1400
 gold_min: 840
 quest_type: destroy_base
 reputation_change: 16
+up: "[[Quests]]"
 xp_company: 180
 xp_squad: 360
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A quest (destroy base) for company level 5-8, given by a settlement. In game the title reads `Purge the {base_name}`, with the blanks filled in when it is posted.
 

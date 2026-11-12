@@ -14,7 +14,10 @@ ranks: 2
 rarity: uncommon
 skill: Flanking
 trait_type: ability
+up: "[[Flanking]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Flanking]]
 
 An uncommon ability skill trait of [[Flanking]] with 2 ranks, granting [[Expose the Flank (Ability)|Expose the Flank]].
 

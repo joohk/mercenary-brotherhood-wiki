@@ -12,7 +12,10 @@ base_threshold_interval: 3
 metric: first_blood_count
 points_per_threshold: 3
 spec_category: precision
+up: "[[Specializations]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Specializations]]
 
 A Precision specialization. Tracks *First Kills of Battle* — every 3 → 3 points.
 

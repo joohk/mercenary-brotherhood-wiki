@@ -19,9 +19,12 @@ move_range: 1
 ranged_attack: 35
 ranged_defense: 45
 recruitment_threshold: 15
+up: "[[Otherworldly]]"
 vision: 5
 willpower: 38
 ---
+
+[[Home]] › [[Your Company]] › [[Race Families]] › [[Otherworldly]]
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Melee Attack and Initiative and weakest in Willpower compared with other races.
 

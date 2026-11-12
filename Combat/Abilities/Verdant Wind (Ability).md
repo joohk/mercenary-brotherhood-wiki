@@ -18,7 +18,10 @@ range: 0
 requires_los: false
 source_type: Skill
 target_type: self
+up: "[[Nature Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Nature Magic]]
 
 A 2-AP magic ability centred on yourself (radius 3).
 

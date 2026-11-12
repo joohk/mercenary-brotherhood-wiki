@@ -4,7 +4,10 @@ tags:
   - type/index
 source: combos/race_background_combos.json
 count: 31
+up: "[[Your Company]]"
 ---
+
+[[Home]] › [[Your Company]]
 
 All 31 race-background combos in the game data.
 

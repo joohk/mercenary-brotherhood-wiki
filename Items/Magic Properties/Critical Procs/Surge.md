@@ -16,8 +16,11 @@ group: crit_proc
 name_theme: keen
 rarity_min: legendary
 spawn_weight: 0.15
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for weapons.
 

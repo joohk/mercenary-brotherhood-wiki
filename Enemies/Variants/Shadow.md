@@ -10,7 +10,10 @@ tags:
 source: variants/variant_pools.json
 abilities: 7
 assignment: explicit
+up: "[[Enemy Variants]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Variants]]
 
 A variant archetype given only to enemies that name it in their data.
 

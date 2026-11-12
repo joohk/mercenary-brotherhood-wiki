@@ -20,9 +20,12 @@ quest_source: trade
 quest_type: trade
 reputation_change: 3
 time_limit_days: 80
+up: "[[Quests]]"
 xp_company: 20
 xp_squad: 10
 ---
+
+[[Home]] › [[World]] › [[Quests]]
 
 A trade quest for company level 2+, given by a settlement. In game the title reads `Deliver {good_name} to {destination_name}`, with the blanks filled in when it is posted.
 

@@ -14,7 +14,10 @@ level_min: 4
 tier_max: 5
 tier_min: 1
 units: 10
+up: "[[Underdark]]"
 ---
+
+[[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Underdark]]
 
 An enemy faction that appears from company level 4 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 10 unit types, tiers 1-5.
 

@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Dark Magic
 trait_type: ability
+up: "[[Dark Magic]]"
 ---
+
+[[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Dark Magic]]
 
 A rare ability skill trait of [[Dark Magic]] with 3 ranks, granting [[Soul Rend (Ability)|Soul Rend]].
 

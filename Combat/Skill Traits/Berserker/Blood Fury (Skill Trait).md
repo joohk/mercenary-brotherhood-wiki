@@ -14,7 +14,10 @@ ranks: 2
 rarity: common
 skill: Berserker
 trait_type: passive
+up: "[[Berserker (Skill)]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Melee Skills]] › [[Berserker (Skill)]]
 
 A common passive skill trait of [[Berserker (Skill)|Berserker]] with 2 ranks.
 

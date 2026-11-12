@@ -14,7 +14,10 @@ ranks: 3
 rarity: rare
 skill: Light Armor Proficiency
 trait_type: passive
+up: "[[Light Armor Proficiency]]"
 ---
+
+[[Home]] › [[Your Company]] › [[Armor Skills]] › [[Light Armor Proficiency]]
 
 A rare passive skill trait of [[Light Armor Proficiency]] with 3 ranks.
 

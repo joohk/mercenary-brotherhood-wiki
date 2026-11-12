@@ -16,8 +16,11 @@ family: commander
 group: base
 name_theme: blessed
 rarity_min: legendary
+up: "[[Magic Properties]]"
 weight: 3
 ---
+
+[[Home]] › [[Arms & Armor]] › [[Magic Properties]]
 
 A legendary-or-better magic property for helmets and accessories.
 
