@@ -66,6 +66,11 @@ A wiki of **Mercenary Brotherhood**, generated from the game's shipped modding d
 
 ## Mechanics
 
+- [[Ability Upgrade Values]]
+- [[Encounter Scaling]]
+- [[Magic Academy]]
+- [[Save Files]]
+- [[Skill Traits and Upgrades]]
 - [[Glossary]]
 - [[Stats]]
 - [[Racial Relations]]
