@@ -11,8 +11,8 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_melee.json
-damage_max: 16
-damage_min: 10
+damage_max: 18
+damage_min: 11
 damage_type: slashing
 family: throwing axe
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Axes]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
-A tier-1 one-handed slashing throwing axe dealing 10-16 damage, worth 25 gold.
+A tier-1 one-handed slashing throwing axe dealing 11-18 damage, worth 25 gold.
 
 ![[_assets/Icons/tier_1/axe_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-1 one-handed slashing throwing axe dealing 10-16 damage, worth 25 gold.
 | Tier | 1 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 10-16 |
+| [[Stats#Damage Min\|Damage]] | 11-18 |
 | [[Stats#Armor Pen\|Armor Pen]] | +2 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 25 |

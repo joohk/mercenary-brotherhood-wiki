@@ -31,7 +31,7 @@ Bonuses added on top of the recruit's race base stats.
 |---|---|
 | [[Stats#Willpower\|Willpower]] | +4 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | +5 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | +2 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | +3 |
 
 ## Signature
 

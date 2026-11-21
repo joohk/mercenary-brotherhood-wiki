@@ -45,7 +45,7 @@ A tier-4 Ratkin enemy of the [[Ratkin Empire]] faction — 126 HP, 12 armor, wor
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 6-10 |
-| Damage with weapon | 23-38 (base 6-10 + [[Tempered Spear]] 17-28) |
+| Damage with weapon | 27-44 (base 6-10 + [[Tempered Spear]] 21-34) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-4 Ratkin enemy of the [[Ratkin Empire]] faction — 126 HP, 12 armor, wor
 | Race | [[Ratkin]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 58 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Hardened Leather]] +9, [[Plate Helmet]] +3 | +12% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Hardened Leather]] +8, [[Plate Helmet]] +3 | +11% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Hardened Leather]] +10, [[Plate Helmet]] +8 | +18% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

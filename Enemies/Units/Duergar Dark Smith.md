@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Duergar]] faction — 94 HP, 10 armor, worth 38 XP and 3
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 17 |
 | [[Stats#Damage Min\|Damage]] | 7-10 |
-| Damage with weapon | 12-18 (base 7-10 + [[Forge Hammer]] 5-8) |
+| Damage with weapon | 13-19 (base 7-10 + [[Forge Hammer]] 6-9) |
 | Ranged Damage | 12-20 |
 | Ranged Range | 5 |
 
@@ -58,13 +58,25 @@ A tier-3 enemy of the [[Duergar]] faction — 94 HP, 10 armor, worth 38 XP and 3
 | Gold | 32 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 48 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

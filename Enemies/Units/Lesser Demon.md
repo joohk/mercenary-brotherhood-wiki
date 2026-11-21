@@ -55,13 +55,27 @@ A tier-3 enemy of the [[Demons]] faction — 123 HP, 12 armor, worth 42 XP and 2
 | Gold | 24 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Demons Combat Sheet\|all Demons units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 52 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +20% | — | +20% |
+| [[Stats#Pierce Resist\|Pierce]] | +20% | — | +20% |
+| [[Stats#Blunt Resist\|Blunt]] | +20% | — | +20% |
+| [[Stats#Fire Resist\|Fire]] | +40% | — | +40% |
+| [[Stats#Shadow Resist\|Shadow]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

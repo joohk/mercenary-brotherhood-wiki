@@ -29,7 +29,7 @@ Each column is the full bonus at that level (not added to the previous one).
 |---|---|---|---|
 | [[Stats#Max HP\|Max HP]] | +6 | +12 | +20 |
 | [[Stats#Melee Attack\|Melee Attack]] | +3 | +5 | +8 |
-| Bleed Resist | +10% | +15% | +25% |
+| [[Stats#Bleed Resist\|Bleed Resist]] | +10% | +15% | +25% |
 | [[Stats#Melee Defense\|Melee Defense]] | — | +3 | +5 |
 
 ## How it's earned

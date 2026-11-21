@@ -38,6 +38,7 @@ A security quest (kill enemies) for company level 3+, given by a settlement. In 
 | Difficulty tier | 3 of 5 |
 | Time limit | None |
 | Enemy faction | Chosen when the quest is posted |
+| Crime spree | Yes |
 | Posted when security is | 0-19 |
 
 **Hint:** Enter *settlement* to defend against the raiders.

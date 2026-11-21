@@ -24,7 +24,7 @@ uses_per_battle: 1
 
 A 2-AP magic ability used on yourself, usable once per battle.
 
-> Split into a second self you command directly. Both halves start at 50% HP and deal 50% damage; when one falls, the survivor is restored to full power. You endure as long as either body lives. Once per battle.
+> Split into a second self you command directly. Your current HP is divided evenly between the two bodies, and both deal 50% damage; when one falls, the survivor regains full damage, but not the lost HP. You endure as long as either body lives. Once per battle.
 
 ## Stats
 

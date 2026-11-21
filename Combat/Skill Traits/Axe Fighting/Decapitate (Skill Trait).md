@@ -39,6 +39,6 @@ Instant kill threshold rises to 30% HP and fatigue cost reduced.
 
 ### Rank 3
 
-Instant kill threshold rises to 35% HP. Deals 180% weapon damage. Can be used twice per battle.
+Instant kill threshold rises to 35% HP. Deals 180% weapon damage.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

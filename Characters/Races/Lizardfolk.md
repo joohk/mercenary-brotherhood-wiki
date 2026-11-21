@@ -80,6 +80,21 @@ Weapon families this race favours.
 - **Melee:** Spear, Mace
 - **Ranged:** Thrown
 
+## Resistances
+
+Innate damage-type resistances (negative = vulnerability).
+
+| Resistance | Value |
+|---|---|
+| [[Stats#Slash Resist\|Slash Resist]] | +5% |
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Spear ×3, Thrown ×2, Shield ×1.5, Light Armor ×1.3
+- **Disfavoured:** Heavy Armor ×0.4
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.

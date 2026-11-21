@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Duergar]] faction — 130 HP, 15 armor, worth 32 XP and 
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 30-47 (base 5-7 + [[Fine Warhammer]] 25-40) |
+| Damage with weapon | 34-52 (base 5-7 + [[Fine Warhammer]] 29-45) |
 
 ## Combat
 
@@ -56,13 +56,25 @@ A tier-3 enemy of the [[Duergar]] faction — 130 HP, 15 armor, worth 32 XP and 
 | Gold | 28 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 35 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 42 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Steel Shield]] +3, [[Plated Helmet]] +2 | +25% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Steel Shield]] +15, [[Plated Helmet]] +2 | +29% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Steel Shield]] +2, [[Plated Helmet]] +6 | +11% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

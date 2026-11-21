@@ -20,7 +20,7 @@ up: "[[Traits]]"
 
 A negative common physical characteristic in the *size* group. Every unit rolls exactly one characteristic at creation.
 
-> -6 max HP, -11% damage, +4 initiative. A diminutive frame means less power, but quicker feet
+> -6 max HP, -11% melee damage, +4 initiative. A diminutive frame means less power, but quicker feet
 
 ## Characteristic group
 

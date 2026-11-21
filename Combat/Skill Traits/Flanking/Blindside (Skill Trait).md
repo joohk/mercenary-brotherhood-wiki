@@ -21,7 +21,7 @@ up: "[[Flanking]]"
 
 An uncommon ability skill trait of [[Flanking]] with 2 ranks, granting [[Blindside (Ability)|Blindside]].
 
-> A strike into the blind line that no shield or parry can answer. Only usable from the side or rear arc. 1 AP.
+> The finisher a skirmisher works toward: a strike into the side arc that no shield or parry can answer, spending all your Footwork for +25% damage each. 1 AP.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Hits harder and always crits against a side-arc target below half HP.
+A Blindside that kills gives you 2 Footwork back.
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

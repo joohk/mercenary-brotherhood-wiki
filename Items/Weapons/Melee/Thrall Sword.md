@@ -11,7 +11,7 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_melee.json
-damage_max: 8
+damage_max: 9
 damage_min: 4
 damage_type: slashing
 family: sword
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-1 one-handed slashing sword dealing 4-8 damage, worth 5 gold.
+A tier-1 one-handed slashing sword dealing 4-9 damage, worth 5 gold.
 
 ![[_assets/Icons/tier_1/sword_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-1 one-handed slashing sword dealing 4-8 damage, worth 5 gold.
 | Tier | 1 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 4-8 |
+| [[Stats#Damage Min\|Damage]] | 4-9 |
 | [[Stats#Initiative\|Initiative]] | -2 |
 | Price | 5 |
 | Rarity | Normal |

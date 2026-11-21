@@ -20,7 +20,7 @@ up: "[[Poisoner (Skill)]]"
 
 A rare passive skill trait of [[Poisoner (Skill)|Poisoner]] with 2 ranks.
 
-> When a poisoned enemy dies, adjacent enemies have a 20% chance to become poisoned.
+> When you kill a poisoned enemy, enemies adjacent to it have a 20% chance to become poisoned.
 
 ## Upgrades
 

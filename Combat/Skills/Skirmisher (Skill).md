@@ -13,6 +13,7 @@ source: skills/ranged_skills.json
 discovery_source: attack_after_move
 discovery_weight: 0.7
 max_level: 10
+sheet_group: melee
 skill_category: combat
 skill_group: Ranged
 skill_traits: 6
@@ -60,7 +61,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 | [[Mobile Striker]] | Common | Passive | 2 | — |
 | [[Disengage (Skill Trait, Skirmisher)\|Disengage]] | Uncommon | Passive | 1 | — |
 | [[Opportunist Strike (Skill Trait)\|Opportunist Strike]] | Uncommon | Ability | 2 | [[Opportunist Strike (Ability)\|Opportunist Strike]] |
-| [[Sprint (Skill Trait)\|Sprint]] | Uncommon | Ability | 2 | [[Sprint (Ability, ability_sprint)\|Sprint]] |
+| [[Sprint (Skill Trait)\|Sprint]] | Uncommon | Ability | 2 | [[Sprint (Ability)\|Sprint]] |
 | [[Ghost Step (Skill Trait, Skirmisher)\|Ghost Step]] | Rare | Passive | 2 | — |
 
 ## Referenced by

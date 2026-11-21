@@ -39,7 +39,7 @@ A tier-2 two-handed piercing crossbow dealing 12-19 damage at range 5, worth 270
 | Damage type | Piercing |
 | Hands | Two-handed |
 | Ranged Damage | 12-19 |
-| [[Stats#Armor Pen\|Armor Pen]] | +3 |
+| [[Stats#Armor Pen\|Armor Pen]] | +4 |
 | [[Stats#Initiative\|Initiative]] | -5 |
 | Range | 5 hexes |
 | Price | 270 |

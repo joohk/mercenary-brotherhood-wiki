@@ -20,7 +20,7 @@ up: "[[Assassination]]"
 
 An uncommon passive skill trait of [[Assassination]] with 2 ranks.
 
-> +3 Damage Min, +3 Damage Max when attacking from behind. Go for the kill.
+> Go for the kill. +12% damage when attacking from behind.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-+5/+5 damage when attacking from behind.
++20% damage when attacking from behind.
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

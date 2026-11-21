@@ -11,10 +11,10 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_magical.json
-damage_max: 9
-damage_min: 5
-damage_type: blunt
-family: staff
+damage_max: 11
+damage_min: 6
+damage_type: arcane
+family: wand
 hands: one-handed
 price: 20
 range: 5
@@ -22,31 +22,38 @@ rarity: normal
 slot: ranged
 spawn_weight: 0
 tier: 2
-up: "[[Staves]]"
+up: "[[Wands]]"
 ---
 
-[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
+[[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Wands]]
 
-A tier-2 one-handed blunt staff dealing 5-9 damage at range 5, worth 20 gold.
+A tier-2 one-handed arcane wand dealing 6-11 damage at range 5, worth 20 gold.
 
-![[_assets/Icons/tier_1/staff.webp|96]]
+![[_assets/Icons/tier_1/wand.webp|96]]
 
 ## Stats
 
 | Stat | Value |
 |---|---|
 | Tier | 2 |
-| Damage type | Blunt |
+| Damage type | Arcane |
 | Hands | One-handed |
-| Ranged Damage | 5-9 |
+| Ranged Damage | 6-11 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | +5 |
+| [[Stats#Willpower\|Willpower]] | +5 |
+| [[Stats#Initiative\|Initiative]] | -1 |
 | Range | 5 hexes |
 | Price | 20 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 0 (never rolled for shops or random loot) |
 
+## Same line
+
+Items of this line, by tier: [[Apprentice Wand]] (T1) → **Dark Wand** (T2) → [[Focus Wand]] (T2) → [[Channeling Wand]] (T3) → [[Arcane Wand]] (T4) → [[Greater Wand]] (T5) → [[Master Wand]] (T6)
+
 ## Related
 
-- **Tags:** Staff, Ranged, One-handed
+- **Tags:** Wand, Ranged, One-handed
 
 ## Referenced by
 

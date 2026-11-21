@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level | Unlocks |
 |---|---|---|---|---|
-| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +3 Max Fatigue | 20 | Grants ability: [[Force Gust]] |
-| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +6 Max Fatigue | 35 | — |
-| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]] | +10 Max Fatigue, +2 Willpower, +2 Magic Power | 55 | — |
-| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]] | +14 Max Fatigue, +4 Willpower, +4 Magic Power | 85 | — |
-| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +1 [[Stats#Armor Pen\|Armor Pen]] | +19 Max Fatigue, +6 Willpower, +7 Magic Power, +1 Armor Pen | 125 | — |
-| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]] | +24 Max Fatigue, +8 Willpower, +10 Magic Power, +1 Armor Pen | 180 | — |
-| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]] | +29 Max Fatigue, +10 Willpower, +13 Magic Power, +1 Armor Pen | 250 | — |
-| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]] | +35 Max Fatigue, +13 Willpower, +17 Magic Power, +1 Armor Pen | 335 | — |
-| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]], +1 [[Stats#Armor Pen\|Armor Pen]] | +41 Max Fatigue, +16 Willpower, +21 Magic Power, +2 Armor Pen | 440 | — |
-| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Willpower\|Willpower]], +5 [[Stats#Magic Power\|Magic Power]] | +48 Max Fatigue, +19 Willpower, +26 Magic Power, +2 Armor Pen | max | Grants ability: [[Telekinetic Crush]] |
+| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +3 Max Fatigue, +1 Ranged Attack | 20 | Grants ability: [[Force Gust]] |
+| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +6 Max Fatigue, +2 Ranged Attack | 35 | — |
+| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Max Fatigue, +4 Ranged Attack, +2 Willpower, +2 Magic Power | 55 | — |
+| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Max Fatigue, +6 Ranged Attack, +4 Willpower, +4 Magic Power | 85 | — |
+| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +1 [[Stats#Armor Pen\|Armor Pen]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +19 Max Fatigue, +9 Ranged Attack, +6 Willpower, +7 Magic Power, +1 Armor Pen | 125 | — |
+| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +24 Max Fatigue, +12 Ranged Attack, +8 Willpower, +10 Magic Power, +1 Armor Pen | 180 | — |
+| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +29 Max Fatigue, +16 Ranged Attack, +10 Willpower, +13 Magic Power, +1 Armor Pen | 250 | — |
+| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +35 Max Fatigue, +20 Ranged Attack, +13 Willpower, +17 Magic Power, +1 Armor Pen | 335 | — |
+| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]], +1 [[Stats#Armor Pen\|Armor Pen]], +5 [[Stats#Ranged Attack\|Ranged Attack]] | +41 Max Fatigue, +25 Ranged Attack, +16 Willpower, +21 Magic Power, +2 Armor Pen | 440 | — |
+| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Willpower\|Willpower]], +5 [[Stats#Magic Power\|Magic Power]], +6 [[Stats#Ranged Attack\|Ranged Attack]] | +48 Max Fatigue, +31 Ranged Attack, +19 Willpower, +26 Magic Power, +2 Armor Pen | max | Grants ability: [[Telekinetic Crush]] |
 
 ## Skill traits
 
@@ -66,7 +66,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 ## Referenced by
 
-- **Familiar to:** [[Cleric (Background)|Cleric]], [[Mind Shaper]], [[War Priest]]
+- **Familiar to:** [[Chaplain]], [[Mind Shaper]], [[War Priest]]
 - **Guild signature skill:** [[Arcane Conclave (Guild)|Arcane Conclave]]
 - **Starting skill of:** [[Mind Shaper]]
 - **Taught at:** [[Wandering Mystic]]

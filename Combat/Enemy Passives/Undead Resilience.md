@@ -16,7 +16,7 @@ up: "[[Enemy Passives]]"
 
 An enemy passive handled in game code: the description is its rules text.
 
-> Immune to poison. Bleeding damage reduced by 75%.
+> Immune to poison and Bleeding.
 
 ## Tuning parameters
 
@@ -25,7 +25,7 @@ Numbers the game code uses for this passive (fractions shown as %).
 | Parameter | Value |
 |---|---|
 | Immune Poison | Yes |
-| Bleed Multiplier | 25% |
+| Immune Bleed | Yes |
 
 ## Referenced by
 

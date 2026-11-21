@@ -11,8 +11,8 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_melee.json
-damage_max: 21
-damage_min: 13
+damage_max: 23
+damage_min: 14
 damage_type: blunt
 family: war hammer
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[War Hammers]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[War Hammers]]
 
-A tier-2 one-handed blunt war hammer dealing 13-21 damage, worth 260 gold.
+A tier-2 one-handed blunt war hammer dealing 14-23 damage, worth 260 gold.
 
 ![[_assets/Icons/tier_1/hammer_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-2 one-handed blunt war hammer dealing 13-21 damage, worth 260 gold.
 | Tier | 2 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 13-21 |
+| [[Stats#Damage Min\|Damage]] | 14-23 |
 | [[Stats#Armor Pen\|Armor Pen]] | +5 |
 | [[Stats#Initiative\|Initiative]] | -6 |
 | Price | 260 |
@@ -46,7 +46,7 @@ A tier-2 one-handed blunt war hammer dealing 13-21 damage, worth 260 gold.
 
 ## Effects
 
-- Grants ability: [[Sunder Armor (Ability)|Sunder Armor]]
+- Grants ability: [[Sunder Armor]]
 
 ## Same line
 

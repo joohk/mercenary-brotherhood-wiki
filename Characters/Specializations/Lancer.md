@@ -46,7 +46,7 @@ A unit may choose a specialization every 4 levels. *Weapon Mastery category:* Co
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Hunters' Lodge]]
+- **Sponsored by guilds:** [[Hunters' Lodge]], [[Wildwardens]]
 
 > [!note]- Developer notes
 > *separator:* ── WEAPON MASTERY (8) ── conditional on weapon equipped, reduced points

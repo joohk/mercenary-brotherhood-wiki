@@ -19,7 +19,7 @@ up: "[[Spear Fighting]]"
 
 [[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Spear Fighting]]
 
-An uncommon ability skill trait of [[Spear Fighting]] with 2 ranks, granting [[Brace (Ability, ability_brace)|Brace]].
+An uncommon ability skill trait of [[Spear Fighting]] with 2 ranks, granting [[Brace (Ability)|Brace]].
 
 > Set your spear against a charge. The next enemy that enters melee range takes a free attack at +25% damage. Requires a spear.
 
@@ -27,7 +27,7 @@ An uncommon ability skill trait of [[Spear Fighting]] with 2 ranks, granting [[B
 
 Rank 1:
 
-- Grants ability: [[Brace (Ability, ability_brace)|Brace]]
+- Grants ability: [[Brace (Ability)|Brace]]
 
 ## Upgrades
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Free attack damage bonus increases to +40%, impales the first two foes that charge, and can be used twice per battle.
+Free attack damage bonus increases to +40% and impales the first two foes that charge.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

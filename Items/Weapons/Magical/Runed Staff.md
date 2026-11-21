@@ -11,8 +11,8 @@ tags:
   - tier/3
   - type/item
 source: items/weapons_magical.json
-damage_max: 16
-damage_min: 9
+damage_max: 26
+damage_min: 17
 damage_type: blunt
 family: staff
 hands: two-handed
@@ -26,7 +26,7 @@ up: "[[Staves]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
 
-A tier-3 two-handed blunt staff dealing 9-16 damage, worth 500 gold.
+A tier-3 two-handed blunt staff dealing 17-26 damage, worth 500 gold.
 
 ![[_assets/Icons/Staff.png|96]]
 
@@ -37,7 +37,7 @@ A tier-3 two-handed blunt staff dealing 9-16 damage, worth 500 gold.
 | Tier | 3 |
 | Damage type | Blunt |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 9-16 |
+| [[Stats#Damage Min\|Damage]] | 17-26 |
 | [[Stats#Melee Attack\|Melee Attack]] | +6 |
 | [[Stats#Willpower\|Willpower]] | +8 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | +9 |

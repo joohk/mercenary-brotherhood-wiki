@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A rare Minotaur racial trait.
 
-> +30% damage. The full fury of a minotaur in battle is simply catastrophic.
+> +30% melee damage. The full fury of a minotaur in battle is simply catastrophic.
 
 ## Effects
 

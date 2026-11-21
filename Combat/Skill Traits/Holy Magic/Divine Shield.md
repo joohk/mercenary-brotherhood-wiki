@@ -20,7 +20,7 @@ up: "[[Holy Magic]]"
 
 A rare passive skill trait of [[Holy Magic]] with 3 ranks.
 
-> A chance to negate incoming damage entirely through divine protection.
+> A 20% chance to negate an incoming attack's damage entirely through divine protection.
 
 ## Upgrades
 

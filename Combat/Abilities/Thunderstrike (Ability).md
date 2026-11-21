@@ -10,21 +10,20 @@ tags:
   - type/ability
 source: abilities/combat_abilities.json
 ap_cost: 1
-cooldown_turns: 0
+cooldown_turns: 3
 fatigue_cost: 20
 range: 1
 requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 1
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an adjacent enemy, usable once per battle.
+A 1-AP melee ability targeting an adjacent enemy.
 
-> Slam the hammer down with earth-shaking force. Deals 110% damage and stuns the target for 1 turn.
+> Slam your weapon down with earth-shaking force. Deals 120% damage.
 
 ## Stats
 
@@ -32,17 +31,14 @@ A 1-AP melee ability targeting an adjacent enemy, usable once per battle.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 20 |
-| Cooldown | None |
-| Uses per battle | 1 |
+| Cooldown | 3 turns |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
-*Tags:* melee, hammer, stun
-
-## Requirements
-
-- Requires a hammer equipped
+*Tags:* melee
 
 ## Effects
 

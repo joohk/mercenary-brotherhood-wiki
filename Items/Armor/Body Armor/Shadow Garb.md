@@ -15,6 +15,9 @@ armor: 2
 family: light armor
 price: 5
 rarity: normal
+resist_blunt: 3
+resist_piercing: 3
+resist_slashing: 3
 slot: body_armor
 spawn_weight: 0
 tier: 1
@@ -35,6 +38,9 @@ A tier-1 light armor giving 2 Armor, worth 5 gold.
 | Class | Light armor |
 | [[Stats#Armor\|Armor]] | +2 |
 | [[Stats#Initiative\|Initiative]] | +1 |
+| [[Stats#Slash Resist\|Slash Resist]] | +3% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +3% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +3% |
 | Price | 5 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 0 (never rolled for shops or random loot) |

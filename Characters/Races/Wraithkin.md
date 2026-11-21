@@ -74,6 +74,21 @@ Weapon families this race favours.
 - **Melee:** Dagger, Sword
 - **Ranged:** Crossbow
 
+## Resistances
+
+Innate damage-type resistances (negative = vulnerability).
+
+| Resistance | Value |
+|---|---|
+| [[Stats#Shadow Resist\|Shadow Resist]] | +15% |
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Robe ×2.5, Staff ×2, Wand ×2, Dagger ×1.5
+- **Disfavoured:** Heavy Armor ×0.4
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.

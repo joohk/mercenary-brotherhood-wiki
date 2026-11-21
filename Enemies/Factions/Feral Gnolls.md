@@ -22,6 +22,9 @@ up: "[[Wild Peoples]]"
 
 An enemy faction that appears at company levels 1-3 and fights as [[How Enemies Behave#Undisciplined|Undisciplined]] (unpredictable, low coordination): 8 unit types, tiers 0-2.
 
+> [!tip] [[Feral Gnolls Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/FeralAlpha.webp|160]]
 
 > Cannibalistic hyena-folk pack hunters who roam the wilderness, tearing apart anything that strays too far from civilization. Found in wilderness areas. Early-game threat slightly tougher than rabble.
@@ -41,13 +44,13 @@ Encounter tables have their own level gates and can field this faction outside i
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | ![[_assets/Units/FeralHurler.webp\|40]] | [[Gnoll Hurler]] | 0 | 35 | 0 | 30 | 22 | 40 | 4-7 (ranged) | Ranged | 1 | 6 |
-| ![[_assets/Units/FeralSavage.webp\|40]] | [[Gnoll Savage]] | 0 | 45 | 0 | 48 | 28 | 0 | 6-11 | Aggressive | 1 | 7 |
+| ![[_assets/Units/FeralSavage.webp\|40]] | [[Gnoll Savage]] | 0 | 45 | 0 | 48 | 28 | 0 | 6-12 | Aggressive | 1 | 7 |
 | ![[_assets/Units/FeralWhelp.webp\|40]] | [[Gnoll Whelp]] | 0 | 22 | 0 | 40 | 28 | 0 | 3-5 | Aggressive | 1 | 5 |
-| ![[_assets/Units/FeralBoneRender.webp\|40]] | [[Gnoll Bone-Render]] | 1 | 50 | 1 | 52 | 30 | 0 | 7-12 | Aggressive | 2 | 13 |
-| ![[_assets/Units/FeralBrute.webp\|40]] | [[Gnoll Brute]] | 1 | 70 | 2 | 48 | 30 | 0 | 8-14 | Aggressive | 2 | 14 |
-| ![[_assets/Units/FeralHexTouched.webp\|40]] | [[Gnoll Hex-Touched]] | 1 | 35 | 0 | 35 | 24 | 0 | 5-9 | Ranged | 2 | 14 |
-| ![[_assets/Units/FeralStalker.webp\|40]] | [[Gnoll Stalker]] | 1 | 40 | 1 | 50 | 35 | 0 | 6-11 | Aggressive | 2 | 12 |
-| ![[_assets/Units/FeralAlpha.webp\|40]] | [[Gnoll Alpha]] | 2 | 106 | 7 | 75 | 55 | 0 | 13-20 | Aggressive | 4 | 28 |
+| ![[_assets/Units/FeralBoneRender.webp\|40]] | [[Gnoll Bone-Render]] | 1 | 50 | 1 | 52 | 30 | 0 | 8-13 | Aggressive | 2 | 13 |
+| ![[_assets/Units/FeralBrute.webp\|40]] | [[Gnoll Brute]] | 1 | 70 | 2 | 48 | 30 | 0 | 8-16 | Aggressive | 2 | 14 |
+| ![[_assets/Units/FeralHexTouched.webp\|40]] | [[Gnoll Hex-Touched]] | 1 | 40 | 0 | 35 | 24 | 0 | 5-10 | Ranged | 2 | 14 |
+| ![[_assets/Units/FeralStalker.webp\|40]] | [[Gnoll Stalker]] | 1 | 40 | 1 | 50 | 35 | 0 | 6-12 | Aggressive | 2 | 12 |
+| ![[_assets/Units/FeralAlpha.webp\|40]] | [[Gnoll Alpha]] | 2 | 106 | 7 | 75 | 55 | 0 | 14-22 | Aggressive | 4 | 28 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*
 

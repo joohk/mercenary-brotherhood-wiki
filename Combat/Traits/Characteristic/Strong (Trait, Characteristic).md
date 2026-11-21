@@ -20,7 +20,7 @@ up: "[[Traits]]"
 
 A common physical characteristic in the *strength* group. Every unit rolls exactly one characteristic at creation.
 
-> +12% damage. Naturally powerful build, hits harder in melee
+> +12% melee damage. Naturally powerful build, hits harder in melee
 
 ## Characteristic group
 

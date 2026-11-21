@@ -44,7 +44,7 @@ A tier-4 enemy of the [[Kesharan Dominion]] faction — 164 HP, 18 armor, worth 
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 6-10 |
-| Damage with weapon | 34-55 (base 6-10 + [[Tempered Greatsword]] 28-45) |
+| Damage with weapon | 38-61 (base 6-10 + [[Tempered Greatsword]] 32-51) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-4 enemy of the [[Kesharan Dominion]] faction — 164 HP, 18 armor, worth 
 | Gold | 52 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Kesharan Dominion Combat Sheet\|all Kesharan Dominion units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,11 +66,21 @@ A tier-4 enemy of the [[Kesharan Dominion]] faction — 164 HP, 18 armor, worth 
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 5 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 68 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Full Plate]] +25, [[Plate Helmet]] +3 | +28% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Full Plate]] +15, [[Plate Helmet]] +3 | +18% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Full Plate]] +4, [[Plate Helmet]] +8 | +12% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Rally (Ability)|Rally]]
 - [[Battle Cry (Ability)|Battle Cry]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 

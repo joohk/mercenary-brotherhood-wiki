@@ -21,7 +21,7 @@ up: "[[Berserker (Skill)]]"
 
 A common passive skill trait of [[Berserker (Skill)|Berserker]] with 2 ranks.
 
-> +8% damage when below 50% HP.
+> +8% melee damage when below 50% HP.
 
 ## Upgrades
 
@@ -29,6 +29,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-+14% damage when below 50% HP.
++14% melee damage when below 50% HP.
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

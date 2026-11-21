@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A common combat trait (stat boost).
 
-> +4 willpower, +3 initiative. Sheer determination speeds every decision.
+> +4 willpower, +3 initiative. Psionic Blast suffers -5 to hit against them. Sheer determination speeds every decision.
 
 ## Effects
 

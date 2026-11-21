@@ -85,6 +85,12 @@ Weapon families this race favours.
 - **Melee:** Dagger, Spear
 - **Ranged:** Bow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Spear ×2, Bow ×1.5, Dagger ×1.5, Light Armor ×1.5
+
 ## Backgrounds
 
 The 20 backgrounds an Arachne recruit can roll.

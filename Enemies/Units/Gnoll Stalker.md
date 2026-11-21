@@ -45,7 +45,7 @@ A tier-1 Gnoll enemy of the [[Feral Gnolls]] faction — 40 HP, 1 armor, worth 1
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 15 |
 | [[Stats#Damage Min\|Damage]] | 2-3 |
-| Damage with weapon | 6-11 (base 2-3 + [[Bone Knife]] 4-8) |
+| Damage with weapon | 6-12 (base 2-3 + [[Bone Knife]] 4-9) |
 | Action Points | 3 |
 
 ## Combat
@@ -59,13 +59,25 @@ A tier-1 Gnoll enemy of the [[Feral Gnolls]] faction — 40 HP, 1 armor, worth 1
 | Race | [[Gnoll]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Feral Gnolls Combat Sheet\|all Feral Gnolls units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 16 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

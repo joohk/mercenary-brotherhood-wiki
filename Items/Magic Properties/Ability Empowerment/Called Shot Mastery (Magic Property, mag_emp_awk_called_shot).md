@@ -41,6 +41,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Called Shot (Ability, awakening_called_shot)|Called Shot]]: -1 turn cooldown
+- [[Vital Shot (Ability)|Vital Shot]]: -1 turn cooldown
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

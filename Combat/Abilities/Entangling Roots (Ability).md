@@ -23,7 +23,7 @@ up: "[[Nature Magic]]"
 
 A 2-AP magic ability targeting one enemy up to 5 hexes away.
 
-> Burst the ground beneath a foe with grasping roots. Roots the target for 2 turns (cannot move).
+> Burst the ground beneath a foe with thorned roots. Roots the target for 2 turns (cannot move) and Bleeds it.
 
 ## Stats
 
@@ -36,9 +36,9 @@ A 2-AP magic ability targeting one enemy up to 5 hexes away.
 | Range | 5 hexes |
 | Target | Enemy |
 | Line of sight | Required |
-| Damage | Roots target for 2 turns |
+| Damage | Roots target for 2 turns + Bleeding |
 
-*Tags:* magic, nature, debuff, control
+*Tags:* magic, nature, debuff, control, bleed, dot
 
 ## Referenced by
 

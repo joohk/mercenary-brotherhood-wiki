@@ -44,7 +44,7 @@ A tier-1 enemy of the [[Swamp Dwellers]] faction — 50 HP, 2 armor, worth 10 XP
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | 2-3 |
-| Damage with weapon | 7-11 (base 2-3 + [[Rusty Cleaver]] 5-8) |
+| Damage with weapon | 8-12 (base 2-3 + [[Rusty Cleaver]] 6-9) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-1 enemy of the [[Swamp Dwellers]] faction — 50 HP, 2 armor, worth 10 XP
 | Gold | 4 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Swamp Dwellers Combat Sheet\|all Swamp Dwellers units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,9 +66,20 @@ A tier-1 enemy of the [[Swamp Dwellers]] faction — 50 HP, 2 armor, worth 10 XP
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 80 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 14 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Poison Resist\|Poison]] | +20% | — | +20% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 

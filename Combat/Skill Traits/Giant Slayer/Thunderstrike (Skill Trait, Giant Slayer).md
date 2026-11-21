@@ -21,7 +21,7 @@ up: "[[Giant Slayer]]"
 
 An uncommon ability skill trait of [[Giant Slayer]] with 2 ranks, granting [[Thunderstrike (Ability)|Thunderstrike]].
 
-> Earth-shaking hammer blow that Stuns. Requires a warhammer.
+> Earth-shaking blow for 120% damage.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Deals 130% damage instead of 110%, the stun lasts 2 turns, and adjacent enemies are staggered (-10 initiative for 2 turns).
+Deals 130% damage instead of 120%, and adjacent enemies are staggered (-10 initiative for 2 turns).
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

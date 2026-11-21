@@ -79,6 +79,13 @@ Weapon families this race favours.
 - **Melee:** Dagger, Axe
 - **Ranged:** Bow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Dagger ×2.5, Thrown ×2, Light Armor ×1.5, Spear ×1.5
+- **Disfavoured:** Heavy Armor ×0.3
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.
@@ -148,7 +155,7 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 ## Referenced by
 
 - **Dominant race of:** [[Boglight]], [[Fangmarket]], [[Greenmaw]], [[Grubstake Fort]], [[Gutstitch]], [[Knifebottom]], [[Mucksprawl]], [[Mudburrow]], [[Ratrun]], [[Scrapheap]], [[Scrappers Drift]], [[Skewerden]]
-- **Enemies of this race:** [[Goblin Bandit Shaman]], [[Goblin Sapper-Veteran]]
+- **Enemies of this race:** [[Goblin Bandit Shaman]], [[Goblin Poisoner]], [[Goblin Sapper-Veteran]], [[Goblin Shaman (Enemy)|Goblin Shaman]], [[Goblin Skirmisher]], [[Goblin Wolfrider]]
 - **Pages:** [[Racial Relations]]
 - **Personality more/less likely:** [[Boastful]], [[Cautious]], [[Cheerful]], [[Cunning]], [[Cynical]], [[Reckless]]
 - **Prime / friendly race in:** [[Prime Race Clan]]

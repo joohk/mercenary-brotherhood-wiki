@@ -44,7 +44,7 @@ A tier-4 enemy of [[The Umbral Court]] faction — 113 HP, 8 armor, worth 52 XP 
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 11-18 |
-| Ranged damage with weapon | 14-21 (base 4-5 + [[Shadow Staff]] 10-16) |
+| Damage with weapon | 32-52 (base 11-18 + [[Shadow Staff]] 21-34) |
 | Ranged Damage | 4-5 |
 
 ## Combat
@@ -57,13 +57,25 @@ A tier-4 enemy of [[The Umbral Court]] faction — 113 HP, 8 armor, worth 52 XP 
 | Gold | 44 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Umbral Court Combat Sheet\|all The Umbral Court units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 12 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 62 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Master Robes]] +4 | +4% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Master Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Master Robes]] +4 | +4% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -81,12 +93,14 @@ A tier-4 enemy of [[The Umbral Court]] faction — 113 HP, 8 armor, worth 52 XP 
 ## Equipment
 
 - [[Shadow Staff]]
+- [[Arcane Wand]]
 - [[Master Robes]]
 - [[Gold Amulet]]
 
 ## Referenced by
 
 - **Appears in encounters:** [[Deep Dark Ruins Encounter]], [[Forest — Umbral Court Raid]]
+- **Escorts:** [[The Witch Queen]]
 - **Reinforces in encounters:** [[Deep Cavern Encounter]], [[Deep Dark Ruins Encounter]], [[Deep Stalagmite Encounter]], [[Deep Tunnel Encounter]], [[Mid-depth Cavern Encounter]], [[Mid-depth Fungal Bog Encounter]], [[Mid-depth Mushroom Forest Encounter]], [[Mid-depth Stalagmite Encounter]], [[Mid-depth Tunnel Encounter]]
 
 *Generated from `enemies/umbral_court.json`. Edits will be overwritten — put your own notes in Notes/.*

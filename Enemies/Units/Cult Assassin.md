@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Cult of the Hollow Eye]] faction — 79 HP, 9 armor, wor
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 7-9 |
-| Damage with weapon | 17-26 (base 7-9 + [[Fine Dagger]] 10-17) |
+| Damage with weapon | 21-34 (base 7-9 + [[Fine Dagger]] 14-25) |
 | Action Points | 3 |
 
 ## Combat
@@ -57,7 +57,9 @@ A tier-3 enemy of the [[Cult of the Hollow Eye]] faction — 79 HP, 9 armor, wor
 | Gold | 24 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -65,9 +67,19 @@ A tier-3 enemy of the [[Cult of the Hollow Eye]] faction — 79 HP, 9 armor, wor
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 42 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 - [[Opportunist Strike (Ability)|Opportunist Strike]]
 
 ## Passives
@@ -93,6 +105,7 @@ A tier-3 enemy of the [[Cult of the Hollow Eye]] faction — 79 HP, 9 armor, wor
 ## Referenced by
 
 - **Appears in encounters:** [[Ruins — Late Tier]]
+- **Escorts:** [[Plague Bishop Malachar]]
 - **Reinforces in encounters:** [[Mid-depth Crystal Cave Encounter]], [[Mid-depth Dark Ruins Encounter]]
 
 *Generated from `enemies/cultists.json`. Edits will be overwritten — put your own notes in Notes/.*

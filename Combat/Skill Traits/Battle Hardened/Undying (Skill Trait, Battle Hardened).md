@@ -21,7 +21,7 @@ up: "[[Battle Hardened (Skill)]]"
 
 A rare passive skill trait of [[Battle Hardened (Skill)|Battle Hardened]] with 2 ranks.
 
-> Once per combat, when you would be killed, survive instead with 1 HP.
+> Once per combat, when a weapon attack would kill you, survive instead with 1 HP.
 
 ## Upgrades
 

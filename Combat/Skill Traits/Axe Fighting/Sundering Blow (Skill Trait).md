@@ -39,6 +39,6 @@ Armor reduction increases to 5 per hit.
 
 ### Rank 3
 
-Armor reduction increases to 7 per hit. Can be used 3 times per battle.
+Armor reduction increases to 7 per hit.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

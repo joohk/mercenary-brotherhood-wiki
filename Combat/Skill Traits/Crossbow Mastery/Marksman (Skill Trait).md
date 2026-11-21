@@ -21,14 +21,14 @@ up: "[[Crossbow Mastery]]"
 
 A common passive skill trait of [[Crossbow Mastery]] with 2 ranks.
 
-> Steady hands and a trained eye. +5 Ranged ATK and +2 Ranged Damage Min.
+> Steady hands and a trained eye. +5 Ranged ATK and +3 Ranged Damage.
 
 ## Effects
 
 Rank 1:
 
 - +5 [[Stats#Ranged Attack|Ranged Attack]]
-- +2 Ranged Damage Min
+- +3 Ranged Damage
 
 ## Upgrades
 
@@ -36,9 +36,9 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Increased to +8 Ranged ATK and +4 Ranged Damage Min.
+Increased to +8 Ranged ATK and +5 Ranged Damage.
 
 - +8 [[Stats#Ranged Attack|Ranged Attack]]
-- +4 Ranged Damage Min
+- +5 Ranged Damage
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

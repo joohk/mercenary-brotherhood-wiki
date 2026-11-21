@@ -21,6 +21,9 @@ up: "[[Undead & Unholy]]"
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 6 unit types, tiers 2-4.
 
+> [!tip] [[Demons Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/ArchDemon.webp|160]]
 
 > Supernatural horrors from beyond the veil. Late-game threats with extreme stats. Found in ruins, dungeons, and corrupted areas.
@@ -41,7 +44,7 @@ Encounter tables have their own level gates and can field this faction outside i
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | ![[_assets/Units/Hellhound.webp\|40]] | [[Hellhound]] | 2 | 79 | 7 | 75 | 47 | 0 | 14-22 | Aggressive | 4 | 22 |
 | ![[_assets/Units/Imp.webp\|40]] | [[Imp]] | 2 | 46 | 6 | 66 | 55 | 0 | 10-15 | Aggressive | 2 | 14 |
-| ![[_assets/Units/CorruptedKnight.webp\|40]] | [[Corrupted Knight]] | 3 | 137 | 15 | 89 | 71 | 0 | 19-30 | Aggressive | 7 | 40 |
+| ![[_assets/Units/CorruptedKnight.webp\|40]] | [[Corrupted Knight]] | 3 | 137 | 15 | 89 | 71 | 0 | 22-33 | Aggressive | 7 | 40 |
 | ![[_assets/Units/LesserDemon.webp\|40]] | [[Lesser Demon]] | 3 | 123 | 12 | 85 | 63 | 0 | 25-39 | Aggressive | 7 | 42 |
 | ![[_assets/Units/ArchDemon.webp\|40]] | [[Arch Demon]] | 4 | 234 | 19 | 108 | 80 | 90 | 41-62 | Aggressive | 12 | 70 |
 | ![[_assets/Units/DemonBrute.webp\|40]] | [[Demon Brute]] | 4 | 203 | 17 | 102 | 74 | 0 | 36-55 | Aggressive | 10 | 55 |
@@ -50,7 +53,7 @@ Encounter tables have their own level gates and can field this faction outside i
 
 ## Arch-villains
 
-- [[The Void Herald]] — *Xar'kethos*, from company level 8
+- [[The Void Herald]] — *Xar'kethos*, from company level 10
 
 ## Encounter tables
 
@@ -74,7 +77,6 @@ Vendettas that rise from this faction draw their first name from: Xar'thul, Bael
 - **Dungeons held:** [[The Abyss Maw]]
 - **Possible enemy in chains:** [[The Uprising]]
 - **Power shifts when these villains die:** [[Bloodlord Kael]], [[Plague Bishop Malachar]]
-- **Quest target of:** [[Close the Demon Rift]]
 - **Slayer properties:** [[Demons Bane]]
 
 *Generated from `enemies/demons.json`. Edits will be overwritten — put your own notes in Notes/.*

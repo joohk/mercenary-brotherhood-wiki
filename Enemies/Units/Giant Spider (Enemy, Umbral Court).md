@@ -61,13 +61,24 @@ A tier-3 large enemy of [[The Umbral Court]] faction — 172 HP, 14 armor, worth
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Umbral Court Combat Sheet\|all The Umbral Court units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 50 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +25% | — | +25% |
+| [[Stats#Pierce Resist\|Pierce]] | +10% | — | +10% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -91,6 +102,7 @@ A tier-3 large enemy of [[The Umbral Court]] faction — 172 HP, 14 armor, worth
 ## Referenced by
 
 - **Appears in encounters:** [[Forest — Umbral Court Raid]]
+- **Escorts:** [[The Shadow Weaver]]
 - **Reinforces in encounters:** [[Deep Cavern Encounter]], [[Deep Dark Ruins Encounter]], [[Deep Stalagmite Encounter]], [[Deep Tunnel Encounter]], [[Mid-depth Cavern Encounter]], [[Mid-depth Fungal Bog Encounter]], [[Mid-depth Mushroom Forest Encounter]], [[Mid-depth Stalagmite Encounter]], [[Mid-depth Tunnel Encounter]]
 
 *Generated from `enemies/umbral_court.json`. Edits will be overwritten — put your own notes in Notes/.*

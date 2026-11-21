@@ -50,7 +50,6 @@ Quests this settlement's board can post:
 - [[Clear the Lair]] — company level 3-6
 - [[Destroy the Outpost]] — company level 2-5
 - [[Slay the Wyvern]] — company level 7+
-- [[Close the Demon Rift]] — company level 10+
 - [[Clear the Roads of Faction]] — company level 3-8
 
 Bounties, security, trade and chain quests are posted dynamically and are not listed here — see [[Quests]].

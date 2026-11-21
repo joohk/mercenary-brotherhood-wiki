@@ -21,7 +21,7 @@ up: "[[Stone Magic]]"
 
 An uncommon ability skill trait of [[Stone Magic]] with 2 ranks, granting [[Tremor]].
 
-> Learn Tremor. Slam the ground to damage and stun nearby enemies.
+> Learn Tremor: every enemy within 2 takes 8-14 blunt damage and 1 Fracture, with a 30% chance to be stunned.
 
 ## Effects
 
@@ -35,7 +35,7 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Tremor stun chance increased to 80% and damage increased to 8-16.
+Tremor deals 11-18 damage and stuns 40% of the time.
 
 - Grants ability: [[Tremor]]
 

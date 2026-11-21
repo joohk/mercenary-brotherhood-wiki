@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level | Unlocks |
 |---|---|---|---|---|
-| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +3 Max Fatigue | 20 | Grants ability: [[Magic Missile]] |
-| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +6 Max Fatigue | 35 | — |
-| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Magic Power\|Magic Power]] | +10 Max Fatigue, +2 Magic Power | 55 | — |
-| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Magic Power\|Magic Power]] | +14 Max Fatigue, +5 Magic Power | 85 | — |
-| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]], +3 [[Stats#Magic Power\|Magic Power]] | +19 Max Fatigue, +8 Magic Power, +1 Ranged Attack | 125 | — |
-| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]], +3 [[Stats#Magic Power\|Magic Power]] | +24 Max Fatigue, +11 Magic Power, +2 Ranged Attack | 180 | — |
-| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]], +4 [[Stats#Magic Power\|Magic Power]] | +29 Max Fatigue, +15 Magic Power, +3 Ranged Attack | 250 | — |
-| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Ranged Attack\|Ranged Attack]], +4 [[Stats#Magic Power\|Magic Power]] | +35 Max Fatigue, +19 Magic Power, +5 Ranged Attack | 335 | — |
-| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]], +5 [[Stats#Magic Power\|Magic Power]] | +41 Max Fatigue, +24 Magic Power, +6 Ranged Attack | 440 | — |
-| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Ranged Attack\|Ranged Attack]], +5 [[Stats#Magic Power\|Magic Power]] | +48 Max Fatigue, +29 Magic Power, +8 Ranged Attack | max | — |
+| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +3 Max Fatigue, +1 Ranged Attack | 20 | Grants ability: [[Magic Missile]] |
+| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +6 Max Fatigue, +2 Ranged Attack | 35 | — |
+| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Max Fatigue, +4 Ranged Attack, +2 Magic Power | 55 | — |
+| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Max Fatigue, +6 Ranged Attack, +5 Magic Power | 85 | — |
+| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Ranged Attack\|Ranged Attack]], +3 [[Stats#Magic Power\|Magic Power]] | +19 Max Fatigue, +9 Ranged Attack, +8 Magic Power | 125 | — |
+| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Ranged Attack\|Ranged Attack]], +3 [[Stats#Magic Power\|Magic Power]] | +24 Max Fatigue, +12 Ranged Attack, +11 Magic Power | 180 | — |
+| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Ranged Attack\|Ranged Attack]], +4 [[Stats#Magic Power\|Magic Power]] | +29 Max Fatigue, +16 Ranged Attack, +15 Magic Power | 250 | — |
+| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Ranged Attack\|Ranged Attack]], +4 [[Stats#Magic Power\|Magic Power]] | +35 Max Fatigue, +20 Ranged Attack, +19 Magic Power | 335 | — |
+| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +5 [[Stats#Ranged Attack\|Ranged Attack]], +5 [[Stats#Magic Power\|Magic Power]] | +41 Max Fatigue, +25 Ranged Attack, +24 Magic Power | 440 | — |
+| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +6 [[Stats#Ranged Attack\|Ranged Attack]], +5 [[Stats#Magic Power\|Magic Power]] | +48 Max Fatigue, +31 Ranged Attack, +29 Magic Power | max | — |
 
 ## Skill traits
 

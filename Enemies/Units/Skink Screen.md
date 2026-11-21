@@ -45,7 +45,7 @@ A tier-1 Lizardfolk enemy of the [[Saurian Legions]] faction — 62 HP, 4 armor,
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | — (from weapon) |
-| Damage with weapon | 7-13 (base 0 + [[Wooden Spear]] 7-13) |
+| Damage with weapon | 10-17 (base 0 + [[Wooden Spear]] 10-17) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-1 Lizardfolk enemy of the [[Saurian Legions]] faction — 62 HP, 4 armor,
 | Race | [[Lizardfolk]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Saurian Legions Combat Sheet\|all Saurian Legions units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 80 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 14 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Leather Armor]] +5 | +5% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

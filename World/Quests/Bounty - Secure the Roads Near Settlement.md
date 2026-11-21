@@ -42,6 +42,7 @@ A bounty for company level 3-8, given by a settlement. In game the title reads `
 | Difficulty tier | 2 of 5 |
 | Time limit | None |
 | Enemy faction | Chosen when the quest is posted |
+| Region restricted | Yes — targets one region |
 | Area | within 12 hexes of the settlement |
 
 **Hint:** Hunt *faction* warbands close to *settlement*.

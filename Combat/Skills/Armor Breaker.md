@@ -12,9 +12,11 @@ source: skills/defense_skills.json
 discovery_source: hit_armored
 discovery_weight: 0.5
 max_level: 10
+sheet_group: melee
 skill_category: combat
 skill_group: Defense
 skill_traits: 8
+strike_gate: melee_strike
 up: "[[Defense Skills]]"
 ---
 
@@ -22,13 +24,15 @@ up: "[[Defense Skills]]"
 
 A combat skill from the Defense group, with 10 levels and 8 skill traits.
 
-> You know where the gaps in the plate are. Gains XP from hitting heavily armored enemies.
+> You know where the gaps in the plate are. Every bonus it and its traits give, armor penetration included, applies to melee hits only. Gains XP from hitting heavily armored enemies in melee.
 
 ## How to train
 
-**Trained by:** Hit an enemy with 8+ armor.
+**Trained by:** Hit an enemy with 8+ armor in melee.
 
 **Discovery:** Can be discovered on a *hit armored* event; discovery weight 0.5.
+
+**Bonuses apply to:** melee hits only.
 
 ## Progression
 
@@ -59,7 +63,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 | [[Skull Crack (Skill Trait, Armor Breaker)\|Skull Crack]] | Uncommon | Ability | 2 | [[Skull Crack (Ability)\|Skull Crack]] |
 | [[Sunder]] | Uncommon | Passive | 2 | — |
 | [[Can Opener]] | Rare | Passive | 2 | — |
-| [[Chink Finder]] | Rare | Passive | 2 | — |
+| [[Gap in Armor]] | Rare | Passive | 2 | — |
 | [[Shatter (Skill Trait)\|Shatter]] | Rare | Ability | 2 | [[Shatter (Ability)\|Shatter]] |
 
 ## Referenced by

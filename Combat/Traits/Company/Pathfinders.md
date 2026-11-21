@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A common company trait: it applies to every member of the company.
 
-> Experienced guides find shortcuts through rough terrain. Forest and hill movement costs reduced by 1 day.
+> Experienced guides find shortcuts through rough terrain. Forest and hill tiles cost 1 movement point instead of 2.
 
 ## Effects
 

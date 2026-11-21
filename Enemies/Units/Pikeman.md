@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Rival Mercenaries]] faction — 101 HP, 12 armor, worth 
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 18-29 (base 5-7 + [[Steel Spear]] 13-22) |
+| Damage with weapon | 22-33 (base 5-7 + [[Steel Spear]] 17-26) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-3 enemy of the [[Rival Mercenaries]] faction — 101 HP, 12 armor, worth 
 | Gold | 24 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Rival Mercenaries Combat Sheet\|all Rival Mercenaries units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,10 +66,20 @@ A tier-3 enemy of the [[Rival Mercenaries]] faction — 101 HP, 12 armor, worth 
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 35 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 38 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Hold the Line (Ability)|Hold the Line]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 
@@ -89,5 +101,9 @@ A tier-3 enemy of the [[Rival Mercenaries]] faction — 101 HP, 12 armor, worth 
 |---|---|---|
 | [[Iron Spear]] | 20% | 1 |
 | [[Banded Mail]] | 12% | 1 |
+
+## Referenced by
+
+- **Escorts:** [[Warlord Ash]]
 
 *Generated from `enemies/mercenaries.json`. Edits will be overwritten — put your own notes in Notes/.*

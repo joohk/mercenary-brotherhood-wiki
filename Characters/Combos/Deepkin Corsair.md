@@ -36,7 +36,7 @@ A rare race–background combo: Deepkin recruits with the Corsair background can
 
 **[[Tidal Fury]]** · rare trait
 
-> +20% damage and +5 initiative. Only available to Deepkin Corsairs.
+> +20% melee damage and +5 initiative. Only available to Deepkin Corsairs.
 
 - +20% [[Stats#Damage Min|Damage]]
 - +5 [[Stats#Initiative|Initiative]]

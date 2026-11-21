@@ -20,7 +20,7 @@ up: "[[Berserker (Skill)]]"
 
 A rare passive skill trait of [[Berserker (Skill)|Berserker]] with 1 rank.
 
-> +15% damage but -5 melee defense. All or nothing.
+> +15% melee damage but -5 melee defense. All or nothing.
 
 ## Effects
 

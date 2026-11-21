@@ -20,7 +20,7 @@ up: "[[Armor Breaker]]"
 
 An uncommon passive skill trait of [[Armor Breaker]] with 2 ranks.
 
-> Armor-breaking hits that deal 12+ damage have a 20% chance to Stun.
+> Melee weapon hits that deal 12+ damage have a 20% chance to Stun.
 
 ## Upgrades
 

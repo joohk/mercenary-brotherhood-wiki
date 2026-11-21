@@ -11,10 +11,13 @@ tags:
   - tier/1
   - type/item
 source: items/armor.json
-armor: 6
+armor: 4
 family: heavy armor
 price: 75
 rarity: normal
+resist_blunt: 8
+resist_piercing: 4
+resist_slashing: 12
 slot: body_armor
 spawn_weight: 45
 tier: 1
@@ -23,7 +26,7 @@ up: "[[Heavy Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Heavy Armor]]
 
-A tier-1 heavy armor giving 6 Armor, worth 75 gold.
+A tier-1 heavy armor giving 4 Armor, worth 75 gold.
 
 ![[_assets/Icons/tier_1/heavy_armor.webp|96]]
 
@@ -33,10 +36,13 @@ A tier-1 heavy armor giving 6 Armor, worth 75 gold.
 |---|---|
 | Tier | 1 |
 | Class | Heavy armor |
-| [[Stats#Armor\|Armor]] | +6 |
+| [[Stats#Armor\|Armor]] | +4 |
 | [[Stats#Melee Defense\|Melee Defense]] | +3 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -10 |
 | [[Stats#Initiative\|Initiative]] | -5 |
+| [[Stats#Slash Resist\|Slash Resist]] | +12% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +4% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +8% |
 | Price | 75 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 45 |

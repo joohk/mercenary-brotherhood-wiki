@@ -7,7 +7,7 @@ up: "[[Weapons]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]]
 
-4 weapons, tiers 1–3. Trained by: [[Tinkering]], [[Two-Handed Mastery]].
+4 weapons, tiers 1–3. Trained by: [[Ranged Mastery]], [[Tinkering]], [[Two-Handed Mastery]].
 
 ## Weapons
 

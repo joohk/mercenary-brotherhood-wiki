@@ -12,7 +12,7 @@ source: enemies/cultists.json
 armor: 1
 faction: Cult of the Hollow Eye
 gold: 8
-hp: 32
+hp: 42
 stance: defensive
 threat_cost: 2
 tier: 1
@@ -22,7 +22,7 @@ xp: 12
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[Cult of the Hollow Eye]]
 
-A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 32 HP, 1 armor, worth 12 XP and 8 gold.
+A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 42 HP, 1 armor, worth 12 XP and 8 gold.
 
 ![[_assets/Units/CultChanter.webp|160]]
 
@@ -32,19 +32,19 @@ A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 32 HP, 1 armor, wor
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 32 |
+| [[Stats#Max HP\|Max HP]] | 42 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 65 |
 | [[Stats#Initiative\|Initiative]] | 42 |
 | [[Stats#Melee Attack\|Melee Attack]] | 35 |
 | [[Stats#Melee Defense\|Melee Defense]] | 28 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 10 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 30 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 38 |
 | [[Stats#Armor\|Armor]] | 1 |
 | [[Stats#Willpower\|Willpower]] | 60 |
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 12 |
 | [[Stats#Damage Min\|Damage]] | — (from weapon) |
-| Damage with weapon | 4-7 (base 0 + [[Crude Mace]] 4-7) |
+| Damage with weapon | 4-8 (base 0 + [[Crude Mace]] 4-8) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 32 HP, 1 armor, wor
 | Gold | 8 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 | Max share of an encounter | 30% |
 
 > [!info]- Spawn data
@@ -64,6 +66,15 @@ A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 32 HP, 1 armor, wor
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 15 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Cult Robes]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Cult Robes]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

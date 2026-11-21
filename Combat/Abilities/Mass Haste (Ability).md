@@ -26,7 +26,7 @@ uses_per_battle: 1
 
 A 2-AP magic ability centred on yourself (radius 4), usable once per battle.
 
-> All allies within range gain +2 AP (the caster at once, the others on their next turn) and +20 initiative for 3 turns. Once per battle.
+> All allies within 4 hexes gain +2 AP once (the caster at once, the others on their next turn) and +20 initiative for 3 turns. Once per battle.
 
 ## Stats
 

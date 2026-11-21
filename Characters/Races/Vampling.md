@@ -28,7 +28,7 @@ willpower: 38
 
 A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 15), strongest in Melee Attack and Initiative and weakest in Willpower compared with other races.
 
-![[_assets/Units/VamplingSword.webp]]
+![[_assets/Units/VamplingSwordsman.webp]]
 
 > Not full vampires, but the blood runs close enough to matter. Vamplings move with uncanny speed, strike with predatory precision, and drain vitality from their foes with every blow. Fire unnerves them deeply, and their willpower crumbles when denied the hunt.
 
@@ -61,7 +61,7 @@ Base stats of a fresh recruit, before background bonuses. Rank is among all 26 r
 
 ## Racial traits & abilities
 
-- **Racial abilities:** [[Blood Feast]]
+- **Racial abilities:** [[Red Feast (Ability)|Red Feast]]
 
 **Racial passives**
 
@@ -74,6 +74,13 @@ Weapon families this race favours.
 
 - **Melee:** Dagger, Sword
 - **Ranged:** Crossbow
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Dagger ×2.5, Sword ×1.8, Light Armor ×1.3, Robe ×1.3
+- **Disfavoured:** Shield ×0.6
 
 ## Skill discovery
 

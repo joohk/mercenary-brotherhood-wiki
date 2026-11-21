@@ -44,7 +44,7 @@ A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 35 HP, 1 armor, wor
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 12 |
 | [[Stats#Damage Min\|Damage]] | 1-2 |
-| Damage with weapon | 5-9 (base 1-2 + [[Crude Mace]] 4-7) |
+| Damage with weapon | 5-10 (base 1-2 + [[Crude Mace]] 4-8) |
 
 ## Combat
 
@@ -56,13 +56,24 @@ A tier-1 enemy of the [[Cult of the Hollow Eye]] faction — 35 HP, 1 armor, wor
 | Gold | 6 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 100 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 12 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Cult Robes]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Cult Robes]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

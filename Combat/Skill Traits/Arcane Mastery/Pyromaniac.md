@@ -20,7 +20,7 @@ up: "[[Arcane Mastery]]"
 
 A rare passive skill trait of [[Arcane Mastery]] with 1 rank.
 
-> Fire is your art. +6 magic power. Fire-tagged spells deal +20% damage.
+> Fire is your art. +6 magic power. Fireball deals +20% damage.
 
 ## Effects
 

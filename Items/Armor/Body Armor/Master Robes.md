@@ -15,6 +15,9 @@ armor: 4
 family: robe
 price: 1020
 rarity: normal
+resist_blunt: 4
+resist_piercing: 2
+resist_slashing: 4
 slot: body_armor
 spawn_weight: 12
 tier: 4
@@ -36,6 +39,9 @@ A tier-4 robe giving 4 Armor, worth 1020 gold.
 | [[Stats#Armor\|Armor]] | +4 |
 | [[Stats#Magic Power\|Magic Power]] | +16 |
 | [[Stats#Willpower\|Willpower]] | +9 |
+| [[Stats#Slash Resist\|Slash Resist]] | +4% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +2% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +4% |
 | Price | 1020 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 12 |

@@ -37,10 +37,6 @@ A legendary-or-better magic property for shields and body armor.
 | [[Glossary#Numbers used on this wiki\|Weight (power)]] | 4 |
 | Naming theme | [[Magic Item Names#Iron\|Iron]] |
 
-## Effects
-
-- -20% Damage Taken
-
 ## Tiers
 
 Properties of the *Resilience* family: [[Resilience I]] → [[Resilience II]] → **Resilience III**

@@ -11,8 +11,8 @@ tags:
   - tier/3
   - type/item
 source: items/weapons_melee.json
-damage_max: 24
-damage_min: 15
+damage_max: 26
+damage_min: 17
 damage_type: blunt
 family: mace
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-3 one-handed blunt mace dealing 15-24 damage, worth 480 gold.
+A tier-3 one-handed blunt mace dealing 17-26 damage, worth 480 gold.
 
 ![[_assets/Icons/OneHandedMace.png|96]]
 
@@ -37,7 +37,7 @@ A tier-3 one-handed blunt mace dealing 15-24 damage, worth 480 gold.
 | Tier | 3 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 15-24 |
+| [[Stats#Damage Min\|Damage]] | 17-26 |
 | [[Stats#Armor Pen\|Armor Pen]] | +5 |
 | [[Stats#Initiative\|Initiative]] | -4 |
 | Price | 480 |

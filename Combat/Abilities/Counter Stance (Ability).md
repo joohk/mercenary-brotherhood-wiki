@@ -22,7 +22,7 @@ up: "[[Abilities]]"
 
 A 1-AP ability used on yourself.
 
-> Take a guarded sword stance. Each time an enemy misses you in melee you gain a charge of +5 Melee Attack and +10% melee damage, up to 3. Your next attack uses every charge, then they are spent. Sustained: drains fatigue each turn.
+> Take a guarded sword stance. Each time an enemy misses you in melee you gain a charge of +5 Melee Attack and +10% melee damage, up to 3. Your next attack spends every charge, and only a normal melee attack or a sword ability gains from them. Sustained: drains fatigue each turn.
 
 ## Stats
 

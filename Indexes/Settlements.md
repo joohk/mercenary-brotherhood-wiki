@@ -126,36 +126,36 @@ All 270 settlements in the game data.
 
 | Name | Type | Race theme / zone | Special services | Quests | Market goods |
 |---|---|---|---|---|---|
-| [[Ashen Redoubt]] | Fort | [[Tiefling]] | Blacksmith, Magic Shop | 6 | [[Sulfur]], [[Embalming Herbs]], [[Charcoal]] |
-| [[Battleford]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Charcoal]], [[Preserved Meat]] |
-| [[Bloodrock]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Charcoal]], [[Stone Blocks]] |
-| [[Border Watch]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Preserved Meat]], [[Iron Ore]] |
-| [[Brassburrow Fort]] | Fort | [[Gnome]] | Blacksmith, Magic Shop | 6 | [[Brass Mechanisms]], [[Copper Ingots]], [[Iron-Forged Tools]] |
-| [[Broken Palisade]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 6 | [[Timber]], [[Iron Ore]], [[Preserved Meat]] |
-| [[Deepkeep]] | Fort | [[Deepkin]] | Blacksmith, Magic Shop | 6 | [[Stone Blocks]], [[Iron Ore]], [[Gemstones]] |
-| [[Flintmarch]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Stone Blocks]], [[Charcoal]], [[Iron Ore]] |
-| [[Fort Greymere]] | Fort | Mixed | Armorer, Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Preserved Meat]], [[Charcoal]] |
-| [[Fort Ironclad]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Charcoal]], [[Preserved Meat]] |
-| [[Granitehold]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Stone Blocks]], [[Iron Ore]], [[Coal]] |
-| [[Grimtusk Hold]] | Fort | Mixed | Armorer, Blacksmith, Magic Shop | 10 | [[Leather Hides]], [[Animal Fat]], [[Raw Hide]] |
-| [[Grubstake Fort]] | Fort | [[Goblin]] | Blacksmith, Magic Shop | 6 | [[Hemp]], [[Raw Hide]], [[Tallow]] |
-| [[Hammerfell]] | Fort | [[Dwarf]] | Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Stone Blocks]], [[Charcoal]] |
-| [[Highwall]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Stone Blocks]], [[Iron Ore]], [[Preserved Meat]] |
-| [[Howl Keep]] | Fort | [[Wolfkin]] | Blacksmith, Magic Shop | 6 | [[Frontier Pelts]], [[Preserved Meat]], [[Leather Hides]] |
-| [[Ironfang Hold]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Coal]], [[Stone Blocks]] |
-| [[Lone Watch Fort]] | Fort | [[Wolfkin]] | Blacksmith, Magic Shop | 6 | [[Preserved Meat]], [[Frontier Pelts]], [[Animal Fat]] |
-| [[Old Garrison]] | Fort | Mixed | Magic Shop | 10 | [[Preserved Meat]], [[Iron Ore]], [[Charcoal]] |
-| [[Rampart Keep]] | Fort | Mixed | Magic Shop | 10 | [[Iron Ore]], [[Timber]], [[Stone Blocks]], [[Coal]] |
-| [[Rimespire]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Iron Ore]], [[Stone Blocks]], [[Coal]] |
-| [[Scorched Keep]] | Fort | [[Tiefling]] | Blacksmith, Magic Shop | 6 | [[Sulfur]], [[Charcoal]], [[Iron Ore]] |
-| [[Screamhold]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 6 | [[Raw Hide]], [[Preserved Meat]], [[Iron Ore]] |
-| [[Spider Gate]] | Fort | [[Dark Elf]] | Blacksmith, Magic Shop | 6 | [[Hemp]], [[Rope]], [[Sulfur]] |
-| [[Spiketown]] | Fort | Mixed | Magic Shop | 10 | [[Iron Ore]], [[Timber]], [[Charcoal]] |
-| [[Stonefist]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Stone Blocks]], [[Iron Ore]], [[Coal]] |
-| [[Thornwall]] | Fort | Mixed | Armorer, Blacksmith, Bowyer, Magic Shop | 10 | [[Timber]], [[Charcoal]], [[Stone Blocks]] |
-| [[Umbral Gate]] | Fort | Mixed | Blacksmith, Magic Shop | 10 | [[Stone Blocks]], [[Sulfur]], [[Pitch]] |
-| [[Umbral Redoubt]] | Fort | [[Dark Elf]] | Blacksmith, Magic Shop | 6 | [[Sulfur]], [[Hemp]], [[Embalming Herbs]] |
-| [[Vault Warden]] | Fort | [[Deepkin]] | Blacksmith, Magic Shop | 6 | [[Stone Blocks]], [[Iron Ore]], [[Gemstones]] |
+| [[Ashen Redoubt]] | Fort | [[Tiefling]] | Blacksmith, Magic Shop | 5 | [[Sulfur]], [[Embalming Herbs]], [[Charcoal]] |
+| [[Battleford]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Charcoal]], [[Preserved Meat]] |
+| [[Bloodrock]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Charcoal]], [[Stone Blocks]] |
+| [[Border Watch]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Preserved Meat]], [[Iron Ore]] |
+| [[Brassburrow Fort]] | Fort | [[Gnome]] | Blacksmith, Magic Shop | 5 | [[Brass Mechanisms]], [[Copper Ingots]], [[Iron-Forged Tools]] |
+| [[Broken Palisade]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 5 | [[Timber]], [[Iron Ore]], [[Preserved Meat]] |
+| [[Deepkeep]] | Fort | [[Deepkin]] | Blacksmith, Magic Shop | 5 | [[Stone Blocks]], [[Iron Ore]], [[Gemstones]] |
+| [[Flintmarch]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Stone Blocks]], [[Charcoal]], [[Iron Ore]] |
+| [[Fort Greymere]] | Fort | Mixed | Armorer, Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Preserved Meat]], [[Charcoal]] |
+| [[Fort Ironclad]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Charcoal]], [[Preserved Meat]] |
+| [[Granitehold]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Stone Blocks]], [[Iron Ore]], [[Coal]] |
+| [[Grimtusk Hold]] | Fort | Mixed | Armorer, Blacksmith, Magic Shop | 9 | [[Leather Hides]], [[Animal Fat]], [[Raw Hide]] |
+| [[Grubstake Fort]] | Fort | [[Goblin]] | Blacksmith, Magic Shop | 5 | [[Hemp]], [[Raw Hide]], [[Tallow]] |
+| [[Hammerfell]] | Fort | [[Dwarf]] | Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Stone Blocks]], [[Charcoal]] |
+| [[Highwall]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Stone Blocks]], [[Iron Ore]], [[Preserved Meat]] |
+| [[Howl Keep]] | Fort | [[Wolfkin]] | Blacksmith, Magic Shop | 5 | [[Frontier Pelts]], [[Preserved Meat]], [[Leather Hides]] |
+| [[Ironfang Hold]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Coal]], [[Stone Blocks]] |
+| [[Lone Watch Fort]] | Fort | [[Wolfkin]] | Blacksmith, Magic Shop | 5 | [[Preserved Meat]], [[Frontier Pelts]], [[Animal Fat]] |
+| [[Old Garrison]] | Fort | Mixed | Magic Shop | 9 | [[Preserved Meat]], [[Iron Ore]], [[Charcoal]] |
+| [[Rampart Keep]] | Fort | Mixed | Magic Shop | 9 | [[Iron Ore]], [[Timber]], [[Stone Blocks]], [[Coal]] |
+| [[Rimespire]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Iron Ore]], [[Stone Blocks]], [[Coal]] |
+| [[Scorched Keep]] | Fort | [[Tiefling]] | Blacksmith, Magic Shop | 5 | [[Sulfur]], [[Charcoal]], [[Iron Ore]] |
+| [[Screamhold]] | Fort | [[Orc]] | Blacksmith, Magic Shop | 5 | [[Raw Hide]], [[Preserved Meat]], [[Iron Ore]] |
+| [[Spider Gate]] | Fort | [[Dark Elf]] | Blacksmith, Magic Shop | 5 | [[Hemp]], [[Rope]], [[Sulfur]] |
+| [[Spiketown]] | Fort | Mixed | Magic Shop | 9 | [[Iron Ore]], [[Timber]], [[Charcoal]] |
+| [[Stonefist]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Stone Blocks]], [[Iron Ore]], [[Coal]] |
+| [[Thornwall]] | Fort | Mixed | Armorer, Blacksmith, Bowyer, Magic Shop | 9 | [[Timber]], [[Charcoal]], [[Stone Blocks]] |
+| [[Umbral Gate]] | Fort | Mixed | Blacksmith, Magic Shop | 9 | [[Stone Blocks]], [[Sulfur]], [[Pitch]] |
+| [[Umbral Redoubt]] | Fort | [[Dark Elf]] | Blacksmith, Magic Shop | 5 | [[Sulfur]], [[Hemp]], [[Embalming Herbs]] |
+| [[Vault Warden]] | Fort | [[Deepkin]] | Blacksmith, Magic Shop | 5 | [[Stone Blocks]], [[Iron Ore]], [[Gemstones]] |
 
 ## Villages (130)
 
@@ -165,10 +165,10 @@ All 270 settlements in the game data.
 | [[Appleburrow]] | Village | [[Halfling]] | — | 4 | [[Grain]], [[Beeswax]], [[Wool]] |
 | [[Ashenmoor]] | Village | Mixed | — | 4 | [[Tar]], [[Raw Hide]] |
 | [[Ashgate]] | Village | Mixed | — | 4 | [[Timber]], [[Rope]], [[Bark Strips]] |
-| [[Ashwoven]] | Village | [[Dark Elf]] | — | 4 | [[Hemp]], [[Dyes]], [[Fine Silk]] |
-| [[Blackcoal]] | Village | [[Tiefling]] | — | 4 | [[Coal]], [[Charcoal]] |
+| [[Ashwoven]] | Village | [[Dark Elf]] | — | 3 | [[Hemp]], [[Dyes]], [[Fine Silk]] |
+| [[Blackcoal]] | Village | [[Tiefling]] | — | 3 | [[Coal]], [[Charcoal]] |
 | [[Blackthorn]] | Village | Mixed | — | 4 | [[Timber]], [[Charcoal]] |
-| [[Blackthread]] | Village | [[Dark Elf]] | — | 4 | [[Dyes]], [[Hemp]], [[Fine Silk]] |
+| [[Blackthread]] | Village | [[Dark Elf]] | — | 3 | [[Dyes]], [[Hemp]], [[Fine Silk]] |
 | [[Boghollow]] | Village | Mixed | — | 4 | [[Tar]], [[Hemp]] |
 | [[Boglight]] | Village | [[Goblin]] | — | 4 | [[Tar]], [[Hemp]], [[Dried Fish]] |
 | [[Bogside]] | Village | Mixed | — | 4 | [[Tar]], [[Raw Hide]] |
@@ -180,7 +180,7 @@ All 270 settlements in the game data.
 | [[Buttonwood]] | Village | [[Gnome]] | — | 4 | [[Brass Mechanisms]], [[Tin Ingots]], [[Pottery]] |
 | [[Catterton]] | Village | [[Human]] | — | 4 | [[Leather Hides]], [[Tallow]] |
 | [[Cindervale]] | Village | Mixed | — | 4 | [[Charcoal]], [[Coal]] |
-| [[Cinderwell]] | Village | [[Tiefling]] | — | 4 | [[Tallow]], [[Wax Candles]], [[Sulfur]] |
+| [[Cinderwell]] | Village | [[Tiefling]] | — | 3 | [[Tallow]], [[Wax Candles]], [[Sulfur]] |
 | [[Cloverfield]] | Village | [[Halfling]] | — | 4 | [[Grain]], [[Wool]] |
 | [[Coalpit]] | Village | Mixed | — | 4 | [[Coal]], [[Charcoal]] |
 | [[Copper Falls]] | Village | Mixed | — | 4 | [[Copper Ingots]], [[Tin Ingots]] |
@@ -191,7 +191,7 @@ All 270 settlements in the game data.
 | [[Dragon's Perch]] | Village | Mixed | — | 4 | [[Sulfur]], [[Gemstones]] |
 | [[Drifter's Hollow]] | Village | Mixed | — | 4 | [[Firewood]], [[Hemp]] |
 | [[Duskfield]] | Village | [[Human]] | — | 4 | [[Grain]], [[Wool]] |
-| [[Dust Market]] | Village | [[Tiefling]] | — | 4 | [[Salt]], [[Dried Fish]], [[Spice]] |
+| [[Dust Market]] | Village | [[Tiefling]] | — | 3 | [[Salt]], [[Dried Fish]], [[Spice]] |
 | [[Dustfall]] | Village | Mixed | — | 4 | [[Grain]], [[Straw]] |
 | [[Echohollow]] | Village | [[Deepkin]] | — | 4 | [[Stone Blocks]], [[Charcoal]], [[Sulfur]] |
 | [[Elderpine]] | Village | [[Wolfkin]] | — | 4 | [[Pine Resin]], [[Timber]], [[Frontier Pelts]] |
@@ -201,7 +201,7 @@ All 270 settlements in the game data.
 | [[Filigree Glen]] | Village | [[Gnome]] | — | 4 | [[Brass Mechanisms]], [[Tin Ingots]], [[Copper Ingots]] |
 | [[Frostden]] | Village | [[Wolfkin]] | — | 4 | [[Frontier Pelts]], [[Preserved Meat]], [[Animal Fat]] |
 | [[Gallowfield]] | Village | Mixed | — | 4 | [[Grain]], [[Straw]] |
-| [[Ghazira]] | Village | [[Tiefling]] | — | 4 | [[Spice]], [[Dyes]], [[Salt]] |
+| [[Ghazira]] | Village | [[Tiefling]] | — | 3 | [[Spice]], [[Dyes]], [[Salt]] |
 | [[Glacierfall]] | Village | Mixed | — | 4 | [[Stone Blocks]], [[Iron Ore]] |
 | [[Goldseam]] | Village | Mixed | — | 4 | [[Gemstones]], [[Iron Ore]] |
 | [[Gorewhistle]] | Village | [[Orc]] | — | 4 | [[Raw Hide]], [[Preserved Meat]], [[Tar]] |
@@ -230,7 +230,7 @@ All 270 settlements in the game data.
 | [[Mistwall]] | Village | Mixed | — | 4 | [[Hemp]], [[Wool]] |
 | [[Moonfang]] | Village | [[Wolfkin]] | — | 4 | [[Frontier Pelts]], [[Preserved Meat]], [[Pine Resin]] |
 | [[Moonhollow]] | Village | [[Elf]] | — | 4 | [[Wool]], [[Beeswax]] |
-| [[Moonless]] | Village | [[Dark Elf]] | — | 4 | [[Dyes]], [[Fine Silk]], [[Embalming Herbs]] |
+| [[Moonless]] | Village | [[Dark Elf]] | — | 3 | [[Dyes]], [[Fine Silk]], [[Embalming Herbs]] |
 | [[Moonridge]] | Village | [[Wolfkin]] | — | 4 | [[Wool]], [[Grain]] |
 | [[Moonshade Caverns]] | Village | [[Deepkin]] | — | 4 | [[Stone Blocks]], [[Gemstones]], [[Sulfur]] |
 | [[Mudburrow]] | Village | [[Goblin]] | — | 4 | [[Tar]], [[Pottery]] |
@@ -245,20 +245,20 @@ All 270 settlements in the game data.
 | [[Ratchet Grove]] | Village | [[Gnome]] | — | 4 | [[Brass Mechanisms]], [[Copper Ingots]], [[Tin Ingots]] |
 | [[Ratrun]] | Village | [[Goblin]] | — | 4 | [[Hemp]], [[Raw Hide]], [[Tallow]] |
 | [[Ravensfeather]] | Village | [[Wolfkin]] | — | 4 | [[Frontier Pelts]], [[Preserved Meat]], [[Leather Hides]] |
-| [[Redspring]] | Village | [[Tiefling]] | — | 4 | [[Salt]], [[Sulfur]], [[Wax Candles]] |
+| [[Redspring]] | Village | [[Tiefling]] | — | 3 | [[Salt]], [[Sulfur]], [[Wax Candles]] |
 | [[Reed's End]] | Village | Mixed | — | 4 | [[Hemp]], [[Dried Fish]] |
 | [[Rendpost]] | Village | [[Orc]] | — | 4 | [[Raw Hide]], [[Leather Hides]], [[Preserved Meat]] |
 | [[Rottenbow]] | Village | Mixed | — | 4 | [[Timber]], [[Raw Hide]] |
-| [[Salt Pillar]] | Village | [[Tiefling]] | — | 4 | [[Salt]], [[Sulfur]], [[Dried Fish]] |
+| [[Salt Pillar]] | Village | [[Tiefling]] | — | 3 | [[Salt]], [[Sulfur]], [[Dried Fish]] |
 | [[Saltgrotto]] | Village | [[Deepkin]] | — | 4 | [[Salt]], [[Dried Fish]] |
-| [[Sandgaze]] | Village | [[Tiefling]] | — | 4 | [[Sand]], [[Glass Bottles]], [[Dyes]] |
-| [[Scaleweave]] | Village | [[Tiefling]] | — | 4 | [[Dyes]], [[Fine Silk]], [[Leather Hides]] |
+| [[Sandgaze]] | Village | [[Tiefling]] | — | 3 | [[Sand]], [[Glass Bottles]], [[Dyes]] |
+| [[Scaleweave]] | Village | [[Tiefling]] | — | 3 | [[Dyes]], [[Fine Silk]], [[Leather Hides]] |
 | [[Scorched Crossing]] | Village | Mixed | — | 4 | [[Charcoal]], [[Tar]] |
 | [[Scrapheap]] | Village | [[Goblin]] | — | 4 | [[Iron Ore]], [[Tallow]] |
 | [[Scrappers Drift]] | Village | [[Goblin]] | — | 4 | [[Hemp]], [[Raw Hide]], [[Tar]] |
-| [[Shadowkin]] | Village | [[Dark Elf]] | — | 4 | [[Hemp]], [[Dyes]], [[Embalming Herbs]] |
+| [[Shadowkin]] | Village | [[Dark Elf]] | — | 3 | [[Hemp]], [[Dyes]], [[Embalming Herbs]] |
 | [[Shaftwarden]] | Village | [[Deepkin]] | — | 4 | [[Stone Blocks]], [[Iron Ore]], [[Charcoal]] |
-| [[Silentstep]] | Village | [[Dark Elf]] | — | 4 | [[Hemp]], [[Dyes]], [[Rare Herbs]] |
+| [[Silentstep]] | Village | [[Dark Elf]] | — | 3 | [[Hemp]], [[Dyes]], [[Rare Herbs]] |
 | [[Silkweb Grotto]] | Village | Mixed | — | 4 | [[Fine Silk]], [[Rope]] |
 | [[Silverbough]] | Village | [[Elf]] | — | 4 | [[Bark Strips]], [[Beeswax]], [[Medicinal Herbs]] |
 | [[Silverglade]] | Village | [[Elf]] | Bowyer | 4 | [[Medicinal Herbs]], [[Beeswax]], [[Fine Silk]] |
@@ -266,7 +266,7 @@ All 270 settlements in the game data.
 | [[Skullcairn]] | Village | [[Orc]] | — | 4 | [[Raw Hide]], [[Tallow]], [[Preserved Meat]] |
 | [[Skulltop]] | Village | Mixed | — | 4 | [[Raw Hide]], [[Animal Fat]] |
 | [[Snowwatch]] | Village | [[Wolfkin]] | — | 4 | [[Frontier Pelts]], [[Preserved Meat]], [[Animal Fat]] |
-| [[Spinelight]] | Village | [[Dark Elf]] | — | 4 | [[Dyes]], [[Embalming Herbs]], [[Hemp]] |
+| [[Spinelight]] | Village | [[Dark Elf]] | — | 3 | [[Dyes]], [[Embalming Herbs]], [[Hemp]] |
 | [[Sporewick]] | Village | Mixed | — | 4 | [[Medicinal Herbs]], [[Rare Herbs]] |
 | [[Starfall Glade]] | Village | [[Elf]] | — | 4 | [[Gemstones]], [[Fine Silk]] |
 | [[Stillbrook]] | Village | [[Human]] | — | 4 | [[Grain]], [[Dried Fish]], [[Wool]] |
@@ -275,7 +275,7 @@ All 270 settlements in the game data.
 | [[Stonewallow]] | Village | [[Dwarf]] | — | 4 | [[Iron Ore]], [[Coal]], [[Stone Blocks]] |
 | [[Thistledown]] | Village | [[Halfling]] | — | 4 | [[Grain]], [[Wool]], [[Beeswax]] |
 | [[Thistleveil]] | Village | [[Elf]] | — | 4 | [[Hemp]], [[Medicinal Herbs]] |
-| [[Thornloom]] | Village | [[Dark Elf]] | — | 4 | [[Hemp]], [[Dyes]], [[Fine Silk]] |
+| [[Thornloom]] | Village | [[Dark Elf]] | — | 3 | [[Hemp]], [[Dyes]], [[Fine Silk]] |
 | [[Thornwillow]] | Village | [[Elf]] | — | 4 | [[Bark Strips]], [[Medicinal Herbs]], [[Hemp]] |
 | [[Tidewash]] | Village | Mixed | — | 4 | [[Dried Fish]], [[Salt]] |
 | [[Tinkerton]] | Village | Mixed | Blacksmith | 4 | [[Glass Bottles]], [[Copper Ingots]] |
@@ -319,11 +319,11 @@ All 270 settlements in the game data.
 
 | Name | Type | Race theme / zone | Special services | Quests | Market goods |
 |---|---|---|---|---|---|
-| [[Abyssal Throne]] | Fort | Deep zone | Dark Forge, Armorer, Shadow Broker | 3 | [[Sulfur]], [[Silver Ingots]], [[Stone Blocks]], [[Gemstones]] |
+| [[Abyssal Throne]] | Fort | Deep zone | Dark Forge, Armorer, Shadow Broker | 2 | [[Sulfur]], [[Silver Ingots]], [[Stone Blocks]], [[Gemstones]] |
 | [[Emberheart Forge]] | Fort | Deep zone | Dark Forge, Armorer | 2 | [[Iron Ore]], [[Coal]], [[Iron-Forged Tools]], [[Gemstones]] |
-| [[The Blind Bazaar]] | Town | Deep zone | Dark Forge, Fungus Market, Shadow Broker, Magic Shop | 3 | [[Rare Herbs]], [[Fine Silk]], [[Spice]], [[Gemstones]] |
-| [[The Crawling Dark]] | Village | Deep zone | Fungus Market, Shadow Broker | 2 | [[Hemp]], [[Rope]], [[Fine Silk]] |
-| [[Voidreach]] | Town | Deep zone | Magic Shop, Shadow Broker | 2 | [[Embalming Herbs]], [[Sulfur]], [[Gemstones]], [[Rare Herbs]] |
+| [[The Blind Bazaar]] | Town | Deep zone | Dark Forge, Fungus Market, Shadow Broker, Magic Shop | 2 | [[Rare Herbs]], [[Fine Silk]], [[Spice]], [[Gemstones]] |
+| [[The Crawling Dark]] | Village | Deep zone | Fungus Market, Shadow Broker | 1 | [[Hemp]], [[Rope]], [[Fine Silk]] |
+| [[Voidreach]] | Town | Deep zone | Magic Shop, Shadow Broker | 1 | [[Embalming Herbs]], [[Sulfur]], [[Gemstones]], [[Rare Herbs]] |
 
 ## Sortable view
 

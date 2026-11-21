@@ -61,7 +61,7 @@ Base stats of a fresh recruit, before background bonuses. Rank is among all 26 r
 
 ## Racial traits & abilities
 
-- **Racial abilities:** [[Sprint (Ability, ability_wolfkin_sprint)|Sprint]], [[Wolfkin Leap]]
+- **Racial abilities:** [[Feral Dash]], [[Wolfkin Leap]]
 
 **Racial passives**
 
@@ -77,6 +77,13 @@ Weapon families this race favours.
 
 - **Melee:** Axe, Dagger
 - **Ranged:** Thrown
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Axe ×2, Spear ×2, Light Armor ×1.5, Bow ×1.3
+- **Disfavoured:** Heavy Armor ×0.5
 
 ## Backgrounds
 

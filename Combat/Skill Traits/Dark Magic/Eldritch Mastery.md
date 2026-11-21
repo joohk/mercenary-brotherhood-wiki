@@ -20,7 +20,7 @@ up: "[[Dark Magic]]"
 
 A rare passive skill trait of [[Dark Magic]] with 3 ranks.
 
-> Deeper command of eldritch forces increases blast damage.
+> Deeper command of eldritch forces increases blast damage. +5 bonus damage to Eldritch Blast.
 
 ## Upgrades
 

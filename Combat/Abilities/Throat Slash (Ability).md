@@ -10,19 +10,18 @@ tags:
   - type/ability
 source: abilities/combat_abilities.json
 ap_cost: 1
-cooldown_turns: 2
+cooldown_turns: 3
 fatigue_cost: 16
 range: 1
 requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
+A 1-AP melee ability targeting an adjacent enemy.
 
 > Strike at the throat. Deals +50% bonus damage if the target is below 40% HP.
 
@@ -32,10 +31,11 @@ A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 16 |
-| Cooldown | 2 turns |
-| Uses per battle | 2 |
+| Cooldown | 3 turns |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, dagger, finisher

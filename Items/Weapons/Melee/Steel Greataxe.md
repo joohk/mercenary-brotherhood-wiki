@@ -11,8 +11,8 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_melee.json
-damage_max: 32
-damage_min: 19
+damage_max: 39
+damage_min: 23
 damage_type: slashing
 family: axe
 hands: two-handed
@@ -26,7 +26,7 @@ up: "[[Axes]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
-A tier-2 two-handed slashing axe dealing 19-32 damage, worth 400 gold.
+A tier-2 two-handed slashing axe dealing 23-39 damage, worth 400 gold.
 
 ![[_assets/Icons/tier_1/axe_2h.webp|96]]
 
@@ -37,9 +37,9 @@ A tier-2 two-handed slashing axe dealing 19-32 damage, worth 400 gold.
 | Tier | 2 |
 | Damage type | Slashing |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 19-32 |
+| [[Stats#Damage Min\|Damage]] | 23-39 |
 | [[Stats#Armor Pen\|Armor Pen]] | +5 |
-| [[Stats#Initiative\|Initiative]] | -8 |
+| [[Stats#Initiative\|Initiative]] | -9 |
 | Price | 400 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 32 |

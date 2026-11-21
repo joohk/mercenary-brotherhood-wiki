@@ -42,16 +42,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far |
 |---|---|---|
-| L1 | +3 [[Stats#Damage Min\|Damage Min]], +2 [[Stats#Armor Pen\|Armor Pen]] | +3 Damage Min, +2 Armor Pen |
-| L2 | +3 [[Stats#Damage Min\|Damage Min]], +2 [[Stats#Armor Pen\|Armor Pen]] | +6 Damage Min, +4 Armor Pen |
-| L3 | +3 to +4 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +9 Damage Min, +5 Armor Pen, +4 Damage Max |
-| L4 | +2 to +5 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +11 Damage Min, +6 Armor Pen, +9 Damage Max |
-| L5 | +2 to +5 [[Stats#Damage Min\|Damage]], +2 [[Stats#Armor Pen\|Armor Pen]] | +13 to +14 Damage, +8 Armor Pen |
-| L6 | +2 to +6 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +15 to +20 Damage, +9 Armor Pen |
-| L7 | +2 to +6 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +17 to +26 Damage, +10 Armor Pen |
-| L8 | +2 to +6 [[Stats#Damage Min\|Damage]], +2 [[Stats#Armor Pen\|Armor Pen]] | +19 to +32 Damage, +12 Armor Pen |
-| L9 | +1 to +7 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +20 to +39 Damage, +13 Armor Pen |
-| L10 | +1 to +7 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +21 to +46 Damage, +14 Armor Pen |
+| L1 | +2 [[Stats#Damage Min\|Damage Min]], +2 [[Stats#Armor Pen\|Armor Pen]] | +2 Damage Min, +2 Armor Pen |
+| L2 | +3 [[Stats#Damage Min\|Damage Min]], +4 [[Stats#Armor Pen\|Armor Pen]] | +5 Damage Min, +6 Armor Pen |
+| L3 | +5 [[Stats#Damage Min\|Damage Min]], +6 [[Stats#Armor Pen\|Armor Pen]], +2 [[Stats#Damage Max\|Damage Max]] | +10 Damage Min, +12 Armor Pen, +2 Damage Max |
+| L4 | +6 [[Stats#Damage Min\|Damage Min]], +7 [[Stats#Armor Pen\|Armor Pen]], +5 [[Stats#Damage Max\|Damage Max]] | +16 Damage Min, +19 Armor Pen, +7 Damage Max |
+| L5 | +7 [[Stats#Damage Min\|Damage]], +9 [[Stats#Armor Pen\|Armor Pen]] | +23 Damage Min, +28 Armor Pen, +14 Damage Max |
+| L6 | +8 to +10 [[Stats#Damage Min\|Damage]], +11 [[Stats#Armor Pen\|Armor Pen]] | +31 Damage Min, +39 Armor Pen, +24 Damage Max |
+| L7 | +9 to +13 [[Stats#Damage Min\|Damage]], +12 [[Stats#Armor Pen\|Armor Pen]] | +40 Damage Min, +51 Armor Pen, +37 Damage Max |
+| L8 | +10 to +16 [[Stats#Damage Min\|Damage]], +14 [[Stats#Armor Pen\|Armor Pen]] | +50 to +53 Damage, +65 Armor Pen |
+| L9 | +10 to +20 [[Stats#Damage Min\|Damage]], +16 [[Stats#Armor Pen\|Armor Pen]] | +60 to +73 Damage, +81 Armor Pen |
+| L10 | +11 to +23 [[Stats#Damage Min\|Damage]], +17 [[Stats#Armor Pen\|Armor Pen]] | +71 to +96 Damage, +98 Armor Pen |
 
 ## Skill traits
 
@@ -71,7 +71,7 @@ Skill traits belonging to this skill.
 ## Referenced by
 
 - **Familiar to:** [[Beastmaster]], [[Berserker (Background)|Berserker]], [[Executioner (Background)|Executioner]], [[Feral Champion]], [[Pathfinder]], [[Pit Slave]], [[Raider]], [[Ranger (Background)|Ranger]], [[Ravager (Background)|Ravager]], [[Tribal Warrior]], [[Woodcutter]]
-- **Foreign to:** [[Acolyte]], [[Arcane Prodigy]], [[Blood Initiate]], [[Candle Witch]], [[Cleric (Background)|Cleric]], [[Cultist]], [[Druid (Background)|Druid]], [[Fortune Teller]], [[Grave Tender]], [[Hedge Wizard]], [[Herb Apprentice]], [[Herbalist]], [[Mind Shaper]], [[Monk]], [[Outrider]], [[Pilgrim]], [[Royal Exile]], [[Scroll Scribe]], [[Shadow Mage]], [[Tinkerer]], [[Venom Adept]], [[War Mage]], [[Witch Doctor]]
+- **Foreign to:** [[Acolyte]], [[Arcane Prodigy]], [[Blood Initiate]], [[Candle Witch]], [[Chaplain]], [[Cultist]], [[Druid (Background)|Druid]], [[Fortune Teller]], [[Grave Tender]], [[Hedge Wizard]], [[Herb Apprentice]], [[Herbalist]], [[Mind Shaper]], [[Monk]], [[Outrider]], [[Pilgrim]], [[Royal Exile]], [[Scroll Scribe]], [[Shadow Mage]], [[Tinkerer]], [[Venom Adept]], [[War Mage]], [[Witch Doctor]]
 - **Guild signature skill:** [[Reaver Hall]]
 - **Starting skill of:** [[Berserker (Background)|Berserker]], [[Executioner (Background)|Executioner]], [[Feral Champion]], [[Pit Slave]], [[Raider]], [[Ravager (Background)|Ravager]], [[Woodcutter]]
 

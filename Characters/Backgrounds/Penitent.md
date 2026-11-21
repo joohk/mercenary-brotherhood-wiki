@@ -44,7 +44,7 @@ Bonuses added on top of the recruit's race base stats.
 
 - **Starts with:** [[Holy Magic]], [[Battle Hardened (Skill)|Battle Hardened]]
 - **Familiar:** [[Holy Magic]], [[Battle Hardened (Skill)|Battle Hardened]], [[Giant Slayer]], [[Dual Wield Mastery]]
-- **Foreign:** [[Dark Magic]], [[Pincer]], [[Suppressor]]
+- **Foreign:** [[Dark Magic]], [[Teamwork]], [[Suppressor]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.
 

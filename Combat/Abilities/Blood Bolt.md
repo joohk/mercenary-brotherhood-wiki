@@ -11,7 +11,7 @@ source: abilities/combat_abilities.json
 ap_cost: 1
 cooldown_turns: 1
 fatigue_cost: 10
-hp_cost: 5
+hp_cost_pct: 5
 range: 4
 requires_los: true
 source_type: Skill
@@ -23,7 +23,7 @@ up: "[[Blood Magic]]"
 
 A 1-AP magic ability targeting one enemy up to 4 hexes away.
 
-> Hurl a bolt of crystallized blood at an enemy. Costs HP to cast.
+> Hurl a bolt of crystallized blood at an enemy. Costs 5% of your max HP to cast.
 
 ## Stats
 
@@ -31,14 +31,14 @@ A 1-AP magic ability targeting one enemy up to 4 hexes away.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 10 |
-| HP cost | 5 |
+| HP cost | 5% of max HP |
 | Cooldown | 1 turn |
 | Uses per battle | Unlimited |
 | Range | 4 hexes |
 | Target | Enemy |
 | Ignores armor | Yes |
 | Line of sight | Required |
-| Damage | 15-28 (ignores armor, costs 5 HP) |
+| Damage | 15-28 (ignores armor, costs 5% of max HP) |
 
 *Tags:* magic, blood
 

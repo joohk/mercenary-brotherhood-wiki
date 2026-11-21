@@ -46,7 +46,6 @@ Quests this settlement's board can post:
 
 - [[Destroy the Camp]] — company level 1-4
 - [[Destroy the Outpost]] — company level 2-5
-- [[Close the Demon Rift]] — company level 10+
 - [[Clear the Roads of Faction]] — company level 3-8
 
 Bounties, security, trade and chain quests are posted dynamically and are not listed here — see [[Quests]].

@@ -29,7 +29,8 @@ Each column is the full bonus at that level (not added to the previous one).
 | Bonus | Marksman I | Marksman II | Marksman III |
 |---|---|---|---|
 | [[Stats#Ranged Attack\|Ranged Attack]] | +4 | +7 | +10 |
-| [[Stats#Damage Min\|Damage]] | +3% | +6% | +10% |
+| Ranged Damage Min | +3% | +6% | +10% |
+| Ranged Damage Max | +3% | +6% | +10% |
 | Ranged Range | — | +1 | +1 |
 | [[Stats#Initiative\|Initiative]] | — | — | +3 |
 

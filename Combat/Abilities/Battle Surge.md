@@ -22,7 +22,7 @@ uses_per_battle: 1
 
 A free-action ability used on yourself, usable once per battle.
 
-> A jolt of adrenaline grants an extra action and a burst of speed. Granted by an accessory; 1 use per battle.
+> A jolt of adrenaline grants an extra action and a burst of speed: while sustained, +1 AP each turn and +15 Initiative. Granted by an accessory; 1 use per battle.
 
 ## Stats
 

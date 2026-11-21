@@ -32,6 +32,6 @@ Bonus increases to +15 Melee ATK and +8 Melee DEF when fighting alone.
 
 ### Rank 3
 
-Bonus increases to +18 Melee ATK and +10 Melee DEF when fighting alone.
+Bonus increases to +18 Melee ATK and +9 Melee DEF when fighting alone.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

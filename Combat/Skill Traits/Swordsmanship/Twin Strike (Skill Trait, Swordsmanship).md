@@ -21,7 +21,7 @@ up: "[[Swordsmanship]]"
 
 A rare ability skill trait of [[Swordsmanship]] with 3 ranks, granting [[Twin Strike (Ability)|Twin Strike]].
 
-> A precise opening cut. If it lands, you immediately follow up with a 70% damage strike on any adjacent enemy. Can hit the same target twice. Requires a sword.
+> A precise opening cut. If it lands, you immediately follow up with a 70% damage strike on the same target, or on another adjacent enemy if the first cut killed it. Requires a sword.
 
 ## Effects
 
@@ -39,6 +39,6 @@ Follow-up strike scales to 85% damage.
 
 ### Rank 3
 
-Follow-up strike rises to 100% damage and the ability can be used three times per battle.
+Follow-up strike rises to 100% damage.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -38,6 +38,6 @@ An epic-or-better magic property for body armor.
 
 ## Effects
 
-- When hit while at low HP: cast [[Sprint (Ability, ability_sprint)|Sprint]] (once per combat)
+- When hit while at low HP: cast [[Sprint (Ability)|Sprint]] (once per combat)
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

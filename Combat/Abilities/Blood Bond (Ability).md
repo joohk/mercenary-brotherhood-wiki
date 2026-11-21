@@ -13,7 +13,7 @@ source: abilities/combat_abilities.json
 ap_cost: 1
 cooldown_turns: 2
 fatigue_cost: 8
-hp_cost: 6
+hp_cost_pct: 6
 range: 3
 requires_los: true
 source_type: Skill
@@ -25,7 +25,7 @@ up: "[[Blood Magic]]"
 
 A 1-AP magic ability targeting an ally up to 3 hexes away.
 
-> Sacrifice 6 HP to heal an ally for 25 HP. The blood mage's gift and burden.
+> Sacrifice 6% of your max HP to heal an ally for 25 HP. The blood mage's gift and burden.
 
 ## Stats
 
@@ -33,7 +33,7 @@ A 1-AP magic ability targeting an ally up to 3 hexes away.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 8 |
-| HP cost | 6 |
+| HP cost | 6% of max HP |
 | Cooldown | 2 turns |
 | Uses per battle | Unlimited |
 | Range | 3 hexes |
@@ -41,6 +41,10 @@ A 1-AP magic ability targeting an ally up to 3 hexes away.
 | Line of sight | Required |
 
 *Tags:* support, blood, healing, magic
+
+## Requirements
+
+- Requires Injured
 
 ## Referenced by
 

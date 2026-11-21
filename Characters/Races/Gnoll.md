@@ -79,6 +79,13 @@ Weapon families this race favours.
 - **Melee:** Axe, Mace, Dagger
 - **Ranged:** Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Spear ×2.5, Thrown ×2, Axe ×1.5, Light Armor ×1.5
+- **Disfavoured:** Robe ×0.4
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.

@@ -80,12 +80,19 @@ Weapon families this race favours.
 - **Melee:** Axe, Hammer
 - **Ranged:** Crossbow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Axe ×3, Hammer ×3, Heavy Armor ×3, Crossbow ×2, Shield ×1.5
+- **Disfavoured:** Staff ×0.5, Wand ×0.5, Robe ×0.4, Bow ×0.3
+
 ## Backgrounds
 
 The 26 backgrounds a Dwarf recruit can roll.
 
 - **Common (10):** [[Acolyte]], [[Caravan Guard]], [[Grave Digger]], [[Herb Apprentice]], [[Laborer]], [[Militia]], [[Minstrel]], [[Mudfoot]], [[Temple Guard]], [[Woodcutter]]
-- **Uncommon (9):** [[Cleric (Background)|Cleric]], [[Geomancer (Background)|Geomancer]], [[Miner]], [[Penitent]], [[Runecarver]], [[Smith]], [[Soldier]], [[Tinkerer]], [[Warden]]
+- **Uncommon (9):** [[Chaplain]], [[Geomancer (Background)|Geomancer]], [[Miner]], [[Penitent]], [[Runecarver]], [[Smith]], [[Soldier]], [[Tinkerer]], [[Warden]]
 - **Rare (5):** [[Crusader (Background)|Crusader]], [[Dreadnought]], [[Guardian]], [[Iron Warden]], [[Shield Master]]
 - **Legendary (2):** [[Grand Master]], [[Undying Sentinel]]
 

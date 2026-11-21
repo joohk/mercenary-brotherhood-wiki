@@ -21,7 +21,7 @@ up: "[[Stone Magic]]"
 
 A rare ability skill trait of [[Stone Magic]] with 2 ranks, granting [[Earthquake]].
 
-> Learn Earthquake. Split the earth beneath distant enemies, dealing damage and rooting all targets.
+> Learn Earthquake: every enemy within 2 of the target takes 13-21 blunt damage and 1 Fracture, and is rooted for 1 turn.
 
 ## Effects
 
@@ -35,7 +35,7 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Earthquake damage increased to 14-24 and radius expanded to 3.
+Aftershock: at the start of your next turn the same ground shakes again for half the damage and another Fracture.
 
 - Grants ability: [[Earthquake]]
 

@@ -20,7 +20,7 @@ up: "[[Spear Fighting]]"
 
 An uncommon passive skill trait of [[Spear Fighting]] with 2 ranks.
 
-> Your spear's length punishes the careless. When an enemy's melee attack misses you, they run onto the point and take 5-8 damage.
+> Your spear's length punishes the careless. When an enemy's melee attack misses you, they run onto the point and take 50% of your weapon damage.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-The reflected damage increases to 8-12.
+The reflected damage increases to 75% of your weapon damage.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

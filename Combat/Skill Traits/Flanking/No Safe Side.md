@@ -9,7 +9,7 @@ tags:
   - skill-trait/passive
   - type/skill_trait
 source: skills/melee_skill_traits.json
-ranks: 2
+ranks: 1
 rarity: uncommon
 skill: Flanking
 trait_type: passive
@@ -18,16 +18,8 @@ up: "[[Flanking]]"
 
 [[Home]] › [[Your Company]] › [[Melee Skills]] › [[Flanking]]
 
-An uncommon passive skill trait of [[Flanking]] with 2 ranks.
+An uncommon passive skill trait of [[Flanking]] with 1 rank.
 
-> A shield covers one line and you are never on it. Your side-arc attacks cannot be blocked by a shield.
-
-## Upgrades
-
-When an upgrade restates a bonus, the new value **replaces** the old one (it is not added on top).
-
-### Rank 2
-
-Side-arc attacks also cannot be parried.
+> A shield covers one line and you are never on it. Your side-arc attacks ignore the armor and the resistances of the target's shield.
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

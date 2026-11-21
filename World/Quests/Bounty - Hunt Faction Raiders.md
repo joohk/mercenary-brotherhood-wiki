@@ -42,6 +42,7 @@ A bounty for company level 1-5, given by a settlement. In game the title reads `
 | Difficulty tier | 1 of 5 |
 | Time limit | None |
 | Enemy faction | Chosen when the quest is posted |
+| Region restricted | No — faction-wide |
 
 **Hint:** Seek out *faction* warbands anywhere on the map.
 

@@ -21,6 +21,9 @@ up: "[[Outlaws & Sellswords]]"
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Professional|Professional]] (skilled and pragmatic): 7 unit types, tiers 2-4.
 
+> [!tip] [[Rival Mercenaries Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/MercenaryCaptain.webp|160]]
 
 > Professional soldiers-for-hire. Well-equipped and disciplined. Found on roads, plains, and near settlements.
@@ -40,18 +43,18 @@ Encounter tables have their own level gates and can field this faction outside i
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | ![[_assets/Units/MercenaryCrossbowman.webp\|40]] | [[Mercenary Crossbowman]] | 2 | 73 | 7 | 57 | 51 | 79 | 14-21 (ranged) | Ranged | 3 | 20 |
-| ![[_assets/Units/MercenaryMage.webp\|40]] | [[Mercenary Mage]] | 2 | 66 | 4 | 46 | 44 | 0 | 7-12 (ranged) | Ranged | 4 | 25 |
-| ![[_assets/Units/Sellsword.webp\|40]] | [[Sellsword (Enemy)\|Sellsword]] | 2 | 99 | 9 | 75 | 62 | 0 | 15-24 | Aggressive | 3 | 20 |
-| ![[_assets/Units/ShieldBearer.webp\|40]] | [[Shield Bearer]] | 2 | 112 | 12 | 68 | 73 | 0 | 14-22 | Defensive | 3 | 18 |
-| ![[_assets/Units/MercenaryKnight.webp\|40]] | [[Mercenary Knight]] | 3 | 130 | 16 | 92 | 75 | 0 | 19-30 | Aggressive | 7 | 38 |
-| ![[_assets/Units/Pikeman.webp\|40]] | [[Pikeman]] | 3 | 101 | 12 | 87 | 69 | 0 | 18-29 | Defensive | 5 | 30 |
-| ![[_assets/Units/MercenaryCaptain.webp\|40]] | [[Mercenary Captain]] | 4 | 156 | 18 | 107 | 86 | 0 | 34-55 | Aggressive | 10 | 58 |
+| ![[_assets/Units/MercenaryMage.webp\|40]] | [[Mercenary Mage]] | 2 | 72 | 4 | 46 | 44 | 0 | 13-23 | Ranged | 4 | 25 |
+| ![[_assets/Units/Sellsword.webp\|40]] | [[Sellsword (Enemy)\|Sellsword]] | 2 | 99 | 9 | 75 | 62 | 0 | 16-27 | Aggressive | 3 | 20 |
+| ![[_assets/Units/ShieldBearer.webp\|40]] | [[Shield Bearer]] | 2 | 112 | 12 | 68 | 73 | 0 | 15-25 | Defensive | 3 | 18 |
+| ![[_assets/Units/MercenaryKnight.webp\|40]] | [[Mercenary Knight]] | 3 | 130 | 16 | 92 | 75 | 0 | 22-33 | Aggressive | 7 | 38 |
+| ![[_assets/Units/Pikeman.webp\|40]] | [[Pikeman]] | 3 | 101 | 12 | 87 | 69 | 0 | 22-33 | Defensive | 5 | 30 |
+| ![[_assets/Units/MercenaryCaptain.webp\|40]] | [[Mercenary Captain]] | 4 | 156 | 18 | 107 | 86 | 0 | 38-61 | Aggressive | 10 | 58 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*
 
 ## Arch-villains
 
-- [[Warlord Ash]] — *The Oathbreaker*, from company level 6
+- [[Warlord Ash]] — *The Oathbreaker*, from company level 9
 
 ## Encounter tables
 

@@ -78,6 +78,23 @@ Weapon families this race favours.
 - **Melee:** Hammer, Mace
 - **Ranged:** Crossbow
 
+## Resistances
+
+Innate damage-type resistances (negative = vulnerability).
+
+| Resistance | Value |
+|---|---|
+| [[Stats#Blunt Resist\|Blunt Resist]] | -10% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +20% |
+| [[Stats#Slash Resist\|Slash Resist]] | +10% |
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Hammer ×3, Heavy Armor ×2, Mace ×2, Shield ×2
+- **Disfavoured:** Bow ×0.4
+
 ## Backgrounds
 
 The 17 backgrounds a Stoneman recruit can roll.

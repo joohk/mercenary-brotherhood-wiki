@@ -15,6 +15,9 @@ armor: 3
 family: robe
 price: 510
 rarity: normal
+resist_blunt: 3
+resist_piercing: 2
+resist_slashing: 3
 slot: body_armor
 spawn_weight: 25
 tier: 3
@@ -36,6 +39,9 @@ A tier-3 robe giving 3 Armor, worth 510 gold.
 | [[Stats#Armor\|Armor]] | +3 |
 | [[Stats#Magic Power\|Magic Power]] | +12 |
 | [[Stats#Willpower\|Willpower]] | +7 |
+| [[Stats#Slash Resist\|Slash Resist]] | +3% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +2% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +3% |
 | Price | 510 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 25 |

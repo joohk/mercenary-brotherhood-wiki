@@ -45,7 +45,7 @@ A tier-1 Ratkin enemy of the [[Ratkin Empire]] faction — 42 HP, 1 armor, worth
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | 4-7 |
-| Ranged damage with weapon | 9-15 (base 2-3 + [[Shortbow]] 7-12) |
+| Ranged damage with weapon | 10-16 (base 2-3 + [[Shortbow]] 8-13) |
 | Ranged Damage | 2-3 |
 
 ## Combat
@@ -59,13 +59,25 @@ A tier-1 Ratkin enemy of the [[Ratkin Empire]] faction — 42 HP, 1 armor, worth
 | Race | [[Ratkin]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 18 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Padded Tunic]] +1 | +1% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Padded Tunic]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Padded Tunic]] +4 | +4% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

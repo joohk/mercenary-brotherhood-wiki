@@ -17,14 +17,13 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting one enemy up to 3 hexes away, usable twice per battle.
+A 1-AP melee ability targeting one enemy up to 3 hexes away.
 
-> Teleport behind the target and attack with +20% bonus damage.
+> Teleport behind the target and attack with +10 to-hit and +20% bonus damage.
 
 ## Stats
 
@@ -33,9 +32,10 @@ A 1-AP melee ability targeting one enemy up to 3 hexes away, usable twice per ba
 | Action Points | 1 |
 | Fatigue | 16 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 3 hexes |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, dagger, teleport

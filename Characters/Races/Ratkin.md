@@ -80,6 +80,13 @@ Weapon families this race favours.
 - **Melee:** Dagger, Spear, Sword
 - **Ranged:** Bow, Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Dagger ×3, Crossbow ×1.5, Light Armor ×1.5, Thrown ×1.5
+- **Disfavoured:** Heavy Armor ×0.3
+
 ## Backgrounds
 
 The 24 backgrounds a Ratkin recruit can roll.

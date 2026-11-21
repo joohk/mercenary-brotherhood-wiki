@@ -44,7 +44,7 @@ A tier-1 enemy of the [[Deserters]] faction — 55 HP, 3 armor, worth 10 XP and 
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | 2-3 |
-| Damage with weapon | 10-17 (base 2-3 + [[Iron Sword]] 8-14) |
+| Damage with weapon | 12-20 (base 2-3 + [[Iron Sword]] 10-17) |
 
 ## Combat
 
@@ -56,13 +56,25 @@ A tier-1 enemy of the [[Deserters]] faction — 55 HP, 3 armor, worth 10 XP and 
 | Gold | 8 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Deserters Combat Sheet\|all Deserters units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 60 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 14 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Leather Armor]] +5 | +5% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

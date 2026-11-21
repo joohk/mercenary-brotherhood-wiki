@@ -55,7 +55,9 @@ A tier-4 enemy of the [[Duergar]] faction — 450 HP, 26 armor, worth 70 XP and 
 | Gold | 50 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 | Level damage immune | Yes |
 
 > [!info]- Spawn data
@@ -64,12 +66,24 @@ A tier-4 enemy of the [[Duergar]] faction — 450 HP, 26 armor, worth 70 XP and 
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 8 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 78 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +40% | — | +40% |
+| [[Stats#Pierce Resist\|Pierce]] | +45% | — | +45% |
+| [[Stats#Blunt Resist\|Blunt]] | -15% | — | **-15%** (weak) |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Sundering Sweep]]
 
 ## Passives
 
+- [[Construct]] — Metal and forge-sorcery, not flesh. Immune to Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Dark Iron Armor]] — +3 armor, +5 melee defense. Fire and magic attacks ignore 2 armor and corrode -1 armor per hit. Corrodes: -1 armor every 3 turns.
 - [[Stalwart]] — +10 willpower, +2 armor. Unyielding in the face of danger.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.

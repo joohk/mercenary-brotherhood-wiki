@@ -45,7 +45,7 @@ A tier-5 Ratkin enemy of the [[Ratkin Empire]] faction — 169 HP, 20 armor, wor
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 8-12 |
-| Damage with weapon | 42-66 (base 8-12 + [[Masterwork Greatsword]] 34-54) |
+| Damage with weapon | 46-75 (base 8-12 + [[Masterwork Greatsword]] 38-63) |
 
 ## Combat
 
@@ -58,7 +58,9 @@ A tier-5 Ratkin enemy of the [[Ratkin Empire]] faction — 169 HP, 20 armor, wor
 | Race | [[Ratkin]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -66,11 +68,21 @@ A tier-5 Ratkin enemy of the [[Ratkin Empire]] faction — 169 HP, 20 armor, wor
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 5 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 85 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Masterwork Plate]] +29, [[Masterwork Helmet]] +4 | +33% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Masterwork Plate]] +18, [[Masterwork Helmet]] +4 | +22% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Masterwork Plate]] +4, [[Masterwork Helmet]] +9 | +13% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Rally (Ability)|Rally]]
 - [[Battle Cry (Ability)|Battle Cry]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 - [[War Horn]]
 
 ## Passives

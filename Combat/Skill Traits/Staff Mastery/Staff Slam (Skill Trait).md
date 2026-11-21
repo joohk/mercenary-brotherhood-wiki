@@ -21,7 +21,7 @@ up: "[[Staff Mastery]]"
 
 An uncommon ability skill trait of [[Staff Mastery]] with 2 ranks, granting [[Staff Slam (Ability)|Staff Slam]].
 
-> Shockwave that hits all enemies at range 1. Requires a staff.
+> Shockwave that hits all enemies at range 1 for 100% damage and knocks them back 1 tile. Requires a staff.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-85% damage. Affected enemies lose 5 initiative.
+115% damage. Affected enemies lose 5 initiative.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

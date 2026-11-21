@@ -41,6 +41,10 @@ A 1-AP magic ability targeting an ally up to 4 hexes away.
 
 *Tags:* magic, heal
 
+## Requirements
+
+- Requires Injured
+
 ## Referenced by
 
 - **Available through skill:** [[Holy Magic]]

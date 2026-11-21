@@ -25,13 +25,13 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Berserker (Specialization)|Berserker]], [[Duelist (Specialization)|Duelist]], [[Thief (Specialization)|Thief]], [[Rogue]], [[Nightblade (Specialization)|Nightblade]], [[Shadowblade]]
+[[Thief (Specialization)|Thief]], [[Rogue]], [[Assassin (Specialization)|Assassin]], [[Stalker (Specialization)|Stalker]], [[Nightblade (Specialization)|Nightblade]], [[Shadowblade]]
 
 ## Signature skills
 
 Each guild hall rolls 5 signature skills from this pool when the world is generated; its recruits get bonus skills from that set.
 
-[[Assassination]], [[Dagger Mastery]], [[Poisoner (Skill)|Poisoner]], [[Pincer]], [[Dodge Master]], [[Light Armor Proficiency]], [[Skirmisher (Skill)|Skirmisher]]
+[[Assassination]], [[Dagger Mastery]], [[Poisoner (Skill)|Poisoner]], [[Teamwork]], [[Dodge Master]], [[Light Armor Proficiency]], [[Skirmisher (Skill)|Skirmisher]]
 
 ## Recruit backgrounds
 
@@ -43,6 +43,16 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Uncommon | [[Thief (Background)\|Thief]], [[Tomb Robber]], [[Saboteur]], [[Bounty Hunter]], [[Witch Hunter (Background)\|Witch Hunter]] |
 | Rare | [[Assassin (Background)\|Assassin]], [[Nightblade (Background)\|Nightblade]], [[Shade Walker]], [[Shadow Blade]], [[Stalker (Background)\|Stalker]], [[Spymaster]] |
 | Legendary | [[Phantom Lord]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Dagger | ×4 |
+| Thrown | ×3 |
+| Light Armor | ×2 |
 
 ## Gear by hire tier
 

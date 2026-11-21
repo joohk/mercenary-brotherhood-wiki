@@ -21,7 +21,7 @@ up: "[[Traits]]"
 
 A tier-6 awakening trait (ability) for the healer archetype that grants the active ability [[Overheal Shield (Ability)|Overheal Shield]]. At each awakening tier the player picks one trait from that tier's offer.
 
-> Active: channel 40 healing into yourself; any beyond your max HP becomes a protective barrier.
+> Active: channel 40 healing into yourself (scales with willpower and magic power); any beyond your max HP becomes a protective barrier.
 
 ## Effects
 

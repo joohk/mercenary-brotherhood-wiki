@@ -21,7 +21,7 @@ up: "[[Staff Mastery]]"
 
 An uncommon ability skill trait of [[Staff Mastery]] with 2 ranks, granting [[Barrier Strike (Ability)|Barrier Strike]].
 
-> Defensive attack that grants 8 absorption HP on hit (stacks). Requires a staff.
+> Defensive attack that grants an absorption shield equal to 100% of the damage dealt on hit (stacks). Requires a staff.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Grants 12 absorption HP per hit instead of 8.
+The shield rises to 150% of the damage dealt.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

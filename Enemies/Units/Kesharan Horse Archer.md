@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Kesharan Dominion]] faction — 94 HP, 9 armor, worth 32
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 12-18 |
-| Ranged damage with weapon | 13-22 (base 0 + [[Composite Bow]] 13-22) |
+| Ranged damage with weapon | 15-25 (base 0 + [[Composite Bow]] 15-25) |
 | Action Points | 3 |
 
 ## Combat
@@ -57,13 +57,25 @@ A tier-3 enemy of the [[Kesharan Dominion]] faction — 94 HP, 9 armor, worth 32
 | Gold | 28 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Kesharan Dominion Combat Sheet\|all Kesharan Dominion units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 42 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

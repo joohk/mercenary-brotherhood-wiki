@@ -45,7 +45,7 @@ A tier-2 Lizardfolk enemy of the [[Saurian Legions]] faction — 112 HP, 13 armo
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 4-6 |
-| Damage with weapon | 15-24 (base 4-6 + [[Steel Sword]] 11-18) |
+| Damage with weapon | 16-27 (base 4-6 + [[Steel Sword]] 12-21) |
 | Ranged Damage | 7-11 |
 | Ranged Range | 3 |
 
@@ -60,13 +60,25 @@ A tier-2 Lizardfolk enemy of the [[Saurian Legions]] faction — 112 HP, 13 armo
 | Race | [[Lizardfolk]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Saurian Legions Combat Sheet\|all Saurian Legions units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 60 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 34 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6, [[Steel Helmet]] +2, [[Iron Shield]] +2 | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5, [[Steel Helmet]] +2, [[Iron Shield]] +12 | +19% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7, [[Steel Helmet]] +5, [[Iron Shield]] +2 | +14% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -99,6 +111,5 @@ A tier-2 Lizardfolk enemy of the [[Saurian Legions]] faction — 112 HP, 13 armo
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]], [[Plains — Late Tier]], [[Plains — Mid Tier]], [[Road — Ambush]]
-- **Escorts:** [[The Iron Tyrant]]
 
 *Generated from `enemies/aurelian_legions.json`. Edits will be overwritten — put your own notes in Notes/.*

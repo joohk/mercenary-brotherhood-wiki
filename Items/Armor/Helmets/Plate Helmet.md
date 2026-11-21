@@ -11,10 +11,13 @@ tags:
   - tier/4
   - type/item
 source: items/armor.json
-armor: 7
+armor: 6
 family: helmet
 price: 600
 rarity: normal
+resist_blunt: 8
+resist_piercing: 3
+resist_slashing: 3
 slot: helmet
 spawn_weight: 16
 tier: 4
@@ -23,7 +26,7 @@ up: "[[Helmets]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Helmets]]
 
-A tier-4 helmet giving 7 Armor, worth 600 gold.
+A tier-4 helmet giving 6 Armor, worth 600 gold.
 
 ![[_assets/Icons/Helmet.png|96]]
 
@@ -32,10 +35,13 @@ A tier-4 helmet giving 7 Armor, worth 600 gold.
 | Stat | Value |
 |---|---|
 | Tier | 4 |
-| [[Stats#Armor\|Armor]] | +7 |
+| [[Stats#Armor\|Armor]] | +6 |
 | [[Stats#Willpower\|Willpower]] | +8 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -5 |
 | [[Stats#Initiative\|Initiative]] | -3 |
+| [[Stats#Slash Resist\|Slash Resist]] | +3% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +3% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +8% |
 | Price | 600 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 16 |

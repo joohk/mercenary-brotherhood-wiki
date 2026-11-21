@@ -25,7 +25,7 @@ uses_per_battle: 1
 
 A 3-AP magic ability centred on yourself (radius 3), usable once per battle.
 
-> Release a pulse of pure arcane energy, dealing 30 unmitigable damage to all enemies within 3 hexes and stunning them. Once per battle.
+> Release a pulse of pure arcane energy, dealing 30 unmitigable damage (scales with willpower and magic power) to all enemies in sight within 3 hexes and stunning them. Once per battle.
 
 ## Stats
 

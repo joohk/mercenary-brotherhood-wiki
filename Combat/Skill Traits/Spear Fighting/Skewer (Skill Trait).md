@@ -1,0 +1,43 @@
+---
+id: st_sf_long_thrust
+type: skill_trait
+category: Skill Traits
+aliases:
+  - Skewer
+  - st_sf_long_thrust
+tags:
+  - rarity/uncommon
+  - skill-trait/ability
+  - type/skill_trait
+source: skills/weapon_skill_traits.json
+ranks: 2
+rarity: uncommon
+skill: Spear Fighting
+trait_type: ability
+up: "[[Spear Fighting]]"
+---
+
+[[Home]] › [[Your Company]] › [[Weapon Skills]] › [[Spear Fighting]]
+
+An uncommon ability skill trait of [[Spear Fighting]] with 2 ranks, granting [[Skewer (Ability)|Skewer]].
+
+> Drive the spear through two foes in a line, striking each enemy in the next two tiles for 130% weapon damage. Range 2. Requires a spear.
+
+## Effects
+
+Rank 1:
+
+- Grants ability: [[Skewer (Ability)|Skewer]]
+
+## Upgrades
+
+When an upgrade restates a bonus, the new value **replaces** the old one (it is not added on top).
+
+### Rank 2
+
+Your footwork steadies behind the point. Gain a permanent +4 Melee DEF and +2 Ranged DEF.
+
+- +4 [[Stats#Melee Defense|Melee Defense]]
+- +2 [[Stats#Ranged Defense|Ranged Defense]]
+
+*Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

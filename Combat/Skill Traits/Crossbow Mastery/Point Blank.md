@@ -20,7 +20,7 @@ up: "[[Crossbow Mastery]]"
 
 An uncommon passive skill trait of [[Crossbow Mastery]] with 2 ranks.
 
-> At close range the crossbow is devastating. +15% to hit and +5 damage against adjacent targets.
+> At close range the crossbow is devastating. +15% to hit and +20% damage against targets within 2 tiles.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Bonus increases to +20% to hit and +8 damage at point blank.
+Bonus increases to +20% to hit and +40% damage at point blank.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

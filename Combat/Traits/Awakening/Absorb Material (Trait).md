@@ -21,7 +21,7 @@ up: "[[Traits]]"
 
 A tier-6 awakening trait (ability) for the caster archetype that grants the active ability [[Absorb Material (Ability)|Absorb Material]]. At each awakening tier the player picks one trait from that tier's offer.
 
-> Active: take on the nature of the ground you stand on — the terrain grants a 3-turn buff (stone armor, bark cover, water agility, or flame).
+> Active: take on the nature of the ground you stand on — the terrain grants a 3-turn buff (stone armor, bark cover, or flame).
 
 ## Effects
 

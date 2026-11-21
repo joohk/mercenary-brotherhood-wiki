@@ -42,7 +42,7 @@ A 1-AP ranged ability targeting one enemy up to 4 hexes away.
 | Line of sight | Required |
 | Damage | 6-10 AoE radius 2 + Poisoned |
 
-*Tags:* magic, nature, area, poison, ranged
+*Tags:* magic, nature, area, poison, ranged, dot
 
 ## Referenced by
 

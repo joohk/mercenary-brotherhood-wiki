@@ -9,11 +9,11 @@ tags:
   - faction/mercenaries
   - type/villain
 source: villains/arch_villains.json
-armor: 10
+armor: 20
 faction: Rival Mercenaries
 gold: 200
-hp: 240
-level_min: 6
+hp: 480
+level_min: 9
 personality: pragmatic
 size: normal
 stance: aggressive
@@ -26,7 +26,7 @@ xp: 200
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of the [[Rival Mercenaries]] — *The Oathbreaker*. Awakens from company level 6; 240 HP, 10 armor, worth 200 XP and 200 gold.
+An arch-villain of the [[Rival Mercenaries]] — *The Oathbreaker*. Awakens from company level 9; 480 HP, 20 armor, worth 200 XP and 200 gold.
 
 ![[_assets/Units/WarlordAsh.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of the [[Rival Mercenaries]] — *The Oathbreaker*. Awakens from
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 240 |
+| [[Stats#Max HP\|Max HP]] | 480 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 110 |
-| [[Stats#Initiative\|Initiative]] | 58 |
-| [[Stats#Melee Attack\|Melee Attack]] | 80 |
-| [[Stats#Melee Defense\|Melee Defense]] | 65 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 55 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 60 |
-| [[Stats#Armor\|Armor]] | 10 |
+| [[Stats#Initiative\|Initiative]] | 68 |
+| [[Stats#Melee Attack\|Melee Attack]] | 90 |
+| [[Stats#Melee Defense\|Melee Defense]] | 75 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 65 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 70 |
+| [[Stats#Armor\|Armor]] | 20 |
 | [[Stats#Willpower\|Willpower]] | 90 |
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
-| [[Stats#Damage Min\|Damage]] | 16-26 |
+| [[Stats#Damage Min\|Damage]] | 26-36 |
 
 ## Combat
 
@@ -62,7 +62,23 @@ An arch-villain of the [[Rival Mercenaries]] — *The Oathbreaker*. Awakens from
 | Stance | Aggressive — closes in and fights in melee |
 | Personality | Pragmatic |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 6 |
+| Appears from company level | 9 |
+| Combat sheet | [[Rival Mercenaries Combat Sheet\|Rival Mercenaries units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +25% | — | +25% |
+| [[Stats#Pierce Resist\|Pierce]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Oathbreaker's Hold**
+
+A mercenary fortress held by Warlord Ash and the sellswords who followed him into betrayal.
 
 ## Phases
 
@@ -71,7 +87,7 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 ### Phase 2 — below 50% HP
 
 - **Stats:** +20 [[Stats#Melee Attack|Melee Attack]], +9 to +13 [[Stats#Damage Min|Damage]], +12 [[Stats#Initiative|Initiative]]
-- **Gains abilities:** [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]], [[Frenzy (Ability)|Frenzy]], [[Coup de Grace (Ability)|Coup de Grace]]
+- **Gains abilities:** [[Exploit Opening]], [[Frenzy (Ability)|Frenzy]], [[Coup de Grace (Ability)|Coup de Grace]]
 - **Heals** 10% of max HP
 - **Says:** *"You've cost me too many men. Time to handle this myself."*
 
@@ -92,9 +108,9 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
+- 1× [[Mercenary Captain]]
 - 2× [[Mercenary Knight]]
-- 2× [[Mercenary Crossbowman]]
-- 1× [[Shield Bearer]]
+- 2× [[Pikeman]]
 
 ## Relic drops
 
@@ -107,8 +123,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 30 |
-| Ambush chance | 12% |
 | Settlement corruption chance | 6% |
 
 Units (hexes, per day) are not stated in the data.

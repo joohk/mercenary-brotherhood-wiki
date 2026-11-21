@@ -22,6 +22,9 @@ up: "[[Wild Peoples]]"
 
 An enemy faction that appears at company levels 1-2 and fights as [[How Enemies Behave#Swarm|Swarm]] (flanks and surrounds): 7 unit types, tiers 0-2.
 
+> [!tip] [[Ratkin Swarm Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/RatkinChieftain.webp|160]]
 
 > Intelligent rat-folk who attack in overwhelming numbers. Individually weak but fast and numerous. Found infesting ruins, dark forests, and swamps. Early-game swarm faction.
@@ -41,13 +44,13 @@ Encounter tables have their own level gates and can field this faction outside i
 
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ![[_assets/Units/Ratkin.webp\|40]] | [[Ratkin Scrapper]] | 0 | 28 | 0 | 46 | 25 | 0 | 6-12 | Aggressive | 1 | 6 |
+| ![[_assets/Units/Ratkin.webp\|40]] | [[Ratkin Scrapper]] | 0 | 28 | 0 | 46 | 25 | 0 | 10-19 | Aggressive | 1 | 6 |
 | ![[_assets/Units/RatkinSlinger.webp\|40]] | [[Ratkin Slinger]] | 0 | 22 | 0 | 25 | 20 | 42 | 3-6 (ranged) | Ranged | 1 | 6 |
-| ![[_assets/Units/RatkinTunneller.webp\|40]] | [[Ratkin Tunneler]] | 0 | 24 | 0 | 45 | 22 | 0 | 5-10 | Aggressive | 1 | 7 |
+| ![[_assets/Units/RatkinTunneller.webp\|40]] | [[Ratkin Tunneler]] | 0 | 24 | 0 | 45 | 22 | 0 | 9-17 | Aggressive | 1 | 7 |
 | ![[_assets/Units/RatkinAlchemist.webp\|40]] | [[Ratkin Alchemist]] | 1 | 30 | 0 | 28 | 22 | 52 | 5-9 (ranged) | Ranged | 2 | 12 |
-| ![[_assets/Units/RatkinBrute.webp\|40]] | [[Ratkin Brute]] | 1 | 50 | 2 | 48 | 32 | 0 | 6-10 | Aggressive | 2 | 10 |
-| ![[_assets/Units/RatkinPlagueShaman.webp\|40]] | [[Ratkin Plague Shaman]] | 1 | 28 | 0 | 25 | 20 | 0 | 8-14 (ranged) | Ranged | 2 | 14 |
-| ![[_assets/Units/RatkinChieftain.webp\|40]] | [[Ratkin Chieftain]] | 2 | 86 | 8 | 73 | 53 | 0 | 14-22 | Aggressive | 4 | 25 |
+| ![[_assets/Units/RatkinBrute.webp\|40]] | [[Ratkin Brute]] | 1 | 50 | 2 | 48 | 32 | 0 | 7-11 | Aggressive | 2 | 10 |
+| ![[_assets/Units/RatkinPlagueShaman.webp\|40]] | [[Ratkin Plague Shaman]] | 1 | 36 | 0 | 25 | 20 | 0 | 18-28 | Ranged | 2 | 14 |
+| ![[_assets/Units/RatkinChieftain.webp\|40]] | [[Ratkin Chieftain]] | 2 | 86 | 8 | 73 | 53 | 0 | 15-25 | Aggressive | 4 | 25 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*
 

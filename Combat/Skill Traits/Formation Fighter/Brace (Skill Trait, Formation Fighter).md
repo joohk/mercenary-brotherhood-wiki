@@ -19,7 +19,7 @@ up: "[[Formation Fighter]]"
 
 [[Home]] › [[Your Company]] › [[Defense Skills]] › [[Formation Fighter]]
 
-An uncommon ability skill trait of [[Formation Fighter]] with 2 ranks, granting [[Brace (Ability, ability_brace)|Brace]].
+An uncommon ability skill trait of [[Formation Fighter]] with 2 ranks, granting [[Brace (Ability)|Brace]].
 
 > Set your spear against a charge. Requires a spear.
 
@@ -27,7 +27,7 @@ An uncommon ability skill trait of [[Formation Fighter]] with 2 ranks, granting 
 
 Rank 1:
 
-- Grants ability: [[Brace (Ability, ability_brace)|Brace]]
+- Grants ability: [[Brace (Ability)|Brace]]
 
 ## Upgrades
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-+40% damage on the counter, triggers on 2 enemies, and can be used twice per battle.
++40% damage on the counter and triggers on 2 enemies.
 
 *Generated from `skills/defense_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

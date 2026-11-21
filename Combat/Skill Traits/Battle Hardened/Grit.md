@@ -20,7 +20,7 @@ up: "[[Battle Hardened (Skill)]]"
 
 A common passive skill trait of [[Battle Hardened (Skill)|Battle Hardened]] with 2 ranks.
 
-> Pain only makes you angrier. Gain +5 Willpower each time you take a hit (stacks up to 3).
+> Pain only makes you angrier. Gain +5 Willpower each time a weapon attack hits you (stacks up to 3).
 
 ## Upgrades
 

@@ -1,0 +1,41 @@
+---
+id: st_ar_flight_arrows
+type: skill_trait
+category: Skill Traits
+aliases:
+  - st_ar_flight_arrows
+tags:
+  - rarity/uncommon
+  - skill-trait/passive
+  - type/skill_trait
+source: skills/ranged_skill_traits.json
+ranks: 2
+rarity: uncommon
+skill: Archery
+trait_type: passive
+up: "[[Archery]]"
+---
+
+[[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Archery]]
+
+An uncommon passive skill trait of [[Archery]] with 2 ranks.
+
+> Light arrows fletched to carry. +1 range with a bow.
+
+## Effects
+
+Rank 1:
+
+- +1 Ranged Range
+
+## Upgrades
+
+When an upgrade restates a bonus, the new value **replaces** the old one (it is not added on top).
+
+### Rank 2
+
++2 range with a bow.
+
+- +2 Ranged Range
+
+*Generated from `skills/ranged_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

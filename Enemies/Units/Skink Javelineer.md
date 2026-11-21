@@ -59,13 +59,25 @@ A tier-2 Lizardfolk enemy of the [[Saurian Legions]] faction — 75 HP, 7 armor,
 | Race | [[Lizardfolk]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Saurian Legions Combat Sheet\|all Saurian Legions units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 22 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6 | +6% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5 | +5% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7 | +7% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

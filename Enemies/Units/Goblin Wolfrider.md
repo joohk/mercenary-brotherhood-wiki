@@ -13,6 +13,7 @@ armor: 5
 faction: Greenskin Warband
 gold: 12
 hp: 73
+race: Goblin
 stance: aggressive
 threat_cost: 3
 tier: 2
@@ -22,7 +23,7 @@ xp: 20
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Greenskin Warband]]
 
-A tier-2 enemy of the [[Greenskin Warband]] faction — 73 HP, 5 armor, worth 20 XP and 12 gold.
+A tier-2 Goblin enemy of the [[Greenskin Warband]] faction — 73 HP, 5 armor, worth 20 XP and 12 gold.
 
 ![[_assets/Units/GoblinWolfrider.webp|160]]
 
@@ -44,7 +45,7 @@ A tier-2 enemy of the [[Greenskin Warband]] faction — 73 HP, 5 armor, worth 20
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 16-24 (base 3-4 + [[Steel Throwing Hatchet]] 13-20) |
+| Damage with weapon | 17-26 (base 3-4 + [[Steel Throwing Hatchet]] 14-22) |
 | Action Points | 3 |
 
 ## Combat
@@ -55,15 +56,28 @@ A tier-2 enemy of the [[Greenskin Warband]] faction — 73 HP, 5 armor, worth 20
 | [[Glossary#Numbers used on this wiki\|Threat cost]] | 3 |
 | XP | 20 |
 | Gold | 12 |
+| Race | [[Goblin]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Greenskin Warband Combat Sheet\|all Greenskin Warband units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 40 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 28 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6 | +6% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5 | +5% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7 | +7% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

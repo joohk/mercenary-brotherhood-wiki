@@ -14,6 +14,7 @@ Enemy types, factions, tiers, bosses, and how encounters are built.
 - [[Enemy Types]]: [[Outlaws & Sellswords]] · [[Armies & Orders]] · [[Wild Peoples]] · [[Underdark]] · [[Giants]] · [[Wild Beasts]] · [[Undead & Unholy]]
 - [[Factions]] · [[Enemies]]: every enemy in one sortable table
 - [[Enemies by Tier]] · [[Bosses & Leaders]]
+- [[Combat Sheets]]: every faction's units, abilities, passives and resistances on one page each, for quick reference in a fight
 
 ## How fights are built
 

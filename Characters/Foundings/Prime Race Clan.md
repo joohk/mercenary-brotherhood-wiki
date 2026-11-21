@@ -54,7 +54,7 @@ Recruit weight scales how often a race appears in recruit pools and drafts; the 
 > [!note]- Developer notes
 > *affinities:* Prime race -> its set of Friendly (kindred) races. Any race not Prime and not Friendly is 'Other'.
 >
-> *prime_eligible:* Curated core/iconic races eligible to be a clan's Prime. Independent of recruitment_threshold rarity (e.g. orc is classed uncommon but is Prime-eligible here).
+> *prime_eligible:* Curated core/iconic races eligible to be a clan's Prime. Each must be a common race (recruitment_threshold below 5): the Prime race is only added to town recruit pools once it clears the company-level gate, so an uncommon Prime would be missing from almost every town at level 1.
 >
 > *tiers:* All multipliers are tunable. recruit_weight_mult scales the chance a race appears in recruit pools / drafts. recruit_inject_weight is the base weight given to a Prime/Friendly race that is NOT native to a settlement so it can still show up. hire_cost_mult and upkeep_mult scale gold to hire and salary per payday.
 

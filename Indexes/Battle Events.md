@@ -15,7 +15,7 @@ All 6 battle events in the game data.
 
 | Name | Weight | Min level | Goal | Status |
 |---|---|---|---|---|
-| [[Encircled (Battle Event)\|Encircled]] | 15 | 2 | Destroy every wave for two extra magical items, or retreat | Active |
+| [[Encircled]] | 15 | 2 | Destroy every wave for two extra magical items, or retreat | Active |
 | [[Hold the Line (Battle Event)\|Hold the Line]] | 15 | 3 | Survive the onslaught until reinforcements arrive | Active |
 | [[Split Forces]] | 15 | 3 | Your squad has been divided — reunite and survive | Active |
 | [[Adventuring Party]] | 10 | 2 | Hold out — allied adventurers are on their way | Active |

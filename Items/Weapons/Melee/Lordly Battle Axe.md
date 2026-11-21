@@ -11,8 +11,8 @@ tags:
   - tier/6
   - type/item
 source: items/weapons_melee.json
-damage_max: 51
-damage_min: 32
+damage_max: 56
+damage_min: 35
 damage_type: slashing
 family: axe
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Axes]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
-A tier-6 one-handed slashing axe dealing 32-51 damage, worth 5520 gold.
+A tier-6 one-handed slashing axe dealing 35-56 damage, worth 5520 gold.
 
 ![[_assets/Icons/tier_5/axe_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-6 one-handed slashing axe dealing 32-51 damage, worth 5520 gold.
 | Tier | 6 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 32-51 |
+| [[Stats#Damage Min\|Damage]] | 35-56 |
 | [[Stats#Armor Pen\|Armor Pen]] | +10 |
 | [[Stats#Initiative\|Initiative]] | -5 |
 | Price | 5520 |

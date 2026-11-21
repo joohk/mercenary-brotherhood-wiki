@@ -11,10 +11,13 @@ tags:
   - tier/2
   - type/item
 source: items/armor.json
-armor: 5
+armor: 4
 family: light armor
 price: 255
 rarity: normal
+resist_blunt: 7
+resist_piercing: 5
+resist_slashing: 6
 slot: body_armor
 spawn_weight: 60
 tier: 2
@@ -23,7 +26,7 @@ up: "[[Light Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Light Armor]]
 
-A tier-2 light armor giving 5 Armor, worth 255 gold.
+A tier-2 light armor giving 4 Armor, worth 255 gold.
 
 ![[_assets/Icons/tier_1/light_armor.webp|96]]
 
@@ -33,9 +36,12 @@ A tier-2 light armor giving 5 Armor, worth 255 gold.
 |---|---|
 | Tier | 2 |
 | Class | Light armor |
-| [[Stats#Armor\|Armor]] | +5 |
+| [[Stats#Armor\|Armor]] | +4 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -5 |
 | [[Stats#Initiative\|Initiative]] | -2 |
+| [[Stats#Slash Resist\|Slash Resist]] | +6% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +5% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +7% |
 | Price | 255 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 60 |

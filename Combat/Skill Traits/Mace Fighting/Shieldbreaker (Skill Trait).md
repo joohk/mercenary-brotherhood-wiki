@@ -21,7 +21,7 @@ up: "[[Mace Fighting]]"
 
 An uncommon ability skill trait of [[Mace Fighting]] with 2 ranks, granting [[Shieldbreaker (Ability)|Shieldbreaker]].
 
-> Target the enemy's guard. Deals 50% damage and reduces their melee defense by 10 for 3 turns. Requires a mace.
+> Target the enemy's guard. Deals 110% damage and reduces their melee defense by 10 for 3 turns. Requires a mace.
 
 ## Effects
 

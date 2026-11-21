@@ -22,7 +22,7 @@ up: "[[Abilities]]"
 
 A 2-AP melee ability targeting an adjacent enemy.
 
-> A devastating two-handed hammer blow that reduces the enemy's armor by 2 until their next turn.
+> A devastating two-handed hammer blow that reduces the enemy's armor by 2 for the rest of the battle.
 
 ## Stats
 

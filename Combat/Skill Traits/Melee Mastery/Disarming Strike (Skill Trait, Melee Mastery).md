@@ -21,7 +21,7 @@ up: "[[Melee Mastery]]"
 
 An uncommon ability skill trait of [[Melee Mastery]] with 2 ranks, granting [[Disarming Strike (Ability)|Disarming Strike]].
 
-> A precise cut that weakens the enemy's grip. Requires a sword.
+> A precise cut that weakens the enemy's grip.
 
 ## Effects
 

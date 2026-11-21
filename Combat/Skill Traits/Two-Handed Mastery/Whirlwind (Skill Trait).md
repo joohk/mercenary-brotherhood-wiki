@@ -21,7 +21,7 @@ up: "[[Two-Handed Mastery]]"
 
 A rare ability skill trait of [[Two-Handed Mastery]] with 3 ranks, granting [[Whirlwind (Ability)|Whirlwind]].
 
-> Spin in a full circle with your great weapon, striking every adjacent enemy for full weapon damage. Twice per battle. Requires a two-handed weapon.
+> Spin in a full circle with your great weapon, striking every adjacent enemy for full weapon damage. Requires a two-handed weapon.
 
 ## Effects
 

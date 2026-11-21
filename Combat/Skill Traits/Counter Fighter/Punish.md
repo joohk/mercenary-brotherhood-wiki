@@ -20,7 +20,7 @@ up: "[[Counter Fighter]]"
 
 An uncommon passive skill trait of [[Counter Fighter]] with 2 ranks.
 
-> When an enemy misses you in melee, your next attack against them gains +3 Damage Min, +3 Damage Max.
+> When an enemy misses you in melee, your next attack gains +3 Damage Min, +3 Damage Max.
 
 ## Upgrades
 

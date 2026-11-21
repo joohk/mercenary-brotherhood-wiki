@@ -21,7 +21,7 @@ up: "[[Traits]]"
 
 A tier-8 awakening trait (ability) for the healer archetype that grants the active ability [[Radiant Nova (Ability)|Radiant Nova]]. At each awakening tier the player picks one trait from that tier's offer.
 
-> Active: a burst of radiant light heals every ally for 20 HP. Once per battle.
+> Active: a burst of radiant light heals every ally for 20 HP (scales with willpower and magic power). Once per battle.
 
 ## Effects
 

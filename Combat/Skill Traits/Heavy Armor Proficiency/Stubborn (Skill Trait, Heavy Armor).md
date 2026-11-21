@@ -21,7 +21,7 @@ up: "[[Heavy Armor Proficiency]]"
 
 An uncommon passive skill trait of [[Heavy Armor Proficiency]] with 2 ranks.
 
-> You absorb blows that would topple a lesser soldier. Reduce all incoming damage by 2.
+> You absorb blows that would topple a lesser soldier. Reduce incoming melee damage by 2.
 
 ## Upgrades
 

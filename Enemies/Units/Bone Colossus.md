@@ -57,13 +57,24 @@ A tier-4 large enemy of [[The Dread Host]] faction — 218 HP, 14 armor, worth 5
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Dread Host Combat Sheet\|all The Dread Host units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 8 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 62 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Poison Resist\|Poison]] | +40% | — | +40% |
+| [[Stats#Shadow Resist\|Shadow]] | +30% | — | +30% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -72,7 +83,8 @@ A tier-4 large enemy of [[The Dread Host]] faction — 218 HP, 14 armor, worth 5
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.
 - [[Bone Armor (Enemy Passive)|Bone Armor]] — 50% resistance to piercing, 15% to slashing. 25% vulnerable to blunt.
 - [[Massive Frame]] — +20 max HP, +3 armor, -6 initiative. Shrugs off stuns and roots 50% of the time. Enormous and slow.

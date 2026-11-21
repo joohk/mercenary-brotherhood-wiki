@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Sunder Armor (Ability)|Sunder Armor]]: -1 turn cooldown
+- [[Sunder Armor]]: -1 turn cooldown
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

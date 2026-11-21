@@ -44,7 +44,7 @@ A tier-3 enemy of [[The Umbral Court]] faction — 90 HP, 8 armor, worth 34 XP a
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 10-17 |
-| Ranged damage with weapon | 11-19 (base 3-5 + [[Shadow Bow]] 8-14) |
+| Ranged damage with weapon | 12-21 (base 3-5 + [[Shadow Bow]] 9-16) |
 | Ranged Damage | 3-5 |
 
 ## Combat
@@ -57,13 +57,25 @@ A tier-3 enemy of [[The Umbral Court]] faction — 90 HP, 8 armor, worth 34 XP a
 | Gold | 28 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Umbral Court Combat Sheet\|all The Umbral Court units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 30 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 42 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

@@ -11,8 +11,8 @@ tags:
   - tier/6
   - type/item
 source: items/weapons_melee.json
-damage_max: 42
-damage_min: 27
+damage_max: 50
+damage_min: 32
 damage_type: slashing
 family: sword
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-6 one-handed slashing sword dealing 27-42 damage, worth 4560 gold.
+A tier-6 one-handed slashing sword dealing 32-50 damage, worth 4560 gold.
 
 ![[_assets/Icons/tier_5/sword_1h.webp|96]]
 
@@ -37,7 +37,8 @@ A tier-6 one-handed slashing sword dealing 27-42 damage, worth 4560 gold.
 | Tier | 6 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 27-42 |
+| [[Stats#Damage Min\|Damage]] | 32-50 |
+| [[Stats#Armor Pen\|Armor Pen]] | +8 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 4560 |
 | Rarity | Normal |

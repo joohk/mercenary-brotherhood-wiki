@@ -144,6 +144,8 @@ When you kill a [[Vendetta|vendetta]], it drops a trophy: a real item from the g
 >
 > stat_additions are RANGES added on top of the base item's own stats. power_level_scaling is added per vendetta power level, counted up to TROPHY_SCALING_CAP levels — above that the trophy grows by drawing a higher-tier base item instead.
 >
+> rarity also sets the trophy's magic: on top of the bonus stats it rolls the normal magical properties for that rarity (never cursed).
+>
 > name_pattern is the ENGLISH composition ONLY. name_style names the shape so every other language supplies its own word order through the 'trophy_patterns' table in data/locale/magic_names_<lang>.json (French moves the adjective after the noun and the owner behind 'de'; Chinese prepends '<owner>的' with no spaces). A new adjective or style must be added to EVERY locale's trophy_adjectives / trophy_patterns table — tests/test_vendetta_trophy_names.py fails on any that is missing.
 
 *Generated from `vendetta/vendetta_loot.json`. Edits will be overwritten — put your own notes in Notes/.*

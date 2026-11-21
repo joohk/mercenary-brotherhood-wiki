@@ -44,7 +44,7 @@ A tier-2 enemy of the [[Duergar]] faction — 92 HP, 9 armor, worth 18 XP and 12
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 15-23 (base 3-4 + [[Steel Mace]] 12-19) |
+| Damage with weapon | 15-25 (base 3-4 + [[Steel Mace]] 12-21) |
 
 ## Combat
 
@@ -56,13 +56,25 @@ A tier-2 enemy of the [[Duergar]] faction — 92 HP, 9 armor, worth 18 XP and 12
 | Gold | 12 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 80 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 25 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Banded Mail]] +15, [[Iron Helmet]] +2 | +17% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Banded Mail]] +6, [[Iron Helmet]] +2 | +8% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Banded Mail]] +10, [[Iron Helmet]] +4 | +14% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

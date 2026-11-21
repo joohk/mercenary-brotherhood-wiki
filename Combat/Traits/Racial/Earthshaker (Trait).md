@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A rare Half-Ogre racial trait.
 
-> +5 Melee ATK, +3 Armor. Critical hits knock the target back 1 hex.
+> +5 Melee ATK, +3 Armor. Melee critical hits knock the target back 1 hex.
 
 ## Effects
 

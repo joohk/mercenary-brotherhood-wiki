@@ -48,7 +48,7 @@ A tier-5 one-handed piercing throwing weapon dealing 17-28 damage at range 5, wo
 
 ## Same line
 
-Items of this line, by tier: [[Alchemist Flask]] (T1) → [[Throwing Knives]] (T1) → [[Throwing Daggers]] (T2) → [[Holy Censer]] (T3) → [[Javelins]] (T3) → [[War Javelins]] (T4) → **Pilum** (T5) → [[Lordly Javelins]] (T6)
+Items of this line, by tier: [[Alchemist Flask]] (T1) → [[Throwing Knives]] (T1) → [[Light Javelins]] (T2) → [[Throwing Daggers]] (T2) → [[Holy Censer]] (T3) → [[Javelins]] (T3) → [[War Javelins]] (T4) → **Pilum** (T5) → [[Lordly Javelins]] (T6)
 
 ## Related
 

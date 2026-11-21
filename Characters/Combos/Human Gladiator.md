@@ -36,7 +36,7 @@ A rare race–background combo: Human recruits with the Gladiator background can
 
 **[[Blood Tide]]** · rare trait
 
-> +22% damage, +5 melee attack, and -5 melee defense. Only available to Human Gladiators.
+> +22% melee damage, +5 melee attack, and -5 melee defense. Only available to Human Gladiators.
 
 - +22% [[Stats#Damage Min|Damage]]
 - +5 [[Stats#Melee Attack|Melee Attack]]

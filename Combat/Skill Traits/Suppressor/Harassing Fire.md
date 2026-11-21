@@ -20,7 +20,7 @@ up: "[[Suppressor]]"
 
 An uncommon passive skill trait of [[Suppressor]] with 2 ranks.
 
-> Ranged hits have a 15% chance to reduce target's initiative by 5 for the round.
+> Your Suppression also takes 1 Melee and Ranged Defense a stack.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Chance increased to 25%.
+2 Melee and Ranged Defense a stack.
 
 *Generated from `skills/ranged_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

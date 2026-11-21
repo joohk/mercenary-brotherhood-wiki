@@ -57,13 +57,25 @@ A tier-2 enemy of the [[Rival Mercenaries]] faction — 73 HP, 7 armor, worth 20
 | Gold | 16 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Rival Mercenaries Combat Sheet\|all Rival Mercenaries units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 55 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 26 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6 | +6% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5 | +5% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7 | +7% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -91,7 +103,6 @@ A tier-2 enemy of the [[Rival Mercenaries]] faction — 73 HP, 7 armor, worth 20
 ## Referenced by
 
 - **Appears in encounters:** [[Plains — Late Tier]], [[Plains — Random Encounter]]
-- **Escorts:** [[Warlord Ash]]
 - **Reinforces in encounters:** [[Plains Base Garrison — Shallow]], [[Plains — Mid Tier]], [[Plains — Random Encounter]]
 
 *Generated from `enemies/mercenaries.json`. Edits will be overwritten — put your own notes in Notes/.*

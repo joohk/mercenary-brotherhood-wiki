@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A rare combo-exclusive trait — only Deepkin Corsair recruits can roll it.
 
-> +20% damage and +5 initiative. Only available to Deepkin Corsairs.
+> +20% melee damage and +5 initiative. Only available to Deepkin Corsairs.
 
 ## Effects
 

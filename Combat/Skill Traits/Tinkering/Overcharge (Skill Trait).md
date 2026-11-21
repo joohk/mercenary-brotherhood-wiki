@@ -21,7 +21,7 @@ up: "[[Tinkering]]"
 
 A rare passive skill trait of [[Tinkering]] with 2 ranks.
 
-> Push gadgets beyond safe limits. Gadget abilities deal +30% effect but cost +5 fatigue.
+> Push gadgets beyond safe limits. Gadget abilities deal +30% damage but cost +5 fatigue.
 
 ## Upgrades
 
@@ -29,6 +29,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Effect bonus increased to +50%, fatigue penalty stays at +5.
+Damage bonus increased to +50%, fatigue penalty stays at +5.
 
 *Generated from `skills/utility_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

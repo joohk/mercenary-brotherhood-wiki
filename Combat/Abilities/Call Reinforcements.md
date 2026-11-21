@@ -22,7 +22,7 @@ uses_per_battle: 2
 
 A 2-AP support ability used on yourself, usable twice per battle.
 
-> Bellow for backup, dragging fresh fighters onto the field beside you. Summons 2-3 lesser allies near the caster. Enemy boss ability only. 2 uses per battle (1 for a Champion, 3 for a Boss).
+> Bellow for backup, dragging fresh fighters onto the field beside you. Summons 2-3 lesser allies near the caster. Enemy boss ability only. 2 uses per battle (1 for a Champion, 3 for a Corrupted foe).
 
 ## Stats
 

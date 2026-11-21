@@ -45,7 +45,7 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 103 HP, 10 armor, wor
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 7-9 |
-| Damage with weapon | 21-32 (base 7-9 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 24-35 (base 7-9 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 103 HP, 10 armor, wor
 | Race | [[Ratkin]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 50 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

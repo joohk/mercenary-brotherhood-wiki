@@ -2,9 +2,9 @@
 type: meta
 tags:
   - type/meta
-entities: 3230
+entities: 3398
 missing: 0
-notes: 3159
+notes: 3318
 unsorted: 0
 up: "[[Mechanics]]"
 ---
@@ -18,7 +18,7 @@ What the build generated from each part of the game data, and everything that go
 | Category | In data | Notes | Sections on a page | Skipped | Missing |
 |---|---|---|---|---|---|
 | AI Profiles | 7 | 0 | 7 | 0 | 0 |
-| Abilities | 286 | 286 | 0 | 0 | 0 |
+| Abilities | 320 | 320 | 0 | 0 | 0 |
 | Arch-Villains | 8 | 8 | 0 | 0 | 0 |
 | Ascendant Paths | 8 | 8 | 0 | 0 | 0 |
 | Backgrounds | 115 | 115 | 0 | 0 | 0 |
@@ -31,32 +31,32 @@ What the build generated from each part of the game data, and everything that go
 | Encounter Tables | 55 | 55 | 0 | 0 | 0 |
 | Enemies | 188 | 188 | 0 | 0 | 0 |
 | Enemy Bases | 38 | 38 | 0 | 0 | 0 |
-| Enemy Passives | 89 | 89 | 0 | 0 | 0 |
+| Enemy Passives | 92 | 92 | 0 | 0 | 0 |
 | Enemy Variants | 6 | 6 | 0 | 0 | 0 |
 | Factions | 24 | 24 | 0 | 0 | 0 |
 | Foundings | 6 | 6 | 0 | 0 | 0 |
 | Glossary | 24 | 0 | 24 | 0 | 0 |
 | Guilds | 10 | 10 | 0 | 0 | 0 |
-| Items | 309 | 309 | 0 | 0 | 0 |
-| Magic Properties | 477 | 477 | 0 | 0 | 0 |
+| Items | 311 | 311 | 0 | 0 | 0 |
+| Magic Properties | 512 | 512 | 0 | 0 | 0 |
 | Personalities | 12 | 12 | 0 | 0 | 0 |
 | Points of Interest | 13 | 13 | 0 | 0 | 0 |
 | Quest Chains | 5 | 5 | 0 | 0 | 0 |
-| Quests | 51 | 51 | 0 | 0 | 0 |
+| Quests | 50 | 50 | 0 | 0 | 0 |
 | Race-Background Combos | 31 | 31 | 0 | 0 | 0 |
 | Races | 26 | 26 | 0 | 0 | 0 |
 | Settlements | 270 | 270 | 0 | 0 | 0 |
-| Skill Traits | 422 | 422 | 0 | 0 | 0 |
-| Skills | 52 | 52 | 0 | 0 | 0 |
+| Skill Traits | 447 | 447 | 0 | 0 | 0 |
+| Skills | 53 | 53 | 0 | 0 | 0 |
 | Specializations | 60 | 60 | 0 | 0 | 0 |
 | Squad Archetype Families | 15 | 15 | 0 | 0 | 0 |
 | Squad Archetypes | 75 | 75 | 0 | 0 | 0 |
-| Stats | 34 | 0 | 34 | 0 | 0 |
-| Traits | 418 | 418 | 0 | 0 | 0 |
+| Stats | 43 | 0 | 43 | 0 | 0 |
+| Traits | 478 | 478 | 0 | 0 | 0 |
 | Vendetta Abilities | 5 | 5 | 0 | 0 | 0 |
 | Vendetta Loot | 6 | 0 | 6 | 0 | 0 |
 | Vendetta Traits | 18 | 18 | 0 | 0 | 0 |
-| **Total** | **3230** | **3159** | **71** | **0** | **0** |
+| **Total** | **3398** | **3318** | **80** | **0** | **0** |
 
 ## Entities without a page
 
@@ -88,7 +88,7 @@ Config files are folded into other pages; excluded files are left out entirely.
 
 | File | Entities |
 |---|---|
-| `abilities/combat_abilities.json` | 286 |
+| `abilities/combat_abilities.json` | 320 |
 | `ai/ai_profiles.json` | 7 |
 | `ascendancy/ascendant_paths.json` | 8 |
 | `backgrounds/acolyte.json` | 1 |
@@ -246,14 +246,15 @@ Config files are folded into other pages; excluded files are left out entirely.
 | `guilds/guilds.json` | 10 |
 | `items/accessories.json` | 42 |
 | `items/armor.json` | 47 |
-| `items/magic_properties.json` | 477 |
-| `items/monster_parts.json` | 34 |
+| `items/magic_properties.json` | 512 |
+| `items/monster_parts.json` | 35 |
 | `items/relics.json` | 12 |
 | `items/trade_goods.json` | 47 |
+| `items/utility.json` | 1 |
 | `items/weapons_magical.json` | 18 |
-| `items/weapons_melee.json` | 72 |
-| `items/weapons_ranged.json` | 37 |
-| `passives/enemy_passives.json` | 89 |
+| `items/weapons_melee.json` | 71 |
+| `items/weapons_ranged.json` | 38 |
+| `passives/enemy_passives.json` | 92 |
 | `personality_traits.json` | 12 |
 | `pois/poi_templates.json` | 13 |
 | `quests/bounties.json` | 8 |
@@ -261,7 +262,7 @@ Config files are folded into other pages; excluded files are left out entirely.
 | `quests/prestige_quests.json` | 4 |
 | `quests/quest_chains.json` | 5 |
 | `quests/security_quests.json` | 4 |
-| `quests/starting_quests.json` | 14 |
+| `quests/starting_quests.json` | 13 |
 | `quests/trade_quests.json` | 5 |
 | `races/arachne.json` | 1 |
 | `races/deepkin.json` | 1 |
@@ -298,20 +299,21 @@ Config files are folded into other pages; excluded files are left out entirely.
 | `skills/armor_skills.json` | 2 |
 | `skills/defense_skill_traits.json` | 71 |
 | `skills/defense_skills.json` | 10 |
-| `skills/magic_skill_traits.json` | 106 |
+| `skills/magic_skill_traits.json` | 121 |
 | `skills/magic_skills.json` | 11 |
-| `skills/melee_skill_traits.json` | 89 |
+| `skills/melee_skill_traits.json` | 92 |
 | `skills/melee_skills.json` | 10 |
-| `skills/ranged_skill_traits.json` | 41 |
-| `skills/ranged_skills.json` | 5 |
+| `skills/ranged_skill_traits.json` | 47 |
+| `skills/ranged_skills.json` | 6 |
 | `skills/utility_skill_traits.json` | 31 |
 | `skills/utility_skills.json` | 5 |
-| `skills/weapon_skill_traits.json` | 68 |
+| `skills/weapon_skill_traits.json` | 69 |
 | `skills/weapon_skills.json` | 9 |
 | `specializations/specializations.json` | 60 |
-| `stats.json` | 34 |
+| `stats.json` | 43 |
 | `traits/ascendant_traits.json` | 8 |
 | `traits/awakening_traits.json` | 156 |
+| `traits/backstory_traits.json` | 60 |
 | `traits/characteristic_traits.json` | 18 |
 | `traits/combat_traits.json` | 73 |
 | `traits/company_traits.json` | 25 |

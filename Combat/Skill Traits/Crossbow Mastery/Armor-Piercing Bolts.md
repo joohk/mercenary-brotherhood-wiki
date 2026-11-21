@@ -20,14 +20,14 @@ up: "[[Crossbow Mastery]]"
 
 An uncommon passive skill trait of [[Crossbow Mastery]] with 2 ranks.
 
-> You load specialised bolts that punch through plate. +4 Armor Penetration and +2 Ranged Damage Max.
+> You load specialised bolts that punch through plate. +5 Armor Penetration and +2 Ranged Damage.
 
 ## Effects
 
 Rank 1:
 
-- +4 [[Stats#Armor Pen|Armor Pen]]
-- +2 Ranged Damage Max
+- +5 [[Stats#Armor Pen|Armor Pen]]
+- +2 Ranged Damage
 
 ## Upgrades
 
@@ -35,9 +35,9 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Increased to +7 Armor Penetration and +4 Ranged Damage Max.
+Increased to +8 Armor Penetration and +4 Ranged Damage.
 
-- +7 [[Stats#Armor Pen|Armor Pen]]
-- +4 Ranged Damage Max
+- +8 [[Stats#Armor Pen|Armor Pen]]
+- +4 Ranged Damage
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

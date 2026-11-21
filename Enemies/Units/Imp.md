@@ -56,13 +56,23 @@ A tier-2 enemy of the [[Demons]] faction — 46 HP, 6 armor, worth 14 XP and 6 g
 | Gold | 6 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Demons Combat Sheet\|all Demons units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 70 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 18 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Fire Resist\|Fire]] | +40% | — | +40% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 
@@ -81,7 +91,6 @@ A tier-2 enemy of the [[Demons]] faction — 46 HP, 6 armor, worth 14 XP and 6 g
 ## Referenced by
 
 - **Appears in encounters:** [[Deep Cavern Encounter]], [[Deep Crystal Cave Encounter]], [[Deep Tunnel Encounter]], [[Ruins — Mid Tier]]
-- **Escorts:** [[The Void Herald]]
 - **Reinforces in encounters:** [[Deep Cavern Encounter]], [[Deep Crystal Cave Encounter]], [[Deep Dark Ruins Encounter]], [[Deep Tunnel Encounter]]
 
 *Generated from `enemies/demons.json`. Edits will be overwritten — put your own notes in Notes/.*

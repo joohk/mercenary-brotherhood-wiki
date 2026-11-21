@@ -21,7 +21,7 @@ up: "[[Axe Fighting]]"
 
 An uncommon ability skill trait of [[Axe Fighting]] with 2 ranks, granting [[Rending Chop (Ability)|Rending Chop]].
 
-> A savage downward strike that tears flesh, inflicting Bleeding (5 damage per tick for 3 ticks). Requires an axe.
+> A savage downward strike that tears flesh, inflicting Bleeding (5 damage per tick for 3 ticks).
 
 ## Effects
 

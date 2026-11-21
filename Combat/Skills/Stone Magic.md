@@ -14,15 +14,15 @@ discovery_weight: 0.6
 max_level: 10
 skill_category: combat
 skill_group: Magic
-skill_traits: 9
+skill_traits: 12
 up: "[[Schools of Magic]]"
 ---
 
 [[Home]] › [[Magic & Spells]] › [[Schools of Magic]]
 
-A combat skill from the Magic group, with 10 levels and 9 skill traits.
+A combat skill from the Magic group, with 10 levels and 12 skill traits.
 
-> Command the bones of the earth. Each level increases Max Fatigue, armor, and spell potency, hardening the caster's body and sharpening their stonework. Initiates know Stoneskin.
+> Command the bones of the earth. Your stone spells deal blunt damage and crack what they hit with Fracture: -2 armor and -4% physical resistance a stack for the rest of the battle, up to 5 stacks. Each level increases Max Fatigue, armor and spell potency. Initiates know Stone Shards. At L5, Stolen Stone: each Fracture you apply gives you +1 armor (up to +6) for 2 turns. At L10 you can hold Heart of the Mountain, an aura that hardens allies and cracks foes.
 
 ## How to train
 
@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level | Unlocks |
 |---|---|---|---|---|
-| L1 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]] | +2 Max Fatigue, +1 Armor | 20 | Grants ability: [[Stoneskin]] |
-| L2 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]] | +4 Max Fatigue, +2 Armor | 35 | — |
-| L3 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +7 Max Fatigue, +3 Armor, +1 Magic Power | 55 | — |
-| L4 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +10 Max Fatigue, +4 Armor, +2 Magic Power | 85 | — |
-| L5 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +14 Max Fatigue, +6 Armor, +3 Magic Power | 125 | — |
-| L6 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +18 Max Fatigue, +8 Armor, +4 Magic Power | 180 | — |
-| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +23 Max Fatigue, +10 Armor, +5 Magic Power | 250 | — |
-| L8 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +28 Max Fatigue, +12 Armor, +6 Magic Power | 335 | — |
-| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +34 Max Fatigue, +15 Armor, +7 Magic Power | 440 | — |
-| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Armor\|Armor]], +1 [[Stats#Magic Power\|Magic Power]] | +41 Max Fatigue, +18 Armor, +8 Magic Power | max | Grants ability: [[Earthbind]] |
+| L1 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +2 Max Fatigue, +1 Armor, +1 Ranged Attack | 20 | Grants ability: [[Stone Shards]] |
+| L2 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +4 Max Fatigue, +2 Armor, +2 Ranged Attack | 35 | — |
+| L3 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +7 Max Fatigue, +3 Armor, +4 Ranged Attack | 55 | — |
+| L4 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Max Fatigue, +4 Armor, +6 Ranged Attack, +2 Magic Power | 85 | — |
+| L5 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Armor\|Armor]], +2 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Max Fatigue, +5 Armor, +9 Ranged Attack, +4 Magic Power | 125 | — |
+| L6 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +18 Max Fatigue, +7 Armor, +12 Ranged Attack, +7 Magic Power | 180 | — |
+| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +23 Max Fatigue, +9 Armor, +16 Ranged Attack, +10 Magic Power | 250 | — |
+| L8 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +28 Max Fatigue, +11 Armor, +20 Ranged Attack, +13 Magic Power | 335 | — |
+| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +4 [[Stats#Magic Power\|Magic Power]], +5 [[Stats#Ranged Attack\|Ranged Attack]] | +34 Max Fatigue, +13 Armor, +25 Ranged Attack, +17 Magic Power | 440 | — |
+| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Armor\|Armor]], +4 [[Stats#Magic Power\|Magic Power]], +6 [[Stats#Ranged Attack\|Ranged Attack]] | +41 Max Fatigue, +15 Armor, +31 Ranged Attack, +21 Magic Power | max | Grants ability: [[Heart of the Mountain]] |
 
 ## Skill traits
 
@@ -53,15 +53,18 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
-| [[Earthen Reserves]] | Common | Passive | 2 | — |
-| [[Granite Skin]] | Common | Passive | 2 | — |
-| [[Stoneskin Mastery]] | Common | Ability | 1 | — |
-| [[Bedrock Resolve]] | Uncommon | Passive | 2 | — |
+| [[Earthen Patience]] | Common | Passive | 2 | — |
+| [[Fault Lines]] | Common | Passive | 1 | — |
+| [[Seismic Focus]] | Common | Passive | 2 | — |
+| [[Stoneskin (Skill Trait)\|Stoneskin]] | Common | Ability | 2 | [[Stoneskin (Ability)\|Stoneskin]] |
 | [[Boulder Mastery]] | Uncommon | Ability | 2 | [[Boulder Throw]] |
-| [[Stone Barrier]] | Uncommon | Passive | 2 | — |
+| [[Crushing Weight]] | Uncommon | Passive | 1 | — |
+| [[Splintering Shell]] | Uncommon | Passive | 1 | — |
 | [[Tremor Mastery (Skill Trait)\|Tremor Mastery]] | Uncommon | Ability | 2 | [[Tremor]] |
+| [[Unmoved]] | Uncommon | Passive | 1 | — |
 | [[Earthquake Mastery (Skill Trait)\|Earthquake Mastery]] | Rare | Ability | 2 | [[Earthquake]] |
-| [[Stone Bastion (Skill Trait)\|Stone Bastion]] | Rare | Ability | 2 | [[Stone Bastion (Ability)\|Stone Bastion]] |
+| [[Mountain's Shelter (Skill Trait)\|Mountain's Shelter]] | Rare | Ability | 2 | [[Mountain's Shelter (Ability)\|Mountain's Shelter]] |
+| [[Pulverize (Skill Trait)\|Pulverize]] | Rare | Ability | 1 | [[Pulverize (Ability)\|Pulverize]] |
 
 ## Referenced by
 

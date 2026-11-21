@@ -9,11 +9,11 @@ tags:
   - faction/cultists
   - type/villain
 source: villains/arch_villains.json
-armor: 6
+armor: 16
 faction: Cult of the Hollow Eye
 gold: 140
-hp: 220
-level_min: 6
+hp: 440
+level_min: 9
 personality: fanatical
 size: normal
 stance: ranged
@@ -26,7 +26,7 @@ xp: 210
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of the [[Cult of the Hollow Eye]] — *Voice of the Hollow Eye*. Awakens from company level 6; 220 HP, 6 armor, worth 210 XP and 140 gold.
+An arch-villain of the [[Cult of the Hollow Eye]] — *Voice of the Hollow Eye*. Awakens from company level 9; 440 HP, 16 armor, worth 210 XP and 140 gold.
 
 ![[_assets/Units/PlagueBishop.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of the [[Cult of the Hollow Eye]] — *Voice of the Hollow Eye*.
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 220 |
+| [[Stats#Max HP\|Max HP]] | 440 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 115 |
-| [[Stats#Initiative\|Initiative]] | 55 |
-| [[Stats#Melee Attack\|Melee Attack]] | 65 |
-| [[Stats#Melee Defense\|Melee Defense]] | 50 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 70 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 48 |
-| [[Stats#Armor\|Armor]] | 6 |
+| [[Stats#Initiative\|Initiative]] | 65 |
+| [[Stats#Melee Attack\|Melee Attack]] | 75 |
+| [[Stats#Melee Defense\|Melee Defense]] | 60 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 80 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 58 |
+| [[Stats#Armor\|Armor]] | 16 |
 | [[Stats#Willpower\|Willpower]] | 100 |
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
-| [[Stats#Damage Min\|Damage]] | 12-20 |
+| [[Stats#Damage Min\|Damage]] | 22-30 |
 | Ranged Range | 5 |
 
 ## Combat
@@ -63,7 +63,24 @@ An arch-villain of the [[Cult of the Hollow Eye]] — *Voice of the Hollow Eye*.
 | Stance | Ranged — keeps its distance and attacks from range |
 | Personality | Fanatical |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 6 |
+| Appears from company level | 9 |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|Cult of the Hollow Eye units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | -15% | — | **-15%** (weak) |
+| [[Stats#Pierce Resist\|Pierce]] | +10% | — | +10% |
+| [[Stats#Blunt Resist\|Blunt]] | +30% | — | +30% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Hollow Cathedral**
+
+A fortified cathedral where the Plague Bishop preaches rot to his fanatics. The faithful man its walls.
 
 ## Phases
 
@@ -94,8 +111,10 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
-- 3× [[Cult Fanatic]]
+- 1× [[High Priest]]
+- 2× [[Cult Abomination]]
 - 1× [[Dark Priest]]
+- 1× [[Cult Assassin]]
 
 ## Relic drops
 
@@ -108,8 +127,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 25 |
-| Ambush chance | 10% |
 | Settlement corruption chance | 12% |
 
 Units (hexes, per day) are not stated in the data.

@@ -56,13 +56,24 @@ A tier-1 enemy of the [[Desperate Rabble]] faction — 26 HP, 0 armor, worth 8 X
 | Gold | 3 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Desperate Rabble Combat Sheet\|all Desperate Rabble units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 10 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Tattered Rags]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Tattered Rags]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

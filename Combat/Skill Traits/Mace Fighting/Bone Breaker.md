@@ -20,14 +20,14 @@ up: "[[Mace Fighting]]"
 
 An uncommon passive skill trait of [[Mace Fighting]] with 2 ranks.
 
-> Your mace strikes crack through protection and flesh alike. +4 Armor Penetration and +3 Damage Min.
+> Your mace strikes crack through protection and flesh alike. +4 Armor Penetration and +10% damage with mace strikes.
 
 ## Effects
 
 Rank 1:
 
 - +4 [[Stats#Armor Pen|Armor Pen]]
-- +3 [[Stats#Damage Min|Damage Min]]
+- +10% [[Stats#Weapon Damage|Weapon Damage]]
 
 ## Upgrades
 
@@ -35,9 +35,9 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Increased to +7 Armor Penetration and +5 Damage Min.
+Increased to +7 Armor Penetration and +15% damage.
 
 - +7 [[Stats#Armor Pen|Armor Pen]]
-- +5 [[Stats#Damage Min|Damage Min]]
+- +15% [[Stats#Weapon Damage|Weapon Damage]]
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

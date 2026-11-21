@@ -24,7 +24,7 @@ up: "[[Nature Magic]]"
 
 A 1-AP ranged ability targeting one enemy up to 5 hexes away.
 
-> Hurl a hardened spike of black thorn at a single foe. Deals 6-14 piercing damage and applies Bleeding.
+> Hurl a hardened spike of black thorn at a single foe. Deals 6-14 damage and applies Bleeding.
 
 ## Stats
 
@@ -39,7 +39,7 @@ A 1-AP ranged ability targeting one enemy up to 5 hexes away.
 | Line of sight | Required |
 | Damage | 6-14 dmg + Bleeding |
 
-*Tags:* magic, nature, spell, ranged, bleed
+*Tags:* magic, nature, spell, ranged, bleed, dot
 
 ## Referenced by
 

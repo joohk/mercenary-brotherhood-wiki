@@ -45,7 +45,7 @@ A tier-2 Wild Elf enemy of the [[Wilding Elves]] faction — 69 HP, 6 armor, wor
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 9-14 |
-| Ranged damage with weapon | 10-16 (base 0 + [[Longbow]] 10-16) |
+| Ranged damage with weapon | 11-18 (base 0 + [[Longbow]] 11-18) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-2 Wild Elf enemy of the [[Wilding Elves]] faction — 69 HP, 6 armor, wor
 | Race | [[Wild Elf]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Wilding Elves Combat Sheet\|all Wilding Elves units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 55 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 24 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Ragged Furs]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Ragged Furs]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Ragged Furs]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

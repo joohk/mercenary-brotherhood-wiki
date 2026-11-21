@@ -11,10 +11,13 @@ tags:
   - tier/4
   - type/item
 source: items/armor.json
-armor: 11
+armor: 9
 family: light armor
 price: 1020
 rarity: normal
+resist_blunt: 10
+resist_piercing: 8
+resist_slashing: 9
 slot: body_armor
 spawn_weight: 18
 tier: 4
@@ -23,7 +26,7 @@ up: "[[Light Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Light Armor]]
 
-A tier-4 light armor giving 11 Armor, worth 1020 gold.
+A tier-4 light armor giving 9 Armor, worth 1020 gold.
 
 ![[_assets/Icons/LeatherArmor.png|96]]
 
@@ -33,9 +36,12 @@ A tier-4 light armor giving 11 Armor, worth 1020 gold.
 |---|---|
 | Tier | 4 |
 | Class | Light armor |
-| [[Stats#Armor\|Armor]] | +11 |
+| [[Stats#Armor\|Armor]] | +9 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -10 |
 | [[Stats#Initiative\|Initiative]] | -4 |
+| [[Stats#Slash Resist\|Slash Resist]] | +9% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +8% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +10% |
 | Price | 1020 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 18 |

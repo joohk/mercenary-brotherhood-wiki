@@ -21,6 +21,9 @@ up: "[[Underdark]]"
 
 An enemy faction that appears from company level 3 and fights as [[How Enemies Behave#Disciplined|Disciplined]] (holds formation, coordinated): 11 unit types, tiers 2-5.
 
+> [!tip] [[Duergar Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/DuergarLord.webp|160]]
 
 > Grey-skinned evil dwarves from the deep underground. Relentless, disciplined, and cruel. They forge dark iron and fight with warhammers and crossbows. Slavers who view surface-dwellers as chattel. Mid-to-late game faction.
@@ -40,15 +43,15 @@ Encounter tables have their own level gates and can field this faction outside i
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | ![[_assets/Units/DuergarCrossbowman.webp\|40]] | [[Duergar Crossbowman]] | 2 | 79 | 8 | 53 | 47 | 75 | 13-21 (ranged) | Ranged | 3 | 20 |
-| ![[_assets/Units/DuergarSlaveSoldier.webp\|40]] | [[Duergar Slave Soldier]] | 2 | 92 | 9 | 68 | 55 | 0 | 15-23 | Defensive | 3 | 18 |
+| ![[_assets/Units/DuergarSlaveSoldier.webp\|40]] | [[Duergar Slave Soldier]] | 2 | 92 | 9 | 68 | 55 | 0 | 15-25 | Defensive | 3 | 18 |
 | ![[_assets/Units/CopperGolem.webp\|40]] | [[Copper Golem]] | 3 | 300 | 21 | 80 | 48 | 0 | 47-69 | Aggressive | 9 | 48 |
-| ![[_assets/Units/DuergarDarkSmith.webp\|40]] | [[Duergar Dark Smith]] | 3 | 94 | 10 | 62 | 55 | 85 | 12-18 | Ranged | 6 | 38 |
-| ![[_assets/Units/DuergarIronguard.webp\|40]] | [[Duergar Ironguard]] | 3 | 130 | 15 | 85 | 78 | 0 | 30-47 | Defensive | 5 | 32 |
-| ![[_assets/Units/DuergarStonekeeper.webp\|40]] | [[Duergar Stonekeeper]] | 3 | 109 | 9 | 57 | 55 | 71 | 21-33 | Ranged | 6 | 40 |
-| ![[_assets/Units/DuergarTaskmaster.webp\|40]] | [[Duergar Taskmaster]] | 3 | 115 | 12 | 83 | 67 | 0 | 20-31 | Aggressive | 5 | 35 |
-| ![[_assets/Units/DuergarWarpriest.webp\|40]] | [[Duergar Warpriest]] | 4 | 156 | 17 | 100 | 84 | 0 | 37-59 | Aggressive | 8 | 52 |
+| ![[_assets/Units/DuergarDarkSmith.webp\|40]] | [[Duergar Dark Smith]] | 3 | 94 | 10 | 62 | 55 | 85 | 13-19 | Ranged | 6 | 38 |
+| ![[_assets/Units/DuergarIronguard.webp\|40]] | [[Duergar Ironguard]] | 3 | 130 | 15 | 85 | 78 | 0 | 34-52 | Defensive | 5 | 32 |
+| ![[_assets/Units/DuergarStonekeeper.webp\|40]] | [[Duergar Stonekeeper]] | 3 | 109 | 9 | 57 | 55 | 71 | 23-35 | Ranged | 6 | 40 |
+| ![[_assets/Units/DuergarTaskmaster.webp\|40]] | [[Duergar Taskmaster]] | 3 | 115 | 12 | 83 | 67 | 0 | 22-33 | Aggressive | 5 | 35 |
+| ![[_assets/Units/DuergarWarpriest.webp\|40]] | [[Duergar Warpriest]] | 4 | 156 | 17 | 100 | 84 | 0 | 41-64 | Aggressive | 8 | 52 |
 | ![[_assets/Units/IronGolem.webp\|40]] | [[Iron Golem]] | 4 | 450 | 26 | 96 | 55 | 0 | 72-103 | Aggressive | 13 | 70 |
-| ![[_assets/Units/DuergarLord.webp\|40]] | [[Duergar Lord]] | 5 | 195 | 20 | 112 | 96 | 0 | 45-72 | Defensive | 12 | 72 |
+| ![[_assets/Units/DuergarLord.webp\|40]] | [[Duergar Lord]] | 5 | 195 | 20 | 112 | 96 | 0 | 52-78 | Defensive | 12 | 72 |
 | ![[_assets/Units/MithrilGolem.webp\|40]] | [[Mithril Golem]] | 5 | 600 | 32 | 112 | 62 | 0 | 102-140 | Aggressive | 19 | 100 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*

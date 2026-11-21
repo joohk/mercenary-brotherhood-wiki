@@ -39,6 +39,6 @@ Damage increases to 95% and gains +5 to-hit.
 
 ### Rank 3
 
-Damage rises to 115% and successful hits also apply Bleeding for 2 turns.
+Damage rises to 115% and successful hits also apply Bleeding (5 damage per tick for 3 ticks).
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

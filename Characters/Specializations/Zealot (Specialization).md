@@ -45,7 +45,7 @@ A unit may choose a specialization every 4 levels. *Resolve category:* Morale/lo
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Reaver Hall]]
+- **Sponsored by guilds:** [[Holy Order]]
 
 > [!note]- Developer notes
 > *separator:* ── RESOLVE (3) ── morale/loss-focused specializations

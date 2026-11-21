@@ -9,11 +9,11 @@ tags:
   - faction/aurelian_legions
   - type/villain
 source: villains/arch_villains.json
-armor: 16
+armor: 26
 faction: Saurian Legions
 gold: 180
-hp: 280
-level_min: 7
+hp: 560
+level_min: 10
 personality: authoritarian
 size: normal
 stance: defensive
@@ -26,7 +26,7 @@ xp: 220
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of the [[Saurian Legions]] — *Imperator Ssethek*. Awakens from company level 7; 280 HP, 16 armor, worth 220 XP and 180 gold.
+An arch-villain of the [[Saurian Legions]] — *Imperator Ssethek*. Awakens from company level 10; 560 HP, 26 armor, worth 220 XP and 180 gold.
 
 ![[_assets/Units/IronTyrant.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of the [[Saurian Legions]] — *Imperator Ssethek*. Awakens from
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 280 |
+| [[Stats#Max HP\|Max HP]] | 560 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 110 |
-| [[Stats#Initiative\|Initiative]] | 48 |
-| [[Stats#Melee Attack\|Melee Attack]] | 78 |
-| [[Stats#Melee Defense\|Melee Defense]] | 72 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 0 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 65 |
-| [[Stats#Armor\|Armor]] | 16 |
+| [[Stats#Initiative\|Initiative]] | 58 |
+| [[Stats#Melee Attack\|Melee Attack]] | 88 |
+| [[Stats#Melee Defense\|Melee Defense]] | 82 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 10 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 75 |
+| [[Stats#Armor\|Armor]] | 26 |
 | [[Stats#Willpower\|Willpower]] | 98 |
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
-| [[Stats#Damage Min\|Damage]] | 16-26 |
+| [[Stats#Damage Min\|Damage]] | 26-36 |
 
 ## Combat
 
@@ -62,7 +62,24 @@ An arch-villain of the [[Saurian Legions]] — *Imperator Ssethek*. Awakens from
 | Stance | Defensive — holds its ground and protects its allies |
 | Personality | Authoritarian |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 7 |
+| Appears from company level | 10 |
+| Combat sheet | [[Saurian Legions Combat Sheet\|Saurian Legions units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +30% | — | +30% |
+| [[Stats#Pierce Resist\|Pierce]] | +25% | — | +25% |
+| [[Stats#Blunt Resist\|Blunt]] | -10% | — | **-10%** (weak) |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Iron Bastion**
+
+The Iron Tyrant's fortress, ringed by drilled legions. Ssethek rules from its keep and waits for challengers to break upon the gate.
 
 ## Phases
 
@@ -92,9 +109,9 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
-- 2× [[Saurian Legionary]]
-- 1× [[Saurian Temple Guard]]
 - 1× [[Saurian Oldblood]]
+- 2× [[Saurian Eternity Guard]]
+- 2× [[Saurian Temple Guard]]
 
 ## Relic drops
 
@@ -107,8 +124,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 25 |
-| Ambush chance | 8% |
 | Settlement corruption chance | 8% |
 
 Units (hexes, per day) are not stated in the data.

@@ -45,7 +45,7 @@ A tier-2 large enemy of the [[Greenskin Warband]] faction — 119 HP, 10 armor, 
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 17-28 (base 3-4 + [[Steel Battle Axe]] 14-24) |
+| Damage with weapon | 18-30 (base 3-4 + [[Steel Battle Axe]] 15-26) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-2 large enemy of the [[Greenskin Warband]] faction — 119 HP, 10 armor, 
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Greenskin Warband Combat Sheet\|all Greenskin Warband units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 35 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6 | +6% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5 | +5% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7 | +7% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -92,7 +104,6 @@ A tier-2 large enemy of the [[Greenskin Warband]] faction — 119 HP, 10 armor, 
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]], [[Forest — Late Tier]], [[Hills Base Garrison — Shallow]], [[Hills — Mid Tier]], [[Mountain — Mid Tier]], [[Plains — Late Tier]], [[Warlord's Citadel (Encounter Table)|Warlord's Citadel]]
-- **Escorts:** [[Gorthak the Beast King]]
 - **Reinforces in encounters:** [[Forest — Late Tier]], [[Hills Base Garrison — Shallow]], [[Hills — Mid Tier]], [[Mountain — Mid Tier]], [[Plains — Late Tier]]
 
 *Generated from `enemies/greenskins.json`. Edits will be overwritten — put your own notes in Notes/.*

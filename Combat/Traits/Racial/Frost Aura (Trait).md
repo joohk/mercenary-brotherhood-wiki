@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A rare Frostborn racial trait.
 
-> +26% damage, +2 armor. Cold radiates from the frostborn's blows, numbing flesh and cracking willpower.
+> +26% melee damage, +2 armor. Cold radiates from the frostborn's blows, numbing flesh and cracking willpower.
 
 ## Effects
 

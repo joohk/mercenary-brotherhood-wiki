@@ -11,8 +11,8 @@ tags:
   - tier/4
   - type/item
 source: items/weapons_ranged.json
-damage_max: 29
-damage_min: 18
+damage_max: 32
+damage_min: 20
 damage_type: piercing
 family: bow
 hands: two-handed
@@ -27,7 +27,7 @@ up: "[[Bows]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Bows]]
 
-A tier-4 two-handed piercing bow dealing 18-29 damage at range 8, worth 660 gold.
+A tier-4 two-handed piercing bow dealing 20-32 damage at range 8, worth 660 gold.
 
 ![[_assets/Icons/Bow.png|96]]
 
@@ -38,7 +38,8 @@ A tier-4 two-handed piercing bow dealing 18-29 damage at range 8, worth 660 gold
 | Tier | 4 |
 | Damage type | Piercing |
 | Hands | Two-handed |
-| Ranged Damage | 18-29 |
+| Ranged Damage | 20-32 |
+| [[Stats#Armor Pen\|Armor Pen]] | +3 |
 | [[Stats#Initiative\|Initiative]] | -2 |
 | Range | 8 hexes |
 | Price | 660 |

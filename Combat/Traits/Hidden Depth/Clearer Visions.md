@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 Stage 2 of 3 of a hidden depth: an epic trait that can surface and deepen over a unit's career.
 
-> +7 initiative, +3 vision, +5 dodge. The future sharpens. Foresight: fully evade 10% of melee and 8% of ranged attacks.
+> +7 initiative, +3 vision, +5 dodge. The future sharpens. Foresight: fully evade 10% of melee attacks (if he moved on his last turn) and 8% of ranged attacks.
 >
 > *The terror fades. Certainty remains.*
 
@@ -27,9 +27,9 @@ Stage 2 of 3 of a hidden depth: an epic trait that can surface and deepen over a
 
 | Stage | Trait | Rarity | Description |
 |---|---|---|---|
-| Stage 1 | [[Prophetic Dreams]] | Rare | +4 initiative, +3 vision range. Glimpses of what is to come. Foresight: 8% chance to fully evade a melee attack. |
-| Stage 2 | **Clearer Visions** | Epic | +7 initiative, +3 vision, +5 dodge. The future sharpens. Foresight: fully evade 10% of melee and 8% of ranged attacks. |
-| Stage 3 | [[Oracle]] | Legendary | +10 initiative, +4 vision, +8 dodge, +4 melee defense. The veil is gone. Foresight: fully evade 12% of all incoming attacks. |
+| Stage 1 | [[Prophetic Dreams]] | Rare | +4 initiative, +3 vision range. Glimpses of what is to come. Foresight: 8% chance to fully evade a melee attack if he moved on his last turn. |
+| Stage 2 | **Clearer Visions** | Epic | +7 initiative, +3 vision, +5 dodge. The future sharpens. Foresight: fully evade 10% of melee attacks (if he moved on his last turn) and 8% of ranged attacks. |
+| Stage 3 | [[Oracle]] | Legendary | +10 initiative, +4 vision, +8 dodge, +4 melee defense. The veil is gone. Foresight: fully evade 12% of incoming attacks (melee only if he moved on his last turn). |
 
 ## Effects
 

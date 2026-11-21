@@ -12,7 +12,7 @@ source: enemies/barbarians.json
 armor: 7
 faction: Wilding Elves
 gold: 20
-hp: 76
+hp: 88
 race: Wild Elf
 stance: ranged
 threat_cost: 5
@@ -23,7 +23,7 @@ xp: 32
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Wilding Elves]]
 
-A tier-3 Wild Elf enemy of the [[Wilding Elves]] faction — 76 HP, 7 armor, worth 32 XP and 20 gold.
+A tier-3 Wild Elf enemy of the [[Wilding Elves]] faction — 88 HP, 7 armor, worth 32 XP and 20 gold.
 
 ![[_assets/Units/TribalShaman.webp|160]]
 
@@ -33,19 +33,19 @@ A tier-3 Wild Elf enemy of the [[Wilding Elves]] faction — 76 HP, 7 armor, wor
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 76 |
+| [[Stats#Max HP\|Max HP]] | 88 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 75 |
 | [[Stats#Initiative\|Initiative]] | 57 |
 | [[Stats#Melee Attack\|Melee Attack]] | 54 |
 | [[Stats#Melee Defense\|Melee Defense]] | 48 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 90 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 55 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 58 |
 | [[Stats#Armor\|Armor]] | 7 |
 | [[Stats#Willpower\|Willpower]] | 75 |
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 17 |
 | [[Stats#Damage Min\|Damage]] | 9-15 |
-| Ranged damage with weapon | 9-17 (base 2-5 + [[Shaman Staff]] 7-12) |
+| Damage with weapon | 26-41 (base 9-15 + [[Shaman Staff]] 17-26) |
 | Ranged Damage | 2-5 |
 
 ## Combat
@@ -59,13 +59,25 @@ A tier-3 Wild Elf enemy of the [[Wilding Elves]] faction — 76 HP, 7 armor, wor
 | Race | [[Wild Elf]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Wilding Elves Combat Sheet\|all Wilding Elves units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 42 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Adept Robes]] +3 | +3% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Adept Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Adept Robes]] +3 | +3% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -80,6 +92,7 @@ A tier-3 Wild Elf enemy of the [[Wilding Elves]] faction — 76 HP, 7 armor, wor
 ## Equipment
 
 - [[Shaman Staff]]
+- [[Channeling Wand]]
 - [[Adept Robes]]
 - [[Silver Amulet]]
 

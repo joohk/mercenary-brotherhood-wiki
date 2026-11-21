@@ -24,13 +24,13 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Blademaster]], [[Striker]], [[Executioner (Specialization)|Executioner]], [[Assassin (Specialization)|Assassin]], [[Defender]]
+[[Blademaster]], [[Striker]], [[Duelist (Specialization)|Duelist]], [[Defender]]
 
 ## Signature skills
 
 Each guild hall rolls 5 signature skills from this pool when the world is generated; its recruits get bonus skills from that set.
 
-[[Dual Wield Mastery]], [[Swordsmanship]], [[Counter Fighter]], [[Pincer]], [[Dodge Master]], [[Light Armor Proficiency]], [[Melee Mastery]], [[Tactician]]
+[[Dual Wield Mastery]], [[Swordsmanship]], [[Counter Fighter]], [[Teamwork]], [[Dodge Master]], [[Light Armor Proficiency]], [[Melee Mastery]], [[Tactician]]
 
 ## Recruit backgrounds
 
@@ -42,6 +42,16 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Uncommon | [[Duelist (Background)\|Duelist]], [[Sellsword (Background)\|Sellsword]], [[Corsair]], [[Hedge Knight]] |
 | Rare | [[Blade Dancer]], [[Champion (Background)\|Champion]] |
 | Legendary | [[First Blade]], [[Royal Exile]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Sword | ×4 |
+| Dagger | ×3 |
+| Light Armor | ×2 |
 
 ## Gear by hire tier
 

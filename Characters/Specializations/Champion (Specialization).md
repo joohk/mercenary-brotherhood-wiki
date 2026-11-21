@@ -45,7 +45,7 @@ A unit may choose a specialization every 4 levels. *Slaughter category:* Kill-fo
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Wildwardens]]
+- **Sponsored by guilds:** [[Fighters' Guild]]
 
 > [!note]- Developer notes
 > *separator:* ── SLAUGHTER (7) ── kill-focused specializations

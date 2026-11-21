@@ -78,6 +78,13 @@ Weapon families this race favours.
 - **Melee:** Hammer, Mace
 - **Ranged:** Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Mace ×2.5, Hammer ×2, Axe ×1.5, Light Armor ×1.3
+- **Disfavoured:** Bow ×0.4, Wand ×0.3
+
 ## Backgrounds
 
 The 18 backgrounds a Half-Troll recruit can roll.

@@ -22,7 +22,7 @@ uses_per_battle: 1
 
 A 2-AP ability used on yourself, usable once per battle.
 
-> Dig deep and recover HP through sheer willpower. Costs the turn, 1 use per battle.
+> Dig deep and recover HP through sheer willpower. Costs 2 AP, 1 use per battle.
 
 ## Stats
 
@@ -37,6 +37,10 @@ A 2-AP ability used on yourself, usable once per battle.
 | Line of sight | Not required |
 
 *Tags:* heal, self
+
+## Requirements
+
+- Requires Injured
 
 ## Effects
 

@@ -58,13 +58,25 @@ A tier-0 enemy of the [[Ratkin Swarm]] faction — 22 HP, 0 armor, worth 6 XP an
 | Gold | 2 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Swarm\|Swarm]] |
+| Combat sheet | [[Ratkin Swarm Combat Sheet\|all Ratkin Swarm units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 40 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 8 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

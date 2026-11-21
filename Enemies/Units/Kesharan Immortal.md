@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Kesharan Dominion]] faction — 130 HP, 15 armor, worth 
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 7-9 |
-| Damage with weapon | 21-32 (base 7-9 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 24-35 (base 7-9 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-3 enemy of the [[Kesharan Dominion]] faction — 130 HP, 15 armor, worth 
 | Gold | 32 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Kesharan Dominion Combat Sheet\|all Kesharan Dominion units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,10 +66,20 @@ A tier-3 enemy of the [[Kesharan Dominion]] faction — 130 HP, 15 armor, worth 
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 50 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8, [[Plated Helmet]] +2, [[Steel Shield]] +3 | +13% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6, [[Plated Helmet]] +2, [[Steel Shield]] +15 | +23% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9, [[Plated Helmet]] +6, [[Steel Shield]] +2 | +17% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Shield Formation]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 

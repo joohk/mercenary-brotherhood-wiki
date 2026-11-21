@@ -35,7 +35,7 @@ A 1-AP ranged ability targeting one enemy up to 5 hexes away.
 | Range | 5 hexes |
 | Target | Enemy |
 | Line of sight | Required |
-| Damage | 6-12 (reduced by armor) |
+| Damage | 6-12 (ignores armor) |
 
 *Tags:* ranged, gadget
 

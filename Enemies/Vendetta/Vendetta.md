@@ -15,7 +15,7 @@ up: "[[Bestiary]]"
 
 Named rivals that grow out of ordinary enemies and hunt your company: [[Glossary#Vendetta|Vendetta]].
 
-> When an ordinary enemy kills one of your mercenaries, survives a battle, or escapes, they may become a Vendetta — a named rival who remembers the encounter, grows stronger, adapts to how you fight, and ambushes your squad on the map. The Vendetta Chance dial sets how readily they form.
+> If you lose or retreat, an enemy that killed one of your mercenaries may become a Vendetta — a named rival who remembers the encounter, grows stronger, adapts to how you fight, and ambushes your squad as you travel. So may a foe that flees a battle you win. The Vendetta Chance dial sets how readily they form.
 
 ## How it works
 

@@ -20,7 +20,7 @@ up: "[[Stone Magic]]"
 
 An uncommon ability skill trait of [[Stone Magic]] with 2 ranks, granting [[Boulder Throw]].
 
-> Learn Boulder Throw. Hurl a massive stone at a distant enemy for heavy damage and an initiative debuff.
+> Learn Boulder Throw: 18-29 blunt damage, 2 Fracture and -10 initiative for 3 of the target's turns.
 
 ## Effects
 
@@ -34,7 +34,7 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Boulder Throw deals increased damage (24-40) and applies a stronger initiative penalty (-15).
+Boulder Throw deals 21-34 damage, applies 3 Fracture and -15 initiative.
 
 - Grants ability: [[Boulder Throw]]
 

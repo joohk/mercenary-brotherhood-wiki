@@ -61,7 +61,7 @@ Base stats of a fresh recruit, before background bonuses. Rank is among all 26 r
 
 ## Racial traits & abilities
 
-- **Racial abilities:** [[Psionic Blast]], [[Fatigue Drain (Ability)|Fatigue Drain]], [[Mindlock]]
+- **Racial abilities:** [[Psionic Blast]], [[Fatigue Drain]], [[Mindlock]]
 
 **Racial passives**
 
@@ -78,6 +78,13 @@ Weapon families this race favours.
 
 - **Melee:** Spear, Mace
 - **Ranged:** Crossbow
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Crossbow ×2, Hammer ×2, Heavy Armor ×1.5, Spear ×1.3
+- **Disfavoured:** Bow ×0.4
 
 ## Backgrounds
 

@@ -11,8 +11,8 @@ tags:
   - tier/3
   - type/item
 source: items/weapons_melee.json
-damage_max: 27
-damage_min: 17
+damage_max: 30
+damage_min: 19
 damage_type: blunt
 family: war hammer
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[War Hammers]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[War Hammers]]
 
-A tier-3 one-handed blunt war hammer dealing 17-27 damage, worth 520 gold.
+A tier-3 one-handed blunt war hammer dealing 19-30 damage, worth 520 gold.
 
 ![[_assets/Icons/OneHandedWarhammer.png|96]]
 
@@ -37,7 +37,7 @@ A tier-3 one-handed blunt war hammer dealing 17-27 damage, worth 520 gold.
 | Tier | 3 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 17-27 |
+| [[Stats#Damage Min\|Damage]] | 19-30 |
 | [[Stats#Armor Pen\|Armor Pen]] | +7 |
 | [[Stats#Initiative\|Initiative]] | -6 |
 | Price | 520 |
@@ -46,7 +46,7 @@ A tier-3 one-handed blunt war hammer dealing 17-27 damage, worth 520 gold.
 
 ## Effects
 
-- Grants ability: [[Sunder Armor (Ability)|Sunder Armor]]
+- Grants ability: [[Sunder Armor]]
 
 ## Same line
 

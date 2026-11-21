@@ -19,7 +19,7 @@ up: "[[Holy Magic]]"
 
 [[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Holy Magic]]
 
-An uncommon ability skill trait of [[Holy Magic]] with 2 ranks, granting [[Fatigue Restore]].
+An uncommon ability skill trait of [[Holy Magic]] with 2 ranks, granting [[Prayer of Renewal]].
 
 > Soothe an ally's exhaustion with divine renewal.
 
@@ -27,7 +27,7 @@ An uncommon ability skill trait of [[Holy Magic]] with 2 ranks, granting [[Fatig
 
 Rank 1:
 
-- Grants ability: [[Fatigue Restore]]
+- Grants ability: [[Prayer of Renewal]]
 
 ## Upgrades
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Fatigue Restore now removes 30 fatigue instead of 20.
+Prayer of Renewal now removes 30 fatigue instead of 16.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

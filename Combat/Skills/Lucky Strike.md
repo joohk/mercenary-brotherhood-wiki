@@ -65,7 +65,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 ## Referenced by
 
 - **Familiar to:** [[Alchemist]], [[Assassin (Background)|Assassin]], [[Beast Tamer]], [[Beggar]], [[Berserker (Background)|Berserker]], [[Corsair]], [[Poacher]], [[Ravager (Background)|Ravager]], [[Thief (Background)|Thief]], [[Tomb Robber]]
-- **Foreign to:** [[Cleric (Background)|Cleric]], [[Duelist (Background)|Duelist]], [[Geomancer (Background)|Geomancer]], [[Grand Master]], [[Monk]], [[Witch Hunter (Background)|Witch Hunter]]
+- **Foreign to:** [[Chaplain]], [[Duelist (Background)|Duelist]], [[Geomancer (Background)|Geomancer]], [[Grand Master]], [[Monk]], [[Witch Hunter (Background)|Witch Hunter]]
 - **Guild signature skill:** [[Hunters' Lodge]]
 - **Trained by hunting at:** [[Ranger Station]]
 

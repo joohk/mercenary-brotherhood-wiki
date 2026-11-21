@@ -13,7 +13,7 @@ The 10 defense skill trees.
 
 | Name | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|
-| [[Armor Breaker]] | Combat | Hit an enemy with 8+ armor | — | 8 |
+| [[Armor Breaker]] | Combat | Hit an enemy with 8+ armor in melee | — | 8 |
 | [[Battle Hardened (Skill)\|Battle Hardened]] | Combat | Take damage in combat | — | 7 |
 | [[Bloodied Veteran]] | Combat | Survive a critical hit | — | 6 |
 | [[Dodge Master]] | Combat | Enemy misses you with an attack | — | 6 |

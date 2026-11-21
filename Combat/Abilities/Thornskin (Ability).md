@@ -24,7 +24,7 @@ up: "[[Nature Magic]]"
 
 A 1-AP magic ability targeting an ally up to 4 hexes away.
 
-> Sheathe an ally in spined bramble. Attackers take 6 reflected damage on hit for 3 turns.
+> Sheathe an ally in spined bramble for 3 turns. Anyone who hits them takes 6 reflected damage and is Bled.
 
 ## Stats
 
@@ -37,7 +37,7 @@ A 1-AP magic ability targeting an ally up to 4 hexes away.
 | Range | 4 hexes |
 | Target | Ally |
 | Line of sight | Not required |
-| Damage | 6 reflect dmg per hit taken, 3 turns |
+| Damage | 6 reflect dmg + Bleeding per hit taken, 3 turns |
 
 *Tags:* magic, nature, support, buff
 

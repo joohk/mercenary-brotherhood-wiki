@@ -24,7 +24,7 @@ up: "[[Abilities]]"
 
 A 1-AP ranged ability targeting an area up to 4 hexes away.
 
-> Shoot a volley of magical thorns at an area. No direct damage, but applies Bleeding to all units in the target hex and adjacent hexes.
+> Shoot a volley of magical thorns at an enemy. No direct damage, but applies Bleeding to it and every enemy in adjacent hexes.
 
 ## Stats
 

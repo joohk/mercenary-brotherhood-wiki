@@ -58,7 +58,9 @@ A tier-4 large enemy of the [[Vampires]] faction — 265 HP, 19 armor, worth 85 
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Vampires Combat Sheet\|all Vampires units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -66,11 +68,23 @@ A tier-4 large enemy of the [[Vampires]] faction — 265 HP, 19 armor, worth 85 
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 3 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 100 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +15% | [[Masterwork Leather]] +10 | +25% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Masterwork Leather]] +9 | +9% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Masterwork Leather]] +12 | +12% |
+| [[Stats#Fire Resist\|Fire]] | -15% | — | **-15%** (weak) |
+| [[Stats#Shadow Resist\|Shadow]] | +40% | — | +40% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Life Drain]]
 - [[Shadow Step (Ability)|Shadow Step]]
-- [[Blood Feast]]
+- [[Red Feast (Ability)|Red Feast]]
 - [[Rally (Ability)|Rally]]
 
 ## Passives

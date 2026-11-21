@@ -20,7 +20,7 @@ up: "[[Crossbow Mastery]]"
 
 A rare passive skill trait of [[Crossbow Mastery]] with 3 ranks.
 
-> Heavy bolts nail the target where they stand. Each crossbow hit has a 20% chance to Root the enemy for a turn.
+> Heavy bolts nail the target where they stand. Each crossbow hit has a 20% chance to Root the enemy for 2 turns.
 
 ## Upgrades
 

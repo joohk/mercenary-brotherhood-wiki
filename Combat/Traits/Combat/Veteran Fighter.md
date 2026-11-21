@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 An uncommon combat trait (stat boost).
 
-> +16% damage, +3 melee attack. Countless engagements hone every strike to lethal efficiency.
+> +16% melee damage, +3 melee attack. Countless engagements hone every strike to lethal efficiency.
 
 ## Effects
 

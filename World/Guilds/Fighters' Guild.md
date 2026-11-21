@@ -24,7 +24,7 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Warrior]], [[Juggernaut (Specialization)|Juggernaut]], [[Ironblood]], [[Vanguard (Specialization)|Vanguard]], [[Veteran]], [[Sentinel (Specialization)|Sentinel]]
+[[Warrior]], [[Juggernaut (Specialization)|Juggernaut]], [[Ironblood]], [[Vanguard (Specialization)|Vanguard]], [[Veteran]], [[Sentinel (Specialization)|Sentinel]], [[Champion (Specialization)|Champion]]
 
 ## Signature skills
 
@@ -42,6 +42,17 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Uncommon | [[Soldier]], [[Sellsword (Background)\|Sellsword]], [[Enforcer]], [[Hedge Knight]], [[Grave Knight]] |
 | Rare | [[Champion (Background)\|Champion]], [[Dreadnought]], [[Guardian]], [[Shield Master]], [[Iron Warden]], [[Siege Breaker]] |
 | Legendary | [[Grand Master]], [[Undying Sentinel]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Shield | ×3.5 |
+| Sword | ×3.5 |
+| Heavy Armor | ×3 |
+| Mace | ×2 |
 
 ## Gear by hire tier
 

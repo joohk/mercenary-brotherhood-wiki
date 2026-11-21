@@ -21,7 +21,7 @@ up: "[[Berserker (Skill)]]"
 
 An uncommon ability skill trait of [[Berserker (Skill)|Berserker]] with 2 ranks, granting [[Rending Chop (Ability)|Rending Chop]].
 
-> A savage strike that inflicts Bleeding. Requires an axe.
+> A savage strike that inflicts Bleeding.
 
 ## Effects
 

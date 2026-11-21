@@ -22,7 +22,7 @@ up: "[[Abilities]]"
 
 A 1-AP support ability targeting an ally up to 3 hexes away.
 
-> Sing a brief healing refrain to restore an ally for ~18 HP. Does not interrupt your current aura.
+> Sing a brief healing refrain to restore an ally for ~18 HP (scales with willpower and magic power). Does not interrupt your current aura.
 
 ## Stats
 
@@ -37,6 +37,10 @@ A 1-AP support ability targeting an ally up to 3 hexes away.
 | Line of sight | Required |
 
 *Tags:* support, heal
+
+## Requirements
+
+- Requires Injured
 
 ## Referenced by
 

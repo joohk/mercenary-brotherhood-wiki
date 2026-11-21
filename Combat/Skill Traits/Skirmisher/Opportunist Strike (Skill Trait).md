@@ -21,7 +21,7 @@ up: "[[Skirmisher (Skill)]]"
 
 An uncommon ability skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 ranks, granting [[Opportunist Strike (Ability)|Opportunist Strike]].
 
-> Attack a foe from their flank or rear with melee or ranged weapon for bonus to-hit and damage. 1 AP, 2 uses per battle.
+> Attack a foe within melee reach from their flank or rear for bonus to-hit and damage. 1 AP, 2 uses per battle.
 
 ## Effects
 

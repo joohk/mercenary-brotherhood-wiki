@@ -11,8 +11,8 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_melee.json
-damage_max: 14
-damage_min: 8
+damage_max: 17
+damage_min: 10
 damage_type: slashing
 family: sword
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-1 one-handed slashing sword dealing 8-14 damage, worth 40 gold.
+A tier-1 one-handed slashing sword dealing 10-17 damage, worth 40 gold.
 
 ![[_assets/Icons/tier_1/sword_1h.webp|96]]
 
@@ -37,7 +37,8 @@ A tier-1 one-handed slashing sword dealing 8-14 damage, worth 40 gold.
 | Tier | 1 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 8-14 |
+| [[Stats#Damage Min\|Damage]] | 10-17 |
+| [[Stats#Armor Pen\|Armor Pen]] | +2 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 40 |
 | Rarity | Normal |
@@ -57,7 +58,7 @@ Items of this line, by tier: [[Thrall Sword]] (T1) → **Iron Sword** (T1) → [
 
 ## Referenced by
 
-- **Ally gear in battle events:** [[Adventuring Party]], [[Hold the Line (Battle Event)|Hold the Line]]
+- **Ally gear in battle events:** [[Adventuring Party]]
 - **Bonus loot at:** [[Bandit Camp]], [[Demon Incursion Point]], [[Deserter Hideout]], [[Duergar Mining Camp]], [[Duergar Slave Fortress]], [[Goblin Tunnels (Underground Enemy Base)|Goblin Tunnels]]
 - **Carried by:** [[Bandit Cutthroat]], [[Deserter Footman]], [[Deserter Militia]], [[Deserter Swordsman]], [[Orc Bandit Raider]], [[Orc Thug]], [[Skeleton]], [[Thrall Slave]], [[Zealot (Enemy)|Zealot]]
 - **Dropped by:** [[Bandit Cutthroat]], [[Battle Cleric (Enemy)|Battle Cleric]], [[Deserter Footman]], [[Deserter Militia]], [[Deserter Swordsman]], [[Human Veteran Soldier]], [[Orc Bandit Raider]], [[Orc Thug]], [[Orc Veteran Sergeant]], [[Ratkin Chieftain]], [[Revenant]], [[Sellsword (Enemy)|Sellsword]], [[Shield Bearer]], [[Skeleton]], [[Slave Driver]], [[Thorn Warden]], [[Thrall Guard]], [[Thrall Militia]], [[Thrall Slave]], [[Thrall Taskmaster]], [[Wight]], [[Zealot (Enemy)|Zealot]]

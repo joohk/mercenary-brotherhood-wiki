@@ -45,7 +45,7 @@ A tier-4 large enemy of the [[Greenskin Warband]] faction — 276 HP, 11 armor, 
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 31-48 |
-| Damage with weapon | 43-67 (base 31-48 + [[Steel Mace]] 12-19) |
+| Damage with weapon | 43-69 (base 31-48 + [[Steel Mace]] 12-21) |
 | Action Points | 3 |
 
 ## Combat
@@ -59,13 +59,25 @@ A tier-4 large enemy of the [[Greenskin Warband]] faction — 276 HP, 11 armor, 
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Greenskin Warband Combat Sheet\|all Greenskin Warband units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 12 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 70 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -95,6 +107,7 @@ A tier-4 large enemy of the [[Greenskin Warband]] faction — 276 HP, 11 armor, 
 ## Referenced by
 
 - **Appears in encounters:** [[Mountain — Mid Tier]], [[Warlord's Citadel (Encounter Table)|Warlord's Citadel]]
+- **Escorts:** [[Gorthak the Beast King]]
 - **Reinforces in encounters:** [[Forest — Late Tier]], [[Mountain — Mid Tier]], [[Plains — Late Tier]]
 
 *Generated from `enemies/greenskins.json`. Edits will be overwritten — put your own notes in Notes/.*

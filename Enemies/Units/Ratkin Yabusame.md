@@ -45,7 +45,7 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 92 HP, 10 armor, wort
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 13-20 |
-| Ranged damage with weapon | 11-19 (base 3-5 + [[Yumi Bow]] 8-14) |
+| Ranged damage with weapon | 12-21 (base 3-5 + [[Yumi Bow]] 9-16) |
 | Ranged Damage | 3-5 |
 
 ## Combat
@@ -59,13 +59,25 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 92 HP, 10 armor, wort
 | Race | [[Ratkin]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 42 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

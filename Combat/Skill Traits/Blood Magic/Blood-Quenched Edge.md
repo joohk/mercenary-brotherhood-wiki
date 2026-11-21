@@ -20,14 +20,7 @@ up: "[[Blood Magic]]"
 
 An uncommon passive skill trait of [[Blood Magic]] with 2 ranks.
 
-> Blood magic seeps into weapons, eating through armor. +3 armor penetration, +3 max HP.
-
-## Effects
-
-Rank 1:
-
-- +3 [[Stats#Armor Pen|Armor Pen]]
-- +3 [[Stats#Max HP|Max HP]]
+> Your weapon hits on a bleeding enemy ignore 4 armor and deal 10% more damage.
 
 ## Upgrades
 
@@ -35,9 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Increased to +5 armor penetration, +5 max HP.
-
-- +5 [[Stats#Armor Pen|Armor Pen]]
-- +5 [[Stats#Max HP|Max HP]]
+They ignore 6 armor and deal 15% more damage.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

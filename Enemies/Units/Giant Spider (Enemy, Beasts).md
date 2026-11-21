@@ -62,13 +62,23 @@ A tier-2 large enemy of the [[Beasts]] faction — 66 HP, 6 armor, worth 18 XP a
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Swarm\|Swarm]] |
+| Combat sheet | [[Beasts Combat Sheet\|all Beasts units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 24 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

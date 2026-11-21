@@ -46,7 +46,7 @@ A tier-3 large Lizardfolk enemy of the [[Saurian Legions]] faction — 136 HP, 1
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 7-10 |
-| Damage with weapon | 20-32 (base 7-10 + [[Steel Spear]] 13-22) |
+| Damage with weapon | 24-36 (base 7-10 + [[Steel Spear]] 17-26) |
 | Action Points | 3 |
 
 ## Combat
@@ -61,13 +61,25 @@ A tier-3 large Lizardfolk enemy of the [[Saurian Legions]] faction — 136 HP, 1
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Saurian Legions Combat Sheet\|all Saurian Legions units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 52 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

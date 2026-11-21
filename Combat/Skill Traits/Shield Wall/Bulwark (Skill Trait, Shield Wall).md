@@ -21,7 +21,7 @@ up: "[[Shield Wall (Skill)]]"
 
 A rare passive skill trait of [[Shield Wall (Skill)|Shield Wall]] with 2 ranks.
 
-> Your mastery of the shield reduces all incoming ranged damage by 20%.
+> Your mastery of the shield reduces incoming damage from ranged weapon attacks by 20%.
 
 ## Upgrades
 

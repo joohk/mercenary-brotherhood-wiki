@@ -73,12 +73,18 @@ Weapon families this race favours.
 - **Melee:** Sword, Spear
 - **Ranged:** Bow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Sword ×1.6, Shield ×1.3, Spear ×1.3, Crossbow ×1.2, Heavy Armor ×1.2
+
 ## Backgrounds
 
 The 36 backgrounds a Human recruit can roll.
 
 - **Common (19):** [[Acolyte]], [[Acolyte Militant]], [[Blood Initiate]], [[Candle Witch]], [[Caravan Guard]], [[Deserter]], [[Farmhand]], [[Fortune Teller]], [[Grave Tender]], [[Hedge Wizard]], [[Herb Apprentice]], [[Laborer]], [[Militia]], [[Minstrel]], [[Mudfoot]], [[Pilgrim]], [[Scroll Scribe]], [[Shepherd]], [[Temple Guard]]
-- **Uncommon (9):** [[Bounty Hunter]], [[Cleric (Background)|Cleric]], [[Hedge Knight]], [[Mariner]], [[Penitent]], [[Scout]], [[Sellsword (Background)|Sellsword]], [[Soldier]], [[Thief (Background)|Thief]]
+- **Uncommon (9):** [[Bounty Hunter]], [[Chaplain]], [[Hedge Knight]], [[Mariner]], [[Penitent]], [[Scout]], [[Sellsword (Background)|Sellsword]], [[Soldier]], [[Thief (Background)|Thief]]
 - **Rare (6):** [[Bard]], [[Champion (Background)|Champion]], [[Crusader (Background)|Crusader]], [[Mind Shaper]], [[Pit Fighter]], [[Spymaster]]
 - **Legendary (2):** [[First Blade]], [[Royal Exile]]
 

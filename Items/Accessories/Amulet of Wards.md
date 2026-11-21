@@ -22,7 +22,7 @@ up: "[[Accessories]]"
 
 [[Home]] › [[Arms & Armor]] › [[Accessories]]
 
-A hand-made tier-5 magic amulet with -8% Damage Taken, worth 420 gold.
+A hand-made tier-5 magic amulet, worth 420 gold.
 
 ![[_assets/Icons/tier_5/amulet.webp|96]]
 
@@ -34,10 +34,6 @@ A hand-made tier-5 magic amulet with -8% Damage Taken, worth 420 gold.
 | Price | 420 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 7 |
-
-## Effects
-
-- -8% Damage Taken
 
 ## Related
 

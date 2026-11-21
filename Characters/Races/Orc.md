@@ -18,7 +18,7 @@ melee_defense: 40
 move_range: 1
 ranged_attack: 25
 ranged_defense: 30
-recruitment_threshold: 10
+recruitment_threshold: 0
 up: "[[Greenskins & Giant-blood]]"
 vision: 3
 willpower: 50
@@ -26,7 +26,7 @@ willpower: 50
 
 [[Home]] › [[Your Company]] › [[Race Families]] › [[Greenskins & Giant-blood]]
 
-A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 10), weakest in Ranged Defense and Initiative compared with other races.
+A playable race ([[Glossary#Numbers used on this wiki|recruitment threshold]] 0), weakest in Ranged Defense and Initiative compared with other races.
 
 ![[_assets/Units/OrcSwordsman.webp]]
 
@@ -56,7 +56,7 @@ Base stats of a fresh recruit, before background bonuses. Rank is among all 26 r
 
 |  | Value |
 |---|---|
-| [[Glossary#Numbers used on this wiki\|Recruitment threshold]] | 10 |
+| [[Glossary#Numbers used on this wiki\|Recruitment threshold]] | 0 |
 | Recruitable | Yes |
 
 ## Racial traits & abilities
@@ -74,6 +74,13 @@ Weapon families this race favours.
 
 - **Melee:** Axe, Hammer
 - **Ranged:** Thrown
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Axe ×3, Hammer ×2, Heavy Armor ×1.5, Mace ×1.5, Thrown ×1.3
+- **Disfavoured:** Staff ×0.5, Robe ×0.3, Wand ×0.3
 
 ## Skill discovery
 

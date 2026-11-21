@@ -48,7 +48,6 @@ Share of each race among the locals.
 Quests this settlement's board can post:
 
 - [[Clear the Lair]] — company level 3-6
-- [[Close the Demon Rift]] — company level 10+
 
 *No Quest Board is listed among this settlement's services.*
 

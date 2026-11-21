@@ -30,6 +30,8 @@ A combat skill from the Utility group, with 10 levels and 6 skill traits.
 
 **Discovery:** Can be discovered on a *gadget use* event involving gadget-tagged gear or spells; discovery weight 0.6.
 
+**Bonuses apply while using:** gadget.
+
 ## Progression
 
 Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column). *Uses to next level* is how many qualifying actions it takes to reach the following level.

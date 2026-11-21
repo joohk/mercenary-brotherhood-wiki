@@ -24,6 +24,9 @@ up: "[[Wild Beasts]]"
 
 An enemy faction that appears at company levels 1-4 and fights as [[How Enemies Behave#Swarm|Swarm]] (flanks and surrounds): 3 unit types, tiers 1-3.
 
+> [!tip] [[Wolf Pack Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/AlphaWolf.webp|160]]
 
 > Fast, low armor, pack hunters found in forests

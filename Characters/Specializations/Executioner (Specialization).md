@@ -45,7 +45,7 @@ A unit may choose a specialization every 4 levels. *Slaughter category:* Kill-fo
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Blade Circle]]
+- **Sponsored by guilds:** [[Reaver Hall]]
 
 > [!note]- Developer notes
 > *separator:* ── SLAUGHTER (7) ── kill-focused specializations

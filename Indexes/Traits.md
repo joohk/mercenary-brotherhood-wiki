@@ -5,13 +5,13 @@ tags:
 source:
   - combos/
   - traits/
-count: 418
+count: 478
 up: "[[Your Company]]"
 ---
 
 [[Home]] › [[Your Company]]
 
-All 418 traits in the game data.
+All 478 traits in the game data.
 
 ## Combat (73)
 
@@ -179,7 +179,7 @@ All 418 traits in the game data.
 |---|---|---|---|
 | [[Berserker Blood]] | 1 | Rare | +8 [[Stats#Melee Attack\|Melee Attack]]; +8 [[Stats#Max HP\|Max HP]]; -4 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Blood Fury (Trait, Hidden Depth)\|Blood Fury]] | 2 | Epic | +13 [[Stats#Melee Attack\|Melee Attack]]; +13 [[Stats#Max HP\|Max HP]]; -3 [[Stats#Melee Defense\|Melee Defense]] |
-| [[Wrath Incarnate]] | 3 | Legendary | +17 [[Stats#Melee Attack\|Melee Attack]]; +17 [[Stats#Max HP\|Max HP]]; +5% [[Stats#Damage Min\|Damage Min]] |
+| [[Wrath Incarnate]] | 3 | Legendary | +17 [[Stats#Melee Attack\|Melee Attack]]; +17 [[Stats#Max HP\|Max HP]]; +5% [[Stats#Damage Min\|Damage]] |
 
 ## Hidden Depth — Blood Debt (3)
 
@@ -193,17 +193,17 @@ All 418 traits in the game data.
 
 | Name | Stage | Rarity | Effect |
 |---|---|---|---|
-| [[Bloodline of Dragons]] | 1 | Rare | +4 [[Stats#Melee Attack\|Melee Attack]]; +3 [[Stats#Armor\|Armor]]; +5% [[Stats#Damage Min\|Damage Min]]; … |
-| [[Dragonkin]] | 2 | Epic | +7 [[Stats#Melee Attack\|Melee Attack]]; +4 [[Stats#Armor\|Armor]]; +10% [[Stats#Damage Min\|Damage Min]]; … |
-| [[Dragon Ascendant]] | 3 | Legendary | +10 [[Stats#Melee Attack\|Melee Attack]]; +7 [[Stats#Armor\|Armor]]; +15% [[Stats#Damage Min\|Damage Min]]; … |
+| [[Bloodline of Dragons]] | 1 | Rare | +4 [[Stats#Melee Attack\|Melee Attack]]; +3 [[Stats#Armor\|Armor]]; +5% [[Stats#Damage Min\|Damage]]; … |
+| [[Dragonkin]] | 2 | Epic | +7 [[Stats#Melee Attack\|Melee Attack]]; +4 [[Stats#Armor\|Armor]]; +10% [[Stats#Damage Min\|Damage]]; … |
+| [[Dragon Ascendant]] | 3 | Legendary | +10 [[Stats#Melee Attack\|Melee Attack]]; +7 [[Stats#Armor\|Armor]]; +15% [[Stats#Damage Min\|Damage]]; … |
 
 ## Hidden Depth — Bloodline of Giants (3)
 
 | Name | Stage | Rarity | Effect |
 |---|---|---|---|
-| [[Bloodline of Giants]] | 1 | Rare | +13 [[Stats#Max HP\|Max HP]]; +7 [[Stats#Melee Attack\|Melee Attack]]; +5% [[Stats#Damage Min\|Damage Min]]; … |
-| [[Titan-Blooded]] | 2 | Epic | +21 [[Stats#Max HP\|Max HP]]; +10 [[Stats#Melee Attack\|Melee Attack]]; +10% [[Stats#Damage Min\|Damage Min]]; … |
-| [[Colossus (Trait, Hidden Depth)\|Colossus]] | 3 | Legendary | +30 [[Stats#Max HP\|Max HP]]; +14 [[Stats#Melee Attack\|Melee Attack]]; +15% [[Stats#Damage Min\|Damage Min]] |
+| [[Bloodline of Giants]] | 1 | Rare | +13 [[Stats#Max HP\|Max HP]]; +7 [[Stats#Melee Attack\|Melee Attack]]; +5% [[Stats#Damage Min\|Damage]]; … |
+| [[Titan-Blooded]] | 2 | Epic | +21 [[Stats#Max HP\|Max HP]]; +10 [[Stats#Melee Attack\|Melee Attack]]; +10% [[Stats#Damage Min\|Damage]]; … |
+| [[Colossus (Trait, Hidden Depth)\|Colossus]] | 3 | Legendary | +30 [[Stats#Max HP\|Max HP]]; +14 [[Stats#Melee Attack\|Melee Attack]]; +15% [[Stats#Damage Min\|Damage]] |
 
 ## Hidden Depth — Bloodline of the Ancients (3)
 
@@ -265,9 +265,9 @@ All 418 traits in the game data.
 
 | Name | Stage | Rarity | Effect |
 |---|---|---|---|
-| [[Feral Heart]] | 1 | Rare | +7 [[Stats#Melee Attack\|Melee Attack]]; +5% [[Stats#Damage Min\|Damage Min]]; -3 [[Stats#Ranged Defense\|Ranged Defense]] |
-| [[Apex Predator]] | 2 | Epic | +10 [[Stats#Melee Attack\|Melee Attack]]; +10% [[Stats#Damage Min\|Damage Min]]; +4 [[Stats#Initiative\|Initiative]]; … |
-| [[Beast Unleashed]] | 3 | Legendary | +14 [[Stats#Melee Attack\|Melee Attack]]; +15% [[Stats#Damage Min\|Damage Min]]; +7 [[Stats#Initiative\|Initiative]]; … |
+| [[Feral Heart]] | 1 | Rare | +7 [[Stats#Melee Attack\|Melee Attack]]; +5% [[Stats#Damage Min\|Damage]]; -3 [[Stats#Ranged Defense\|Ranged Defense]] |
+| [[Apex Predator]] | 2 | Epic | +10 [[Stats#Melee Attack\|Melee Attack]]; +10% [[Stats#Damage Min\|Damage]]; +4 [[Stats#Initiative\|Initiative]]; … |
+| [[Beast Unleashed]] | 3 | Legendary | +14 [[Stats#Melee Attack\|Melee Attack]]; +15% [[Stats#Damage Min\|Damage]]; +7 [[Stats#Initiative\|Initiative]]; … |
 
 ## Hidden Depth — Former Assassin (3)
 
@@ -338,8 +338,8 @@ All 418 traits in the game data.
 | Name | Stage | Rarity | Effect |
 |---|---|---|---|
 | [[Survivor of the Purge]] | 1 | Rare | +8 [[Stats#Melee Attack\|Melee Attack]]; +4 [[Stats#Willpower\|Willpower]] |
-| [[The Reckoning]] | 2 | Epic | +13 [[Stats#Melee Attack\|Melee Attack]]; +7 [[Stats#Willpower\|Willpower]]; +5% [[Stats#Damage Min\|Damage Min]] |
-| [[Instrument of Vengeance]] | 3 | Legendary | +17 [[Stats#Melee Attack\|Melee Attack]]; +10 [[Stats#Willpower\|Willpower]]; +10% [[Stats#Damage Min\|Damage Min]] |
+| [[The Reckoning]] | 2 | Epic | +13 [[Stats#Melee Attack\|Melee Attack]]; +7 [[Stats#Willpower\|Willpower]]; +5% [[Stats#Damage Min\|Damage]] |
+| [[Instrument of Vengeance]] | 3 | Legendary | +17 [[Stats#Melee Attack\|Melee Attack]]; +10 [[Stats#Willpower\|Willpower]]; +10% [[Stats#Damage Min\|Damage]] |
 
 ## Hidden Depth — Tactician's Mind (3)
 
@@ -365,6 +365,166 @@ All 418 traits in the game data.
 | [[Awakened Vessel]] | 2 | Epic | +13 [[Stats#Willpower\|Willpower]]; +7 [[Stats#Magic Power\|Magic Power]]; +4 [[Stats#Max HP\|Max HP]] |
 | [[Arcane Conduit]] | 3 | Legendary | +17 [[Stats#Willpower\|Willpower]]; +10 [[Stats#Magic Power\|Magic Power]]; +8 [[Stats#Max HP\|Max HP]]; … |
 
+## Backstory — Bad Temper (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Bad Temper]] | 1 | Common | +5% [[Stats#Damage Min\|Damage]] (while hit since turn); -3 [[Stats#Melee Defense\|Melee Defense]] (while hit since turn); -3 [[Stats#Ranged Defense\|Ranged Defense]] (while hit since turn) |
+| [[Simmering]] | 2 | Common | +6% [[Stats#Damage Min\|Damage]] (while hit since turn) |
+| [[Cold Fury]] | 3 | Common | +3 [[Stats#Melee Attack\|Melee Attack]]; +8% [[Stats#Damage Min\|Damage]] (while hit since turn) |
+
+## Backstory — Burned Out of Home (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Burned Out of Home]] | 1 | Common | +6% Target Faction Damage |
+| [[Ashes Remembered]] | 2 | Common | +10% Target Faction Damage |
+| [[Debt Settled]] | 3 | Common | +12% Target Faction Damage; +4 [[Stats#Willpower\|Willpower]] (while fighting target faction) |
+
+## Backstory — Farm-Raised (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Farm-Raised]] | 1 | Common | +8 [[Stats#Max HP\|Max HP]] |
+| [[Field-Hardened]] | 2 | Common | +12 [[Stats#Max HP\|Max HP]]; +1 Bonus Fatigue Recovery |
+| [[Ox-Strong]] | 3 | Common | +15 [[Stats#Max HP\|Max HP]]; +2 Bonus Fatigue Recovery; +5 Knockback Resist Pct |
+
+## Backstory — Fear of Fire (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Fear of Fire]] | 1 | Common | -5 [[Stats#Willpower\|Willpower]] (while on fire) |
+| [[Facing the Flames]] | 2 | Common | +10% [[Stats#Fire Resist\|Fire Resist]] |
+| [[Tempered]] | 3 | Common | +20% [[Stats#Fire Resist\|Fire Resist]] |
+
+## Backstory — Forest Child (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Forest Child]] | 1 | Common | +3 [[Stats#Melee Defense\|Melee Defense]] (while on forest tile); +3 [[Stats#Ranged Defense\|Ranged Defense]] (while on forest tile) |
+| [[Green Shadow]] | 2 | Common | +5 [[Stats#Melee Defense\|Melee Defense]] (while on forest tile); +5 [[Stats#Ranged Defense\|Ranged Defense]] (while on forest tile); +3 Opening Initiative (while battle forest) |
+| [[Child of the Deep Wood]] | 3 | Common | +6 [[Stats#Melee Defense\|Melee Defense]] (while on forest tile); +6 [[Stats#Ranged Defense\|Ranged Defense]] (while on forest tile); +3 [[Stats#Ranged Attack\|Ranged Attack]] (while on forest tile); … |
+
+## Backstory — Former Town Guard (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Former Town Guard]] | 1 | Uncommon | +4 [[Stats#Melee Defense\|Melee Defense]] |
+| [[Old Post]] | 2 | Uncommon | +6 [[Stats#Melee Defense\|Melee Defense]] |
+| [[Warden of the Gate]] | 3 | Uncommon | +8 [[Stats#Melee Defense\|Melee Defense]]; +5 [[Stats#Willpower\|Willpower]]; +3 Ally Npc Hit Aura |
+
+## Backstory — Haggler (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Haggler]] | 1 | Common | +3 Shop Discount Pct |
+| [[Hard Bargainer]] | 2 | Common | +5 Shop Discount Pct |
+| [[Silver Tongue]] | 3 | Common | +7 Shop Discount Pct |
+
+## Backstory — Hermit (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Hermit]] | 1 | Uncommon | +4 [[Stats#Melee Defense\|Melee Defense]] (with no adjacent allies); +4 [[Stats#Ranged Defense\|Ranged Defense]] (with no adjacent allies) |
+| [[Solitary]] | 2 | Uncommon | +6 [[Stats#Melee Defense\|Melee Defense]] (with no adjacent allies); +6 [[Stats#Ranged Defense\|Ranged Defense]] (with no adjacent allies); +3 [[Stats#Melee Attack\|Melee Attack]] (with no adjacent allies); … |
+| [[Needs No One]] | 3 | Uncommon | +8 [[Stats#Melee Defense\|Melee Defense]] (with no adjacent allies); +8 [[Stats#Ranged Defense\|Ranged Defense]] (with no adjacent allies); +5 [[Stats#Melee Attack\|Melee Attack]] (with no adjacent allies); … |
+
+## Backstory — Homesick (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Homesick]] | 1 | Common | -3 [[Stats#Willpower\|Willpower]] |
+| [[Made Peace]] | 2 | Common | +5 [[Stats#Willpower\|Willpower]] |
+| [[The Company Is Home]] | 3 | Common | +7 [[Stats#Willpower\|Willpower]]; +3 Willpower to allies within 1 hexes |
+
+## Backstory — Late Bloomer (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Late Bloomer]] | 1 | Common | +5% XP Gain |
+| [[Coming Into His Own]] | 2 | Common | +5% XP Gain; +1 [[Stats#Melee Attack\|Melee Attack]]; +1 [[Stats#Ranged Attack\|Ranged Attack]]; … |
+| [[In Full Bloom]] | 3 | Common | +5% XP Gain; +2 [[Stats#Melee Attack\|Melee Attack]]; +2 [[Stats#Ranged Attack\|Ranged Attack]]; … |
+
+## Backstory — Light Fingers (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Light Fingers]] | 1 | Common | +5 Battle Gold Bonus Pct |
+| [[Quick Hands]] | 2 | Common | +8 Battle Gold Bonus Pct |
+| [[Picks Every Pocket]] | 3 | Common | +10 Battle Gold Bonus Pct; +10 Battle Trade Good Chance |
+
+## Backstory — Light Sleeper (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Light Sleeper]] | 1 | Common | +5 Opening Initiative |
+| [[Ear to the Ground]] | 2 | Common | +8 Opening Initiative |
+| [[Never Caught Napping]] | 3 | Common | +10 Opening Initiative; +4 Ally Opening Initiative |
+
+## Backstory — Monster Survivor (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Monster Survivor]] | 1 | Uncommon | +6% Large Foe Damage |
+| [[Scarred, Not Broken]] | 2 | Uncommon | +10% Large Foe Damage; +4 [[Stats#Willpower\|Willpower]] (while fighting large) |
+| [[Bane of Giants]] | 3 | Uncommon | +15% Large Foe Damage; +4 [[Stats#Willpower\|Willpower]] (while fighting large); +1 Immune Large Knockback |
+
+## Backstory — Mountain-Born (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Mountain-Born]] | 1 | Common | +10% [[Stats#Cold Resist\|Cold Resist]] |
+| [[Winter-Hardy]] | 2 | Common | +15% [[Stats#Cold Resist\|Cold Resist]]; +1 Bonus Fatigue Recovery (while battle cold) |
+| [[Child of the Peaks]] | 3 | Common | +20% [[Stats#Cold Resist\|Cold Resist]]; +2 Bonus Fatigue Recovery (while battle cold); +1 Ignore Snow Fatigue |
+
+## Backstory — Patient Hunter (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Patient Hunter]] | 1 | Common | +3 [[Stats#Ranged Attack\|Ranged Attack]] (if you haven't moved this turn) |
+| [[Still as Stone]] | 2 | Common | +5 [[Stats#Ranged Attack\|Ranged Attack]] (if you haven't moved this turn) |
+| [[One Breath, One Kill]] | 3 | Common | +7 [[Stats#Ranged Attack\|Ranged Attack]] (if you haven't moved this turn); +5% [[Stats#Crit Chance\|Crit Chance]] (if you haven't moved this turn) |
+
+## Backstory — Plague Survivor (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Plague Survivor]] | 1 | Uncommon | +10% [[Stats#Poison Resist\|Poison Resist]] |
+| [[Hardened Blood]] | 2 | Uncommon | +20% [[Stats#Poison Resist\|Poison Resist]] |
+| [[Nothing Left to Fear]] | 3 | Uncommon | +30% [[Stats#Poison Resist\|Poison Resist]] |
+
+## Backstory — Siblings (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Siblings]] | 1 | Uncommon | +4 [[Stats#Melee Defense\|Melee Defense]] (while beside partner); +4 [[Stats#Ranged Defense\|Ranged Defense]] (while beside partner) |
+| [[Back to Back]] | 2 | Uncommon | +6 [[Stats#Melee Defense\|Melee Defense]] (while beside partner); +6 [[Stats#Ranged Defense\|Ranged Defense]] (while beside partner); +3 [[Stats#Melee Attack\|Melee Attack]] (while beside partner) |
+| [[Blood of My Blood]] | 3 | Uncommon | +8 [[Stats#Melee Defense\|Melee Defense]] (while beside partner); +8 [[Stats#Ranged Defense\|Ranged Defense]] (while beside partner); +5 [[Stats#Melee Attack\|Melee Attack]] (while beside partner) |
+
+## Backstory — Soldier's Child (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Soldier's Child]] | 1 | Common | +3 [[Stats#Melee Defense\|Melee Defense]] (with 1+ adjacent allies) |
+| [[Raised in the Ranks]] | 2 | Common | +5 [[Stats#Melee Defense\|Melee Defense]] (with 1+ adjacent allies) |
+| [[Born to the Line]] | 3 | Common | +6 [[Stats#Melee Defense\|Melee Defense]] (with 1+ adjacent allies); +2 Ally Melee Defense Aura |
+
+## Backstory — Stubborn as a Mule (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Stubborn as a Mule]] | 1 | Common | +4 [[Stats#Willpower\|Willpower]] |
+| [[Dug In]] | 2 | Common | +6 [[Stats#Willpower\|Willpower]]; +10 Stun Resist Pct |
+| [[Won't Budge]] | 3 | Common | +8 [[Stats#Willpower\|Willpower]]; +15 Stun Resist Pct; +15 Knockback Resist Pct |
+
+## Backstory — Thinks of Home (3)
+
+| Name | Stage | Depth tier | Effect |
+|---|---|---|---|
+| [[Thinks of Home]] | 1 | Common | +4 [[Stats#Willpower\|Willpower]] |
+| [[Something to Return To]] | 2 | Common | +6 [[Stats#Willpower\|Willpower]]; +5 [[Stats#Melee Defense\|Melee Defense]] (while below 50% HP) |
+| [[Worth Coming Home For]] | 3 | Common | +9 [[Stats#Willpower\|Willpower]]; +10 [[Stats#Melee Defense\|Melee Defense]] (while below 50% HP) |
+
 ## Awakening (156)
 
 | Name | Tier | Kind | Archetype | Grants | Effect |
@@ -373,22 +533,22 @@ All 418 traits in the game data.
 | [[Bloodhound]] | 1 | Passive | — | — | +10% hit chance against enemies below 50% HP. Senses the wounded. |
 | [[Brace (Trait)\|Brace]] | 1 | Passive | — | — | Take 1 less damage from all incoming attacks (flat reduction after armor). |
 | [[Festering Wounds (Trait)\|Festering Wounds]] | 1 | Passive | — | — | Melee attacks against Bleeding, Poisoned, or Burning enemies extend the… |
-| [[Flanker]] | 1 | Passive | — | — | +10% hit chance when attacking with an adjacent ally. Instinctive coordination. |
+| [[Flanker]] | 1 | Passive | — | — | +10% melee hit chance when an ally is also beside your target. Instinctive… |
 | [[Hardened Body]] | 1 | Stat boost | — | — | +15 [[Stats#Max HP\|Max HP]]; +10 [[Stats#Max Fatigue\|Max Fatigue]] |
 | [[Heavy Hands]] | 1 | Stat boost | — | — | +5% [[Stats#Overall Damage\|Overall Damage]] |
 | [[Light Step]] | 1 | Passive | — | — | Movement costs 0 fatigue. Glide across the battlefield without tiring. |
 | [[Steady Nerves]] | 1 | Stat boost | — | — | +12 [[Stats#Willpower\|Willpower]]; +1 [[Stats#Armor\|Armor]] |
 | [[Tenacity]] | 1 | Passive | — | — | +8 melee attack and +5 melee defense when below 50% HP. Fights harder when hurt. |
-| [[Adrenaline Surge]] | 2 | Passive | — | — | +1 AP on the first turn of combat. Strike and reposition immediately. |
+| [[Adrenaline Surge]] | 2 | Passive | — | — | +1 AP on each of the first 3 turns of combat. Strike and reposition immediately. |
 | [[Bloodscent (Trait)\|Bloodscent]] | 2 | Passive | — | — | +20% hit chance against enemies below 50% HP. A predator's finishing instinct. |
 | [[Brutal Force]] | 2 | Stat boost | — | — | +8% [[Stats#Overall Damage\|Overall Damage]] |
-| [[Immovable Object]] | 2 | Passive | — | — | Immune to Rooted and Stunned. Cannot be crowd-controlled. |
+| [[Immovable Object]] | 2 | Passive | — | — | Immune to Rooted and Stunned. Cannot be pinned down. |
 | [[Iron Constitution (Trait, Awakening)\|Iron Constitution]] | 2 | Stat boost | — | — | +25 [[Stats#Max HP\|Max HP]]; +15 [[Stats#Max Fatigue\|Max Fatigue]] |
 | [[Quicksilver Reflexes]] | 2 | Stat boost | — | — | +15 [[Stats#Initiative\|Initiative]]; +5 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Riposte (Trait)\|Riposte]] | 2 | Passive | — | — | 30% chance to counter-attack when hit in melee (half damage, half fatigue cost). |
 | [[Second Skin]] | 2 | Passive | — | — | Movement generates no fatigue; +5 fatigue recovery per turn. |
 | [[Steeled Nerves]] | 2 | Stat boost | — | — | +20 [[Stats#Willpower\|Willpower]]; +5 [[Stats#Armor\|Armor]] |
-| [[Unbreakable Will (Trait)\|Unbreakable Will]] | 2 | Passive | — | — | Immune to Shaken status. Never wavers, no matter the odds. |
+| [[Unbreakable Will (Trait)\|Unbreakable Will]] | 2 | Passive | — | — | Immune to Shaken status. Psionic Blast has -15% to hit you. Never wavers, no… |
 | [[Counterflow]] | 3 | Passive | — | — | When dodging an attack, gain +10 melee attack for your next attack. |
 | [[Intimidating Strikes]] | 3 | Passive | — | — | Your melee attacks apply -5 willpower to the target for 2 turns. |
 | [[Ironclad Will]] | 3 | Stat boost | — | — | +25 [[Stats#Willpower\|Willpower]]; +8 [[Stats#Melee Defense\|Melee Defense]] |
@@ -404,7 +564,7 @@ All 418 traits in the game data.
 | [[Iron Endurance]] | 4 | Passive | — | — | Can never become Exhausted. Fatigue threshold effectively removed. |
 | [[Killing Momentum (Trait)\|Killing Momentum]] | 4 | Passive | Melee | — | Gain +3 AP after landing a killing blow (once per turn). Press the advantage. |
 | [[Lifedrinker]] | 4 | Passive | Melee | — | Heal 25% of melee damage dealt. Sustains through aggression. |
-| [[Mass Haste (Trait)\|Mass Haste]] | 4 | Ability | Caster | [[Mass Haste (Ability)\|Mass Haste]] | All allies gain +2 AP and +20 initiative for several turns. Once per battle. |
+| [[Mass Haste (Trait)\|Mass Haste]] | 4 | Ability | Caster | [[Mass Haste (Ability)\|Mass Haste]] | Active: all allies within 4 hexes gain +2 AP once and +20 initiative for 3… |
 | [[Terrifying Presence]] | 4 | Passive | — | — | Enemies within 2 hexes suffer -10 willpower and -5 melee attack (passive aura). |
 | [[Titan's Vigor]] | 4 | Stat boost | — | — | +28 [[Stats#Max HP\|Max HP]]; +7 [[Stats#Armor\|Armor]] |
 | [[Unbreakable Wrath]] | 4 | Passive | Melee | — | Every blow that lands on you only feeds the fury. Each time you are hit, gain… |
@@ -432,18 +592,18 @@ All 418 traits in the game data.
 | [[Unshakeable]] | 5 | Stat boost (retired) | — | — | +30 [[Stats#Willpower\|Willpower]]; +12 [[Stats#Armor\|Armor]] |
 | [[Absorb Material (Trait)\|Absorb Material]] | 6 | Ability | Caster | [[Absorb Material (Ability)\|Absorb Material]] | Active: take on the nature of the ground you stand on — the terrain grants a… |
 | [[Ballistic Shot (Trait)\|Ballistic Shot]] | 6 | Ability | Ranged | [[Ballistic Shot (Ability)\|Ballistic Shot]] | Active: a piercing shot that hits up to 4 enemies in a line, knocking each back… |
-| [[Battle Trance]] | 6 | Passive | — | — | After landing 3 hits in combat, enter Trance for 2 turns: +25% damage, immune… |
+| [[Battle Trance]] | 6 | Passive | — | — | Once per battle, after landing 3 hits, enter Trance for 2 turns: +25% damage… |
 | [[Chain Lightning]] | 6 | Passive | — | — | Melee kills splash 50% of overkill damage to all adjacent enemies. |
 | [[Cleansing Wave (Trait)\|Cleansing Wave]] | 6 | Ability | Healer | [[Cleansing Wave (Ability)\|Cleansing Wave]] | Active: strip all damage-over-time, Shaken, and Rooted from allies within 3… |
 | [[Dissonant Chord (Trait)\|Dissonant Chord]] | 6 | Ability | Bard | [[Dissonant Chord (Ability)\|Dissonant Chord]] | Active: enemies within 2 hexes suffer -12 willpower for 2 turns and are struck… |
 | [[Executioner (Trait)\|Executioner]] | 6 | Passive | — | — | Attacks against enemies below 30% HP automatically crit. Ends fights fast. |
 | [[Ghost Walk (Trait)\|Ghost Walk]] | 6 | Ability | Caster | [[Ghost Walk (Ability)\|Ghost Walk]] | Active: for 2 turns, move through walls and gain +20 melee & ranged defense. |
-| [[Overheal Shield (Trait)\|Overheal Shield]] | 6 | Ability | Healer | [[Overheal Shield (Ability)\|Overheal Shield]] | Active: channel 40 healing into yourself; any beyond your max HP becomes a… |
+| [[Overheal Shield (Trait)\|Overheal Shield]] | 6 | Ability | Healer | [[Overheal Shield (Ability)\|Overheal Shield]] | Active: channel 40 healing into yourself (scales with willpower and magic… |
 | [[Phoenix Blood]] | 6 | Passive | — | — | When dropping below 25% HP, instantly heal 40% max HP (once per battle). |
-| [[Pinning Shot (Trait)\|Pinning Shot]] | 6 | Ability | Ranged | [[Pinning Shot (Ability, awakening_pinning_shot)\|Pinning Shot]] | Active: a shot that roots the target in place for 2 turns. |
 | [[Reflective Guard]] | 6 | Passive | — | — | Reflect 30% of melee damage you take back to the attacker (never lethal). |
 | [[Song of Haste (Trait)\|Song of Haste]] | 6 | Ability | Bard | [[Song of Haste (Ability)\|Song of Haste]] | Active: allies within 3 hexes gain +15 initiative for 3 turns. |
 | [[Throw Enemy (Trait)\|Throw Enemy]] | 6 | Ability | Melee | [[Throw Enemy (Ability)\|Throw Enemy]] | Active: grab an adjacent enemy and hurl it away, dealing impact damage on… |
+| [[Transfixing Shot (Trait)\|Transfixing Shot]] | 6 | Ability | Ranged | [[Transfixing Shot (Ability)\|Transfixing Shot]] | Active: a shot that roots the target in place for 2 turns. |
 | [[Warcry of Ruin (Trait)\|Warcry of Ruin]] | 6 | Ability | — | [[Warcry of Ruin (Ability)\|Warcry of Ruin]] | Once per battle: enemies within 6 hexes make a willpower check at -30 or become… |
 | [[Windrunner]] | 6 | Passive | Ranged | — | After you land a ranged kill, immediately reposition (gain +1 AP and free… |
 | [[Avatar of War]] | 6 | Stat boost (retired) | — | — | +10 [[Stats#Melee Attack\|Melee Attack]]; +10 [[Stats#Melee Defense\|Melee Defense]]; +5% [[Stats#Overall Damage\|Overall Damage]] |
@@ -463,7 +623,7 @@ All 418 traits in the game data.
 | [[Leap and Smash (Trait)\|Leap and Smash]] | 7 | Ability | Melee | [[Leap and Smash (Ability)\|Leap and Smash]] | Active: leap to an open tile within 8 hexes and slam, damaging all enemies… |
 | [[Life Link (Trait)\|Life Link]] | 7 | Ability | Healer | [[Life Link (Ability)\|Life Link]] | Active: for 3 turns, absorb up to 8 damage from each hit an adjacent ally takes. |
 | [[Rain of Arrows (Trait)\|Rain of Arrows]] | 7 | Ability | Ranged | [[Rain of Arrows (Ability)\|Rain of Arrows]] | Active: a volley centered on the target, damaging every enemy within 2 hexes of… |
-| [[Relentless Assault]] | 7 | Passive | — | — | After hitting an enemy, your next attack against the same target costs 1 less… |
+| [[Relentless Assault]] | 7 | Passive | — | — | After hitting an enemy, your next attack this turn against the same target… |
 | [[Ricochet (Trait)\|Ricochet]] | 7 | Passive | Ranged | — | Your ranged hits ricochet to the nearest other enemy within 3 hexes for 50% of… |
 | [[Sanctuary (Trait)\|Sanctuary]] | 7 | Ability | Healer | [[Sanctuary (Ability)\|Sanctuary]] | Active: allies within 3 hexes take 30% less damage for 3 turns. Once per battle. |
 | [[Shatterguard]] | 7 | Passive | — | — | Your attacks reduce target armor by 3 per hit (stacks, lasts rest of combat). |
@@ -473,7 +633,6 @@ All 418 traits in the game data.
 | [[Ruinous Might]] | 7 | Stat boost (retired) | — | — | +20% [[Stats#Overall Damage\|Overall Damage]]; +8% [[Stats#Crit Chance\|Crit Chance]] |
 | [[War Machine]] | 7 | Stat boost (retired) | — | — | +20 [[Stats#Melee Attack\|Melee Attack]]; +15 [[Stats#Melee Defense\|Melee Defense]]; +10 [[Stats#Ranged Attack\|Ranged Attack]] |
 | [[Anthem of Valor (Trait)\|Anthem of Valor]] | 8 | Ability | Bard | [[Anthem of Valor (Ability)\|Anthem of Valor]] | Active: cleanse Shaken from all allies and embolden them (+20 willpower) for 3… |
-| [[Called Shot (Trait)\|Called Shot]] | 8 | Ability | Ranged | [[Called Shot (Ability, awakening_called_shot)\|Called Shot]] | Active: a perfect shot to a vital point — 30 unmitigable damage to one enemy… |
 | [[Conqueror's Aura]] | 8 | Passive | — | — | All allies within 3 hexes gain +10 melee attack, +10 melee defense, +10… |
 | [[Deadeye (Trait, Awakening)\|Deadeye]] | 8 | Passive | Ranged | — | +12 [[Stats#Ranged Attack\|Ranged Attack]]; +12% [[Stats#Crit Chance\|Crit Chance]] |
 | [[Death Blossom (Trait)\|Death Blossom]] | 8 | Ability | Melee | [[Death Blossom (Ability)\|Death Blossom]] | Every 4 turns: attack ALL adjacent enemies simultaneously for full damage. |
@@ -484,10 +643,11 @@ All 418 traits in the game data.
 | [[Lullaby (Trait)\|Lullaby]] | 8 | Ability | Bard | [[Lullaby (Ability)\|Lullaby]] | Active: lull enemies within 3 hexes to sleep, stunning them. Once per battle. |
 | [[Marked for Death]] | 8 | Passive | — | — | First attack each turn completely ignores armor. |
 | [[Phase Shift (Trait)\|Phase Shift]] | 8 | Ability | Caster | [[Phase Shift (Ability)\|Phase Shift]] | Active: become intangible for 1 turn, negating all incoming damage. Once per… |
-| [[Radiant Nova (Trait)\|Radiant Nova]] | 8 | Ability | Healer | [[Radiant Nova (Ability)\|Radiant Nova]] | Active: a burst of radiant light heals every ally for 20 HP. Once per battle. |
+| [[Radiant Nova (Trait)\|Radiant Nova]] | 8 | Ability | Healer | [[Radiant Nova (Ability)\|Radiant Nova]] | Active: a burst of radiant light heals every ally for 20 HP (scales with… |
 | [[Seismic Slam (Trait)\|Seismic Slam]] | 8 | Ability | Melee | [[Seismic Slam (Ability)\|Seismic Slam]] | Active: slam the ground, stunning all enemies within 2 hexes. |
-| [[Time Slip (Trait)\|Time Slip]] | 8 | Ability | — | [[Time Slip (Ability)\|Time Slip]] | Active: refill your action points and take a second turn immediately. Once per… |
+| [[Time Slip (Trait)\|Time Slip]] | 8 | Ability | — | [[Time Slip (Ability)\|Time Slip]] | Active: gain a full turn's action points on top of any you have left and take a… |
 | [[Undying (Trait)\|Undying]] | 8 | Ability | — | [[Undying (Ability)\|Undying]] | Active: instantly restore 50% of your maximum HP. Twice per battle. |
+| [[Vital Shot (Trait)\|Vital Shot]] | 8 | Ability | Ranged | [[Vital Shot (Ability)\|Vital Shot]] | Active: a perfect shot to a vital point — 30 unmitigable damage to one enemy… |
 | [[Demigod's Frame]] | 8 | Stat boost (retired) | — | — | +80 [[Stats#Max HP\|Max HP]]; +20 [[Stats#Armor\|Armor]]; +20 [[Stats#Willpower\|Willpower]] |
 | [[Perfect Warrior]] | 8 | Stat boost (retired) | — | — | +20 [[Stats#Melee Attack\|Melee Attack]]; +20 [[Stats#Melee Defense\|Melee Defense]]; +20 [[Stats#Ranged Attack\|Ranged Attack]] |
 | [[Unassailable]] | 8 | Stat boost (retired) | — | — | +40 [[Stats#Willpower\|Willpower]]; +18 [[Stats#Armor\|Armor]]; +15 [[Stats#Melee Defense\|Melee Defense]] |
@@ -500,7 +660,7 @@ All 418 traits in the game data.
 | [[Encore (Trait)\|Encore]] | 9 | Ability | Bard | [[Encore (Ability)\|Encore]] | Active: grant an ally an immediate extra turn. Once per battle. |
 | [[Grand Finale (Trait)\|Grand Finale]] | 9 | Ability | Bard | [[Grand Finale (Ability)\|Grand Finale]] | Active: clear all allies' fatigue and strike every enemy Shaken. Once per… |
 | [[Immunity]] | 9 | Passive | — | — | Immune to all status effects (Stunned, Rooted, Shaken, Exhausted, all DoTs). |
-| [[Life Clone (Trait)\|Life Clone]] | 9 | Ability | Caster | [[Life Clone (Ability)\|Life Clone]] | Active: split into a second self you command — both halves at 50% HP and 50%… |
+| [[Life Clone (Trait)\|Life Clone]] | 9 | Ability | Caster | [[Life Clone (Ability)\|Life Clone]] | Active: split into a second self you command — your current HP is divided… |
 | [[Rift Walk (Trait)\|Rift Walk]] | 9 | Ability | Caster | [[Rift Walk (Ability)\|Rift Walk]] | Active: tear a rift and teleport yourself plus up to 2 adjacent allies to… |
 | [[Storm of Steel (Trait)\|Storm of Steel]] | 9 | Ability | Melee | [[Storm of Steel (Ability)\|Storm of Steel]] | Active: for 2 turns, at the start of your turn strike every adjacent enemy with… |
 | [[Titan's Grip (Trait)\|Titan's Grip]] | 9 | Ability | Melee | [[Titan's Grip (Ability)\|Titan's Grip]] | Active: seize an adjacent enemy — Root it and sap 1 AP from its next turn. |

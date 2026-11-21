@@ -25,7 +25,7 @@ uses_per_battle: 1
 
 A 2-AP support ability centred on yourself (radius 6), usable once per battle.
 
-> Bellow a thunderous warcry. Enemies within 6 hexes make a willpower check at -30; failure causes Shaken (or Fleeing if already Shaken). Once per battle.
+> Bellow a thunderous warcry. Enemies in sight within 6 hexes make a willpower check at -30; failure causes Shaken (or Fleeing if already Shaken). Once per battle.
 
 ## Stats
 

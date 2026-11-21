@@ -30,7 +30,8 @@ Each column is the full bonus at that level (not added to the previous one).
 | Bonus | Ranger I | Ranger II | Ranger III |
 |---|---|---|---|
 | [[Stats#Ranged Attack\|Ranged Attack]] | +4 | +6 | +10 |
-| [[Stats#Damage Min\|Damage]] | +5% | +10% | +15% |
+| Ranged Damage Min | +5% | +10% | +15% |
+| Ranged Damage Max | +5% | +10% | +15% |
 | Ranged Range | — | +1 | +1 |
 | [[Stats#Crit Chance\|Crit Chance]] | — | — | +2% |
 
@@ -47,7 +48,7 @@ A unit may choose a specialization every 4 levels. *Weapon Mastery category:* Co
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Hunters' Lodge]]
+- **Sponsored by guilds:** [[Hunters' Lodge]], [[Wildwardens]]
 
 > [!note]- Developer notes
 > *separator:* ── WEAPON MASTERY (8) ── conditional on weapon equipped, reduced points

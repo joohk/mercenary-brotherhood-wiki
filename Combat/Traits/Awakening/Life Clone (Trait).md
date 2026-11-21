@@ -21,7 +21,7 @@ up: "[[Traits]]"
 
 A tier-9 awakening trait (ability) for the caster archetype that grants the active ability [[Life Clone (Ability)|Life Clone]]. At each awakening tier the player picks one trait from that tier's offer.
 
-> Active: split into a second self you command — both halves at 50% HP and 50% damage. When one falls, the survivor is restored to full power; you endure as long as either body lives. Once per battle.
+> Active: split into a second self you command — your current HP is divided evenly between the bodies and both deal 50% damage. When one falls, the survivor regains full damage, but not the lost HP; you endure as long as either body lives. Once per battle.
 
 ## Effects
 

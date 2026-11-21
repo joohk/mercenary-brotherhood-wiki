@@ -24,7 +24,7 @@ up: "[[Nature Magic]]"
 
 A 2-AP magic ability targeting an ally up to 4 hexes away.
 
-> Burst a flower of healing light. Heals all allies in radius 2 for 14 HP each (scales with willpower and magic power).
+> Burst a flower of healing light. Heals all allies in radius 2 for 14 HP each (scales with willpower and magic power). An ally carrying your healing over time also receives all of its remaining healing at once, plus 25%.
 
 ## Stats
 
@@ -38,9 +38,13 @@ A 2-AP magic ability targeting an ally up to 4 hexes away.
 | Target | Ally |
 | Area radius | 2 hexes |
 | Line of sight | Not required |
-| Damage | Heals 14 HP to allies in radius 2 |
+| Damage | Heals 14 HP to allies in radius 2; harvests your healing over time (+25%) |
 
-*Tags:* magic, nature, heal, aoe
+*Tags:* magic, nature, heal, aoe, hot
+
+## Requirements
+
+- Requires Injured
 
 ## Referenced by
 

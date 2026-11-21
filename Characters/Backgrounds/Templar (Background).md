@@ -46,7 +46,7 @@ Bonuses added on top of the recruit's race base stats.
 
 - **Starts with:** [[Holy Magic]], [[Swordsmanship]], [[Shield Wall (Skill)|Shield Wall]]
 - **Familiar:** [[Holy Magic]], [[Swordsmanship]], [[Shield Wall (Skill)|Shield Wall]], [[Berserker (Skill)|Berserker]]
-- **Foreign:** [[Archery]], [[Dagger Mastery]], [[Pincer]]
+- **Foreign:** [[Archery]], [[Dagger Mastery]], [[Teamwork]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.
 

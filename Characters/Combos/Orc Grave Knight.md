@@ -36,7 +36,7 @@ A legendary race–background combo: Orc recruits with the Grave Knight backgrou
 
 **[[Grave Pact]]** · legendary trait
 
-> +22% damage and +8 armor. Only available to Orc Grave Knights.
+> +22% melee damage and +8 armor. Only available to Orc Grave Knights.
 
 - +22% [[Stats#Damage Min|Damage]]
 - +8 [[Stats#Armor|Armor]]

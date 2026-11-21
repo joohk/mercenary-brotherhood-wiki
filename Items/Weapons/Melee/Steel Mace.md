@@ -11,7 +11,7 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_melee.json
-damage_max: 19
+damage_max: 21
 damage_min: 12
 damage_type: blunt
 family: mace
@@ -26,7 +26,7 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-2 one-handed blunt mace dealing 12-19 damage, worth 240 gold.
+A tier-2 one-handed blunt mace dealing 12-21 damage, worth 240 gold.
 
 ![[_assets/Icons/tier_1/mace_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-2 one-handed blunt mace dealing 12-19 damage, worth 240 gold.
 | Tier | 2 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 12-19 |
+| [[Stats#Damage Min\|Damage]] | 12-21 |
 | [[Stats#Armor Pen\|Armor Pen]] | +4 |
 | [[Stats#Initiative\|Initiative]] | -4 |
 | Price | 240 |

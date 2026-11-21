@@ -21,7 +21,7 @@ up: "[[Swordsmanship]]"
 
 A rare ability skill trait of [[Swordsmanship]] with 3 ranks, granting [[Counter Stance (Ability)|Counter Stance]].
 
-> Grants Counter Stance: a sustained stance where every enemy melee miss gives a charge of +5 Melee Attack and +10% melee damage (max 3), all spent on your next attack. Requires a sword.
+> Grants Counter Stance: a sustained stance where every enemy melee miss gives a charge of +5 Melee Attack and +10% melee damage (max 3). Your next attack spends them all, and only a normal melee attack or a sword ability gains from them. Requires a sword.
 
 ## Effects
 

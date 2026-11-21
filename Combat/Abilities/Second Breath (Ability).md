@@ -39,6 +39,10 @@ A 1-AP ability used on yourself, usable once per battle.
 
 *Tags:* heal, self, accessory
 
+## Requirements
+
+- Requires Injured
+
 ## Referenced by
 
 - **Granted or improved by items:** [[Ring of Second Breath]]

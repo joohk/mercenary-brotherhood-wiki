@@ -45,7 +45,7 @@ A quest (destroy base) for company level 7+, given by a settlement.
 
 | Objective | Type | Count | Target |
 |---|---|---|---|
-| Destroy the wyvern's roost | Destroy Base | 1 | [[Beasts]] |
+| Destroy the wyvern's roost | Destroy Base | 1 | [[Wyvern Roost (Enemy Base)\|Wyvern Roost]] |
 
 ## Rewards
 

@@ -54,12 +54,25 @@ A tier-2 enemy of [[The Restless Dead]] faction — 73 HP, 6 armor, worth 18 XP 
 | Gold | 10 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Restless Dead Combat Sheet\|all The Restless Dead units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 22 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Rotting Garments]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Rotting Garments]] +1 | +1% |
+| [[Stats#Poison Resist\|Poison]] | +30% | — | +30% |
+| [[Stats#Shadow Resist\|Shadow]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -67,7 +80,8 @@ A tier-2 enemy of [[The Restless Dead]] faction — 73 HP, 6 armor, worth 18 XP 
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Feral Speed]] — +8 initiative from animal instincts.
 
 **Possible bonus passives:** [[Drain Life]], [[Enrage]]

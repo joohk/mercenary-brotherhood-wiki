@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A common company trait: it applies to every member of the company.
 
-> This company knows how to live off the land and stretch supplies further. Reduces upkeep costs on the overland map.
+> This company knows how to live off the land and stretch supplies further. Unit salaries cost 20% less (stacks with Lean Operations).
 
 ## Effects
 

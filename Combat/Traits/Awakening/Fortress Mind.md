@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A tier-4 awakening trait (stat boost). At each awakening tier the player picks one trait from that tier's offer.
 
-> +30 willpower, +10 melee defense. A psychological and physical wall.
+> +30 willpower, +10 melee defense. Psionic Blast has -15% to hit you. A psychological and physical wall.
 
 ## Effects
 

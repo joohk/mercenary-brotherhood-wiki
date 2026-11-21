@@ -23,7 +23,7 @@ up: "[[Stone Magic]]"
 
 A 1-AP magic ability centred on yourself (radius 2).
 
-> Slam the ground, sending shockwaves through nearby earth. Deals damage to all enemies within 2 hexes and has a 60% chance to stun each target.
+> Slam the ground. Every enemy within 2 takes 8-14 blunt damage and 1 Fracture, and has a 30% chance to be stunned.
 
 ## Stats
 
@@ -36,9 +36,13 @@ A 1-AP magic ability centred on yourself (radius 2).
 | Range | Self |
 | Target | Self |
 | Area radius | 2 hexes |
+| Structure damage | 12 |
+| Damage type | Blunt |
+| Fracture stacks applied | 1 |
 | Line of sight | Not required |
+| Damage | 8-14 blunt damage to enemies within 2, 1 Fracture each, 30% stun |
 
-*Tags:* magic, stone, earth
+*Tags:* magic, stone, earth, quake
 
 ## Referenced by
 
@@ -48,6 +52,6 @@ A 1-AP magic ability centred on yourself (radius 2).
 - **Used by enemies:** [[Duergar Stonekeeper]]
 
 > [!note]- Developer notes
-> Stone Magic -- caster-centered AOE with stun chance
+> Stone Magic Quake -- caster-centered blunt AoE that cracks and may stun
 
 *Generated from `abilities/combat_abilities.json`. Edits will be overwritten — put your own notes in Notes/.*

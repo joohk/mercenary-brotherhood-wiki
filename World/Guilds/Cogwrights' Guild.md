@@ -42,6 +42,16 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Uncommon | [[Tinkerer]], [[Miner]], [[Alchemist]], [[Saboteur]], [[Smith]] |
 | Rare | [[Siege Breaker]] |
 
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Crossbow | ×4 |
+| Firearm | ×4 |
+| Hammer | ×2 |
+
 ## Gear by hire tier
 
 | Hire tier | Gear |

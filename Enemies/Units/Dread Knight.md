@@ -44,7 +44,7 @@ A tier-3 enemy of [[The Dread Host]] faction — 137 HP, 16 armor, worth 42 XP a
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 28-44 (base 5-7 + [[Fine Greatsword]] 23-37) |
+| Damage with weapon | 31-46 (base 5-7 + [[Fine Greatsword]] 26-39) |
 
 ## Combat
 
@@ -56,13 +56,27 @@ A tier-3 enemy of [[The Dread Host]] faction — 137 HP, 16 armor, worth 42 XP a
 | Gold | 36 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Dread Host Combat Sheet\|all The Dread Host units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 52 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+| [[Stats#Poison Resist\|Poison]] | +25% | — | +25% |
+| [[Stats#Shadow Resist\|Shadow]] | +25% | — | +25% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -71,7 +85,8 @@ A tier-3 enemy of [[The Dread Host]] faction — 137 HP, 16 armor, worth 42 XP a
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.
 - [[Heavy Blows (Enemy Passive)|Heavy Blows]] — +2 damage always. +4 bonus damage vs targets above 50% HP. Punishes healthy targets.
 

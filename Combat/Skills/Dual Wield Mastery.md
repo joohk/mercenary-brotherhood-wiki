@@ -30,22 +30,24 @@ A combat skill from the Melee group, with 10 levels and 7 skill traits.
 
 **Discovery:** Can be discovered on a *offhand hit* event; discovery weight 0.6.
 
+Weapon and armor skills level up as you use the matching gear; the data gives no per-level use thresholds for them.
+
 ## Progression
 
-Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column). *Uses to next level* is how many qualifying actions it takes to reach the following level.
+Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column).
 
-| Level | Gains this level | Total so far | Uses to next level |
-|---|---|---|---|
-| L1 | +5 [[Stats#Offhand Accuracy\|Offhand Accuracy]] | +5 Offhand Accuracy | 20 |
-| L2 | +4 [[Stats#Offhand Accuracy\|Offhand Accuracy]] | +9 Offhand Accuracy | 40 |
-| L3 | +4 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]] | +13 Offhand Accuracy, +2 Melee Attack | 65 |
-| L4 | +3 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]] | +16 Offhand Accuracy, +4 Melee Attack | 95 |
-| L5 | +3 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +1 [[Stats#Damage Min\|Damage Min]] | +19 Offhand Accuracy, +4 Melee Attack, +1 Damage Min | 130 |
-| L6 | +2 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +1 [[Stats#Damage Min\|Damage]] | +21 Offhand Accuracy, +4 Melee Attack, +2 Damage Min, +1 Damage Max | 175 |
-| L7 | +2 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +1 to +2 [[Stats#Damage Min\|Damage]] | +23 Offhand Accuracy, +4 Melee Attack, +3 Damage | 230 |
-| L8 | +2 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +1 to +2 [[Stats#Damage Min\|Damage]] | +25 Offhand Accuracy, +4 Melee Attack, +4 to +5 Damage | 335 |
-| L9 | +1 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +1 [[Stats#Melee Attack\|Melee Attack]], +1 to +2 [[Stats#Damage Min\|Damage]] | +26 Offhand Accuracy, +5 Melee Attack, +5 to +7 Damage | 440 |
-| L10 | +1 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 to +3 [[Stats#Damage Min\|Damage]] | +27 Offhand Accuracy, +5 Melee Attack, +7 to +10 Damage | max |
+| Level | Gains this level | Total so far |
+|---|---|---|
+| L1 | +3 [[Stats#Offhand Accuracy\|Offhand Accuracy]] | +3 Offhand Accuracy |
+| L2 | +5 [[Stats#Offhand Accuracy\|Offhand Accuracy]] | +8 Offhand Accuracy |
+| L3 | +7 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +1 [[Stats#Melee Attack\|Melee Attack]] | +15 Offhand Accuracy, +1 Melee Attack |
+| L4 | +8 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]] | +23 Offhand Accuracy, +3 Melee Attack |
+| L5 | +10 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]], +1 [[Stats#Damage Min\|Damage Min]] | +33 Offhand Accuracy, +5 Melee Attack, +1 Damage Min |
+| L6 | +11 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]], +1 [[Stats#Damage Min\|Damage]] | +44 Offhand Accuracy, +7 Melee Attack, +2 Damage Min, +1 Damage Max |
+| L7 | +12 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Damage Min\|Damage]] | +56 Offhand Accuracy, +9 Melee Attack, +4 Damage Min, +3 Damage Max |
+| L8 | +13 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +2 [[Stats#Melee Attack\|Melee Attack]], +2 to +3 [[Stats#Damage Min\|Damage]] | +69 Offhand Accuracy, +11 Melee Attack, +6 Damage |
+| L9 | +13 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +3 [[Stats#Melee Attack\|Melee Attack]], +3 to +4 [[Stats#Damage Min\|Damage]] | +82 Offhand Accuracy, +14 Melee Attack, +9 to +10 Damage |
+| L10 | +14 [[Stats#Offhand Accuracy\|Offhand Accuracy]], +3 [[Stats#Melee Attack\|Melee Attack]], +4 to +5 [[Stats#Damage Min\|Damage]] | +96 Offhand Accuracy, +17 Melee Attack, +13 to +15 Damage |
 
 ## Skill traits
 

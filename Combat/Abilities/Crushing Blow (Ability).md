@@ -17,14 +17,13 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 3
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an adjacent enemy, usable 3 times per battle.
+A 1-AP melee ability targeting an adjacent enemy.
 
-> A heavy two-handed swing of your bludgeon. Deals normal damage and knocks the target back one hex on hit.
+> A heavy swing of your bludgeon. Deals 110% damage and knocks the target back one hex on hit.
 
 ## Stats
 
@@ -33,9 +32,10 @@ A 1-AP melee ability targeting an adjacent enemy, usable 3 times per battle.
 | Action Points | 1 |
 | Fatigue | 14 |
 | Cooldown | 2 turns |
-| Uses per battle | 3 |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, club, mace, knockback

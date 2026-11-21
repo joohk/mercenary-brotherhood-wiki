@@ -14,6 +14,9 @@ source: items/armor.json
 family: shield
 price: 330
 rarity: normal
+resist_blunt: 2
+resist_piercing: 15
+resist_slashing: 3
 slot: offhand
 spawn_weight: 30
 tier: 3
@@ -35,6 +38,9 @@ A tier-3 shield, worth 330 gold.
 | [[Stats#Ranged Defense\|Ranged Defense]] | +8 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -7 |
 | [[Stats#Initiative\|Initiative]] | -4 |
+| [[Stats#Slash Resist\|Slash Resist]] | +3% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +15% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +2% |
 | Price | 330 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 30 |

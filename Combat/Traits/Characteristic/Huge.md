@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A rare physical characteristic in the *size* group. Every unit rolls exactly one characteristic at creation.
 
-> +18 max HP, +15% damage, -6 initiative. Towering and massive, a terror on the battlefield
+> +18 max HP, +15% melee damage, -6 initiative. Towering and massive, a terror on the battlefield
 
 ## Characteristic group
 

@@ -21,7 +21,7 @@ up: "[[Dark Magic]]"
 
 An uncommon ability skill trait of [[Dark Magic]] with 2 ranks, granting [[Curse (Ability)|Curse]].
 
-> Hex an enemy with dark power. Target suffers -10 Melee ATK and -10 Ranged ATK for 3 turns.
+> Hex an enemy with dark power. Target suffers -8 Melee ATK and -8 Ranged ATK for 3 turns.
 
 ## Effects
 

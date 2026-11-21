@@ -23,7 +23,7 @@ up: "[[Abilities]]"
 
 A 1-AP melee ability targeting an adjacent enemy.
 
-> A precise execution strike at 150% weapon damage. If the blow kills the target, refunds 1 AP. Usable only when target is below 35% HP. 4-turn cooldown.
+> An execution strike at 150% weapon damage, usable on a target below 35% HP, or below 50% from behind. Refunds 1 AP if the blow kills. 4-turn cooldown.
 
 ## Stats
 
@@ -35,13 +35,14 @@ A 1-AP melee ability targeting an adjacent enemy.
 | Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, execute
 
 ## Requirements
 
-- Target must be below 35% HP
+- Target must be below 35% HP (below 50% when striking from behind)
 
 ## Referenced by
 

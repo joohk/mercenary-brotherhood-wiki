@@ -16,12 +16,11 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP ranged ability targeting one enemy, usable twice per battle.
+A 1-AP ranged ability targeting one enemy.
 
 > Aim for the joints. Reduces target movement by 2 and melee defense by 5 for 3 turns. Requires a crossbow.
 
@@ -32,7 +31,7 @@ A 1-AP ranged ability targeting one enemy, usable twice per battle.
 | Action Points | 1 |
 | Fatigue | 15 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | — |
 | Target | Enemy |
 | Line of sight | Required |
@@ -50,9 +49,9 @@ A 1-AP ranged ability targeting one enemy, usable twice per battle.
 
 ## Referenced by
 
-- **Available through skill:** [[Crossbow Mastery]], [[Marksman (Skill)|Marksman]]
+- **Available through skill:** [[Crossbow Mastery]]
 - **Empowered by magic properties:** [[Crippling Shot Mastery]]
-- **Granted by skill traits:** [[Crippling Shot (Skill Trait, Crossbow Mastery)|Crippling Shot]], [[Crippling Shot (Skill Trait, Marksman)|Crippling Shot]]
+- **Granted by skill traits:** [[Crippling Shot (Skill Trait)|Crippling Shot]]
 - **Variant ability pool:** [[Skirmisher (Variant)|Skirmisher]]
 
 *Generated from `abilities/combat_abilities.json`. Edits will be overwritten — put your own notes in Notes/.*

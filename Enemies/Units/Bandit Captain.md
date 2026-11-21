@@ -46,7 +46,7 @@ A tier-2 Human enemy of the [[Bandits]] faction — 125 HP, 11 armor, worth 45 X
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 4-7 |
-| Damage with weapon | 15-25 (base 4-7 + [[Steel Sword]] 11-18) |
+| Damage with weapon | 16-28 (base 4-7 + [[Steel Sword]] 12-21) |
 
 ## Combat
 
@@ -59,13 +59,25 @@ A tier-2 Human enemy of the [[Bandits]] faction — 125 HP, 11 armor, worth 45 X
 | Race | [[Human]] |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Bandits Combat Sheet\|all Bandits units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 60 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6, [[Steel Helmet]] +2, [[Iron Shield]] +2 | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5, [[Steel Helmet]] +2, [[Iron Shield]] +12 | +19% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7, [[Steel Helmet]] +5, [[Iron Shield]] +2 | +14% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

@@ -41,7 +41,7 @@ Bonuses added on top of the recruit's race base stats.
 ## Skills
 
 - **Starts with:** [[Mace Fighting]], [[Battle Hardened (Skill)|Battle Hardened]]
-- **Familiar:** [[Mace Fighting]], [[Battle Hardened (Skill)|Battle Hardened]], [[Swordsmanship]], [[Pincer]]
+- **Familiar:** [[Mace Fighting]], [[Battle Hardened (Skill)|Battle Hardened]], [[Swordsmanship]], [[Teamwork]]
 - **Foreign:** [[Tinkering]], [[Performance]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.

@@ -45,7 +45,7 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 71 HP, 7 armor, worth
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 21 |
 | [[Stats#Damage Min\|Damage]] | 8-10 |
-| Damage with weapon | 18-27 (base 8-10 + [[Fine Dagger]] 10-17) |
+| Damage with weapon | 22-35 (base 8-10 + [[Fine Dagger]] 14-25) |
 | Ranged Damage | 7-12 |
 | Ranged Range | 4 |
 
@@ -60,7 +60,9 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 71 HP, 7 armor, worth
 | Race | [[Ratkin]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -68,10 +70,20 @@ A tier-3 Ratkin enemy of the [[Ratkin Empire]] faction — 71 HP, 7 armor, worth
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 45 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Shadow Garb]] +3 | +3% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Shadow Garb]] +3 | +3% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Shadow Garb]] +3 | +3% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Shadow Step (Ability)|Shadow Step]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 

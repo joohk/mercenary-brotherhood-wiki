@@ -57,13 +57,25 @@ A tier-4 huge enemy of [[The Jotunblight]] faction — 281 HP, 12 armor, worth 5
 | Size | Huge |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Jotunblight Combat Sheet\|all The Jotunblight units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 30 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 65 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +15% | — | +15% |
+| [[Stats#Pierce Resist\|Pierce]] | +15% | — | +15% |
+| [[Stats#Blunt Resist\|Blunt]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

@@ -48,14 +48,10 @@ A tier-3 one-handed piercing throwing weapon dealing 9-16 damage at range 4, wor
 
 ## Same line
 
-Items of this line, by tier: [[Alchemist Flask]] (T1) → [[Throwing Knives]] (T1) → [[Throwing Daggers]] (T2) → [[Holy Censer]] (T3) → **Javelins** (T3) → [[War Javelins]] (T4) → [[Pilum]] (T5) → [[Lordly Javelins]] (T6)
+Items of this line, by tier: [[Alchemist Flask]] (T1) → [[Throwing Knives]] (T1) → [[Light Javelins]] (T2) → [[Throwing Daggers]] (T2) → [[Holy Censer]] (T3) → **Javelins** (T3) → [[War Javelins]] (T4) → [[Pilum]] (T5) → [[Lordly Javelins]] (T6)
 
 ## Related
 
 - **Tags:** Thrown, Ranged, One-handed
-
-## Referenced by
-
-- **Starting gear of:** [[Beast Tamer]], [[Mariner]], [[Raider]]
 
 *Generated from `items/weapons_ranged.json`. Edits will be overwritten — put your own notes in Notes/.*

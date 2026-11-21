@@ -12,7 +12,7 @@ Schools of magic, every spell, spellcasting backgrounds, caster gear and faith.
 ## Start here
 
 - [[Schools of Magic]]: the 11 magic skill trees and the spells each grants
-- [[All Spells]]: every spell (83), by school, with a sortable view
+- [[All Spells]]: every spell (88), by school, with a sortable view
 - [[Spellcasters]]: backgrounds that start able to cast
 - [[Caster Gear]]: staves, wands, robes and empowerment properties
 

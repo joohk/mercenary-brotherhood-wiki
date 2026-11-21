@@ -45,7 +45,7 @@ A unit may choose a specialization every 4 levels. *Precision category:* Crit/ac
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Hunters' Lodge]]
+- **Sponsored by guilds:** [[Hunters' Lodge]], [[Shadow Guild]]
 
 > [!note]- Developer notes
 > *separator:* ── PRECISION (6) ── crit/accuracy-focused specializations

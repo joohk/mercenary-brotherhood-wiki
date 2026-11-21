@@ -44,7 +44,7 @@ A tier-0 enemy of the [[Desperate Rabble]] faction — 25 HP, 0 armor, worth 6 X
 | [[Stats#Vision\|Vision]] | 3 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 10 |
 | [[Stats#Damage Min\|Damage]] | 3-5 |
-| Damage with weapon | 6-11 (base 3-5 + [[Crude Club]] 3-6) |
+| Damage with weapon | 6-12 (base 3-5 + [[Crude Club]] 3-7) |
 
 ## Combat
 
@@ -56,13 +56,24 @@ A tier-0 enemy of the [[Desperate Rabble]] faction — 25 HP, 0 armor, worth 6 X
 | Gold | 4 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Desperate Rabble Combat Sheet\|all Desperate Rabble units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 100 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 8 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Tattered Rags]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Tattered Rags]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

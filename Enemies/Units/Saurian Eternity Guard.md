@@ -45,7 +45,7 @@ A tier-3 Lizardfolk enemy of the [[Saurian Legions]] faction — 144 HP, 17 armo
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 21 |
 | [[Stats#Damage Min\|Damage]] | 6-9 |
-| Damage with weapon | 29-46 (base 6-9 + [[Fine Greatsword]] 23-37) |
+| Damage with weapon | 32-48 (base 6-9 + [[Fine Greatsword]] 26-39) |
 
 ## Combat
 
@@ -58,7 +58,9 @@ A tier-3 Lizardfolk enemy of the [[Saurian Legions]] faction — 144 HP, 17 armo
 | Race | [[Lizardfolk]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Saurian Legions Combat Sheet\|all Saurian Legions units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -66,10 +68,20 @@ A tier-3 Lizardfolk enemy of the [[Saurian Legions]] faction — 144 HP, 17 armo
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 54 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Shield Bash (Ability)|Shield Bash]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 
@@ -97,5 +109,6 @@ A tier-3 Lizardfolk enemy of the [[Saurian Legions]] faction — 144 HP, 17 armo
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]]
+- **Escorts:** [[The Iron Tyrant]]
 
 *Generated from `enemies/aurelian_legions.json`. Edits will be overwritten — put your own notes in Notes/.*

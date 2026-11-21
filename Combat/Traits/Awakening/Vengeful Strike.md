@@ -20,6 +20,6 @@ up: "[[Traits]]"
 
 A tier-4 awakening trait (passive) for the melee archetype. At each awakening tier the player picks one trait from that tier's offer.
 
-> When an adjacent ally is killed, immediately make a free melee attack against the killer.
+> When an adjacent ally is killed, immediately make a free melee attack against the killer, if it is also beside you.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

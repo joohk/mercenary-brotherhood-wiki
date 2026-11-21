@@ -21,7 +21,7 @@ up: "[[Mace Fighting]]"
 
 A rare ability skill trait of [[Mace Fighting]] with 3 ranks, granting [[Concussion (Ability)|Concussion]].
 
-> A targeted blow to the head that scrambles the enemy. Reduces melee attack by 10 and initiative by 10 for 3 turns. Requires a mace.
+> A targeted blow to the head that scrambles the enemy. Deals 130% damage and reduces melee attack by 10 and initiative by 10 for 3 turns. Requires a mace.
 
 ## Effects
 

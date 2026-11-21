@@ -20,6 +20,6 @@ up: "[[Last Stand (Skill)]]"
 
 A rare passive skill trait of [[Last Stand (Skill)|Last Stand]] with 1 rank.
 
-> Once per battle, survive a lethal hit at 1 HP.
+> Once per battle, survive a lethal weapon attack at 1 HP.
 
 *Generated from `skills/defense_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -45,7 +45,7 @@ A tier-1 Orc enemy of the [[Bandits]] faction — 98 HP, 6 armor, worth 14 XP an
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | 4-7 |
-| Damage with weapon | 12-21 (base 4-7 + [[Iron Sword]] 8-14) |
+| Damage with weapon | 14-24 (base 4-7 + [[Iron Sword]] 10-17) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-1 Orc enemy of the [[Bandits]] faction — 98 HP, 6 armor, worth 14 XP an
 | Race | [[Orc]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Bandits Combat Sheet\|all Bandits units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 40 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 20 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Leather Armor]] +5 | +5% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

@@ -9,11 +9,11 @@ tags:
   - faction/umbral_court
   - type/villain
 source: villains/arch_villains.json
-armor: 6
+armor: 16
 faction: The Umbral Court
 gold: 160
-hp: 200
-level_min: 7
+hp: 400
+level_min: 10
 personality: imperious
 size: normal
 stance: ranged
@@ -26,7 +26,7 @@ xp: 230
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of [[The Umbral Court]] — *Seraphel of the Veil*. Awakens from company level 7; 200 HP, 6 armor, worth 230 XP and 160 gold.
+An arch-villain of [[The Umbral Court]] — *Seraphel of the Veil*. Awakens from company level 10; 400 HP, 16 armor, worth 230 XP and 160 gold.
 
 ![[_assets/Units/WitchQueen.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of [[The Umbral Court]] — *Seraphel of the Veil*. Awakens from
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 200 |
+| [[Stats#Max HP\|Max HP]] | 400 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 130 |
-| [[Stats#Initiative\|Initiative]] | 72 |
-| [[Stats#Melee Attack\|Melee Attack]] | 45 |
-| [[Stats#Melee Defense\|Melee Defense]] | 48 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 85 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 60 |
-| [[Stats#Armor\|Armor]] | 6 |
+| [[Stats#Initiative\|Initiative]] | 82 |
+| [[Stats#Melee Attack\|Melee Attack]] | 55 |
+| [[Stats#Melee Defense\|Melee Defense]] | 58 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 95 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 70 |
+| [[Stats#Armor\|Armor]] | 16 |
 | [[Stats#Willpower\|Willpower]] | 92 |
 | [[Stats#Vision\|Vision]] | 9 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
-| [[Stats#Damage Min\|Damage]] | 14-24 |
+| [[Stats#Damage Min\|Damage]] | 24-34 |
 | Ranged Range | 6 |
 
 ## Combat
@@ -63,7 +63,24 @@ An arch-villain of [[The Umbral Court]] — *Seraphel of the Veil*. Awakens from
 | Stance | Ranged — keeps its distance and attacks from range |
 | Personality | Imperious |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 7 |
+| Appears from company level | 10 |
+| Combat sheet | [[The Umbral Court Combat Sheet\|The Umbral Court units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +10% | — | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | +25% | — | +25% |
+| [[Stats#Blunt Resist\|Blunt]] | -10% | — | **-10%** (weak) |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Veiled Court**
+
+A keep wrapped in mist and glamour, where the Witch Queen weaves her spells behind loyal blades and archers.
 
 ## Phases
 
@@ -94,6 +111,7 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
+- 1× [[Umbral Shadowcaster]]
 - 2× [[Umbral Swordsman]]
 - 2× [[Umbral Archer]]
 
@@ -107,8 +125,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 35 |
-| Ambush chance | 12% |
 | Settlement corruption chance | 10% |
 
 Units (hexes, per day) are not stated in the data.

@@ -21,7 +21,7 @@ up: "[[Arcane Mastery]]"
 
 A rare passive skill trait of [[Arcane Mastery]] with 1 rank.
 
-> Lightning is your art. +6 magic power. Lightning Bolt chains to +1 additional target.
+> Lightning is your art. +6 magic power. Lightning Bolt chains to +1 additional target (does not stack with the Lightning Bolt upgrade).
 
 ## Effects
 

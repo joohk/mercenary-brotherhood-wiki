@@ -11,10 +11,13 @@ tags:
   - tier/4
   - type/item
 source: items/armor.json
-armor: 15
+armor: 11
 family: heavy armor
 price: 2280
 rarity: normal
+resist_blunt: 4
+resist_piercing: 15
+resist_slashing: 25
 slot: body_armor
 spawn_weight: 10
 tier: 4
@@ -23,7 +26,7 @@ up: "[[Heavy Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Heavy Armor]]
 
-A tier-4 heavy armor giving 15 Armor, worth 2280 gold.
+A tier-4 heavy armor giving 11 Armor, worth 2280 gold.
 
 ![[_assets/Icons/Breastplate.png|96]]
 
@@ -33,10 +36,13 @@ A tier-4 heavy armor giving 15 Armor, worth 2280 gold.
 |---|---|
 | Tier | 4 |
 | Class | Heavy armor |
-| [[Stats#Armor\|Armor]] | +15 |
+| [[Stats#Armor\|Armor]] | +11 |
 | [[Stats#Melee Defense\|Melee Defense]] | +7 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -25 |
 | [[Stats#Initiative\|Initiative]] | -16 |
+| [[Stats#Slash Resist\|Slash Resist]] | +25% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +15% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +4% |
 | Price | 2280 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 10 |

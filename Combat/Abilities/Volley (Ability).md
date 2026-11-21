@@ -44,9 +44,9 @@ A 1-AP ranged ability targeting an area up to 6 hexes away.
 
 ## Referenced by
 
-- **Available through skill:** [[Archery]], [[Suppressor]]
+- **Available through skill:** [[Suppressor]]
 - **Empowered by magic properties:** [[Volley Mastery]]
-- **Granted by skill traits:** [[Volley (Skill Trait, Archery)|Volley]], [[Volley (Skill Trait, Suppressor)|Volley]]
+- **Granted by skill traits:** [[Volley (Skill Trait)|Volley]]
 - **Used by enemies:** [[Kesharan Horse Archer]], [[Mountain Cub]], [[Ratkin Tanegashima Gunner]], [[Ratkin Yabusame]], [[Salamander Handler]], [[Stegadon]], [[Umbral Archer]]
 - **Variant ability pool:** [[Skirmisher (Variant)|Skirmisher]]
 

@@ -58,7 +58,9 @@ A tier-1 small enemy of the [[Beasts]] faction — 22 HP, 0 armor, worth 5 XP an
 | Size | Small |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Swarm\|Swarm]] |
+| Combat sheet | [[Beasts Combat Sheet\|all Beasts units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -67,6 +69,14 @@ A tier-1 small enemy of the [[Beasts]] faction — 22 HP, 0 armor, worth 5 XP an
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 8 |
 >
 > Spawn weight 0: this unit only appears when an encounter table names it.
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +10% | — | +10% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

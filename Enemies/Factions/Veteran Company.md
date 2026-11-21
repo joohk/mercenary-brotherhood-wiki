@@ -21,6 +21,9 @@ up: "[[Outlaws & Sellswords]]"
 
 An enemy faction that appears from company level 7 and fights as [[How Enemies Behave#Professional|Professional]] (skilled and pragmatic): 5 unit types, tiers 3-4.
 
+> [!tip] [[Veteran Company Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/OrcVeteranSergeant.webp|160]]
 
 > Disciplined, well-armored, high damage; mid-to-late game threat. A multiracial professional unit: human veterans form the core shield line, elves serve as precision archers, orcs command as sergeants, halflings as scouts/skirmishers, and goblins as engineer-sappers. Each unit is a single race so the faction reads as a proper mixed-race military.
@@ -39,11 +42,11 @@ Encounter tables have their own level gates and can field this faction outside i
 
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ![[_assets/Units/ElfVeteranArcher.webp\|40]] | [[Elf Veteran Archer]] | 3 | 90 | 8 | 71 | 66 | 103 | 27-44 (ranged) | Ranged | 5 | 28 |
+| ![[_assets/Units/ElfVeteranArcher.webp\|40]] | [[Elf Veteran Archer]] | 3 | 90 | 8 | 71 | 66 | 103 | 29-47 (ranged) | Ranged | 5 | 28 |
 | ![[_assets/Units/GoblinSapperVeteran.webp\|40]] | [[Goblin Sapper-Veteran]] | 3 | 83 | 9 | 67 | 63 | 83 | 25-41 (ranged) | Ranged | 5 | 26 |
-| ![[_assets/Units/HalflingScoutVeteran.webp\|40]] | [[Halfling Scout-Veteran]] | 3 | 78 | 8 | 86 | 86 | 63 | 27-41 | Aggressive | 5 | 26 |
-| ![[_assets/Units/VeteranSoldier.webp\|40]] | [[Human Veteran Soldier]] | 3 | 115 | 14 | 89 | 75 | 0 | 30-49 | Aggressive | 6 | 30 |
-| ![[_assets/Units/OrcVeteranSergeant.webp\|40]] | [[Orc Veteran Sergeant]] | 4 | 166 | 19 | 108 | 89 | 0 | 45-73 | Aggressive | 10 | 55 |
+| ![[_assets/Units/HalflingScoutVeteran.webp\|40]] | [[Halfling Scout-Veteran]] | 3 | 78 | 8 | 86 | 86 | 63 | 29-44 | Aggressive | 5 | 26 |
+| ![[_assets/Units/VeteranSoldier.webp\|40]] | [[Human Veteran Soldier]] | 3 | 115 | 14 | 89 | 75 | 0 | 33-52 | Aggressive | 6 | 30 |
+| ![[_assets/Units/OrcVeteranSergeant.webp\|40]] | [[Orc Veteran Sergeant]] | 4 | 166 | 19 | 108 | 89 | 0 | 49-79 | Aggressive | 10 | 55 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*
 

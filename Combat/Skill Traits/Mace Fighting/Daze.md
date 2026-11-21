@@ -20,7 +20,7 @@ up: "[[Mace Fighting]]"
 
 An uncommon passive skill trait of [[Mace Fighting]] with 2 ranks.
 
-> Mace blows scramble the mind. Every hit reduces the target's Initiative by 5 until end of turn.
+> Mace blows scramble the mind. Every hit reduces the target's Initiative by 10 until end of turn.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Initiative penalty increases to 10 and lasts 2 turns.
+Initiative penalty increases to 15 and lasts 2 turns.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

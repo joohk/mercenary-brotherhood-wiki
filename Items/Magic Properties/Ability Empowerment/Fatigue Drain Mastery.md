@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Fatigue Drain (Ability)|Fatigue Drain]]: -1 turn cooldown
+- [[Fatigue Drain]]: -1 turn cooldown
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

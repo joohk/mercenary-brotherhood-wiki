@@ -24,7 +24,7 @@ uses_per_battle: 4
 
 A 1-AP melee ability targeting an adjacent enemy, usable 4 times per battle.
 
-> Step around an adjacent enemy to the open hex beside them with the best angle (rear first, then flank) without provoking an opportunity attack - manufacturing a flank instead of waiting for one.
+> Step around an adjacent enemy to the open tile in its side arc (the rear, then the front, if no side tile is open) without provoking an opportunity attack.
 
 ## Stats
 

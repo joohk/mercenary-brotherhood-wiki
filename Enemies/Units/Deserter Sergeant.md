@@ -45,7 +45,7 @@ A tier-2 enemy of the [[Deserters]] faction — 106 HP, 10 armor, worth 25 XP an
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 14-22 (base 3-4 + [[Steel Sword]] 11-18) |
+| Damage with weapon | 15-25 (base 3-4 + [[Steel Sword]] 12-21) |
 
 ## Combat
 
@@ -57,13 +57,25 @@ A tier-2 enemy of the [[Deserters]] faction — 106 HP, 10 armor, worth 25 XP an
 | Gold | 20 |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Deserters Combat Sheet\|all Deserters units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 35 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 35 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Banded Mail]] +15, [[Steel Helmet]] +2, [[Iron Shield]] +2 | +19% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Banded Mail]] +6, [[Steel Helmet]] +2, [[Iron Shield]] +12 | +20% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Banded Mail]] +10, [[Steel Helmet]] +5, [[Iron Shield]] +2 | +17% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

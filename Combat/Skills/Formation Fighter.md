@@ -58,7 +58,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 | [[Living Wall]] | Common | Passive | 2 | — |
 | [[Shield Brother]] | Common | Passive | 2 | — |
 | [[Anchor]] | Uncommon | Passive | 2 | — |
-| [[Brace (Skill Trait, Formation Fighter)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability, ability_brace)\|Brace]] |
+| [[Brace (Skill Trait, Formation Fighter)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability)\|Brace]] |
 | [[Hold the Line (Skill Trait)\|Hold the Line]] | Uncommon | Ability | 2 | [[Hold the Line (Ability)\|Hold the Line]] |
 | [[Long Thrust (Skill Trait)\|Long Thrust]] | Uncommon | Ability | 2 | [[Long Thrust (Ability)\|Long Thrust]] |
 | [[Phalanx (Skill Trait, Formation Fighter)\|Phalanx]] | Uncommon | Passive | 2 | — |

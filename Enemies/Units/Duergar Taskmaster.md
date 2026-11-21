@@ -45,7 +45,7 @@ A tier-3 enemy of the [[Duergar]] faction — 115 HP, 12 armor, worth 35 XP and 
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 20-31 (base 5-7 + [[Fine Mace]] 15-24) |
+| Damage with weapon | 22-33 (base 5-7 + [[Fine Mace]] 17-26) |
 
 ## Combat
 
@@ -57,13 +57,25 @@ A tier-3 enemy of the [[Duergar]] faction — 115 HP, 12 armor, worth 35 XP and 
 | Gold | 30 |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 45 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

@@ -11,13 +11,14 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_melee.json
-damage_max: 17
-damage_min: 10
+damage_max: 21
+damage_min: 12
 damage_type: piercing
 family: spear
 hands: one-handed
 price: 165
 rarity: normal
+reach: 2
 slot: weapon
 spawn_weight: 60
 tier: 2
@@ -26,7 +27,7 @@ up: "[[Spears]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Spears]]
 
-A tier-2 one-handed piercing spear dealing 10-17 damage, worth 165 gold.
+A tier-2 one-handed piercing spear dealing 12-21 damage, worth 165 gold.
 
 ![[_assets/Icons/tier_1/spear.webp|96]]
 
@@ -37,7 +38,9 @@ A tier-2 one-handed piercing spear dealing 10-17 damage, worth 165 gold.
 | Tier | 2 |
 | Damage type | Piercing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 10-17 |
+| [[Stats#Damage Min\|Damage]] | 12-21 |
+| [[Stats#Armor Pen\|Armor Pen]] | +3 |
+| [[Stats#Reach\|Reach]] | 2 |
 | [[Stats#Melee Defense\|Melee Defense]] | +7 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 165 |

@@ -62,7 +62,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 ## Referenced by
 
-- **Familiar to:** [[Bard]], [[Berserker (Background)|Berserker]], [[Cleric (Background)|Cleric]], [[Dragon Slayer (Background)|Dragon Slayer]], [[Grave Knight]], [[Siege Breaker]]
+- **Familiar to:** [[Bard]], [[Berserker (Background)|Berserker]], [[Chaplain]], [[Dragon Slayer (Background)|Dragon Slayer]], [[Grave Knight]], [[Siege Breaker]]
 - **Foreign to:** [[Hunter]], [[Master Archer]], [[Saboteur]], [[Stalker (Background)|Stalker]], [[Thief (Background)|Thief]]
 - **Guild signature skill:** [[Reaver Hall]]
 

@@ -21,6 +21,9 @@ up: "[[Giants]]"
 
 An enemy faction that appears from company level 5 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 7 unit types, tiers 2-5.
 
+> [!tip] [[The Jotunblight Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/JotunWarlord.webp|160]]
 
 > An army of giants descending from the high mountains to conquer the lowlands. No slaves, no auxiliaries, no human chattel. The giants bring their own kennel: snow-bred wolves running ahead of the column, runt-giants too small for the front line hurling boulders from behind it. Few numbers, overwhelming individual power. Late game faction.

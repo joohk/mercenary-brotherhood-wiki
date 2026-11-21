@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A tier-8 awakening trait (ability) that grants the active ability [[Time Slip (Ability)|Time Slip]]. At each awakening tier the player picks one trait from that tier's offer.
 
-> Active: refill your action points and take a second turn immediately. Once per battle.
+> Active: gain a full turn's action points on top of any you have left and take a second turn immediately. Once per battle.
 
 ## Effects
 

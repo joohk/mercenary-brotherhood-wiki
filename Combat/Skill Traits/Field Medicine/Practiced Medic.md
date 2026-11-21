@@ -20,6 +20,6 @@ up: "[[Field Medicine]]"
 
 A rare passive skill trait of [[Field Medicine]] with 1 rank.
 
-> Surer hands, deeper supplies. Bind Wounds heals 22 HP instead of 16.
+> Surer hands, deeper supplies. Bind Wounds heals 11 HP instead of 8.
 
 *Generated from `skills/utility_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

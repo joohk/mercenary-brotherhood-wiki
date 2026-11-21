@@ -23,7 +23,7 @@ up: "[[Holy Magic]]"
 
 A 1-AP magic ability targeting one enemy up to 4 hexes away.
 
-> A radiant lance of sunfire scours the target. Deals holy damage scaled by willpower; +50% damage vs dark, undead, or eldritch foes.
+> A radiant lance of sunfire scours the target. Deals holy damage scaled by willpower; +50% damage vs demons and undead.
 
 ## Stats
 
@@ -36,7 +36,7 @@ A 1-AP magic ability targeting one enemy up to 4 hexes away.
 | Range | 4 hexes |
 | Target | Enemy |
 | Line of sight | Required |
-| Damage | 10-16 holy (+50% vs dark/undead/eldritch) |
+| Damage | 10-16 holy (+50% vs demons/undead) |
 
 *Tags:* magic, holy
 

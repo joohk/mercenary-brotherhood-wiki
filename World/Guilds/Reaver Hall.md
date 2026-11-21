@@ -24,7 +24,7 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Reaver]], [[Ravager (Specialization)|Ravager]], [[Titan]], [[Crusader (Specialization)|Crusader]], [[Slayer (Specialization)|Slayer]], [[Zealot (Specialization)|Zealot]]
+[[Reaver]], [[Ravager (Specialization)|Ravager]], [[Titan]], [[Slayer (Specialization)|Slayer]], [[Berserker (Specialization)|Berserker]], [[Executioner (Specialization)|Executioner]], [[Gladiator (Specialization)|Gladiator]]
 
 ## Signature skills
 
@@ -42,6 +42,16 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Uncommon | [[Berserker (Background)\|Berserker]], [[Raider]], [[Tribal Warrior]], [[Corsair]], [[Gladiator (Background)\|Gladiator]] |
 | Rare | [[Ravager (Background)\|Ravager]], [[Pit Fighter]], [[Executioner (Background)\|Executioner]] |
 | Legendary | [[Feral Champion]], [[Warchief]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Axe | ×4 |
+| Hammer | ×2.5 |
+| Heavy Armor | ×1.5 |
 
 ## Gear by hire tier
 

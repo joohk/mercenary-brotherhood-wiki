@@ -21,7 +21,7 @@ up: "[[Blood Magic]]"
 
 A rare ability skill trait of [[Blood Magic]] with 2 ranks, granting [[Blood Bond (Ability)|Blood Bond]].
 
-> Sacrifice your own vitality to mend an ally. Lose 6 HP to heal an ally for 25 HP.
+> Sacrifice your own vitality to mend an ally. Lose 6% of your max HP to heal an ally for 25 HP.
 
 ## Effects
 
@@ -35,7 +35,7 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Healing increased to 30 HP.
+Healing increased to 30 HP, and healing past the ally's max HP stays on them as a barrier.
 
 - Grants ability: [[Blood Bond (Ability)|Blood Bond]]
 

@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A common combat trait (stat boost).
 
-> +12% damage. Raw physical strength behind every blow.
+> +12% melee damage. Raw physical strength behind every blow.
 
 ## Effects
 

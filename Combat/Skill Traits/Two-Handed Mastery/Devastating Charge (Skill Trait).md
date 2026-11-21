@@ -21,7 +21,7 @@ up: "[[Two-Handed Mastery]]"
 
 A rare ability skill trait of [[Two-Handed Mastery]] with 3 ranks, granting [[Devastating Charge (Ability)|Devastating Charge]].
 
-> Barrel forward through an empty hex and crash into an enemy two hexes away, then sweep into the foes beside them. Twice per battle. Requires a two-handed weapon.
+> Barrel forward through an empty hex and crash into an enemy two hexes away, then sweep into the foes beside them. Requires a two-handed weapon.
 
 ## Effects
 

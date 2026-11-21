@@ -17,7 +17,7 @@ family: empower_two_fronts
 group: ability_empower
 name_theme: keen
 rarity_min: rare
-spawn_weight: 0.2
+spawn_weight: 0
 up: "[[Magic Properties]]"
 weight: 2
 ---
@@ -35,11 +35,11 @@ A rare-or-better magic property for weapons, helmets and accessories.
 | Allowed on | Weapons, helmets and accessories |
 | Minimum rarity | Rare |
 | [[Glossary#Numbers used on this wiki\|Weight (power)]] | 2 |
-| [[Glossary#Numbers used on this wiki\|Spawn weight]] | 0.2 |
+| [[Glossary#Numbers used on this wiki\|Spawn weight]] | 0 |
 | Naming theme | [[Magic Item Names#Keen\|Keen]] |
 
 ## Effects
 
-- [[Two Fronts (Ability)|Two Fronts]]: -1 turn cooldown
+- [[Two Fronts]]: -1 turn cooldown
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

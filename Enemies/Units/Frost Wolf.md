@@ -56,7 +56,9 @@ A tier-2 enemy of [[The Jotunblight]] faction — 77 HP, 4 armor, worth 14 XP an
 | Gold | 0 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Jotunblight Combat Sheet\|all The Jotunblight units and abilities]] |
 | Animal | Yes |
 
 > [!info]- Spawn data
@@ -64,6 +66,18 @@ A tier-2 enemy of [[The Jotunblight]] faction — 77 HP, 4 armor, worth 14 XP an
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 60 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 18 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +10% | — | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | +10% | — | +10% |
+| [[Stats#Blunt Resist\|Blunt]] | +10% | — | +10% |
+| [[Stats#Fire Resist\|Fire]] | -20% | — | **-20%** (weak) |
+| [[Stats#Cold Resist\|Cold]] | +40% | — | +40% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

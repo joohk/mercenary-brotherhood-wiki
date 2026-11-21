@@ -28,7 +28,8 @@ Each random or warband battle has a 20% chance to turn into a battle event; ever
 |---|---|
 | Enemy count | ×1.3 |
 | Allies arrive on turn | 4-5 |
-| Allied party size | 2-4 |
+| Allied party size | 2-6 |
+| Party enemy share | 40% |
 
 ## Terrain
 

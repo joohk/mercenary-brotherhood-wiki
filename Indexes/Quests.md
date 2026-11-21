@@ -3,15 +3,15 @@ type: index
 tags:
   - type/index
 source: quests/
-count: 51
+count: 50
 up: "[[World]]"
 ---
 
 [[Home]] › [[World]]
 
-All 51 quests in the game data.
+All 50 quests in the game data.
 
-## Starting quests (14)
+## Starting quests (13)
 
 | Name | Type | Giver | Levels | Tier | Gold | Offered at |
 |---|---|---|---|---|---|---|
@@ -28,7 +28,6 @@ All 51 quests in the game data.
 | [[Assault the Fortress]] | Destroy Base | Settlement | 6-9 | 4 | 1170-1690 | 20 |
 | [[Slay the Wyvern]] | Destroy Base | Settlement | 7+ | 4 | 1300-1820 | 30 |
 | [[Conquer the Citadel]] | Destroy Base | Settlement | 8+ | 5 | 1950-2600 | 18 |
-| [[Close the Demon Rift]] | Destroy Base | Settlement | 10+ | 5 | 1950-2600 | 49 |
 
 ## Bounties (8)
 

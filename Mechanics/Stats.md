@@ -16,21 +16,25 @@ Every unit stat with its in-game abbreviation and description. Stat names across
 |---|---|---|
 | [[Stats#Armor\|Armor]] | Arm | Flat damage subtracted from every hit before HP is lost. |
 | [[Stats#Armor Pen\|Armor Pen]] | Pen | Ignores this much of the target's armor before its damage reduction is applied. |
-| [[Stats#Cold Resist\|Cold Resist]] | Cold | Reduces incoming cold damage by this %. Negative is vulnerability. Resistance caps at 75%. |
+| [[Stats#Bleed Resist\|Bleed Resist]] | BRes | Reduces the damage of each Bleeding tick by this %. It does not reduce the hit that causes the bleed or stop a bleed from being applied. Resistance caps at 90%. |
+| [[Stats#Blunt Resist\|Blunt Resist]] | Blnt | Reduces incoming blunt damage (hammers, maces, clubs, fists) by this %. Negative is vulnerability. Resistance caps at 90%. |
+| [[Stats#Bypass\|Bypass]] | Byp | Weapon strikes ignore this share of the target's armor (after Armor Pen) and of its damage resistances. Never thins a weakness; spells never get it. |
+| [[Stats#Cold Resist\|Cold Resist]] | Cold | Reduces incoming cold damage by this %. Negative is vulnerability. Resistance caps at 90%. |
 | [[Stats#Crit Chance\|Crit Chance]] | Crit | Chance for each attack to land a critical hit. Base 5%; gear, traits and specs raise it. A rear strike adds +5%. |
 | [[Stats#Crit Damage\|Crit Damage]] | CritDmg | Extra damage a critical hit deals over a normal hit. Base +50% (a crit deals 1.5x); gear and traits add on top. |
 | [[Stats#Damage Max\|Damage Max]] | Dmg | Maximum damage dealt per attack, before armor. |
 | [[Stats#Damage Min\|Damage Min]] | Dmg | Minimum damage dealt per attack, before armor. |
 | [[Stats#Dodge\|Dodge]] | Ddg | Chance to dodge an attack that would otherwise hit. Capped at 40%. |
+| [[Stats#Elemental Resist\|Elemental Resist]] | Elem | Reduces all fire, cold, lightning, poison and shadow damage by this %. Adds to each element's own resistance. Resistance caps at 90%. |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | FatRec | Fatigue shed at the start of each of this unit's turns. Higher values sustain costly attacks and abilities for longer before exhaustion sets in. |
-| [[Stats#Fire Resist\|Fire Resist]] | Fire | Reduces incoming fire damage by this %. Negative is vulnerability. Resistance caps at 75%. |
+| [[Stats#Fire Resist\|Fire Resist]] | Fire | Reduces incoming fire damage by this %. Negative is vulnerability. Resistance caps at 90%. |
 | [[Stats#Flank Damage\|Flank Damage]] | Flank | Bonus melee damage when striking a target from its flank or rear. |
 | [[Stats#Full Evade\|Full Evade]] | Eva | Chance to completely negate an incoming attack, ignoring all of its damage. |
 | [[Stats#Initiative\|Initiative]] | Init | Higher values act sooner and reduce the speed cost between turns. |
 | [[Stats#Lifesteal\|Lifesteal]] | LS | Heals you for this share of the damage you deal with attacks. |
-| [[Stats#Lightning Resist\|Lightning Resist]] | Lgt | Reduces incoming lightning damage by this %. Negative is vulnerability. Resistance caps at 75%. |
+| [[Stats#Lightning Resist\|Lightning Resist]] | Lgt | Reduces incoming lightning damage by this %. Negative is vulnerability. Resistance caps at 90%. |
 | [[Stats#Magic Power\|Magic Power]] | MP | Bonus to offensive spell damage and support-spell healing. Magic Power stat + Willpower above 40. Does not affect spell accuracy. |
-| [[Stats#Magic Resist\|Magic Resist]] | MRes | Flat reduction to incoming spell damage. Can cut at most 50% of any single hit. |
+| [[Stats#Magic Resist\|Magic Resist]] | MRes | Resistance to all magical damage: each point blocks 2.5%. Adds to the element's own resistance. Resistance caps at 90%. |
 | [[Stats#Max Fatigue (fatigue_max)\|Max Fatigue]] | Fat | Maximum fatigue before exhaustion penalties apply. |
 | [[Stats#Max Fatigue\|Max Fatigue]] | Fat | Maximum fatigue before exhaustion penalties apply. |
 | [[Stats#Max HP\|Max HP]] | HP | Hit points. A unit dies when reduced to 0. |
@@ -39,14 +43,19 @@ Every unit stat with its in-game abbreviation and description. Stat names across
 | [[Stats#Offhand Accuracy\|Offhand Accuracy]] | OffAcc | Bonus to the offhand weapon's chance to hit while dual wielding. |
 | [[Stats#Offhand Damage\|Offhand Damage]] | OffDmg | Bonus damage dealt by your offhand weapon while dual wielding. |
 | [[Stats#Overall Damage\|Overall Damage]] | Dmg% | Multiplies ALL damage you deal, stacking on top of every other damage bonus (mostly from awakening traits). |
+| [[Stats#Physical Resist\|Physical Resist]] | Phys | Reduces all slashing, piercing and blunt damage by this %. Adds to each type's own resistance. Resistance caps at 90%. |
+| [[Stats#Pierce Resist\|Pierce Resist]] | Prc | Reduces incoming piercing damage (spears, bows, crossbows, bites) by this %. Negative is vulnerability. Resistance caps at 90%. |
 | [[Stats#Poison Power\|Poison Power]] | Psn | Increases the per-turn damage of poison you apply to enemies. |
-| [[Stats#Poison Resist\|Poison Resist]] | PRes | Reduces incoming poison damage by this %. Negative is vulnerability. Resistance caps at 75%. |
+| [[Stats#Poison Resist\|Poison Resist]] | PRes | Reduces incoming poison damage by this %. Negative is vulnerability. Resistance caps at 90%. |
 | [[Stats#Ranged Attack\|Ranged Attack]] | RAtk | Ranged hit chance — and your accuracy with spells. Compared against the enemy's Ranged Defense. |
 | [[Stats#Ranged Damage Ward\|Ranged Damage Ward]] | Ward | Share of ranged damage, spells included, turned aside before it lands. |
 | [[Stats#Ranged Defense\|Ranged Defense]] | RDef | Chance to avoid ranged attacks. Compared against the enemy's Ranged Attack. |
-| [[Stats#Shadow Resist\|Shadow Resist]] | Shd | Reduces incoming shadow damage by this %. Negative is vulnerability. Resistance caps at 75%. |
+| [[Stats#Reach\|Reach]] | Rch | How many tiles away your melee attacks reach. 1 is the tile next to you; a spear reaches 2. |
+| [[Stats#Shadow Resist\|Shadow Resist]] | Shd | Reduces incoming shadow damage by this %. Negative is vulnerability. Resistance caps at 90%. |
+| [[Stats#Slash Resist\|Slash Resist]] | Slsh | Reduces incoming slashing damage (swords, axes, daggers, claws) by this %. Negative is vulnerability. Resistance caps at 90%. |
 | [[Stats#Veil of Mirrors Charges\|Veil of Mirrors Charges]] | Veil | Ranged hits, spells included, that will be thrown back at whoever fired them. |
 | [[Stats#Vision\|Vision]] | Vis | Detection range on the overland map, in hexes. |
+| [[Stats#Weapon Damage\|Weapon Damage]] | WDmg% | Multiplies the damage of your weapon strikes (attacks and weapon abilities with the weapon that grants it). Spells never get it. |
 | [[Stats#Willpower\|Willpower]] | Will | Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and Second Wind healing. |
 
 ## Armor
@@ -61,11 +70,29 @@ Abbreviation: **Pen** · id `armor_penetration`
 
 Ignores this much of the target's armor before its damage reduction is applied.
 
+## Bypass
+
+Abbreviation: **Byp** · id `armor_resist_bypass`
+
+Weapon strikes ignore this share of the target's armor (after Armor Pen) and of its damage resistances. Never thins a weakness; spells never get it.
+
+## Bleed Resist
+
+Abbreviation: **BRes** · id `bleed_resistance`
+
+Reduces the damage of each Bleeding tick by this %. It does not reduce the hit that causes the bleed or stop a bleed from being applied. Resistance caps at 90%.
+
+## Blunt Resist
+
+Abbreviation: **Blnt** · id `blunt_resistance`
+
+Reduces incoming blunt damage (hammers, maces, clubs, fists) by this %. Negative is vulnerability. Resistance caps at 90%.
+
 ## Cold Resist
 
 Abbreviation: **Cold** · id `cold_resistance`
 
-Reduces incoming cold damage by this %. Negative is vulnerability. Resistance caps at 75%.
+Reduces incoming cold damage by this %. Negative is vulnerability. Resistance caps at 90%.
 
 ## Crit Chance
 
@@ -103,6 +130,12 @@ Abbreviation: **Eva** · id `dodge_all_pct`
 
 Chance to completely negate an incoming attack, ignoring all of its damage.
 
+## Elemental Resist
+
+Abbreviation: **Elem** · id `elemental_resistance`
+
+Reduces all fire, cold, lightning, poison and shadow damage by this %. Adds to each element's own resistance. Resistance caps at 90%.
+
 ## Max Fatigue (fatigue_max)
 
 Abbreviation: **Fat** · id `fatigue_max`
@@ -119,7 +152,7 @@ Fatigue shed at the start of each of this unit's turns. Higher values sustain co
 
 Abbreviation: **Fire** · id `fire_resistance`
 
-Reduces incoming fire damage by this %. Negative is vulnerability. Resistance caps at 75%.
+Reduces incoming fire damage by this %. Negative is vulnerability. Resistance caps at 90%.
 
 ## Flank Damage
 
@@ -143,7 +176,7 @@ Heals you for this share of the damage you deal with attacks.
 
 Abbreviation: **Lgt** · id `lightning_resistance`
 
-Reduces incoming lightning damage by this %. Negative is vulnerability. Resistance caps at 75%.
+Reduces incoming lightning damage by this %. Negative is vulnerability. Resistance caps at 90%.
 
 ## Magic Power
 
@@ -155,7 +188,7 @@ Bonus to offensive spell damage and support-spell healing. Magic Power stat + Wi
 
 Abbreviation: **MRes** · id `magic_resistance`
 
-Flat reduction to incoming spell damage. Can cut at most 50% of any single hit.
+Resistance to all magical damage: each point blocks 2.5%. Adds to the element's own resistance. Resistance caps at 90%.
 
 ## Max Fatigue
 
@@ -181,6 +214,12 @@ Abbreviation: **MDef** · id `melee_defense`
 
 Chance to avoid melee attacks. Compared against the enemy's Melee Attack.
 
+## Reach
+
+Abbreviation: **Rch** · id `melee_range`
+
+How many tiles away your melee attacks reach. 1 is the tile next to you; a spear reaches 2.
+
 ## Veil of Mirrors Charges
 
 Abbreviation: **Veil** · id `mirror_veil_charges`
@@ -205,6 +244,18 @@ Abbreviation: **Dmg%** · id `overall_damage_mult`
 
 Multiplies ALL damage you deal, stacking on top of every other damage bonus (mostly from awakening traits).
 
+## Physical Resist
+
+Abbreviation: **Phys** · id `physical_resistance`
+
+Reduces all slashing, piercing and blunt damage by this %. Adds to each type's own resistance. Resistance caps at 90%.
+
+## Pierce Resist
+
+Abbreviation: **Prc** · id `pierce_resistance`
+
+Reduces incoming piercing damage (spears, bows, crossbows, bites) by this %. Negative is vulnerability. Resistance caps at 90%.
+
 ## Poison Power
 
 Abbreviation: **Psn** · id `poison_damage`
@@ -215,7 +266,7 @@ Increases the per-turn damage of poison you apply to enemies.
 
 Abbreviation: **PRes** · id `poison_resistance`
 
-Reduces incoming poison damage by this %. Negative is vulnerability. Resistance caps at 75%.
+Reduces incoming poison damage by this %. Negative is vulnerability. Resistance caps at 90%.
 
 ## Ranged Attack
 
@@ -239,13 +290,25 @@ Chance to avoid ranged attacks. Compared against the enemy's Ranged Attack.
 
 Abbreviation: **Shd** · id `shadow_resistance`
 
-Reduces incoming shadow damage by this %. Negative is vulnerability. Resistance caps at 75%.
+Reduces incoming shadow damage by this %. Negative is vulnerability. Resistance caps at 90%.
+
+## Slash Resist
+
+Abbreviation: **Slsh** · id `slash_resistance`
+
+Reduces incoming slashing damage (swords, axes, daggers, claws) by this %. Negative is vulnerability. Resistance caps at 90%.
 
 ## Vision
 
 Abbreviation: **Vis** · id `vision`
 
 Detection range on the overland map, in hexes.
+
+## Weapon Damage
+
+Abbreviation: **WDmg%** · id `weapon_damage_mult`
+
+Multiplies the damage of your weapon strikes (attacks and weapon abilities with the weapon that grants it). Spells never get it.
 
 ## Willpower
 
@@ -255,21 +318,26 @@ Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and
 
 ## Other stat names used in effects
 
-125 more stat names appear in effects across the data but have no entry in `stats.json` (mostly situational bonuses of a single trait or signature). The wiki shows them with readable labels; the owning page's description explains when they apply.
+140 more stat names appear in effects across the data but have no entry in `stats.json` (mostly situational bonuses of a single trait or signature). The wiki shows them with readable labels; the owning page's description explains when they apply.
 
-> [!info]- All 125 labels
+> [!info]- All 140 labels
 > | Label | id |
 > |---|---|
 > | Action Points | `action_points` |
+> | Ally Melee Defense Aura | `ally_melee_defense_aura` |
+> | Ally Npc Hit Aura | `ally_npc_hit_aura` |
+> | Ally Opening Initiative | `ally_opening_initiative` |
 > | Alone Defense | `alone_defense_bonus` |
 > | Ambush Damage | `ambush_damage_bonus` |
 > | Armored Foe to Hit | `armored_foe_hit_bonus` |
 > | Avenged Damage | `avenged_damage_bonus` |
 > | Axe Damage | `axe_damage_bonus` |
+> | Battle Gold Bonus Pct | `battle_gold_bonus_pct` |
+> | Battle Trade Good Chance | `battle_trade_good_chance` |
 > | Beast Damage | `beast_damage_bonus` |
 > | Beastwatch to Hit | `beastwatch_hit_bonus` |
-> | Bleed Resist | `bleed_resistance` |
 > | Bloodied Armor | `bloodied_armor_bonus` |
+> | Bonus Fatigue Recovery | `bonus_fatigue_recovery` |
 > | Bow Damage | `bow_damage_bonus` |
 > | Cover Bonus | `bulwark_cover_bonus` |
 > | Champion Damage | `champion_damage_bonus` |
@@ -287,14 +355,12 @@ Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and
 > | Cull Damage | `cull_damage_bonus` |
 > | Dagger Damage | `dagger_damage_bonus` |
 > | Damage Reduction | `damage_reduction_pct` |
-> | Damage Taken | `damage_taken` |
 > | Damp Air Fatigue | `damp_air_fatigue_bonus` |
 > | Defiant Damage | `defiant_damage_bonus` |
 > | Desperation Damage | `desperation_damage_bonus` |
 > | Doorbreaker Damage | `doorbreaker_damage_bonus` |
 > | Doorbreaker Free Doors | `doorbreaker_free_doors` |
 > | Earthfoot Defense | `earthfoot_defense_bonus` |
-> | All Elemental Resists | `elemental_resistance` |
 > | Elite to Hit | `elite_hit_bonus` |
 > | Escort Damage | `escort_damage_bonus` |
 > | Escort Defense | `escort_defense_bonus` |
@@ -323,8 +389,13 @@ Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and
 > | High Ground to Hit | `high_ground_hit_bonus` |
 > | Holy Healing | `holy_heal_bonus` |
 > | HP Regen per Turn | `hp_regen` |
+> | Ignore Flanking | `ignore_flanking` |
+> | Ignore Snow Fatigue | `ignore_snow_fatigue` |
+> | Immune Large Knockback | `immune_large_knockback` |
 > | Joint Finder Damage | `joint_finder_damage_bonus` |
+> | Knockback Resist Pct | `knockback_resist_pct` |
 > | Labour Fatigue | `labour_fatigue_bonus` |
+> | Large Foe Damage | `large_foe_damage_bonus` |
 > | Light Defense | `light_defense_bonus` |
 > | Light Kit Damage | `light_kit_damage_bonus` |
 > | Line Defense | `line_defense_bonus` |
@@ -340,6 +411,7 @@ Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and
 > | Open Field Movement | `open_field_move_bonus` |
 > | Opening Damage | `opening_damage_bonus` |
 > | Opening Hour Damage | `opening_hour_damage_bonus` |
+> | Opening Initiative | `opening_initiative` |
 > | Perception | `perception` |
 > | Performance Effect | `performance_effect_bonus` |
 > | Pressed Defense | `pressed_defense_bonus` |
@@ -356,6 +428,7 @@ Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and
 > | Shaken Foe to Hit | `shaken_foe_hit_bonus` |
 > | Shamanism Effect | `shamanism_effect_bonus` |
 > | Shield Defense | `shield_defense_bonus` |
+> | Shop Discount Pct | `shop_discount_pct` |
 > | Shoulder to Hit | `shoulder_hit_bonus` |
 > | Skill XP Gain | `skill_xp_bonus_pct` |
 > | Skinner Damage | `skinner_damage_bonus` |
@@ -364,10 +437,15 @@ Resistance to morale checks. Above 40: boosts fatigue recovery, magic power, and
 > | Staff Damage | `staff_damage_bonus` |
 > | Stationary Defense | `stationary_defense_bonus` |
 > | Stone Effect | `stone_effect_bonus` |
+> | Stun Resist Pct | `stun_resist_pct` |
 > | Damage per Adjacent Ally | `swarm_damage_per_ally` |
 > | Hit Chance per Adjacent Ally | `swarm_hit_per_ally` |
 > | Sweep Damage | `sweep_damage_bonus` |
 > | Sword Damage | `sword_damage_bonus` |
+> | Target Faction Damage | `target_faction_damage_bonus` |
+> | Teamwork Damage Max | `teamwork_damage_max` |
+> | Teamwork Damage Min | `teamwork_damage_min` |
+> | Teamwork Resist Per Ally | `teamwork_resist_per_ally` |
 > | Terror Damage | `terror_damage_bonus` |
 > | Thicket Defense | `thicket_defense_bonus` |
 > | Thresher Damage | `thresher_damage_bonus` |

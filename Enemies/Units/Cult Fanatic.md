@@ -44,7 +44,7 @@ A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 92 HP, 6 armor, wor
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 17-28 (base 3-4 + [[Steel Battle Axe]] 14-24) |
+| Damage with weapon | 18-30 (base 3-4 + [[Steel Battle Axe]] 15-26) |
 
 ## Combat
 
@@ -56,13 +56,24 @@ A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 92 HP, 6 armor, wor
 | Gold | 14 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 30 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Cult Robes]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Cult Robes]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -89,7 +100,6 @@ A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 92 HP, 6 armor, wor
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]], [[Forest — Late Tier]], [[Forest — Mid Tier]], [[Mid-depth Crystal Cave Encounter]], [[Mid-depth Dark Ruins Encounter]], [[Plains — Random Encounter]], [[Ruins — Late Tier]], [[Swamp — Late Tier]], [[Swamp — Mid Tier]]
-- **Escorts:** [[Plague Bishop Malachar]]
 - **Reinforces in encounters:** [[Mid-depth Crystal Cave Encounter]], [[Mid-depth Dark Ruins Encounter]], [[Plains — Random Encounter]], [[Ruins Base Garrison — Shallow]]
 
 *Generated from `enemies/cultists.json`. Edits will be overwritten — put your own notes in Notes/.*

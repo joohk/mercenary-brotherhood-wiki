@@ -23,7 +23,7 @@ up: "[[Abilities]]"
 
 A 1-AP melee ability targeting an adjacent enemy.
 
-> A perfectly-timed strike against an isolated foe — 140% weapon damage, +20% to-hit. Target must have no allies adjacent. 3-turn cooldown.
+> A strike at +20% to hit: 150% weapon damage and ignores 5 armor from behind, 100% weapon damage from anywhere else. 3-turn cooldown.
 
 ## Stats
 
@@ -35,13 +35,10 @@ A 1-AP melee ability targeting an adjacent enemy.
 | Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee
-
-## Requirements
-
-- Target must have no adjacent allies
 
 ## Referenced by
 

@@ -57,7 +57,9 @@ A tier-4 huge enemy of [[The Jotunblight]] faction — 312 HP, 19 armor, worth 6
 | Size | Huge |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Jotunblight Combat Sheet\|all The Jotunblight units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -72,7 +74,8 @@ A tier-4 huge enemy of [[The Jotunblight]] faction — 312 HP, 19 armor, worth 6
 
 ## Passives
 
-- [[Stone Flesh]] — +3 armor always, -5 initiative. +5 bonus armor vs slash/pierce, +0 vs blunt. Blunt deals +25% damage. Shrugs off stuns and roots 50% of the time. Use maces!
+- [[Bloodless]] — No blood left to spill. Immune to Bleeding.
+- [[Stone Flesh]] — +3 armor always, -5 initiative. 25% resistance to slashing and piercing. 25% vulnerable to blunt. Shrugs off stuns and roots 50% of the time. Use maces!
 - [[Heavy Blows (Enemy Passive)|Heavy Blows]] — +2 damage always. +4 bonus damage vs targets above 50% HP. Punishes healthy targets.
 - [[Giant Stomp]] — Successful attacks deal 5 splash damage to 1 random adjacent enemy.
 

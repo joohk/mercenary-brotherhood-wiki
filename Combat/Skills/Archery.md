@@ -14,15 +14,15 @@ discovery_weight: 1
 max_level: 10
 skill_category: combat
 skill_group: Ranged
-skill_traits: 11
+skill_traits: 9
 up: "[[Ranged Skills]]"
 ---
 
 [[Home]] › [[Your Company]] › [[Ranged Skills]]
 
-A combat skill from the Ranged group, with 10 levels and 11 skill traits.
+A combat skill from the Ranged group, with 10 levels and 9 skill traits.
 
-> Proficiency with bows. Higher levels add progressively more Ranged Attack. Bonuses only apply when using a bow.
+> Proficiency with bows: Ranged Attack, damage and a little armor penetration, only while using a bow. From level 5, Broadheads: a bow hit has a 25% chance to make the target Bleed. Level 10 teaches Hail of Arrows.
 
 ## How to train
 
@@ -30,22 +30,26 @@ A combat skill from the Ranged group, with 10 levels and 11 skill traits.
 
 **Discovery:** Can be discovered on a *ranged hit* event involving bow-tagged gear or spells; discovery weight 1.
 
+**Bonuses apply while using:** bow.
+
+Weapon and armor skills level up as you use the matching gear; the data gives no per-level use thresholds for them.
+
 ## Progression
 
-Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column). *Uses to next level* is how many qualifying actions it takes to reach the following level.
+Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column).
 
-| Level | Gains this level | Total so far | Uses to next level |
+| Level | Gains this level | Total so far | Unlocks |
 |---|---|---|---|
-| L1 | +5 [[Stats#Ranged Attack\|Ranged Attack]] | +5 Ranged Attack | 20 |
-| L2 | +5 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Ranged Attack | 35 |
-| L3 | +4 [[Stats#Ranged Attack\|Ranged Attack]], +1 Ranged Damage | +14 Ranged Attack, +1 Ranged Damage | 55 |
-| L4 | +4 [[Stats#Ranged Attack\|Ranged Attack]], +1 to +2 Ranged Damage | +18 Ranged Attack, +2 to +3 Ranged Damage | 85 |
-| L5 | +3 [[Stats#Ranged Attack\|Ranged Attack]], +2 to +3 Ranged Damage | +21 Ranged Attack, +4 to +6 Ranged Damage | 125 |
-| L6 | +3 [[Stats#Ranged Attack\|Ranged Attack]], +2 to +3 Ranged Damage | +24 Ranged Attack, +6 to +9 Ranged Damage | 180 |
-| L7 | +2 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +4 Ranged Damage | +26 Ranged Attack, +9 to +13 Ranged Damage | 250 |
-| L8 | +2 [[Stats#Ranged Attack\|Ranged Attack]], +4 to +5 Ranged Damage | +28 Ranged Attack, +13 to +18 Ranged Damage | 335 |
-| L9 | +1 [[Stats#Ranged Attack\|Ranged Attack]], +4 to +6 Ranged Damage | +29 Ranged Attack, +17 to +24 Ranged Damage | 440 |
-| L10 | +1 [[Stats#Ranged Attack\|Ranged Attack]], +5 to +7 Ranged Damage | +30 Ranged Attack, +22 to +31 Ranged Damage | max |
+| L1 | +3 [[Stats#Ranged Attack\|Ranged Attack]] | +3 Ranged Attack | — |
+| L2 | +5 [[Stats#Ranged Attack\|Ranged Attack]], +1 [[Stats#Armor Pen\|Armor Pen]] | +8 Ranged Attack, +1 Armor Pen | — |
+| L3 | +7 [[Stats#Ranged Attack\|Ranged Attack]], +1 Ranged Damage, +1 [[Stats#Armor Pen\|Armor Pen]] | +15 Ranged Attack, +2 Armor Pen, +1 Ranged Damage | — |
+| L4 | +9 [[Stats#Ranged Attack\|Ranged Attack]], +1 to +2 Ranged Damage, +1 [[Stats#Armor Pen\|Armor Pen]] | +24 Ranged Attack, +3 Armor Pen, +2 to +3 Ranged Damage | — |
+| L5 | +11 [[Stats#Ranged Attack\|Ranged Attack]], +2 to +3 Ranged Damage, +2 [[Stats#Armor Pen\|Armor Pen]] | +35 Ranged Attack, +5 Armor Pen, +4 to +6 Ranged Damage | — |
+| L6 | +12 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +5 Ranged Damage, +2 [[Stats#Armor Pen\|Armor Pen]] | +47 Ranged Attack, +7 Armor Pen, +7 to +11 Ranged Damage | — |
+| L7 | +13 [[Stats#Ranged Attack\|Ranged Attack]], +5 to +7 Ranged Damage, +2 [[Stats#Armor Pen\|Armor Pen]] | +60 Ranged Attack, +9 Armor Pen, +12 to +18 Ranged Damage | — |
+| L8 | +14 [[Stats#Ranged Attack\|Ranged Attack]], +7 to +9 Ranged Damage, +3 [[Stats#Armor Pen\|Armor Pen]] | +74 Ranged Attack, +12 Armor Pen, +19 to +27 Ranged Damage | — |
+| L9 | +15 [[Stats#Ranged Attack\|Ranged Attack]], +9 to +12 Ranged Damage, +3 [[Stats#Armor Pen\|Armor Pen]] | +89 Ranged Attack, +15 Armor Pen, +28 to +39 Ranged Damage | — |
+| L10 | +15 [[Stats#Ranged Attack\|Ranged Attack]], +11 to +16 Ranged Damage, +4 [[Stats#Armor Pen\|Armor Pen]] | +104 Ranged Attack, +19 Armor Pen, +39 to +55 Ranged Damage | Grants ability: [[Hail of Arrows]] |
 
 ## Skill traits
 
@@ -53,17 +57,15 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
-| [[Hawkeye]] | Common | Passive | 2 | — |
-| [[Bodkin Points]] | Uncommon | Passive | 2 | — |
-| [[Called Shot (Skill Trait)\|Called Shot]] | Uncommon | Ability | 2 | [[Called Shot (Ability, ability_called_shot)\|Called Shot]] |
-| [[Hobbling Shots]] | Uncommon | Passive | 2 | — |
-| [[Steady Aim (Skill Trait, Archery)\|Steady Aim]] | Uncommon | Passive | 2 | — |
-| [[Volley (Skill Trait, Archery)\|Volley]] | Uncommon | Ability | 2 | [[Volley (Ability)\|Volley]] |
-| [[Far Shot]] | Rare | Passive | 2 | — |
+| [[Blunt Arrow (Skill Trait)\|Blunt Arrow]] | Common | Ability | 2 | [[Blunt Arrow (Ability)\|Blunt Arrow]] |
+| [[Second Nock]] | Common | Passive | 2 | — |
+| [[Barbed Fletching]] | Uncommon | Passive | 2 | — |
+| [[Bodkin Arrow (Skill Trait)\|Bodkin Arrow]] | Uncommon | Ability | 2 | [[Bodkin Arrow (Ability)\|Bodkin Arrow]] |
+| [[Broadhead Arrow (Skill Trait)\|Broadhead Arrow]] | Uncommon | Ability | 2 | [[Broadhead Arrow (Ability)\|Broadhead Arrow]] |
+| [[Flight Arrows]] | Uncommon | Passive | 2 | — |
+| [[Fire Arrow (Skill Trait)\|Fire Arrow]] | Rare | Ability | 2 | [[Fire Arrow (Ability)\|Fire Arrow]] |
 | [[Flurry (Skill Trait)\|Flurry]] | Rare | Ability | 2 | [[Flurry (Ability)\|Flurry]] |
-| [[Headshot (Skill Trait, Archery)\|Headshot]] | Rare | Passive | 2 | — |
 | [[Piercing Shot (Skill Trait)\|Piercing Shot]] | Rare | Ability | 2 | [[Piercing Shot (Ability)\|Piercing Shot]] |
-| [[Pinning Shot (Skill Trait)\|Pinning Shot]] | Rare | Ability | 2 | [[Pinning Shot (Ability, ability_pinning_shot)\|Pinning Shot]] |
 
 ## Referenced by
 

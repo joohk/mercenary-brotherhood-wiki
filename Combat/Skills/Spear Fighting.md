@@ -24,7 +24,7 @@ A weapon skill from the Weapon group, with 10 levels and 7 skill traits.
 
 ![[_assets/Icons/tier_1/spear.webp|64]]
 
-> Reach-weapon discipline that trains both the attack and a disciplined defensive posture. Equally at home holding a line or pressing a gap.
+> Reach-weapon discipline that trains both the attack and a disciplined defensive posture. Equally at home holding a line or pressing a gap. Every level adds spear damage.
 
 ## How to train
 
@@ -42,16 +42,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far |
 |---|---|---|
-| L1 | +5 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]] | +5 Melee Attack, +2 Melee Defense |
-| L2 | +5 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]] | +10 Melee Attack, +4 Melee Defense |
-| L3 | +4 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]] | +14 Melee Attack, +6 Melee Defense |
-| L4 | +4 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]], +2 [[Stats#Ranged Defense\|Ranged Defense]] | +18 Melee Attack, +8 Melee Defense, +2 Ranged Defense |
-| L5 | +3 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]], +2 [[Stats#Ranged Defense\|Ranged Defense]] | +21 Melee Attack, +10 Melee Defense, +4 Ranged Defense |
-| L6 | +3 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]], +3 [[Stats#Ranged Defense\|Ranged Defense]] | +24 Melee Attack, +12 Melee Defense, +7 Ranged Defense |
-| L7 | +2 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]], +3 [[Stats#Ranged Defense\|Ranged Defense]] | +26 Melee Attack, +14 Melee Defense, +10 Ranged Defense |
-| L8 | +2 [[Stats#Melee Attack\|Melee Attack]], +1 [[Stats#Melee Defense\|Melee Defense]], +3 [[Stats#Ranged Defense\|Ranged Defense]] | +28 Melee Attack, +15 Melee Defense, +13 Ranged Defense |
-| L9 | +2 [[Stats#Melee Attack\|Melee Attack]], +1 [[Stats#Melee Defense\|Melee Defense]], +3 [[Stats#Ranged Defense\|Ranged Defense]] | +30 Melee Attack, +16 Melee Defense, +16 Ranged Defense |
-| L10 | +1 [[Stats#Melee Attack\|Melee Attack]], +1 [[Stats#Melee Defense\|Melee Defense]], +3 [[Stats#Ranged Defense\|Ranged Defense]] | +31 Melee Attack, +17 Melee Defense, +19 Ranged Defense |
+| L1 | +3 [[Stats#Melee Attack\|Melee Attack]], +1 [[Stats#Melee Defense\|Melee Defense]], +1 to +2 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +3 Melee Attack, +1 Melee Defense, +1 to +2 Damage, +1 Armor Pen |
+| L2 | +5 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Melee Defense\|Melee Defense]], +2 to +3 [[Stats#Damage Min\|Damage]], +2 [[Stats#Armor Pen\|Armor Pen]] | +8 Melee Attack, +3 Melee Defense, +3 to +5 Damage, +3 Armor Pen |
+| L3 | +7 [[Stats#Melee Attack\|Melee Attack]], +3 [[Stats#Melee Defense\|Melee Defense]], +2 to +4 [[Stats#Damage Min\|Damage]], +3 [[Stats#Armor Pen\|Armor Pen]] | +15 Melee Attack, +6 Melee Defense, +5 to +9 Damage, +6 Armor Pen |
+| L4 | +9 [[Stats#Melee Attack\|Melee Attack]], +4 [[Stats#Melee Defense\|Melee Defense]], +1 [[Stats#Ranged Defense\|Ranged Defense]], +3 to +5 [[Stats#Damage Min\|Damage]], +4 [[Stats#Armor Pen\|Armor Pen]] | +24 Melee Attack, +10 Melee Defense, +8 to +14 Damage, +10 Armor Pen, +1 Ranged Defense |
+| L5 | +11 [[Stats#Melee Attack\|Melee Attack]], +5 [[Stats#Melee Defense\|Melee Defense]], +2 [[Stats#Ranged Defense\|Ranged Defense]], +4 to +6 [[Stats#Damage Min\|Damage]], +5 [[Stats#Armor Pen\|Armor Pen]] | +35 Melee Attack, +15 Melee Defense, +12 to +20 Damage, +15 Armor Pen, +3 Ranged Defense |
+| L6 | +12 [[Stats#Melee Attack\|Melee Attack]], +6 [[Stats#Melee Defense\|Melee Defense]], +4 [[Stats#Ranged Defense\|Ranged Defense]], +4 to +7 [[Stats#Damage Min\|Damage]], +6 [[Stats#Armor Pen\|Armor Pen]] | +47 Melee Attack, +21 Melee Defense, +16 to +27 Damage, +21 Armor Pen, +7 Ranged Defense |
+| L7 | +13 [[Stats#Melee Attack\|Melee Attack]], +7 [[Stats#Melee Defense\|Melee Defense]], +5 [[Stats#Ranged Defense\|Ranged Defense]], +5 to +8 [[Stats#Damage Min\|Damage]], +7 [[Stats#Armor Pen\|Armor Pen]] | +60 Melee Attack, +28 Melee Defense, +21 to +35 Damage, +28 Armor Pen, +12 Ranged Defense |
+| L8 | +14 [[Stats#Melee Attack\|Melee Attack]], +8 [[Stats#Melee Defense\|Melee Defense]], +7 [[Stats#Ranged Defense\|Ranged Defense]], +6 to +9 [[Stats#Damage Min\|Damage]], +8 [[Stats#Armor Pen\|Armor Pen]] | +74 Melee Attack, +36 Melee Defense, +27 to +44 Damage, +36 Armor Pen, +19 Ranged Defense |
+| L9 | +15 [[Stats#Melee Attack\|Melee Attack]], +8 [[Stats#Melee Defense\|Melee Defense]], +8 [[Stats#Ranged Defense\|Ranged Defense]], +6 to +10 [[Stats#Damage Min\|Damage]], +9 [[Stats#Armor Pen\|Armor Pen]] | +89 Melee Attack, +44 Melee Defense, +33 to +54 Damage, +45 Armor Pen, +27 Ranged Defense |
+| L10 | +16 [[Stats#Melee Attack\|Melee Attack]], +9 [[Stats#Melee Defense\|Melee Defense]], +10 [[Stats#Ranged Defense\|Ranged Defense]], +7 to +11 [[Stats#Damage Min\|Damage]], +10 [[Stats#Armor Pen\|Armor Pen]] | +105 Melee Attack, +53 Melee Defense, +40 to +65 Damage, +55 Armor Pen, +37 Ranged Defense |
 
 ## Skill traits
 
@@ -60,10 +60,10 @@ Skill traits belonging to this skill.
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
 | [[Line Holder]] | Common | Passive | 2 | — |
-| [[Brace (Skill Trait, Spear Fighting)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability, ability_brace)\|Brace]] |
-| [[Defensive Thrust (Skill Trait)\|Defensive Thrust]] | Uncommon | Ability | 2 | [[Defensive Thrust (Ability)\|Defensive Thrust]] |
+| [[Brace (Skill Trait, Spear Fighting)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability)\|Brace]] |
 | [[Impaling Reach]] | Uncommon | Passive | 2 | — |
 | [[Set Pike]] | Uncommon | Passive | 2 | — |
+| [[Skewer (Skill Trait)\|Skewer]] | Uncommon | Ability | 2 | [[Skewer (Ability)\|Skewer]] |
 | [[Bulwark Line]] | Rare | Passive | 3 | — |
 | [[Phalanx (Skill Trait, Spear Fighting)\|Phalanx]] | Rare | Passive | 3 | — |
 

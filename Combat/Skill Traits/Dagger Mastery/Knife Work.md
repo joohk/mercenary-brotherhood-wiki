@@ -20,7 +20,7 @@ up: "[[Dagger Mastery]]"
 
 A common passive skill trait of [[Dagger Mastery]] with 2 ranks.
 
-> Fast, efficient blade technique honed for the kill. +4 Initiative and +3 Crit Chance.
+> Fast, efficient blade technique honed for the kill. +4 Initiative and +3 Crit Chance. Dagger strikes ignore 5% of a target's armor and resistances.
 
 ## Effects
 
@@ -28,6 +28,7 @@ Rank 1:
 
 - +4 [[Stats#Initiative|Initiative]]
 - +3% [[Stats#Crit Chance|Crit Chance]]
+- +5 [[Stats#Bypass|Bypass]]
 
 ## Upgrades
 
@@ -39,5 +40,6 @@ Increased to +7 Initiative and +5 Crit Chance.
 
 - +7 [[Stats#Initiative|Initiative]]
 - +5% [[Stats#Crit Chance|Crit Chance]]
+- +5 [[Stats#Bypass|Bypass]]
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

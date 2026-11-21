@@ -24,7 +24,7 @@ uses_per_battle: 1
 
 A 2-AP support ability used on yourself, usable once per battle.
 
-> A burst of radiant light heals every ally for 20 HP. Once per battle.
+> A burst of radiant light heals every ally for 20 HP (scales with willpower and magic power). Once per battle.
 
 ## Stats
 
@@ -40,6 +40,10 @@ A 2-AP support ability used on yourself, usable once per battle.
 | Damage | Heal all allies 20 HP |
 
 *Tags:* awakening, support, heal
+
+## Requirements
+
+- Requires Injured
 
 ## Referenced by
 

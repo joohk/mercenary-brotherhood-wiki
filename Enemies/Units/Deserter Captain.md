@@ -45,7 +45,7 @@ A tier-3 enemy of the [[Deserters]] faction — 123 HP, 14 armor, worth 38 XP an
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 28-44 (base 5-7 + [[Fine Greatsword]] 23-37) |
+| Damage with weapon | 31-46 (base 5-7 + [[Fine Greatsword]] 26-39) |
 
 ## Combat
 
@@ -57,13 +57,25 @@ A tier-3 enemy of the [[Deserters]] faction — 123 HP, 14 armor, worth 38 XP an
 | Gold | 36 |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Deserters Combat Sheet\|all Deserters units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 12 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 48 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

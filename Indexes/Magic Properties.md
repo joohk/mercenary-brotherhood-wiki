@@ -3,13 +3,13 @@ type: index
 tags:
   - type/index
 source: items/magic_properties.json
-count: 477
+count: 512
 up: "[[Arms & Armor]]"
 ---
 
 [[Home]] › [[Arms & Armor]]
 
-All 477 magic properties in the game data.
+All 512 magic properties in the game data.
 
 ## Base (180)
 
@@ -26,8 +26,8 @@ All 477 magic properties in the game data.
 | [[Battle Fury]] | Each kill this combat permanently grants +3 min/max damage (resets after combat) | Weapons | Ascendant | 4 |
 | [[Berserker I]] | +15% damage when wielder is below 50% HP | Weapons and body armor | Rare | 1 |
 | [[Berserker II]] | +30% damage when wielder is below 50% HP | Weapons and body armor | Epic | 2 |
-| [[Bleed Resistance I]] | +15% Bleed Resist | Body armor, helmets and accessories | Uncommon | 1 |
-| [[Bleed Resistance II]] | +35% Bleed Resist | Body armor, helmets and accessories | Rare | 2 |
+| [[Bleed Resistance I]] | +15% [[Stats#Bleed Resist\|Bleed Resist]] | Body armor, helmets and accessories | Uncommon | 1 |
+| [[Bleed Resistance II]] | +35% [[Stats#Bleed Resist\|Bleed Resist]] | Body armor, helmets and accessories | Rare | 2 |
 | [[Bleeding I]] | On hit: Inflicts Bleeding I (5 bleed damage per tick for 3 ticks) | Weapons | Uncommon | 1 |
 | [[Bleeding II]] | On hit: Inflicts Bleeding II (7 bleed damage per tick for 3 ticks) | Weapons | Rare | 2 |
 | [[Bleeding III]] | On hit: Inflicts Bleeding III (10 bleed damage per tick for 3 ticks) | Weapons | Epic | 3 |
@@ -57,7 +57,7 @@ All 477 magic properties in the game data.
 | [[Deflection III]] | +20 [[Stats#Ranged Defense\|Ranged Defense]] | Shields, body armor and helmets | Epic | 3 |
 | [[Doom]] | On hit, target takes +3 damage from all sources for 2 rounds | Weapons | Legendary | 3 |
 | [[Dread Aura (Magic Property)\|Dread Aura]] | -5 willpower per round to all enemies within 2 hexes | Body armor and helmets | Legendary | 3 |
-| [[Elemental Harmony]] | +25% [[Stats#Fire Resist\|Fire Resist]], +25% [[Stats#Cold Resist\|Cold Resist]], +25% [[Stats#Lightning Resist\|Lightning Resist]], +25% [[Stats#Poison Resist\|Poison Resist]], +25% Bleed Resist | Body armor and accessories | Legendary | 3 |
+| [[Elemental Harmony]] | +25% [[Stats#Fire Resist\|Fire Resist]], +25% [[Stats#Cold Resist\|Cold Resist]], +25% [[Stats#Lightning Resist\|Lightning Resist]], +25% [[Stats#Poison Resist\|Poison Resist]], +25% [[Stats#Bleed Resist\|Bleed Resist]] | Body armor and accessories | Legendary | 3 |
 | [[Endurance I]] | +10 [[Stats#Max Fatigue\|Max Fatigue]] | Body armor and accessories | Uncommon | 1 |
 | [[Endurance II]] | +25 [[Stats#Max Fatigue\|Max Fatigue]] | Body armor and accessories | Rare | 2 |
 | [[Ethereal I]] | 5% chance attacks pass through harmlessly | Body armor | Rare | 1 |
@@ -144,9 +144,9 @@ All 477 magic properties in the game data.
 | [[Regeneration I]] | Regenerate 3 HP per turn | Body armor and accessories | Rare | 2 |
 | [[Regeneration II]] | Regenerate 8 HP per turn | Body armor and accessories | Epic | 3 |
 | [[Regeneration III]] | Regenerate 15 HP per turn | Body armor and accessories | Legendary | 4 |
-| [[Resilience I]] | -5% Damage Taken | Shields and body armor | Rare | 1 |
-| [[Resilience II]] | -12% Damage Taken | Shields and body armor | Epic | 2 |
-| [[Resilience III]] | -20% Damage Taken | Shields and body armor | Legendary | 4 |
+| [[Resilience I]] | Take 5% less damage from all sources | Shields and body armor | Rare | 1 |
+| [[Resilience II]] | Take 12% less damage from all sources | Shields and body armor | Epic | 2 |
+| [[Resilience III]] | Take 20% less damage from all sources | Shields and body armor | Legendary | 4 |
 | [[Willpower Aura I]] | +10 Willpower to allies within 2 hexes | Accessories | Epic | 2 |
 | [[Willpower Aura II]] | +20 Willpower to allies within 2 hexes | Accessories | Legendary | 3 |
 | [[Retribution]] | 20% chance to counterattack when hit in melee | Shields and body armor | Legendary | 3 |
@@ -162,7 +162,7 @@ All 477 magic properties in the game data.
 | [[Soul Harvest]] | Heal 15 HP on a melee kill | Weapons | Legendary | 3 |
 | [[Soul Link]] | Share 25% of damage taken with squad captain (split pain) | Accessories | Legendary | 3 |
 | [[Soulfire]] | Attacks deal 10 additional true damage (ignores armor and resistances) | Weapons | Ascendant | 4 |
-| [[Spell Shield]] | +25% All Elemental Resists | Shields and accessories | Legendary | 3 |
+| [[Spell Shield]] | +25% [[Stats#Elemental Resist\|Elemental Resist]] | Shields and accessories | Legendary | 3 |
 | [[Steady]] | Immune to Shaken status | Body armor and accessories | Rare | 2 |
 | [[Steady Aim I]] | +5 [[Stats#Ranged Attack\|Ranged Attack]] | Weapons | Uncommon | 1 |
 | [[Steady Aim II]] | +12 [[Stats#Ranged Attack\|Ranged Attack]] | Weapons | Rare | 2 |
@@ -241,7 +241,7 @@ All 477 magic properties in the game data.
 | [[Wolves Bane]] | +25% damage vs [[Wolf Pack (Faction)\|Wolf Pack]] | Weapons | Rare | 2 |
 | [[Wraith Bane]] | +25% damage vs [[Wraithkin]] | Weapons | Rare | 2 |
 
-## Ability Empowerment (221)
+## Ability Empowerment (256)
 
 | Name | Effect | Allowed on | Min rarity | Weight |
 |---|---|---|---|---|
@@ -250,16 +250,18 @@ All 477 magic properties in the game data.
 | [[Aimed Throw Mastery]] | [[Aimed Throw (Ability)\|Aimed Throw]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Anthem of Valor Mastery]] | [[Anthem of Valor (Ability)\|Anthem of Valor]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Antivenom Charm]] | [[Draw Poison (Ability)\|Draw Poison]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Anvil-Caller]] | [[Hammer and Anvil (Ability)\|Hammer and Anvil]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Apotheosis Mastery]] | [[Apotheosis (Ability)\|Apotheosis]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Arcane Barrage Mastery]] | [[Arcane Barrage (Ability)\|Arcane Barrage]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Arcane Burst Mastery]] | [[Arcane Burst (Ability)\|Arcane Burst]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Arcane Nova Mastery]] | [[Arcane Nova (Ability)\|Arcane Nova]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Arcane Shield Conditioning]] | [[Arcane Shield (Ability)\|Arcane Shield]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
-| [[Armor Crush Mastery]] | [[Armor Crush (Ability)\|Armor Crush]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Arrow Storm Mastery]] | [[Arrow Storm (Ability)\|Arrow Storm]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Avatar State (Minor) Mastery]] | [[Avatar State (Minor) (Ability)\|Avatar State (Minor)]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Avatar State Mastery]] | [[Avatar State (Ability)\|Avatar State]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Ballistic Shot Mastery]] | [[Ballistic Shot (Ability)\|Ballistic Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Bannerward Sigil]] | [[Shield Formation]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Barkskin Mastery]] | [[Barkskin (Ability)\|Barkskin]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Barrier Strike Mastery]] | [[Barrier Strike (Ability)\|Barrier Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Battering Ram Mastery]] | [[Battering Ram (Ability)\|Battering Ram]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Battle Cry Reserve]] | [[Battle Cry (Ability)\|Battle Cry]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
@@ -270,16 +272,20 @@ All 477 magic properties in the game data.
 | [[Blink Attack Mastery]] | [[Blink Attack (Ability)\|Blink Attack]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Blood Bolt Mastery]] | [[Blood Bolt]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Blood Bond Mastery]] | [[Blood Bond (Ability)\|Blood Bond]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Blood Pact Conditioning]] | [[Blood Pact (Ability)\|Blood Pact]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
+| [[Blood Ward Mastery]] | [[Blood Ward (Ability)\|Blood Ward]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Bloodscent Totem]] | [[Bloodscent (Ability)\|Bloodscent]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Bloodseeker Mastery]] | [[Bloodseeker (Ability)\|Bloodseeker]]: -4 fatigue cost | Weapons, helmets and accessories | Rare | 2 |
 | [[Bloom of Life Mastery]] | [[Bloom of Life (Ability)\|Bloom of Life]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Blunt Arrow Mastery]] | [[Blunt Arrow (Ability)\|Blunt Arrow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Blur Mastery]] | [[Blur (Ability)\|Blur]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Bodkin Arrow Mastery]] | [[Bodkin Arrow (Ability)\|Bodkin Arrow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Boulder Throw Mastery]] | [[Boulder Throw]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Brace Reserve]] | [[Brace (Ability, ability_brace)\|Brace]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Brace Reserve]] | [[Brace (Ability)\|Brace]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Broadhead Arrow Mastery]] | [[Broadhead Arrow (Ability)\|Broadhead Arrow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Bull Rush Mastery]] | [[Bull Rush (Ability)\|Bull Rush]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Bull's Pauldron]] | [[Barreling Shove (Ability)\|Barreling Shove]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Called Shot Mastery (Magic Property, mag_emp_awk_called_shot)\|Called Shot Mastery]] | [[Called Shot (Ability, awakening_called_shot)\|Called Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Called Shot Mastery (Magic Property, mag_emp_called_shot)\|Called Shot Mastery]] | [[Called Shot (Ability, ability_called_shot)\|Called Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Called Shot Mastery (Magic Property, mag_emp_awk_called_shot)\|Called Shot Mastery]] | [[Vital Shot (Ability)\|Vital Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Called Shot Mastery (Magic Property, mag_emp_called_shot)\|Called Shot Mastery]] | [[Called Shot (Ability)\|Called Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Cataclysm Mastery]] | [[Cataclysm (Ability)\|Cataclysm]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Cinderbrand Charm]] | [[Hellfire Rebuke]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Cleanse Mastery]] | [[Cleanse (Ability)\|Cleanse]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
@@ -290,47 +296,61 @@ All 477 magic properties in the game data.
 | [[Couched Grip]] | [[Lance Rush (Ability)\|Lance Rush]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Counter Stance Mastery]] | [[Counter Stance (Ability)\|Counter Stance]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Coup de Grace Reserve]] | [[Coup de Grace (Ability)\|Coup de Grace]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Covering Fire Mastery]] | [[Covering Fire (Ability)\|Covering Fire]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Creeping Blight Mastery]] | [[Creeping Blight (Ability)\|Creeping Blight]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Crescendo Mastery]] | [[Crescendo (Ability)\|Crescendo]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Crimson Tide Mastery]] | [[Crimson Tide]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Crippling Shot Mastery]] | [[Crippling Shot (Ability)\|Crippling Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Crush Resistance Mastery]] | [[Crush Resistance (Ability)\|Crush Resistance]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Crushing Blow Mastery]] | [[Crushing Blow (Ability)\|Crushing Blow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Curse Mastery]] | [[Curse (Ability)\|Curse]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Darting Edge]] | [[Darting Strike (Ability)\|Darting Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Deadeye Shot Mastery]] | [[Deadeye Shot (Ability)\|Deadeye Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Death Blossom Mastery]] | [[Death Blossom (Ability)\|Death Blossom]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Decapitate Reserve]] | [[Decapitate (Ability)\|Decapitate]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
-| [[Defensive Thrust Mastery]] | [[Defensive Thrust (Ability)\|Defensive Thrust]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Defiance Mastery]] | [[Defiance (Ability)\|Defiance]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Devastating Charge Mastery]] | [[Devastating Charge (Ability)\|Devastating Charge]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Dirge of Despair Conditioning]] | [[Dirge of Despair]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Disarming Strike Mastery]] | [[Disarming Strike (Ability)\|Disarming Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Dissonant Chord Mastery]] | [[Dissonant Chord (Ability)\|Dissonant Chord]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Doom Herald Mastery]] | [[Doom Herald (Ability)\|Doom Herald]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
-| [[Earthbind Mastery]] | [[Earthbind]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Earthquake Mastery (Magic Property)\|Earthquake Mastery]] | [[Earthquake]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Earthshaker Reserve]] | [[Earthshaker (Ability)\|Earthshaker]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Enchanted Bolt Attunement]] | [[Enchanted Bolt (Ability)\|Enchanted Bolt]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Encore Mastery]] | [[Encore (Ability)\|Encore]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Entangling Roots Mastery]] | [[Entangling Roots (Ability)\|Entangling Roots]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Exploit Opening Mastery]] | [[Exploit Opening (Ability, ability_dagger_exploit)\|Exploit Opening]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Exploit Opening Reserve]] | [[Exploit Opening (Ability, ability_exploit_opening)\|Exploit Opening]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Execution Shot Mastery]] | [[Execution Shot (Ability)\|Execution Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Exploit Opening Reserve]] | [[Exploit Opening]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Exsanguinate Mastery]] | [[Exsanguinate (Ability)\|Exsanguinate]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Fan of Blades Mastery]] | [[Fan of Blades (Ability)\|Fan of Blades]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Fatigue Drain Mastery]] | [[Fatigue Drain (Ability)\|Fatigue Drain]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Fatigue Drain Mastery]] | [[Fatigue Drain]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Fatigue Restore Mastery]] | [[Fatigue Restore]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Field Surgeon's Kit]] | [[Bind Wounds]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Fire Arrow Mastery]] | [[Fire Arrow (Ability)\|Fire Arrow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Fire Bomb Reserve]] | [[Fire Bomb (Ability)\|Fire Bomb]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Fire-Quench Wrap]] | [[Smother Flames]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Fireball Mastery]] | [[Fireball (Ability)\|Fireball]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Firing Line Conditioning]] | [[Firing Line]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Flurry Mastery]] | [[Flurry (Ability)\|Flurry]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Flushing Shot Mastery]] | [[Flushing Shot (Ability)\|Flushing Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Frenzy Reserve]] | [[Frenzy (Ability)\|Frenzy]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Gap-Finder]] | [[Find the Gap (Ability)\|Find the Gap]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Gaze-Catcher]] | [[Draw Their Eye (Ability)\|Draw Their Eye]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Ghost Walk Mastery]] | [[Ghost Walk (Ability)\|Ghost Walk]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Glutton-Spirit Charm]] | [[Feast of War]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Grand Finale Mastery]] | [[Grand Finale (Ability)\|Grand Finale]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Gravitational Crush Mastery]] | [[Gravitational Crush (Ability)\|Gravitational Crush]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
-| [[Guard-Splitter]] | [[Expose the Flank (Ability)\|Expose the Flank]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Guard-Breaker]] | [[Opening Strike (Ability)\|Opening Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Guard-Splitter]] | [[Expose the Flank]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Guardian Spirit Mastery]] | [[Guardian Spirit (Ability)\|Guardian Spirit]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Gust Mastery]] | [[Gust]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Gyro-Saw Disc Mastery]] | [[Gyro-Saw Disc (Ability)\|Gyro-Saw Disc]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Hail of Arrows Conditioning]] | [[Hail of Arrows]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Haste Conditioning]] | [[Haste (Ability)\|Haste]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
 | [[Headlong Charge Mastery]] | [[Headlong Charge (Ability)\|Headlong Charge]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Healer's Standard]] | [[Field Hospital]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Heart of the Mountain Conditioning]] | [[Heart of the Mountain]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
+| [[Heart of the Wild Conditioning]] | [[Heart of the Wild]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Heavy Chop Mastery]] | [[Heavy Chop]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Hold the Line Focus]] | [[Hold the Line (Ability)\|Hold the Line]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
 | [[Hungering Fetish]] | [[Spirit Leech]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
@@ -343,6 +363,7 @@ All 477 magic properties in the game data.
 | [[Invisibility Mastery]] | [[Invisibility (Ability)\|Invisibility]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Jarring Blow (2H) Mastery]] | [[Jarring Blow (2H)]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Jarring Blow Mastery]] | [[Jarring Blow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Kill Zone Conditioning]] | [[Kill Zone]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Killing Blow Mastery]] | [[Killing Blow (Ability)\|Killing Blow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Lacerate Mastery]] | [[Lacerate (Ability)\|Lacerate]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Last Banner]] | [[Death or Glory (Ability)\|Death or Glory]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
@@ -355,6 +376,7 @@ All 477 magic properties in the game data.
 | [[Life Link Mastery]] | [[Life Link (Ability)\|Life Link]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Lightning Bolt Mastery]] | [[Lightning Bolt (Ability)\|Lightning Bolt]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Long Thrust Mastery]] | [[Long Thrust (Ability)\|Long Thrust]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Low Blow Mastery]] | [[Low Blow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Lullaby Mastery]] | [[Lullaby (Ability)\|Lullaby]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Magic Missile Mastery]] | [[Magic Missile]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Mana Surge Reserve]] | [[Mana Surge (Ability)\|Mana Surge]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
@@ -366,7 +388,9 @@ All 477 magic properties in the game data.
 | [[Mighty Blow Mastery]] | [[Mighty Blow (Ability)\|Mighty Blow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Minor Heal Mastery]] | [[Minor Heal]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Mocking Anthem Conditioning]] | [[Mocking Anthem (Ability)\|Mocking Anthem]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
+| [[Mountain's Shelter Mastery]] | [[Mountain's Shelter (Ability)\|Mountain's Shelter]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Nature Walk Mastery]] | [[Nature Walk (Ability)\|Nature Walk]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Needle's Point]] | [[Puncture (Ability)\|Puncture]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Oiled Gearworks]] | [[Clockwork Repeater]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Opportunist Strike Reserve]] | [[Opportunist Strike (Ability)\|Opportunist Strike]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Overclock Reserve]] | [[Overclock]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
@@ -377,11 +401,14 @@ All 477 magic properties in the game data.
 | [[Phase Shift Mastery]] | [[Phase Shift (Ability)\|Phase Shift]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Phase Strike Mastery]] | [[Phase Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Piercing Shot Mastery]] | [[Piercing Shot (Ability)\|Piercing Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Pincer Sigil]] | [[Two Fronts (Ability)\|Two Fronts]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Pinning Shot Mastery]] | [[Pinning Shot (Ability, awakening_pinning_shot)\|Pinning Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Pinning Shot Reserve]] | [[Pinning Shot (Ability, ability_pinning_shot)\|Pinning Shot]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Pincer Sigil]] | [[Two Fronts]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Pinning Shot Mastery]] | [[Transfixing Shot (Ability)\|Transfixing Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Pinning Shot Reserve]] | [[Pinning Shot (Ability)\|Pinning Shot]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Prayer of Renewal Mastery]] | [[Prayer of Renewal]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Precise Strike (2H) Mastery]] | [[Precise Strike (2H)]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Precise Strike Mastery]] | [[Precise Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Pulverize Mastery]] | [[Pulverize (Ability)\|Pulverize]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Quick Shot Mastery]] | [[Quick Shot (Ability)\|Quick Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Radiant Nova Mastery]] | [[Radiant Nova (Ability)\|Radiant Nova]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Ragnarok Mastery]] | [[Ragnarok (Ability)\|Ragnarok]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Rain of Arrows Mastery]] | [[Rain of Arrows (Ability)\|Rain of Arrows]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
@@ -393,7 +420,9 @@ All 477 magic properties in the game data.
 | [[Rift Walk Mastery]] | [[Rift Walk (Ability)\|Rift Walk]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Sanctuary Mastery]] | [[Sanctuary (Ability)\|Sanctuary]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Sanguine Burst Mastery]] | [[Sanguine Burst]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Sanguine Edge]] | [[Blood Feast]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Sanguine Edge]] | [[Red Feast (Ability)\|Red Feast]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Sap Stamina Mastery]] | [[Sap Stamina (Ability)\|Sap Stamina]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Seamrender]] | [[Rend the Seams (Ability)\|Rend the Seams]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Second Wind Reserve]] | [[Second Wind (Ability)\|Second Wind]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Seismic Slam Mastery]] | [[Seismic Slam (Ability)\|Seismic Slam]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Shadow Bolt Reach]] | [[Shadow Bolt]]: +1 range | Weapons, helmets and accessories | Rare | 2 |
@@ -403,29 +432,33 @@ All 477 magic properties in the game data.
 | [[Shadow Strike Mastery]] | [[Shadow Strike (Ability)\|Shadow Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Shadow Veil Mastery (Magic Property)\|Shadow Veil Mastery]] | [[Shadow Veil (Ability)\|Shadow Veil]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Shadow Walk Mastery (Magic Property)\|Shadow Walk Mastery]] | [[Shadow Walk]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Shared Sunder]] | [[Sunder Together (Ability)\|Sunder Together]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Shatter Reserve]] | [[Shatter (Ability)\|Shatter]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Shattering Crescendo Mastery]] | [[Shattering Crescendo (Ability)\|Shattering Crescendo]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Shield Bash Reserve]] | [[Shield Bash (Ability)\|Shield Bash]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Shieldbreaker Mastery]] | [[Shieldbreaker (Ability)\|Shieldbreaker]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Siege Bolt Mastery]] | [[Siege Bolt (Ability)\|Siege Bolt]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Skewer Mastery]] | [[Skewer (Ability)\|Skewer]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Skull Crack Mastery]] | [[Skull Crack (Ability)\|Skull Crack]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Slip Strike Mastery]] | [[Slip Strike (Ability)\|Slip Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Smite Undead Mastery]] | [[Smite Undead]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Sneak Attack Mastery]] | [[Sneak Attack (Ability)\|Sneak Attack]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Sniper's Nest Conditioning]] | [[Sniper's Nest]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Song of Haste Mastery]] | [[Song of Haste (Ability)\|Song of Haste]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Song of Valor Conditioning]] | [[Song of Valor]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[Soul Rend Mastery]] | [[Soul Rend (Ability)\|Soul Rend]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Sporecloud Mastery]] | [[Sporecloud (Ability)\|Sporecloud]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Spring Jump Mastery]] | [[Spring Jump (Ability)\|Spring Jump]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Sprint Reserve]] | [[Sprint (Ability, ability_sprint)\|Sprint]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Sprint Reserve]] | [[Sprint (Ability)\|Sprint]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Staff Slam Reserve]] | [[Staff Slam (Ability)\|Staff Slam]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Steam-Powered Punch Mastery]] | [[Steam-Powered Punch (Ability)\|Steam-Powered Punch]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Stone Bastion Conditioning]] | [[Stone Bastion (Ability)\|Stone Bastion]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
-| [[Stoneskin Conditioning]] | [[Stoneskin]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
+| [[Stone Shards Conditioning]] | [[Stone Shards]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
+| [[Stoneskin Conditioning]] | [[Stoneskin (Ability)\|Stoneskin]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
 | [[Storm of Steel Mastery]] | [[Storm of Steel (Ability)\|Storm of Steel]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Stormrider's Wings]] | [[Short Flight]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Sunburst Mastery]] | [[Sunburst (Ability)\|Sunburst]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Sunder Armor (2H) Mastery]] | [[Sunder Armor (2H)]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Sunder Armor Mastery]] | [[Sunder Armor (Ability)\|Sunder Armor]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Sunder Armor Mastery]] | [[Sunder Armor]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Sundering Blow Reserve]] | [[Sundering Blow (Ability)\|Sundering Blow]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
 | [[Sweeping Blow Mastery]] | [[Sweeping Blow (Ability)\|Sweeping Blow]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Telekinetic Crush Mastery]] | [[Telekinetic Crush]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
@@ -451,19 +484,21 @@ All 477 magic properties in the game data.
 | [[Trailcarver]] | [[Warpath (Ability)\|Warpath]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Tremor Mastery (Magic Property)\|Tremor Mastery]] | [[Tremor]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[True Immortality Mastery]] | [[True Immortality (Ability)\|True Immortality]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
-| [[Turnkey Hilt]] | [[Pivot Strike (Ability)\|Pivot Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Twin Fangs Mastery]] | [[Twin Fangs (Ability)\|Twin Fangs]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Twin Strike Mastery]] | [[Twin Strike (Ability)\|Twin Strike]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Undying Mastery]] | [[Undying (Ability)\|Undying]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Unseen Step]] | [[Slip Behind (Ability)\|Slip Behind]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Verdant Wind Mastery]] | [[Verdant Wind (Ability)\|Verdant Wind]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Volley Mastery]] | [[Volley (Ability)\|Volley]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Wanderer's Cadence Conditioning]] | [[Wanderer's Cadence]]: -1 fatigue upkeep per turn | Weapons, helmets and accessories | Rare | 2 |
 | [[War-Caller's Idol]] | [[Bloodfury Chant]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[War-Chorus]] | [[All Together Now (Ability)\|All Together Now]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Warcry of Ruin Mastery]] | [[Warcry of Ruin (Ability)\|Warcry of Ruin]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
+| [[Ward Bolt Conditioning]] | [[Ward Bolt (Ability)\|Ward Bolt]]: -30% fatigue cost | Weapons, helmets and accessories | Rare | 2 |
+| [[Warning Shot Mastery]] | [[Warning Shot (Ability)\|Warning Shot]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Whirlwind Mastery]] | [[Whirlwind (Ability)\|Whirlwind]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
+| [[Whirlwind Step]] | [[Whirl Away (Ability)\|Whirl Away]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Whirlwind Strike Mastery]] | [[Whirlwind Strike (Ability)\|Whirlwind Strike]]: +1 use per battle | Weapons, helmets and accessories | Rare | 2 |
-| [[Wild Growth Mastery]] | [[Wild Growth]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
-| [[Wildshape Mastery]] | [[Wildshape (Ability)\|Wildshape]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Wither Mastery]] | [[Wither (Ability)\|Wither]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 | [[Wolf's Tread]] | [[Circle the Prey (Ability)\|Circle the Prey]]: -1 turn cooldown | Weapons, helmets and accessories | Rare | 2 |
 
@@ -526,10 +561,10 @@ All 477 magic properties in the game data.
 
 | Name | Effect | Allowed on | Min rarity | Weight |
 |---|---|---|---|---|
-| [[Adrenal Rush]] | On a melee kill: cast [[Sprint (Ability, ability_sprint)\|Sprint]] | Body armor and accessories | Epic | 3 |
+| [[Adrenal Rush]] | On a melee kill: cast [[Sprint (Ability)\|Sprint]] | Body armor and accessories | Epic | 3 |
 | [[Battle Rush]] | On a critical hit: cast [[Battle Cry (Ability)\|Battle Cry]] | Weapons and helmets | Epic | 3 |
 | [[Healer Touch]] | When hit: cast [[Second Wind (Ability)\|Second Wind]] (30% chance) | Accessories | Epic | 3 |
-| [[Tactical Withdraw]] | When hit while at low HP: cast [[Sprint (Ability, ability_sprint)\|Sprint]] (once per combat) | Body armor | Epic | 3 |
+| [[Tactical Withdraw]] | When hit while at low HP: cast [[Sprint (Ability)\|Sprint]] (once per combat) | Body armor | Epic | 3 |
 | [[Berserk Surge]] | On your first kill each combat: cast [[Battle Cry (Ability)\|Battle Cry]] | Weapons | Legendary | 3 |
 | [[Rallying Strike]] | On a critical hit: cast [[Rally (Ability)\|Rally]] | Weapons | Legendary | 3 |
 

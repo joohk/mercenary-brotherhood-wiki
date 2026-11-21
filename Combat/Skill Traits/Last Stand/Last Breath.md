@@ -20,7 +20,7 @@ up: "[[Last Stand (Skill)]]"
 
 An uncommon passive skill trait of [[Last Stand (Skill)|Last Stand]] with 2 ranks.
 
-> +2 armor, +3 Melee Defense when below 25% HP.
+> +2 armor, +2 Melee Defense when below 25% HP.
 
 ## Upgrades
 

@@ -39,7 +39,7 @@ A tier-3 two-handed piercing mechanical crossbow dealing 14-20 damage at range 5
 | Damage type | Piercing |
 | Hands | Two-handed |
 | Ranged Damage | 14-20 |
-| [[Stats#Armor Pen\|Armor Pen]] | +7 |
+| [[Stats#Armor Pen\|Armor Pen]] | +9 |
 | [[Stats#Initiative\|Initiative]] | -5 |
 | Range | 5 hexes |
 | Price | 540 |

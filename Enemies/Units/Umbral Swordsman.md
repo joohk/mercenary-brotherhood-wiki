@@ -44,7 +44,7 @@ A tier-3 enemy of [[The Umbral Court]] faction — 115 HP, 12 armor, worth 38 XP
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 21 |
 | [[Stats#Damage Min\|Damage]] | 6-8 |
-| Damage with weapon | 20-31 (base 6-8 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 23-34 (base 6-8 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-3 enemy of [[The Umbral Court]] faction — 115 HP, 12 armor, worth 38 XP
 | Gold | 30 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Umbral Court Combat Sheet\|all The Umbral Court units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,9 +66,19 @@ A tier-3 enemy of [[The Umbral Court]] faction — 115 HP, 12 armor, worth 38 XP
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 35 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 48 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8, [[Plated Helmet]] +2 | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6, [[Plated Helmet]] +2 | +8% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9, [[Plated Helmet]] +6 | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 

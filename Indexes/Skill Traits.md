@@ -3,13 +3,13 @@ type: index
 tags:
   - type/index
 source: skills/
-count: 422
+count: 447
 up: "[[Your Company]]"
 ---
 
 [[Home]] › [[Your Company]]
 
-All 422 skill traits in the game data.
+All 447 skill traits in the game data.
 
 ## Arcane Mastery (12)
 
@@ -28,21 +28,19 @@ All 422 skill traits in the game data.
 | [[Pyromaniac]] | Rare | Passive | 1 | — | +6 [[Stats#Magic Power\|Magic Power]] |
 | [[Stormcaller (Skill Trait)\|Stormcaller]] | Rare | Passive | 1 | — | +6 [[Stats#Magic Power\|Magic Power]] |
 
-## Archery (11)
+## Archery (9)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Hawkeye]] | Common | Passive | 2 | — | +5 [[Stats#Ranged Attack\|Ranged Attack]]; +1 [[Stats#Vision\|Vision]] |
-| [[Bodkin Points]] | Uncommon | Passive | 2 | — | +2 [[Stats#Armor Pen\|Armor Pen]] |
-| [[Called Shot (Skill Trait)\|Called Shot]] | Uncommon | Ability | 2 | [[Called Shot (Ability, ability_called_shot)\|Called Shot]] | Aimed shot at +25% damage and +15 to-hit. Requires a bow. |
-| [[Hobbling Shots]] | Uncommon | Passive | 2 | — | Your arrows naturally find tendons and joints. Ranged hits have a 25% chance to… |
-| [[Steady Aim (Skill Trait, Archery)\|Steady Aim]] | Uncommon | Passive | 2 | — | If you haven't moved this turn, gain +15% to hit and +3/+5 damage on ranged… |
-| [[Volley (Skill Trait, Archery)\|Volley]] | Uncommon | Ability | 2 | [[Volley (Ability)\|Volley]] | Fire a spread of arrows at a target hex, hitting all units in a small radius. |
-| [[Far Shot]] | Rare | Passive | 2 | — | +1 Ranged Range; +3 [[Stats#Ranged Attack\|Ranged Attack]] |
+| [[Blunt Arrow (Skill Trait)\|Blunt Arrow]] | Common | Ability | 2 | [[Blunt Arrow (Ability)\|Blunt Arrow]] | A heavy blunt head that hammers the target back. A bow shot at 120% damage that… |
+| [[Second Nock]] | Common | Passive | 2 | — | Nock the next arrow while the last is still in flight. After a bow ability… |
+| [[Barbed Fletching]] | Uncommon | Passive | 2 | — | Barbs that stay in the wound. Bleeds from your bow last 1 turn longer. |
+| [[Bodkin Arrow (Skill Trait)\|Bodkin Arrow]] | Uncommon | Ability | 2 | [[Bodkin Arrow (Ability)\|Bodkin Arrow]] | A narrow steel point for armored foes. A bow shot that ignores 6 armor and 10%… |
+| [[Broadhead Arrow (Skill Trait)\|Broadhead Arrow]] | Uncommon | Ability | 2 | [[Broadhead Arrow (Ability)\|Broadhead Arrow]] | A wide, barbed head that opens deep wounds. A bow shot that adds 2 Bleed stacks… |
+| [[Flight Arrows]] | Uncommon | Passive | 2 | — | +1 Ranged Range |
+| [[Fire Arrow (Skill Trait)\|Fire Arrow]] | Rare | Ability | 2 | [[Fire Arrow (Ability)\|Fire Arrow]] | An arrow wrapped in burning pitch. Half its damage is fire, and a hit sets the… |
 | [[Flurry (Skill Trait)\|Flurry]] | Rare | Ability | 2 | [[Flurry (Ability)\|Flurry]] | Loose two arrows in a single action at reduced accuracy. |
-| [[Headshot (Skill Trait, Archery)\|Headshot]] | Rare | Passive | 2 | — | Critical hits on ranged attacks deal double damage instead of the normal bonus. |
 | [[Piercing Shot (Skill Trait)\|Piercing Shot]] | Rare | Ability | 2 | [[Piercing Shot (Ability)\|Piercing Shot]] | Loose a heavy arrow that punches through the first target into a second enemy… |
-| [[Pinning Shot (Skill Trait)\|Pinning Shot]] | Rare | Ability | 2 | [[Pinning Shot (Ability, ability_pinning_shot)\|Pinning Shot]] | Arrow to the leg that Roots the target. Requires a bow. |
 
 ## Armor Breaker (8)
 
@@ -50,26 +48,28 @@ All 422 skill traits in the game data.
 |---|---|---|---|---|---|
 | [[Gap Finder]] | Common | Passive | 2 | — | +3 [[Stats#Armor Pen\|Armor Pen]] |
 | [[Heavy Blows (Skill Trait, Armor Breaker)\|Heavy Blows]] | Common | Passive | 2 | — | +2 to +3 [[Stats#Damage Min\|Damage]] |
-| [[Concussive Strike]] | Uncommon | Passive | 2 | — | Armor-breaking hits that deal 12+ damage have a 20% chance to Stun. |
+| [[Concussive Strike]] | Uncommon | Passive | 2 | — | Melee weapon hits that deal 12+ damage have a 20% chance to Stun. |
 | [[Skull Crack (Skill Trait, Armor Breaker)\|Skull Crack]] | Uncommon | Ability | 2 | [[Skull Crack (Ability)\|Skull Crack]] | A focused blow with a chance to Stun. Requires a mace. |
 | [[Sunder]] | Uncommon | Passive | 2 | — | +2 [[Stats#Melee Attack\|Melee Attack]]; +2 [[Stats#Armor Pen\|Armor Pen]] |
 | [[Can Opener]] | Rare | Passive | 2 | — | +5 [[Stats#Armor Pen\|Armor Pen]]; +2% [[Stats#Crit Chance\|Crit Chance]] |
-| [[Chink Finder]] | Rare | Passive | 2 | — | +4 [[Stats#Armor Pen\|Armor Pen]]; +3 [[Stats#Damage Max\|Damage Max]]; +10% [[Stats#Crit Damage\|Crit Damage]] |
+| [[Gap in Armor]] | Rare | Passive | 2 | — | +4 [[Stats#Armor Pen\|Armor Pen]]; +3 [[Stats#Damage Max\|Damage Max]]; +10% [[Stats#Crit Damage\|Crit Damage]] |
 | [[Shatter (Skill Trait)\|Shatter]] | Rare | Ability | 2 | [[Shatter (Ability)\|Shatter]] | A devastating blow that reduces the target's armor by 2 for the rest of combat… |
 
-## Assassination (9)
+## Assassination (11)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Backstab (Skill Trait, Assassination)\|Backstab]] | Common | Passive | 2 | — | Strike where they can't see. +10 to-hit when attacking from behind. |
-| [[Shadow Step (Skill Trait)\|Shadow Step]] | Common | Passive | 2 | — | +3 [[Stats#Initiative\|Initiative]] |
-| [[Exploit Weakness]] | Uncommon | Passive | 2 | — | From behind, every joint in the armor is exposed. +5 armor penetration when… |
-| [[Lethal Ambush]] | Uncommon | Passive | 2 | — | An unseen blade finds its mark. +8 crit chance when attacking from behind. |
-| [[Phantom Dodge]] | Uncommon | Passive | 2 | — | +5% [[Stats#Dodge\|Dodge]]; +2 [[Stats#Initiative\|Initiative]] |
-| [[Sneak Attack (Skill Trait)\|Sneak Attack]] | Uncommon | Ability | 1 | [[Sneak Attack (Ability)\|Sneak Attack]] | A perfectly-timed strike against an isolated foe — 140% weapon damage, +20%… |
-| [[Throat Cutter]] | Uncommon | Passive | 2 | — | +3 Damage Min, +3 Damage Max when attacking from behind. Go for the kill. |
+| [[Slip Behind (Skill Trait)\|Slip Behind]] | Common | Ability | 2 | [[Slip Behind (Ability)\|Slip Behind]] | Step to the open tile behind an adjacent foe without provoking, and strike for… |
+| [[Exploit Weakness]] | Uncommon | Passive | 2 | — | From behind, every joint in the armor is exposed. +4 armor penetration when… |
+| [[Find the Vein]] | Uncommon | Passive | 2 | — | From behind, the blade finds what armor can't cover. Your blows from behind… |
+| [[Open Artery]] | Uncommon | Passive | 2 | — | A hit from behind also makes the target bleed for 20% of the damage dealt, over… |
+| [[Puncture (Skill Trait)\|Puncture]] | Uncommon | Ability | 2 | [[Puncture (Ability)\|Puncture]] | A narrow thrust from any side: 90% weapon damage that ignores half the target's… |
+| [[Rend the Seams (Skill Trait)\|Rend the Seams]] | Uncommon | Ability | 2 | [[Rend the Seams (Ability)\|Rend the Seams]] | Cut where the protection joins: 110% weapon damage that ignores 25% of every… |
+| [[Sneak Attack (Skill Trait)\|Sneak Attack]] | Uncommon | Ability | 1 | [[Sneak Attack (Ability)\|Sneak Attack]] | A strike at +20% to hit: 150% weapon damage and ignores 5 armor from behind… |
+| [[Throat Cutter]] | Uncommon | Passive | 2 | — | Go for the kill. +12% damage when attacking from behind. |
 | [[Deathblow]] | Rare | Passive | 2 | — | A critical strike from behind is devastating. +25% crit damage when attacking… |
-| [[Killing Blow (Skill Trait)\|Killing Blow]] | Rare | Ability | 1 | [[Killing Blow (Ability)\|Killing Blow]] | A precise execution strike at 150% weapon damage. If the blow kills the target… |
+| [[Killing Blow (Skill Trait)\|Killing Blow]] | Rare | Ability | 1 | [[Killing Blow (Ability)\|Killing Blow]] | An execution strike at 150% weapon damage, usable on a target below 35% HP, or… |
+| [[Patient Knife]] | Rare | Passive | 2 | — | Wait for the moment. If you made no attack on your previous turn, your first… |
 
 ## Axe Fighting (8)
 
@@ -88,44 +88,46 @@ All 422 skill traits in the game data.
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Grit]] | Common | Passive | 2 | — | Pain only makes you angrier. Gain +5 Willpower each time you take a hit (stacks… |
+| [[Grit]] | Common | Passive | 2 | — | Pain only makes you angrier. Gain +5 Willpower each time a weapon attack hits… |
 | [[Thick Hide (Skill Trait)\|Thick Hide]] | Common | Passive | 2 | — | +10 [[Stats#Max HP\|Max HP]]; +2 [[Stats#Armor\|Armor]] |
 | [[Bloodied Fury]] | Uncommon | Passive | 2 | — | When below 50% HP, your desperation translates into ferocity: +10% Melee ATK. |
 | [[Second Wind (Skill Trait)\|Second Wind]] | Uncommon | Ability | 2 | [[Second Wind (Ability)\|Second Wind]] | Dig deep and recover HP through sheer willpower. 1 use per battle. |
 | [[Veteran's Pace]] | Uncommon | Passive | 2 | — | +2 [[Stats#Fatigue Recovery\|Fatigue Recovery]]; +5 [[Stats#Max HP\|Max HP]] |
-| [[Undying (Skill Trait, Battle Hardened)\|Undying]] | Rare | Passive | 2 | — | Once per combat, when you would be killed, survive instead with 1 HP. |
+| [[Undying (Skill Trait, Battle Hardened)\|Undying]] | Rare | Passive | 2 | — | Once per combat, when a weapon attack would kill you, survive instead with 1 HP. |
 | [[War Veteran]] | Rare | Passive | 2 | — | You've seen it all. Automatically pass all morale checks — fear has no hold on… |
 
 ## Berserker (10)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Blood Fury (Skill Trait)\|Blood Fury]] | Common | Passive | 2 | — | +8% damage when below 50% HP. |
+| [[Blood Fury (Skill Trait)\|Blood Fury]] | Common | Passive | 2 | — | +8% melee damage when below 50% HP. |
 | [[Pain Tolerance]] | Common | Passive | 2 | — | +2 armor when below 50% HP. |
 | [[Bull Rush (Skill Trait)\|Bull Rush]] | Uncommon | Ability | 1 | [[Bull Rush (Ability)\|Bull Rush]] | Charge up to 2 hexes and slam the target backward 2 hexes. 80% weapon damage. |
 | [[Frenzy (Skill Trait)\|Frenzy]] | Uncommon | Ability | 2 | [[Frenzy (Ability)\|Frenzy]] | Attack twice at -15 hit each. 1 AP, 1 use per battle. |
 | [[Reckless Fury]] | Uncommon | Passive | 2 | — | +20% [[Stats#Crit Damage\|Crit Damage]]; -3 [[Stats#Melee Defense\|Melee Defense]] |
-| [[Rending Chop (Skill Trait, Berserker)\|Rending Chop]] | Uncommon | Ability | 2 | [[Rending Chop (Ability)\|Rending Chop]] | A savage strike that inflicts Bleeding. Requires an axe. |
+| [[Rending Chop (Skill Trait, Berserker)\|Rending Chop]] | Uncommon | Ability | 2 | [[Rending Chop (Ability)\|Rending Chop]] | A savage strike that inflicts Bleeding. |
 | [[Unstoppable (Skill Trait)\|Unstoppable]] | Uncommon | Passive | 2 | — | +8 [[Stats#Willpower\|Willpower]] |
 | [[Bloodlust (Skill Trait)\|Bloodlust]] | Rare | Passive | 2 | — | +5 [[Stats#Melee Attack\|Melee Attack]]; +4 [[Stats#Damage Max\|Damage Max]]; +5% [[Stats#Crit Chance\|Crit Chance]]; … |
 | [[Deathwish]] | Rare | Passive | 1 | — | +15% [[Stats#Damage Min\|Damage]]; -5 [[Stats#Melee Defense\|Melee Defense]] |
 | [[See Red]] | Rare | Passive | 2 | — | +5 Melee Attack when below 25% HP. |
 
-## Blood Magic (11)
+## Blood Magic (13)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Crimson Focus]] | Common | Passive | 2 | — | +3 [[Stats#Willpower\|Willpower]] |
-| [[Life Tap]] | Common | Passive | 2 | — | +4 [[Stats#Max HP\|Max HP]] |
-| [[Blood-Quenched Edge]] | Uncommon | Passive | 2 | — | +3 [[Stats#Armor Pen\|Armor Pen]]; +3 [[Stats#Max HP\|Max HP]] |
-| [[Bloodseeker (Skill Trait)\|Bloodseeker]] | Uncommon | Ability | 1 | [[Bloodseeker (Ability)\|Bloodseeker]] | Sustained: Spend 5 HP per turn to channel raw blood fury — +10 melee/ranged… |
+| [[Leeching Magic]] | Common | Passive | 2 | — | 10% of the damage your blood spells deal comes back to you as HP (on top of… |
+| [[Opened Veins]] | Common | Passive | 2 | — | Blood Bolt and Sanguine Burst make the enemies they hit bleed (1 stack). |
+| [[Blood Ward (Skill Trait)\|Blood Ward]] | Uncommon | Ability | 1 | [[Blood Ward (Ability)\|Blood Ward]] | Unlocks Blood Ward: pay 6% of your max HP to give an ally a barrier worth five… |
+| [[Blood-Quenched Edge]] | Uncommon | Passive | 2 | — | Your weapon hits on a bleeding enemy ignore 4 armor and deal 10% more damage. |
+| [[Desperate Rite]] | Uncommon | Passive | 2 | — | Your blood spells deal +1% damage for every 2% of your HP that is missing, up… |
+| [[Red Feast (Skill Trait)\|Red Feast]] | Uncommon | Passive | 1 | — | When an enemy bleeding from your wounds dies, you regain 10% of your max HP and… |
 | [[Red Mist]] | Uncommon | Passive | 2 | — | When bloodied, your power surges. +5 Melee ATK and +5 Ranged ATK when below 50%… |
-| [[Sacrifice Mastery]] | Uncommon | Passive | 3 | — | Blood spell HP costs are reduced by 25%. |
-| [[Vitality]] | Uncommon | Passive | 2 | — | +8 [[Stats#Max HP\|Max HP]]; +2 [[Stats#Max Fatigue\|Max Fatigue]] |
-| [[Blood Amplification]] | Rare | Passive | 2 | — | +10 [[Stats#Magic Power\|Magic Power]]; -5 [[Stats#Max HP\|Max HP]] |
-| [[Blood Bond (Skill Trait)\|Blood Bond]] | Rare | Ability | 2 | [[Blood Bond (Ability)\|Blood Bond]] | Sacrifice your own vitality to mend an ally. Lose 6 HP to heal an ally for 25… |
-| [[Hemomancer (Skill Trait)\|Hemomancer]] | Rare | Passive | 3 | — | +5 to +8 [[Stats#Damage Min\|Damage]] |
-| [[Sanguine Power]] | Rare | Ability | 3 | [[Sanguine Burst]] | Unlocks Sanguine Burst — an AoE blood explosion. |
+| [[Sacrifice Mastery]] | Uncommon | Passive | 3 | — | Blood costs are reduced by 25%. |
+| [[Scent of Blood]] | Uncommon | Passive | 2 | — | +10 to hit with blood spells against a bleeding enemy. |
+| [[Blood Bond (Skill Trait)\|Blood Bond]] | Rare | Ability | 2 | [[Blood Bond (Ability)\|Blood Bond]] | Sacrifice your own vitality to mend an ally. Lose 6% of your max HP to heal an… |
+| [[Blood Pact (Skill Trait)\|Blood Pact]] | Rare | Ability | 1 | [[Blood Pact (Ability)\|Blood Pact]] | Unlocks Blood Pact: a held rite. Your blood spells deal 25% more damage and… |
+| [[Exsanguinate (Skill Trait)\|Exsanguinate]] | Rare | Ability | 1 | [[Exsanguinate (Ability)\|Exsanguinate]] | Unlocks Exsanguinate: tear every Bleed out of an enemy at once for 1.5x the… |
+| [[Sanguine Power]] | Rare | Ability | 3 | [[Sanguine Burst]] | Unlocks Sanguine Burst: every enemy within 2 takes 12-20 damage, plus half the… |
 
 ## Bloodied Veteran (6)
 
@@ -162,19 +164,20 @@ All 422 skill traits in the game data.
 | [[Thick Skin (Skill Trait)\|Thick Skin]] | Common | Passive | 2 | — | +2 [[Stats#Armor\|Armor]] |
 | [[Counter Attack]] | Uncommon | Passive | 2 | — | +5 [[Stats#Melee Attack\|Melee Attack]] |
 | [[Perfect Parry]] | Uncommon | Passive | 2 | — | +4 [[Stats#Melee Defense\|Melee Defense]]; +4 [[Stats#Ranged Defense\|Ranged Defense]] |
-| [[Punish]] | Uncommon | Passive | 2 | — | When an enemy misses you in melee, your next attack against them gains +3… |
+| [[Punish]] | Uncommon | Passive | 2 | — | When an enemy misses you in melee, your next attack gains +3 Damage Min, +3… |
 | [[Counter-Crit]] | Rare | Passive | 2 | — | +4% [[Stats#Crit Chance\|Crit Chance]]; +3 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Iron Jaw]] | Rare | Passive | 2 | — | +2 [[Stats#Armor\|Armor]]; +4 [[Stats#Melee Defense\|Melee Defense]] |
 
-## Crossbow Mastery (7)
+## Crossbow Mastery (8)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Marksman (Skill Trait)\|Marksman]] | Common | Passive | 2 | — | +5 [[Stats#Ranged Attack\|Ranged Attack]]; +2 Ranged Damage Min |
-| [[Armor-Piercing Bolts]] | Uncommon | Passive | 2 | — | +4 [[Stats#Armor Pen\|Armor Pen]]; +2 Ranged Damage Max |
-| [[Crippling Shot (Skill Trait, Crossbow Mastery)\|Crippling Shot]] | Uncommon | Ability | 2 | [[Crippling Shot (Ability)\|Crippling Shot]] | Aim for the joints. Reduces target movement by 2 and melee defense by 5 for 3… |
-| [[Penetrating Bolt (Skill Trait, Crossbow Mastery)\|Penetrating Bolt]] | Uncommon | Ability | 2 | [[Penetrating Bolt (Ability)\|Penetrating Bolt]] | Fire a bolt with such force it punches through any armor. Ignores all target… |
-| [[Point Blank]] | Uncommon | Passive | 2 | — | At close range the crossbow is devastating. +15% to hit and +5 damage against… |
+| [[Marksman (Skill Trait)\|Marksman]] | Common | Passive | 2 | — | +5 [[Stats#Ranged Attack\|Ranged Attack]]; +3 Ranged Damage |
+| [[Armor-Piercing Bolts]] | Uncommon | Passive | 2 | — | +5 [[Stats#Armor Pen\|Armor Pen]]; +2 Ranged Damage |
+| [[Crippling Shot (Skill Trait)\|Crippling Shot]] | Uncommon | Ability | 2 | [[Crippling Shot (Ability)\|Crippling Shot]] | Aim for the joints. Reduces target movement by 2 and melee defense by 5 for 3… |
+| [[Penetrating Bolt (Skill Trait)\|Penetrating Bolt]] | Uncommon | Ability | 2 | [[Penetrating Bolt (Ability)\|Penetrating Bolt]] | Fire a bolt with such force it punches through any armor. Ignores all target… |
+| [[Point Blank]] | Uncommon | Passive | 2 | — | At close range the crossbow is devastating. +15% to hit and +20% damage against… |
+| [[Siege Bolt (Skill Trait)\|Siege Bolt]] | Uncommon | Ability | 2 | [[Siege Bolt (Ability)\|Siege Bolt]] | Fire a heavy explosive bolt. The target takes it in full, every other enemy… |
 | [[Enchanted Bolt (Skill Trait)\|Enchanted Bolt]] | Rare | Ability | 3 | [[Enchanted Bolt (Ability)\|Enchanted Bolt]] | Whisper a charm over your bolt. Your next ranged attack is a guaranteed hit and… |
 | [[Pinning Bolts]] | Rare | Passive | 3 | — | Heavy bolts nail the target where they stand. Each crossbow hit has a 20%… |
 
@@ -182,10 +185,10 @@ All 422 skill traits in the game data.
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Knife Work]] | Common | Passive | 2 | — | +4 [[Stats#Initiative\|Initiative]]; +3% [[Stats#Crit Chance\|Crit Chance]] |
+| [[Knife Work]] | Common | Passive | 2 | — | +4 [[Stats#Initiative\|Initiative]]; +3% [[Stats#Crit Chance\|Crit Chance]]; +5 [[Stats#Bypass\|Bypass]] |
 | [[Lacerate (Skill Trait)\|Lacerate]] | Uncommon | Ability | 2 | [[Lacerate (Ability)\|Lacerate]] | A flurry of shallow cuts that inflicts Bleeding (5 damage per tick for 3… |
 | [[Serrated]] | Uncommon | Passive | 2 | — | Your blades leave ragged wounds. Melee hits have a 30% chance to apply Bleeding. |
-| [[Vital Strike]] | Uncommon | Passive | 2 | — | +3% [[Stats#Crit Chance\|Crit Chance]]; +3 [[Stats#Damage Min\|Damage Min]] |
+| [[Vital Strike]] | Uncommon | Passive | 2 | — | +3% [[Stats#Crit Chance\|Crit Chance]]; +3 [[Stats#Damage Min\|Damage Min]]; +10 [[Stats#Bypass\|Bypass]] |
 | [[Death from Shadow]] | Rare | Passive | 3 | — | Your first strike each combat is always a critical hit. Attacks from behind… |
 | [[Shadow Strike (Skill Trait)\|Shadow Strike]] | Rare | Ability | 3 | [[Shadow Strike (Ability)\|Shadow Strike]] | Teleport behind the target and attack with +20% damage. Range 3. Requires a… |
 | [[Slip Strike (Skill Trait)\|Slip Strike]] | Rare | Ability | 3 | [[Slip Strike (Ability)\|Slip Strike]] | Dart past an adjacent enemy, striking on the way through for 75% damage. Always… |
@@ -197,13 +200,13 @@ All 422 skill traits in the game data.
 |---|---|---|---|---|---|
 | [[Dark Pact (Skill Trait)\|Dark Pact]] | Common | Passive | 2 | — | +8 [[Stats#Max Fatigue\|Max Fatigue]]; +5 [[Stats#Max HP\|Max HP]] |
 | [[Malice]] | Common | Passive | 2 | — | +3 [[Stats#Melee Attack\|Melee Attack]]; +3 [[Stats#Ranged Attack\|Ranged Attack]] |
-| [[Curse (Skill Trait)\|Curse]] | Uncommon | Ability | 2 | [[Curse (Ability)\|Curse]] | Hex an enemy with dark power. Target suffers -10 Melee ATK and -10 Ranged ATK… |
-| [[Fatigue Drain (Skill Trait)\|Fatigue Drain]] | Uncommon | Ability | 2 | [[Fatigue Drain (Ability)\|Fatigue Drain]] | Sap an enemy's stamina, increasing their fatigue while recovering your own. |
+| [[Curse (Skill Trait)\|Curse]] | Uncommon | Ability | 2 | [[Curse (Ability)\|Curse]] | Hex an enemy with dark power. Target suffers -8 Melee ATK and -8 Ranged ATK for… |
 | [[Greater Life Drain]] | Uncommon | Ability | 2 | — | Your Life Drain heals you for 75% of the damage dealt instead of 50%. |
 | [[Malevolent Force]] | Uncommon | Passive | 2 | — | +6 [[Stats#Magic Power\|Magic Power]]; +3 [[Stats#Willpower\|Willpower]] |
+| [[Sap Stamina (Skill Trait)\|Sap Stamina]] | Uncommon | Ability | 2 | [[Sap Stamina (Ability)\|Sap Stamina]] | Sap an enemy's stamina, increasing their fatigue while recovering your own. |
 | [[Wither (Skill Trait)\|Wither]] | Uncommon | Ability | 2 | [[Wither (Ability)\|Wither]] | Curse a foe with creeping decay. Deals 4 dark damage/tick for 4 ticks and… |
 | [[Corrosive Hex]] | Rare | Passive | 2 | — | +4 [[Stats#Armor Pen\|Armor Pen]]; +3 [[Stats#Willpower\|Willpower]] |
-| [[Eldritch Mastery]] | Rare | Passive | 3 | — | Deeper command of eldritch forces increases blast damage. |
+| [[Eldritch Mastery]] | Rare | Passive | 3 | — | Deeper command of eldritch forces increases blast damage. +5 bonus damage to… |
 | [[Soul Rend (Skill Trait)\|Soul Rend]] | Rare | Ability | 3 | [[Soul Rend (Ability)\|Soul Rend]] | Tear at an enemy's essence, dealing armor-ignoring damage and crushing their… |
 
 ## Dodge Master (6)
@@ -262,23 +265,22 @@ All 422 skill traits in the game data.
 | [[Draw Poison (Skill Trait)\|Draw Poison]] | Uncommon | Ability | 1 | [[Draw Poison (Ability)\|Draw Poison]] | Learn Draw Poison — lance a poisoned wound to remove Poison from an ally. |
 | [[Quenching Hands]] | Uncommon | Ability | 1 | [[Smother Flames]] | Learn Smother Flames — beat out the fire on a burning ally. |
 | [[Tourniquet]] | Uncommon | Ability | 1 | [[Staunch Bleeding]] | Learn Staunch Bleeding — apply pressure to stop an ally's Bleeding. |
-| [[Practiced Medic]] | Rare | Passive | 1 | — | Surer hands, deeper supplies. Bind Wounds heals 22 HP instead of 16. |
+| [[Practiced Medic]] | Rare | Passive | 1 | — | Surer hands, deeper supplies. Bind Wounds heals 11 HP instead of 8. |
 
-## Flanking (11)
+## Flanking (10)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Circle the Prey (Skill Trait)\|Circle the Prey]] | Common | Ability | 2 | [[Circle the Prey (Ability)\|Circle the Prey]] | Step around a foe you are already engaged with to the open hex beside them with… |
+| [[Circle the Prey (Skill Trait)\|Circle the Prey]] | Common | Ability | 2 | [[Circle the Prey (Ability)\|Circle the Prey]] | Step around a foe you are already engaged with to the open tile in its side… |
+| [[Find the Gap (Skill Trait)\|Find the Gap]] | Common | Ability | 2 | [[Find the Gap (Ability)\|Find the Gap]] | Spend 1 Footwork to slip the blade between plates: 110% weapon damage that… |
 | [[Off Angle]] | Common | Passive | 2 | — | You work outside the guard. +6 Melee Attack when your blow lands in the side… |
-| [[Blindside (Skill Trait)\|Blindside]] | Uncommon | Ability | 2 | [[Blindside (Ability)\|Blindside]] | A strike into the blind line that no shield or parry can answer. Only usable… |
-| [[Expose the Flank (Skill Trait)\|Expose the Flank]] | Uncommon | Ability | 2 | [[Expose the Flank (Ability)\|Expose the Flank]] | Wrench a guard open for the whole company - for 2 rounds, every ally attack on… |
-| [[No Safe Side]] | Uncommon | Passive | 2 | — | A shield covers one line and you are never on it. Your side-arc attacks cannot… |
-| [[Pack Tactics (Skill Trait)\|Pack Tactics]] | Uncommon | Passive | 2 | — | +2 Flank Armor Pen per Ally |
-| [[Pivot Strike (Skill Trait)\|Pivot Strike]] | Uncommon | Ability | 2 | [[Pivot Strike (Ability)\|Pivot Strike]] | Strike and force the target to wheel toward you - turning their back on whoever… |
-| [[Vulture]] | Uncommon | Passive | 2 | — | You strike the instant a comrade forces a reaction. When an ally hits an enemy… |
-| [[Cut the Strings]] | Rare | Passive | 2 | — | You sever tendon and tether. Each side-arc hit stacks -3 Initiative on the… |
-| [[Encircled (Skill Trait)\|Encircled]] | Rare | Passive | 2 | — | A surrounded soldier fights the whole circle at once. Enemies adjacent to two… |
-| [[Two Fronts (Skill Trait)\|Two Fronts]] | Rare | Ability | 2 | [[Two Fronts (Ability)\|Two Fronts]] | Strike every adjacent enemy who already has one of your comrades on their other… |
+| [[Weaving]] | Common | Passive | 2 | — | You never stand where the blow lands. +2 Melee Defense for each Footwork you… |
+| [[Blindside (Skill Trait)\|Blindside]] | Uncommon | Ability | 2 | [[Blindside (Ability)\|Blindside]] | The finisher a skirmisher works toward: a strike into the side arc that no… |
+| [[Darting Strike (Skill Trait)\|Darting Strike]] | Uncommon | Ability | 2 | [[Darting Strike (Ability)\|Darting Strike]] | Dart up to 2 tiles to the open tile in a foe's side arc, without provoking, and… |
+| [[No Safe Side]] | Uncommon | Passive | 1 | — | A shield covers one line and you are never on it. Your side-arc attacks ignore… |
+| [[Slip the Blow]] | Uncommon | Passive | 2 | — | Every miss is a step taken. When an attack from a foe you hold Sidestep against… |
+| [[Whirl Away (Skill Trait)\|Whirl Away]] | Uncommon | Ability | 2 | [[Whirl Away (Ability)\|Whirl Away]] | Spend 2 Footwork to spin up to 2 tiles away without provoking a single… |
+| [[Never Where They Look]] | Rare | Passive | 1 | — | They hear you, turn, and you are already gone. A foe you strike from the side… |
 
 ## Formation Fighter (9)
 
@@ -287,9 +289,9 @@ All 422 skill traits in the game data.
 | [[Living Wall]] | Common | Passive | 2 | — | +3 [[Stats#Ranged Defense\|Ranged Defense]]; +5 [[Stats#Willpower\|Willpower]] |
 | [[Shield Brother]] | Common | Passive | 2 | — | +4 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Anchor]] | Uncommon | Passive | 2 | — | +3 armor when not moving this turn. Hold your ground at all costs. |
-| [[Brace (Skill Trait, Formation Fighter)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability, ability_brace)\|Brace]] | Set your spear against a charge. Requires a spear. |
-| [[Hold the Line (Skill Trait)\|Hold the Line]] | Uncommon | Ability | 2 | [[Hold the Line (Ability)\|Hold the Line]] | Adjacent allies gain +10 Melee Defense for 2 turns. 1 AP, 1 use per battle. |
-| [[Long Thrust (Skill Trait)\|Long Thrust]] | Uncommon | Ability | 2 | [[Long Thrust (Ability)\|Long Thrust]] | A lunging stab at range 2. Requires a spear. |
+| [[Brace (Skill Trait, Formation Fighter)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability)\|Brace]] | Set your spear against a charge. Requires a spear. |
+| [[Hold the Line (Skill Trait)\|Hold the Line]] | Uncommon | Ability | 2 | [[Hold the Line (Ability)\|Hold the Line]] | Sustained: adjacent allies gain +10 Melee Defense while you hold it. 1 AP… |
+| [[Long Thrust (Skill Trait)\|Long Thrust]] | Uncommon | Ability | 2 | [[Long Thrust (Ability)\|Long Thrust]] | A lunging stab at range 3. Requires a spear. |
 | [[Phalanx (Skill Trait, Formation Fighter)\|Phalanx]] | Uncommon | Passive | 2 | — | +2 armor when 2+ allies adjacent. Formation discipline. |
 | [[Rotation Discipline]] | Uncommon | Passive | 2 | — | +3 [[Stats#Fatigue Recovery\|Fatigue Recovery]]; +3 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Unbreakable Line]] | Rare | Passive | 2 | — | +6 [[Stats#Melee Defense\|Melee Defense]]; +4 [[Stats#Ranged Defense\|Ranged Defense]] |
@@ -301,7 +303,7 @@ All 422 skill traits in the game data.
 | [[Titan Bane]] | Common | Passive | 2 | — | +3 [[Stats#Armor Pen\|Armor Pen]] |
 | [[Topple the Giant]] | Common | Passive | 2 | — | +5 [[Stats#Damage Max\|Damage Max]] |
 | [[Fearless (Skill Trait)\|Fearless]] | Uncommon | Passive | 2 | — | +10 [[Stats#Willpower\|Willpower]] |
-| [[Thunderstrike (Skill Trait, Giant Slayer)\|Thunderstrike]] | Uncommon | Ability | 2 | [[Thunderstrike (Ability)\|Thunderstrike]] | Earth-shaking hammer blow that Stuns. Requires a warhammer. |
+| [[Thunderstrike (Skill Trait, Giant Slayer)\|Thunderstrike]] | Uncommon | Ability | 2 | [[Thunderstrike (Ability)\|Thunderstrike]] | Earth-shaking blow for 120% damage. |
 | [[Trophy Hunter]] | Uncommon | Passive | 2 | — | +4 [[Stats#Melee Attack\|Melee Attack]] |
 | [[Battering Ram (Skill Trait)\|Battering Ram]] | Rare | Ability | 1 | [[Battering Ram (Ability)\|Battering Ram]] | Hurl an enemy 3 hexes with a crushing blow. 60% weapon damage, but devastating… |
 | [[Colossus Killer]] | Rare | Passive | 2 | — | +2% [[Stats#Crit Chance\|Crit Chance]]; +4 [[Stats#Armor Pen\|Armor Pen]] |
@@ -312,13 +314,13 @@ All 422 skill traits in the game data.
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Heavy Blows (Skill Trait, Hammer Fighting)\|Heavy Blows]] | Common | Passive | 2 | — | +3 to +4 [[Stats#Damage Min\|Damage]] |
-| [[Stagger]] | Common | Passive | 2 | — | A well-placed hammer blow knocks the target off balance. 15% chance to Stun on… |
-| [[Armor Crush (Skill Trait)\|Armor Crush]] | Uncommon | Ability | 2 | [[Armor Crush (Ability)\|Armor Crush]] | A targeted blow to the armor plating. Reduces target armor by 4 permanently… |
-| [[Sunder Armor (Skill Trait)\|Sunder Armor]] | Uncommon | Passive | 2 | — | +5 [[Stats#Armor Pen\|Armor Pen]] |
-| [[Thunderstrike (Skill Trait, Hammer Fighting)\|Thunderstrike]] | Uncommon | Ability | 2 | [[Thunderstrike (Ability)\|Thunderstrike]] | Slam the hammer down with earth-shaking force. Stuns the target for 1 turn… |
+| [[Heavy Blows (Skill Trait, Hammer Fighting)\|Heavy Blows]] | Common | Passive | 2 | — | +10% [[Stats#Weapon Damage\|Weapon Damage]] |
+| [[Stagger]] | Common | Passive | 2 | — | A well-placed hammer blow knocks the target off balance. 15% chance on a melee… |
+| [[Crush Resistance (Skill Trait)\|Crush Resistance]] | Uncommon | Ability | 2 | [[Crush Resistance (Ability)\|Crush Resistance]] | A crushing blow that breaks the target's guard. Reduces its physical resistance… |
+| [[Plate Breaker]] | Uncommon | Passive | 2 | — | +5 [[Stats#Armor Pen\|Armor Pen]] |
+| [[Thunderstrike (Skill Trait, Hammer Fighting)\|Thunderstrike]] | Uncommon | Ability | 2 | [[Thunderstrike (Ability)\|Thunderstrike]] | Slam your weapon down with earth-shaking force. Deals 120% damage. |
 | [[Avalanche]] | Rare | Passive | 3 | — | When a hammer strike deals 25 or more damage, the force is so great it ignores… |
-| [[Earthshaker (Skill Trait)\|Earthshaker]] | Rare | Ability | 3 | [[Earthshaker (Ability)\|Earthshaker]] | Slam the hammer into the ground with tremendous force. All adjacent enemies… |
+| [[Earthshaker (Skill Trait)\|Earthshaker]] | Rare | Ability | 3 | [[Earthshaker (Ability)\|Earthshaker]] | Slam the hammer into the ground with tremendous force. Every adjacent enemy… |
 
 ## Heavy Armor Proficiency (8)
 
@@ -327,7 +329,7 @@ All 422 skill traits in the game data.
 | [[Fortified (Skill Trait)\|Fortified]] | Common | Passive | 2 | — | +8 [[Stats#Willpower\|Willpower]]; +4 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Iron Body]] | Common | Passive | 2 | — | +15 [[Stats#Max HP\|Max HP]]; +2 [[Stats#Armor\|Armor]] |
 | [[Impenetrable]] | Uncommon | Passive | 2 | — | +4 [[Stats#Armor\|Armor]]; +4 [[Stats#Melee Defense\|Melee Defense]] |
-| [[Stubborn (Skill Trait, Heavy Armor)\|Stubborn]] | Uncommon | Passive | 2 | — | You absorb blows that would topple a lesser soldier. Reduce all incoming damage… |
+| [[Stubborn (Skill Trait, Heavy Armor)\|Stubborn]] | Uncommon | Passive | 2 | — | You absorb blows that would topple a lesser soldier. Reduce incoming melee… |
 | [[Unyielding]] | Uncommon | Passive | 2 | — | +10 [[Stats#Max Fatigue\|Max Fatigue]] |
 | [[Bulwark (Skill Trait, Heavy Armor)\|Bulwark]] | Rare | Passive | 2 | — | When you hold your ground, you become a fortress. +4 Armor and +6 Ranged DEF… |
 | [[Juggernaut (Skill Trait)\|Juggernaut]] | Rare | Passive | 3 | — | Pain only sharpens your focus. Each time you're hit, gain +3 Melee ATK until… |
@@ -342,10 +344,10 @@ All 422 skill traits in the game data.
 | [[Cleanse (Skill Trait)\|Cleanse]] | Uncommon | Ability | 3 | [[Cleanse (Ability)\|Cleanse]] | Channel purifying light to strip poison, bleeding, and other afflictions from… |
 | [[Divine Protection]] | Uncommon | Passive | 2 | — | +8 [[Stats#Magic Resist\|Magic Resist]] |
 | [[Martyr's Grace (Skill Trait)\|Martyr's Grace]] | Uncommon | Ability | 2 | [[Martyr's Grace (Ability)\|Martyr's Grace]] | Sacrifice yourself to shield another. Take 50% of an ally's incoming damage… |
-| [[Sanctuary (Skill Trait)\|Sanctuary]] | Uncommon | Ability | 2 | [[Fatigue Restore]] | Soothe an ally's exhaustion with divine renewal. |
+| [[Sanctuary (Skill Trait)\|Sanctuary]] | Uncommon | Ability | 2 | [[Prayer of Renewal]] | Soothe an ally's exhaustion with divine renewal. |
 | [[Smite]] | Uncommon | Ability | 2 | [[Smite Undead]] | Call down holy wrath on a foe. Deals triple damage against undead enemies. |
 | [[Sunburst (Skill Trait)\|Sunburst]] | Uncommon | Ability | 2 | [[Sunburst (Ability)\|Sunburst]] | A radiant lance of sunfire scours the target for 10-16 holy damage, +50% vs… |
-| [[Divine Shield]] | Rare | Passive | 3 | — | A chance to negate incoming damage entirely through divine protection. |
+| [[Divine Shield]] | Rare | Passive | 3 | — | A 20% chance to negate an incoming attack's damage entirely through divine… |
 | [[Mend (Skill Trait)\|Mend]] | Rare | Ability | 3 | [[Mend (Ability)\|Mend]] | Channel powerful healing energy to restore an ally's wounds. Heals 24 HP. |
 
 ## Iron Skin (7)
@@ -367,8 +369,8 @@ All 422 skill traits in the game data.
 | [[Stubborn (Skill Trait, Last Stand)\|Stubborn]] | Common | Passive | 2 | — | +8 [[Stats#Willpower\|Willpower]] |
 | [[Survivor (Skill Trait)\|Survivor]] | Common | Passive | 2 | — | +10 [[Stats#Max HP\|Max HP]] |
 | [[Defiance (Skill Trait)\|Defiance]] | Uncommon | Ability | 1 | [[Defiance (Ability)\|Defiance]] | When the wound is the worst, the will is the strongest. Grants the Defiance… |
-| [[Last Breath]] | Uncommon | Passive | 2 | — | +2 armor, +3 Melee Defense when below 25% HP. |
-| [[Cheat Death]] | Rare | Passive | 1 | — | Once per battle, survive a lethal hit at 1 HP. |
+| [[Last Breath]] | Uncommon | Passive | 2 | — | +2 armor, +2 Melee Defense when below 25% HP. |
+| [[Cheat Death]] | Rare | Passive | 1 | — | Once per battle, survive a lethal weapon attack at 1 HP. |
 | [[Undying (Skill Trait, Last Stand)\|Undying]] | Rare | Passive | 2 | — | +3 [[Stats#Armor\|Armor]]; +12 [[Stats#Max HP\|Max HP]] |
 
 ## Light Armor Proficiency (8)
@@ -381,7 +383,7 @@ All 422 skill traits in the game data.
 | [[Evasive Roll]] | Uncommon | Passive | 2 | — | You've learned to roll with ranged impacts. 20% chance to completely dodge an… |
 | [[Fleet Foot]] | Uncommon | Passive | 2 | — | Your light gear lets you cover ground others cannot. +1 sprint distance. |
 | [[Shadow Runner]] | Rare | Passive | 2 | — | After moving 3+ hexes, you gain +10 Melee DEF until your next turn as you blur… |
-| [[Skirmisher (Skill Trait)\|Skirmisher]] | Rare | Passive | 3 | — | You fight on the move. Moving this turn no longer reduces ranged attack… |
+| [[Skirmisher (Skill Trait)\|Skirmisher]] | Rare | Passive | 3 | — | You fight on the move. +3 Ranged ATK when attacking after moving this turn, and… |
 | [[Wind Dancer (Skill Trait)\|Wind Dancer]] | Rare | Passive | 2 | — | You weave between strikes with supernatural grace. If you moved this turn, 20%… |
 
 ## Lucky Strike (6)
@@ -399,28 +401,28 @@ All 422 skill traits in the game data.
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Concussive]] | Common | Passive | 2 | — | Every blow can rattle the skull. 15% chance to Stun the target on a melee hit. |
-| [[Bone Breaker]] | Uncommon | Passive | 2 | — | +4 [[Stats#Armor Pen\|Armor Pen]]; +3 [[Stats#Damage Min\|Damage Min]] |
-| [[Crushing Blow (Skill Trait, Mace Fighting)\|Crushing Blow]] | Uncommon | Ability | 2 | [[Crushing Blow (Ability)\|Crushing Blow]] | A heavy bludgeon swing that deals normal damage and knocks the target back one… |
-| [[Daze]] | Uncommon | Passive | 2 | — | Mace blows scramble the mind. Every hit reduces the target's Initiative by 5… |
-| [[Shieldbreaker (Skill Trait)\|Shieldbreaker]] | Uncommon | Ability | 2 | [[Shieldbreaker (Ability)\|Shieldbreaker]] | Target the enemy's guard. Deals 50% damage and reduces their melee defense by… |
+| [[Concussive]] | Common | Passive | 2 | — | Every blow can rattle the skull. +10% chance to Stun the target with a melee… |
+| [[Bone Breaker]] | Uncommon | Passive | 2 | — | +4 [[Stats#Armor Pen\|Armor Pen]]; +10% [[Stats#Weapon Damage\|Weapon Damage]] |
+| [[Crushing Blow (Skill Trait, Mace Fighting)\|Crushing Blow]] | Uncommon | Ability | 2 | [[Crushing Blow (Ability)\|Crushing Blow]] | A heavy bludgeon swing that deals 110% damage and knocks the target back one… |
+| [[Daze]] | Uncommon | Passive | 2 | — | Mace blows scramble the mind. Every hit reduces the target's Initiative by 10… |
+| [[Shieldbreaker (Skill Trait)\|Shieldbreaker]] | Uncommon | Ability | 2 | [[Shieldbreaker (Ability)\|Shieldbreaker]] | Target the enemy's guard. Deals 110% damage and reduces their melee defense by… |
 | [[Skull Crack (Skill Trait, Mace Fighting)\|Skull Crack]] | Uncommon | Ability | 2 | [[Skull Crack (Ability)\|Skull Crack]] | A focused blow to the head. Deals normal damage with a 30% chance to Stun… |
-| [[Concussion (Skill Trait)\|Concussion]] | Rare | Ability | 3 | [[Concussion (Ability)\|Concussion]] | A targeted blow to the head that scrambles the enemy. Reduces melee attack by… |
+| [[Concussion (Skill Trait)\|Concussion]] | Rare | Ability | 3 | [[Concussion (Ability)\|Concussion]] | A targeted blow to the head that scrambles the enemy. Deals 130% damage and… |
 | [[Obliterate]] | Rare | Passive | 3 | — | When a mace strike deals 15 or more damage, it bypasses half of the target's… |
 
 ## Marksman (9)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Calm Breath]] | Common | Passive | 2 | — | +2 Ranged Damage |
-| [[Piercing Shots]] | Common | Passive | 2 | — | +3 [[Stats#Armor Pen\|Armor Pen]] |
-| [[Steady Aim (Skill Trait, Marksman)\|Steady Aim]] | Common | Passive | 2 | — | +4 [[Stats#Ranged Attack\|Ranged Attack]] |
-| [[Headshot (Skill Trait, Marksman)\|Headshot]] | Uncommon | Passive | 2 | — | +3% [[Stats#Crit Chance\|Crit Chance]] |
-| [[Marksman's Focus]] | Uncommon | Passive | 2 | — | +5 [[Stats#Ranged Attack\|Ranged Attack]]; +15% [[Stats#Crit Damage\|Crit Damage]] |
-| [[Penetrating Bolt (Skill Trait, Marksman)\|Penetrating Bolt]] | Uncommon | Ability | 2 | [[Penetrating Bolt (Ability)\|Penetrating Bolt]] | Bolt that ignores all armor. Requires a crossbow. |
-| [[Crippling Shot (Skill Trait, Marksman)\|Crippling Shot]] | Rare | Ability | 2 | [[Crippling Shot (Ability)\|Crippling Shot]] | Aim for joints to reduce movement and defense. Requires a crossbow. |
+| [[Called Shot (Skill Trait)\|Called Shot]] | Uncommon | Ability | 2 | [[Called Shot (Ability)\|Called Shot]] | A careful, aimed shot at +25% damage and +15 to-hit. |
+| [[Execution Shot (Skill Trait)\|Execution Shot]] | Uncommon | Ability | 2 | [[Execution Shot (Ability)\|Execution Shot]] | Finish what you started. A Heavy Shot only at a foe below 30% of its max HP… |
+| [[Hold Breath]] | Uncommon | Passive | 2 | — | Halves the to-hit penalty of your Heavy Shots. |
+| [[Marksman's Focus]] | Uncommon | Passive | 2 | — | +25% [[Stats#Crit Damage\|Crit Damage]] |
+| [[Spotter's Eye]] | Uncommon | Passive | 2 | — | Your ranged attacks ignore half of the defense a target's cover gives it. |
+| [[Steady Aim (Skill Trait)\|Steady Aim]] | Uncommon | Passive | 2 | — | If you haven't moved this turn, your ranged attacks get +15 to-hit and +3… |
 | [[Dead Eye Range]] | Rare | Passive | 2 | — | +2 Ranged Range; +1 [[Stats#Vision\|Vision]]; +3 [[Stats#Ranged Attack\|Ranged Attack]] |
-| [[Eagle Eye (Skill Trait)\|Eagle Eye]] | Rare | Passive | 2 | — | +5 [[Stats#Ranged Attack\|Ranged Attack]]; +3 Ranged Damage Max |
+| [[Deadeye Shot (Skill Trait)\|Deadeye Shot]] | Rare | Ability | 2 | [[Deadeye Shot (Ability)\|Deadeye Shot]] | A long, patient shot. A Heavy Shot for 2 AP: 175% damage, -15 to-hit and +15… |
+| [[Headshot]] | Rare | Passive | 2 | — | Critical hits with ranged attacks deal +100% extra damage on top of the normal… |
 
 ## Melee Mastery (11)
 
@@ -432,26 +434,31 @@ All 422 skill traits in the game data.
 | [[Battle Cry (Skill Trait, Melee Mastery)\|Battle Cry]] | Uncommon | Ability | 2 | [[Battle Cry (Ability)\|Battle Cry]] | A roaring shout that bolsters your allies and shakes enemy nerve. |
 | [[Cleave (Skill Trait, Melee Mastery)\|Cleave]] | Uncommon | Ability | 2 | [[Cleave (Ability)\|Cleave]] | A wide sweeping strike that hits all adjacent enemies for full damage at -20… |
 | [[Crushing Blow (Skill Trait, Melee Mastery)\|Crushing Blow]] | Uncommon | Passive | 2 | — | Heavy hits can stagger foes. Attacks that deal 15+ damage have a 20% chance to… |
-| [[Disarming Strike (Skill Trait, Melee Mastery)\|Disarming Strike]] | Uncommon | Ability | 2 | [[Disarming Strike (Ability)\|Disarming Strike]] | A precise cut that weakens the enemy's grip. Requires a sword. |
+| [[Disarming Strike (Skill Trait, Melee Mastery)\|Disarming Strike]] | Uncommon | Ability | 2 | [[Disarming Strike (Ability)\|Disarming Strike]] | A precise cut that weakens the enemy's grip. |
 | [[Mighty Blow (Skill Trait)\|Mighty Blow]] | Uncommon | Ability | 1 | [[Mighty Blow (Ability)\|Mighty Blow]] | A powerful overhead strike that sends the target stumbling backward 1 hex. 120%… |
 | [[Precision Strikes]] | Uncommon | Passive | 2 | — | +3% [[Stats#Crit Chance\|Crit Chance]] |
 | [[Executioner (Skill Trait)\|Executioner]] | Rare | Passive | 2 | — | You finish what you start. Deal 15% more damage to enemies below 30% HP. |
 | [[Riposte (Skill Trait)\|Riposte]] | Rare | Passive | 2 | — | Whenever an enemy attacks you in melee, hit or miss, you have a 50% chance to… |
 
-## Nature Magic (10)
+## Nature Magic (15)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Evergreen]] | Common | Passive | 3 | — | Regenerate 1 HP per turn |
-| [[Nature's Vigor]] | Common | Passive | 2 | — | +8 [[Stats#Max Fatigue\|Max Fatigue]] |
-| [[Entangling Roots (Skill Trait)\|Entangling Roots]] | Uncommon | Ability | 2 | [[Entangling Roots (Ability)\|Entangling Roots]] | Burst the ground beneath a foe with grasping roots. Roots the target for 2… |
+| [[Festering Rot]] | Common | Passive | 1 | — | A foe carrying your Poison receives 30% less healing and recovers 3 less… |
+| [[Green Breath]] | Common | Passive | 2 | — | Each Nature spell you cast that heals or harms over time gives you back 4… |
+| [[Last Leaf]] | Common | Passive | 1 | — | The first time each battle an ally carrying your Nature healing over time drops… |
+| [[Entangling Roots (Skill Trait)\|Entangling Roots]] | Uncommon | Ability | 3 | [[Entangling Roots (Ability)\|Entangling Roots]] | Burst the ground beneath a foe with thorned roots. Roots the target for 2 turns… |
+| [[Lingering Bloom]] | Uncommon | Passive | 1 | — | Healing over time from your Nature spells that would heal past full HP becomes… |
+| [[Spreading Rot]] | Uncommon | Passive | 1 | — | When a foe carrying your Poison dies, the Poison jumps to every enemy beside it. |
 | [[Thorn Lance (Skill Trait)\|Thorn Lance]] | Uncommon | Ability | 2 | [[Thorn Lance (Ability)\|Thorn Lance]] | Hurl a hardened spike of black thorn. Deals 6-14 piercing damage and applies… |
-| [[Thornskin (Skill Trait)\|Thornskin]] | Uncommon | Ability | 3 | [[Thornskin (Ability)\|Thornskin]] | Sheathe an ally in spined bramble. Attackers take 6 reflected damage on hit for… |
+| [[Thornskin (Skill Trait)\|Thornskin]] | Uncommon | Ability | 3 | [[Thornskin (Ability)\|Thornskin]] | Sheathe an ally in spined bramble for 3 turns. Anyone who hits them takes 6… |
 | [[Verdant Wind (Skill Trait)\|Verdant Wind]] | Uncommon | Ability | 2 | [[Verdant Wind (Ability)\|Verdant Wind]] | Exhale a green gust that drinks the weariness from nearby allies. Restores 6… |
-| [[Bloom of Life (Skill Trait)\|Bloom of Life]] | Rare | Ability | 2 | [[Bloom of Life (Ability)\|Bloom of Life]] | Burst a flower of healing light. Heals all allies in radius 2 for 14 HP each. |
-| [[Grovebound]] | Rare | Passive | 2 | — | +2 [[Stats#Willpower\|Willpower]]; +2 [[Stats#Magic Power\|Magic Power]] |
-| [[Sporecloud (Skill Trait)\|Sporecloud]] | Rare | Ability | 1 | [[Sporecloud (Ability)\|Sporecloud]] | Burst a cloud of toxic spores at a target hex. Deals 6-10 poison damage and… |
-| [[Wildshape (Skill Trait)\|Wildshape]] | Rare | Ability | 2 | [[Wildshape (Ability)\|Wildshape]] | Coax an ally's frame to swell with feral mass. +15 melee atk, +3/+5 melee dmg… |
+| [[Barkskin (Skill Trait)\|Barkskin]] | Rare | Ability | 2 | [[Barkskin (Ability)\|Barkskin]] | Harden an ally's skin into living bark. +8 armor for 3 turns, and Nature… |
+| [[Bloom of Life (Skill Trait)\|Bloom of Life]] | Rare | Ability | 2 | [[Bloom of Life (Ability)\|Bloom of Life]] | Burst a flower of healing light. Heals all allies in radius 2 for 14 HP each… |
+| [[Creeping Blight (Skill Trait)\|Creeping Blight]] | Rare | Ability | 1 | [[Creeping Blight (Ability)\|Creeping Blight]] | Seed a foe with creeping rot. Poisons it for 10 turns, and the poison deals 5%… |
+| [[Rotting Ground]] | Rare | Passive | 1 | — | +3 Magic Power for each Poisoned enemy within 3 tiles of you, up to +9. |
+| [[Sporecloud (Skill Trait)\|Sporecloud]] | Rare | Ability | 2 | [[Sporecloud (Ability)\|Sporecloud]] | Burst a cloud of toxic spores at a target hex. Deals 6-10 poison damage and… |
+| [[Tearing Thorns]] | Rare | Passive | 1 | — | Every attack or ability of yours that inflicts Bleeding applies 2 stacks… |
 
 ## Performance (7)
 
@@ -465,19 +472,6 @@ All 422 skill traits in the game data.
 | [[Mocking Anthem (Skill Trait)\|Mocking Anthem]] | Rare | Ability | 1 | [[Mocking Anthem (Ability)\|Mocking Anthem]] | Grants Mocking Anthem, a split-effect aura that bolsters ally willpower and… |
 | [[Shattering Crescendo (Skill Trait)\|Shattering Crescendo]] | Rare | Ability | 2 | [[Shattering Crescendo (Ability)\|Shattering Crescendo]] | Grants Shattering Crescendo, a loud one-shot that damages and dazes enemies in… |
 
-## Pincer (8)
-
-| Name | Rarity | Type | Ranks | Grants | Effect |
-|---|---|---|---|---|---|
-| [[Opportunist]] | Common | Passive | 2 | — | +3 Melee Attack when attacking a flanked enemy. |
-| [[Slip Away]] | Common | Passive | 2 | — | +4% [[Stats#Dodge\|Dodge]] |
-| [[Surround Tactics]] | Common | Passive | 2 | — | +1 to +3 [[Stats#Damage Min\|Damage]] |
-| [[Exploit Opening (Skill Trait)\|Exploit Opening]] | Uncommon | Ability | 2 | [[Exploit Opening (Ability, ability_exploit_opening)\|Exploit Opening]] | Guaranteed hit on a flanked enemy at 75% damage. 1 AP, 1 use per battle. |
-| [[Exposed Flanks]] | Uncommon | Passive | 2 | — | +3 [[Stats#Armor Pen\|Armor Pen]] |
-| [[Wolf Pack (Skill Trait)\|Wolf Pack]] | Uncommon | Passive | 2 | — | +2 crit chance per ally adjacent to your target. |
-| [[Backstab (Skill Trait, Flanker)\|Backstab]] | Rare | Passive | 2 | — | +4% [[Stats#Crit Chance\|Crit Chance]] |
-| [[Pack Hunter]] | Rare | Passive | 2 | — | +5 [[Stats#Melee Attack\|Melee Attack]] |
-
 ## Poisoner (6)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
@@ -486,8 +480,20 @@ All 422 skill traits in the game data.
 | [[Virulent]] | Common | Passive | 2 | — | +2 [[Stats#Damage Min\|Damage]] |
 | [[Festering Wounds (Skill Trait)\|Festering Wounds]] | Uncommon | Passive | 2 | — | Your DoTs deal +1 extra damage per tick. |
 | [[Numbing Agent]] | Uncommon | Passive | 2 | — | Your poisons sap the enemy's strength. Poisoned targets deal 10% less damage. |
-| [[Plague Bearer]] | Rare | Passive | 2 | — | When a poisoned enemy dies, adjacent enemies have a 20% chance to become… |
+| [[Plague Bearer]] | Rare | Passive | 2 | — | When you kill a poisoned enemy, enemies adjacent to it have a 20% chance to… |
 | [[Venomous (Skill Trait)\|Venomous]] | Rare | Passive | 2 | — | 15% chance to poison on melee hit. |
+
+## Ranged Mastery (7)
+
+| Name | Rarity | Type | Ranks | Grants | Effect |
+|---|---|---|---|---|---|
+| [[Hunker]] | Common | Passive | 2 | — | +10 Ranged Defense against a shot while you are in cover from it. |
+| [[Quick Draw]] | Common | Passive | 2 | — | The first ranged attack you make each turn gets +10 to-hit. |
+| [[High Perch]] | Uncommon | Passive | 2 | — | Shooting down from high ground gives you 50% more to-hit and damage, and raises… |
+| [[Keep Away]] | Uncommon | Passive | 2 | — | While no foe is within 2 tiles: +10 Ranged Defense and +10% ranged damage. |
+| [[Practised Reload]] | Uncommon | Passive | 2 | — | Halves a crossbow's reload delay and a firearm's cooldown. |
+| [[Shoot and Step]] | Uncommon | Passive | 2 | — | After your first ranged attack each turn, move 1 tile for free. Opportunity… |
+| [[Quick Shot (Skill Trait)\|Quick Shot]] | Rare | Ability | 1 | [[Quick Shot (Ability)\|Quick Shot]] | A snap shot at 70% damage for 1 AP: a second shot in a turn without paying for… |
 
 ## Shadow Magic (8)
 
@@ -523,8 +529,8 @@ All 422 skill traits in the game data.
 | [[Shield Bash (Skill Trait)\|Shield Bash]] | Uncommon | Ability | 2 | [[Shield Bash (Ability)\|Shield Bash]] | Strike with your shield to stun an adjacent foe and knock it back 1 hex. |
 | [[Shield Cover]] | Uncommon | Passive | 2 | — | Your raised shield shelters adjacent allies, granting them +3 Ranged DEF. |
 | [[Thunderclap (Skill Trait)\|Thunderclap]] | Uncommon | Ability | 1 | [[Thunderclap (Ability)\|Thunderclap]] | Slam the ground to push all adjacent enemies 1 hex away, breaking formations. |
-| [[Bulwark (Skill Trait, Shield Wall)\|Bulwark]] | Rare | Passive | 2 | — | Your mastery of the shield reduces all incoming ranged damage by 20%. |
-| [[Counterstrike]] | Rare | Passive | 2 | — | When an enemy's melee attack fails against you, your shield deflects a… |
+| [[Bulwark (Skill Trait, Shield Wall)\|Bulwark]] | Rare | Passive | 2 | — | Your mastery of the shield reduces incoming damage from ranged weapon attacks… |
+| [[Counterstrike]] | Rare | Passive | 2 | — | When an enemy's melee attack fails against you, you deflect a retaliatory blow… |
 
 ## Skirmisher (6)
 
@@ -533,8 +539,8 @@ All 422 skill traits in the game data.
 | [[Evasive (Skill Trait)\|Evasive]] | Common | Passive | 2 | — | +5% [[Stats#Dodge\|Dodge]] |
 | [[Mobile Striker]] | Common | Passive | 2 | — | +3 [[Stats#Melee Attack\|Melee Attack]] |
 | [[Disengage (Skill Trait, Skirmisher)\|Disengage]] | Uncommon | Passive | 1 | — | Slip out of melee without provoking a free attack. |
-| [[Opportunist Strike (Skill Trait)\|Opportunist Strike]] | Uncommon | Ability | 2 | [[Opportunist Strike (Ability)\|Opportunist Strike]] | Attack a foe from their flank or rear with melee or ranged weapon for bonus… |
-| [[Sprint (Skill Trait)\|Sprint]] | Uncommon | Ability | 2 | [[Sprint (Ability, ability_sprint)\|Sprint]] | Burst of speed — move 3 additional hexes. Once per battle. |
+| [[Opportunist Strike (Skill Trait)\|Opportunist Strike]] | Uncommon | Ability | 2 | [[Opportunist Strike (Ability)\|Opportunist Strike]] | Attack a foe within melee reach from their flank or rear for bonus to-hit and… |
+| [[Sprint (Skill Trait)\|Sprint]] | Uncommon | Ability | 2 | [[Sprint (Ability)\|Sprint]] | Burst of speed — move 3 additional hexes. Once per battle. |
 | [[Ghost Step (Skill Trait, Skirmisher)\|Ghost Step]] | Rare | Passive | 2 | — | Slip through enemy zones of control. |
 
 ## Spear Fighting (7)
@@ -542,26 +548,29 @@ All 422 skill traits in the game data.
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
 | [[Line Holder]] | Common | Passive | 2 | — | +5 [[Stats#Melee Defense\|Melee Defense]]; +3 [[Stats#Ranged Defense\|Ranged Defense]] |
-| [[Brace (Skill Trait, Spear Fighting)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability, ability_brace)\|Brace]] | Set your spear against a charge. The next enemy that enters melee range takes a… |
-| [[Defensive Thrust (Skill Trait)\|Defensive Thrust]] | Uncommon | Ability | 2 | [[Defensive Thrust (Ability)\|Defensive Thrust]] | A careful spear thrust that strikes, then grants +10 melee defense and +5… |
+| [[Brace (Skill Trait, Spear Fighting)\|Brace]] | Uncommon | Ability | 2 | [[Brace (Ability)\|Brace]] | Set your spear against a charge. The next enemy that enters melee range takes a… |
 | [[Impaling Reach]] | Uncommon | Passive | 2 | — | Your spear's length punishes the careless. When an enemy's melee attack misses… |
-| [[Set Pike]] | Uncommon | Passive | 2 | — | Spear butt planted, point lowered. Deal double damage to any enemy that moved… |
+| [[Set Pike]] | Uncommon | Passive | 2 | — | Spear butt planted, point lowered. When an enemy that moved this turn attacks… |
+| [[Skewer (Skill Trait)\|Skewer]] | Uncommon | Ability | 2 | [[Skewer (Ability)\|Skewer]] | Drive the spear through two foes in a line, striking each enemy in the next two… |
 | [[Bulwark Line]] | Rare | Passive | 3 | — | Locked shoulder-to-shoulder, the spear line becomes a wall. Gain +4 armor while… |
 | [[Phalanx (Skill Trait, Spear Fighting)\|Phalanx]] | Rare | Passive | 3 | — | United you stand. Gain +3 Melee DEF for each adjacent ally (maximum +12). |
 
-## Staff Mastery (9)
+## Staff Mastery (12)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Channel Power]] | Common | Passive | 2 | — | +8 [[Stats#Max Fatigue\|Max Fatigue]] |
-| [[Meditative Focus]] | Common | Passive | 2 | — | +2 [[Stats#Fatigue Recovery\|Fatigue Recovery]]; +3 [[Stats#Willpower\|Willpower]] |
+| [[Meditative Focus]] | Common | Passive | 2 | — | +2 Bonus Fatigue Recovery; +3 [[Stats#Willpower\|Willpower]] |
 | [[Sturdy Stance]] | Common | Passive | 2 | — | +3 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Arcane Sweep]] | Uncommon | Passive | 2 | — | +4 [[Stats#Willpower\|Willpower]]; +3 [[Stats#Melee Defense\|Melee Defense]] |
 | [[Arcane Ward]] | Uncommon | Passive | 2 | — | +5 [[Stats#Magic Resist\|Magic Resist]] |
-| [[Barrier Strike (Skill Trait)\|Barrier Strike]] | Uncommon | Ability | 2 | [[Barrier Strike (Ability)\|Barrier Strike]] | Defensive attack that grants 8 absorption HP on hit (stacks). Requires a staff. |
-| [[Staff Slam (Skill Trait)\|Staff Slam]] | Uncommon | Ability | 2 | [[Staff Slam (Ability)\|Staff Slam]] | Shockwave that hits all enemies at range 1. Requires a staff. |
-| [[Empowered]] | Rare | Passive | 1 | — | +5 [[Stats#Willpower\|Willpower]]; +8 [[Stats#Max Fatigue\|Max Fatigue]] |
-| [[Grand Mastery]] | Rare | Passive | 1 | — | +10 [[Stats#Willpower\|Willpower]]; +5 [[Stats#Max Fatigue\|Max Fatigue]] |
+| [[Barrier Strike (Skill Trait)\|Barrier Strike]] | Uncommon | Ability | 2 | [[Barrier Strike (Ability)\|Barrier Strike]] | Defensive attack that grants an absorption shield equal to 100% of the damage… |
+| [[Close Casting]] | Uncommon | Passive | 2 | — | Cast close and hard: your spells' range drops by 2 (never below 2), but they… |
+| [[Spellstrike]] | Uncommon | Passive | 2 | — | Weave spell and staff together: a spell you cast makes your next staff hit deal… |
+| [[Staff Slam (Skill Trait)\|Staff Slam]] | Uncommon | Ability | 2 | [[Staff Slam (Ability)\|Staff Slam]] | Shockwave that hits all enemies at range 1 for 100% damage and knocks them back… |
+| [[Warded Might]] | Uncommon | Passive | 2 | — | +10% [[Stats#Overall Damage\|Overall Damage]] (while absorb shield); +5 [[Stats#Melee Defense\|Melee Defense]] (while absorb shield) |
+| [[Warding Blows]] | Uncommon | Passive | 2 | — | Every blow you land with a staff leaves a ward: gain an absorption shield equal… |
+| [[Grand Mastery]] | Rare | Passive | 2 | — | +10 [[Stats#Willpower\|Willpower]]; +10 [[Stats#Max Fatigue\|Max Fatigue]] |
+| [[Shield Burst]] | Rare | Passive | 2 | — | When an enemy breaks your absorption shield, it bursts for 50% of its strength… |
 
 ## Steadfast (7)
 
@@ -575,33 +584,37 @@ All 422 skill traits in the game data.
 | [[Unbowed Will]] | Rare | Passive | 2 | — | +5 [[Stats#Magic Resist\|Magic Resist]]; +5 [[Stats#Willpower\|Willpower]] |
 | [[Unbreakable Will (Skill Trait)\|Unbreakable Will]] | Rare | Passive | 1 | — | Immune to Shaken. Your willpower cannot be broken. |
 
-## Stone Magic (9)
+## Stone Magic (12)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Earthen Reserves]] | Common | Passive | 2 | — | +8 [[Stats#Max Fatigue\|Max Fatigue]]; +3 [[Stats#Willpower\|Willpower]] |
-| [[Granite Skin]] | Common | Passive | 2 | — | +3 [[Stats#Armor\|Armor]] |
-| [[Stoneskin Mastery]] | Common | Ability | 1 | — | Your Stoneskin grants +12 armor with only a -5 initiative penalty. |
-| [[Bedrock Resolve]] | Uncommon | Passive | 2 | — | +8 [[Stats#Willpower\|Willpower]]; +8 [[Stats#Max HP\|Max HP]] |
-| [[Boulder Mastery]] | Uncommon | Ability | 2 | [[Boulder Throw]] | Learn Boulder Throw. Hurl a massive stone at a distant enemy for heavy damage… |
-| [[Stone Barrier]] | Uncommon | Passive | 2 | — | +6 [[Stats#Magic Resist\|Magic Resist]]; +2 [[Stats#Armor\|Armor]] |
-| [[Tremor Mastery (Skill Trait)\|Tremor Mastery]] | Uncommon | Ability | 2 | [[Tremor]] | Learn Tremor. Slam the ground to damage and stun nearby enemies. |
-| [[Earthquake Mastery (Skill Trait)\|Earthquake Mastery]] | Rare | Ability | 2 | [[Earthquake]] | Learn Earthquake. Split the earth beneath distant enemies, dealing damage and… |
-| [[Stone Bastion (Skill Trait)\|Stone Bastion]] | Rare | Ability | 2 | [[Stone Bastion (Ability)\|Stone Bastion]] | Learn Stone Bastion. Encase yourself in a fortress of living rock for massive… |
+| [[Earthen Patience]] | Common | Passive | 2 | — | Each stone spell you cast that applies Fracture gives you back 4 fatigue. |
+| [[Fault Lines]] | Common | Passive | 1 | — | Your stone spells deal 5% more damage for each Fracture on the target, up to… |
+| [[Seismic Focus]] | Common | Passive | 2 | — | Quake abilities: -1 turn cooldown |
+| [[Stoneskin (Skill Trait)\|Stoneskin]] | Common | Ability | 2 | [[Stoneskin (Ability)\|Stoneskin]] | Learn Stoneskin. Sustained: encase an ally in living stone for +4 armor and… |
+| [[Boulder Mastery]] | Uncommon | Ability | 2 | [[Boulder Throw]] | Learn Boulder Throw: 18-29 blunt damage, 2 Fracture and -10 initiative for 3 of… |
+| [[Crushing Weight]] | Uncommon | Passive | 1 | — | Your blunt weapon hits (maces, hammers, clubs, staves, slings and fists) also… |
+| [[Splintering Shell]] | Uncommon | Passive | 1 | — | A foe that hits an ally under your Stoneskin takes 1 Fracture. |
+| [[Tremor Mastery (Skill Trait)\|Tremor Mastery]] | Uncommon | Ability | 2 | [[Tremor]] | Learn Tremor: every enemy within 2 takes 8-14 blunt damage and 1 Fracture, with… |
+| [[Unmoved]] | Uncommon | Passive | 1 | — | Allies under your Stoneskin, Mountain's Shelter or Heart of the Mountain are… |
+| [[Earthquake Mastery (Skill Trait)\|Earthquake Mastery]] | Rare | Ability | 2 | [[Earthquake]] | Learn Earthquake: every enemy within 2 of the target takes 13-21 blunt damage… |
+| [[Mountain's Shelter (Skill Trait)\|Mountain's Shelter]] | Rare | Ability | 2 | [[Mountain's Shelter (Ability)\|Mountain's Shelter]] | Learn Mountain's Shelter: you and every ally within 2 get +6 armor and +10%… |
+| [[Pulverize (Skill Trait)\|Pulverize]] | Rare | Ability | 1 | [[Pulverize (Ability)\|Pulverize]] | Learn Pulverize: 11-19 blunt damage plus 3 for each Fracture on the foe, and 1… |
 
-## Suppressor (9)
+## Suppressor (10)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
-| [[Overwatch]] | Common | Passive | 2 | — | +4 [[Stats#Ranged Attack\|Ranged Attack]] |
-| [[Pin Down]] | Common | Passive | 2 | — | +3 Ranged Damage |
-| [[Cover Fire]] | Uncommon | Passive | 2 | — | +4 [[Stats#Ranged Defense\|Ranged Defense]] |
-| [[Harassing Fire]] | Uncommon | Passive | 2 | — | Ranged hits have a 15% chance to reduce target's initiative by 5 for the round. |
-| [[Overwatch Specialist]] | Uncommon | Passive | 2 | — | +1 Ranged Range; +3 [[Stats#Ranged Attack\|Ranged Attack]] |
-| [[Suppressive Hail]] | Uncommon | Passive | 2 | — | +2 to +3 Ranged Damage |
-| [[Volley (Skill Trait, Suppressor)\|Volley]] | Uncommon | Ability | 1 | [[Volley (Ability)\|Volley]] | Area ranged attack at reduced accuracy. |
-| [[Kill Zone]] | Rare | Passive | 2 | — | +5 [[Stats#Ranged Attack\|Ranged Attack]]; +2% [[Stats#Crit Chance\|Crit Chance]] |
-| [[Lane Master]] | Rare | Passive | 2 | — | +4 [[Stats#Ranged Attack\|Ranged Attack]]; +3 [[Stats#Armor Pen\|Armor Pen]]; +10% [[Stats#Crit Damage\|Crit Damage]] |
+| [[Crossfire]] | Common | Passive | 2 | — | A ranged hit on a foe an ally has shot since its last turn lays 1 extra… |
+| [[Warning Shot (Skill Trait)\|Warning Shot]] | Common | Ability | 2 | [[Warning Shot (Ability)\|Warning Shot]] | A shot past the ear to keep their heads down. A ranged shot at 80% damage and… |
+| [[Flushing Shot (Skill Trait)\|Flushing Shot]] | Uncommon | Ability | 2 | [[Flushing Shot (Ability)\|Flushing Shot]] | A shot that finds the gaps. Ignores cover, and a foe that was in cover takes 2… |
+| [[Harassing Fire]] | Uncommon | Passive | 2 | — | Your Suppression also takes 1 Melee and Ranged Defense a stack. |
+| [[Hobbling Shots]] | Uncommon | Passive | 2 | — | Your ranged hits on a foe at 3 or more Suppression have a 25% chance to Root it… |
+| [[Rattling Shots]] | Uncommon | Passive | 2 | — | A hit on a foe at 4 or more Suppression forces a morale check. |
+| [[Volley (Skill Trait)\|Volley]] | Uncommon | Ability | 2 | [[Volley (Ability)\|Volley]] | Fire a spread of shots at a target hex: every foe within 1 tile takes 80%… |
+| [[Covering Fire (Skill Trait)\|Covering Fire]] | Rare | Ability | 2 | [[Covering Fire (Ability)\|Covering Fire]] | Watch an ally's back until your next turn. The first foe to attack it takes an… |
+| [[Heads Down]] | Rare | Passive | 1 | — | A foe you have Suppressed to 3 or more stacks makes no opportunity attacks. |
+| [[Pinning Shot (Skill Trait)\|Pinning Shot]] | Rare | Ability | 2 | [[Pinning Shot (Ability)\|Pinning Shot]] | A shot through the leg. Normal damage, Roots the target for 2 turns and lays 1… |
 
 ## Swordsmanship (8)
 
@@ -626,6 +639,21 @@ All 422 skill traits in the game data.
 | [[Battle Cry (Skill Trait, Tactician)\|Battle Cry]] | Uncommon | Ability | 1 | [[Battle Cry (Ability)\|Battle Cry]] | Bolster allies and rattle foes. 1 use per battle. |
 | [[Command (Skill Trait)\|Command]] | Uncommon | Ability | 2 | [[Command (Ability)\|Command]] | Grant an adjacent ally +1 AP. 1 AP, 1 use per battle. |
 | [[Mastermind]] | Rare | Passive | 2 | — | +4 [[Stats#Melee Attack\|Melee Attack]]; +4 [[Stats#Ranged Attack\|Ranged Attack]] |
+
+## Teamwork (10)
+
+| Name | Rarity | Type | Ranks | Grants | Effect |
+|---|---|---|---|---|---|
+| [[Draw Their Eye (Skill Trait)\|Draw Their Eye]] | Common | Ability | 2 | [[Draw Their Eye (Ability)\|Draw Their Eye]] | Make the foe watch you: it turns to face you and has -10 Melee Attack against… |
+| [[Hammer and Anvil (Skill Trait)\|Hammer and Anvil]] | Common | Ability | 2 | [[Hammer and Anvil (Ability)\|Hammer and Anvil]] | Drive a foe onto a comrade's blade: 100% weapon damage and a 1-tile knockback… |
+| [[Lingering Pressure]] | Common | Passive | 2 | — | They never get the chance to recover. Pressured lasts 1 more turn. |
+| [[Opening Strike (Skill Trait)\|Opening Strike]] | Common | Ability | 2 | [[Opening Strike (Ability)\|Opening Strike]] | Open the guard for everyone: 80% weapon damage, and the foe has -10 Melee… |
+| [[Slip Away]] | Common | Passive | 2 | — | +4% [[Stats#Dodge\|Dodge]] (with 1+ adjacent allies) |
+| [[Surround Tactics]] | Common | Passive | 2 | — | +1 Teamwork Damage Min; +3 Teamwork Damage Max |
+| [[Pack Tactics (Skill Trait)\|Pack Tactics]] | Uncommon | Passive | 2 | — | +2 Flank Armor Pen per Ally; +3 Teamwork Resist Per Ally |
+| [[Sunder Together (Skill Trait)\|Sunder Together]] | Uncommon | Ability | 2 | [[Sunder Together (Ability)\|Sunder Together]] | 90% weapon damage, and the foe loses 2 armor for each comrade beside it (up to… |
+| [[Wolf Pack (Skill Trait)\|Wolf Pack]] | Uncommon | Passive | 2 | — | +2 crit chance per ally adjacent to your target. |
+| [[All Together Now (Skill Trait)\|All Together Now]] | Rare | Ability | 2 | [[All Together Now (Ability)\|All Together Now]] | Every comrade beside the foe strikes it for 25% weapon damage, then you strike… |
 
 ## Telekinesis (10)
 
@@ -662,7 +690,7 @@ All 422 skill traits in the game data.
 | [[Steam-Powered Punch (Skill Trait)\|Steam-Powered Punch]] | Common | Ability | 2 | [[Steam-Powered Punch (Ability)\|Steam-Powered Punch]] | A piston-driven gauntlet delivers a devastating punch that sends the target… |
 | [[Fire Bomb (Skill Trait)\|Fire Bomb]] | Uncommon | Ability | 2 | [[Fire Bomb (Ability)\|Fire Bomb]] | Hurl an alchemical incendiary that explodes on impact, engulfing the area in… |
 | [[Gyro-Saw Disc (Skill Trait)\|Gyro-Saw Disc]] | Uncommon | Ability | 2 | [[Gyro-Saw Disc (Ability)\|Gyro-Saw Disc]] | Launch a spinning saw disc at range 4. Deals piercing damage and causes… |
-| [[Overcharge (Skill Trait)\|Overcharge]] | Rare | Passive | 2 | — | Push gadgets beyond safe limits. Gadget abilities deal +30% effect but cost +5… |
+| [[Overcharge (Skill Trait)\|Overcharge]] | Rare | Passive | 2 | — | Push gadgets beyond safe limits. Gadget abilities deal +30% damage but cost +5… |
 | [[Tesla Coil (Skill Trait)\|Tesla Coil]] | Rare | Ability | 2 | [[Tesla Coil (Ability)\|Tesla Coil]] | Discharge a burst of electricity. Drains fatigue, reduces initiative, stuns for… |
 
 ## Two-Handed Mastery (8)
@@ -678,19 +706,21 @@ All 422 skill traits in the game data.
 | [[Unstoppable Force]] | Rare | Passive | 3 | — | +5 [[Stats#Melee Attack\|Melee Attack]]; +4 [[Stats#Damage Min\|Damage]] |
 | [[Whirlwind (Skill Trait)\|Whirlwind]] | Rare | Ability | 3 | [[Whirlwind (Ability)\|Whirlwind]] | Spin in a full circle with your great weapon, striking every adjacent enemy for… |
 
-## Wand Mastery (10)
+## Wand Mastery (12)
 
 | Name | Rarity | Type | Ranks | Grants | Effect |
 |---|---|---|---|---|---|
 | [[Arcane Focus]] | Common | Passive | 2 | — | +4 [[Stats#Willpower\|Willpower]]; +2 [[Stats#Max Fatigue\|Max Fatigue]] |
-| [[Precise Aim]] | Common | Passive | 2 | — | +3 [[Stats#Willpower\|Willpower]]; +2 [[Stats#Ranged Attack\|Ranged Attack]] |
+| [[Spellweave]] | Common | Passive | 2 | — | After you cast a spell, your next wand shot before the end of your next turn… |
 | [[Arcane Barrage (Skill Trait)\|Arcane Barrage]] | Uncommon | Ability | 2 | [[Arcane Barrage (Ability)\|Arcane Barrage]] | Fire 3 rapid bolts at reduced accuracy. Requires a wand. |
-| [[Dual Channel]] | Uncommon | Passive | 2 | — | +4 [[Stats#Willpower\|Willpower]]; +2 [[Stats#Ranged Attack\|Ranged Attack]] |
+| [[Arcane Burst (Skill Trait)\|Arcane Burst]] | Uncommon | Ability | 2 | [[Arcane Burst (Ability)\|Arcane Burst]] | Hurl an orb that bursts over every enemy within 1 tile of the target point for… |
+| [[Arcane Echo]] | Uncommon | Passive | 2 | — | Your basic wand hits have a 25% chance to arc to the nearest other enemy within… |
 | [[Extended Channel]] | Uncommon | Passive | 2 | — | +1 Ranged Range; +2 [[Stats#Willpower\|Willpower]] |
 | [[Quick Cast]] | Uncommon | Passive | 2 | — | +5 [[Stats#Initiative\|Initiative]] |
 | [[Amplifying Conduit]] | Rare | Passive | 2 | — | +6 [[Stats#Magic Power\|Magic Power]]; +2 [[Stats#Ranged Attack\|Ranged Attack]] |
 | [[Conduit]] | Rare | Passive | 1 | — | +8 [[Stats#Willpower\|Willpower]]; +3 [[Stats#Ranged Attack\|Ranged Attack]] |
 | [[Mana Surge (Skill Trait)\|Mana Surge]] | Rare | Ability | 2 | [[Mana Surge (Ability)\|Mana Surge]] | Channel raw arcane energy for 130% damage. Requires a wand. |
 | [[Spell Sniper]] | Rare | Passive | 1 | — | +6 [[Stats#Willpower\|Willpower]]; +3 [[Stats#Ranged Attack\|Ranged Attack]] |
+| [[Ward Bolt (Skill Trait)\|Ward Bolt]] | Rare | Ability | 2 | [[Ward Bolt (Ability)\|Ward Bolt]] | Fire a bolt into an ally or yourself that leaves a barrier absorbing damage… |
 
 *Generated from `skills/`. Edits will be overwritten — put your own notes in Notes/.*

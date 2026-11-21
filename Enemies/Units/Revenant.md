@@ -40,7 +40,7 @@ A tier-3 enemy of [[The Restless Dead]] faction — 144 HP, 14 armor, worth 40 X
 | [[Stats#Armor\|Armor]] | 14 |
 | [[Stats#Willpower\|Willpower]] | 92 |
 | [[Stats#Damage Min\|Damage]] | 18-30 |
-| Damage with weapon | 32-53 (base 18-30 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 35-56 (base 18-30 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -52,12 +52,26 @@ A tier-3 enemy of [[The Restless Dead]] faction — 144 HP, 14 armor, worth 40 X
 | Gold | 20 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Restless Dead Combat Sheet\|all The Restless Dead units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 45 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+| [[Stats#Poison Resist\|Poison]] | +30% | — | +30% |
+| [[Stats#Shadow Resist\|Shadow]] | +20% | — | +20% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -66,7 +80,8 @@ A tier-3 enemy of [[The Restless Dead]] faction — 144 HP, 14 armor, worth 40 X
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.
 - [[Enrage]] — +30% damage when below 50% HP.
 

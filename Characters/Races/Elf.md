@@ -80,6 +80,13 @@ Weapon families this race favours.
 - **Melee:** Sword, Dagger
 - **Ranged:** Bow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Bow ×3, Light Armor ×2, Sword ×1.5, Staff ×1.3, Wand ×1.3
+- **Disfavoured:** Crossbow ×0.5, Hammer ×0.4, Firearm ×0.3, Heavy Armor ×0.3
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.
@@ -93,7 +100,7 @@ Multipliers on the chance to discover these skills.
 The 30 backgrounds an Elf recruit can roll.
 
 - **Common (13):** [[Acolyte]], [[Acolyte Militant]], [[Candle Witch]], [[Fisherman]], [[Forager]], [[Hedge Wizard]], [[Herb Apprentice]], [[Minstrel]], [[Pilgrim]], [[Scroll Scribe]], [[Shepherd]], [[Temple Guard]], [[Trapper]]
-- **Uncommon (9):** [[Cleric (Background)|Cleric]], [[Druid (Background)|Druid]], [[Duelist (Background)|Duelist]], [[Herbalist]], [[Outrider]], [[Pathfinder]], [[Poacher]], [[Ranger (Background)|Ranger]], [[Scout]]
+- **Uncommon (9):** [[Chaplain]], [[Druid (Background)|Druid]], [[Duelist (Background)|Duelist]], [[Herbalist]], [[Outrider]], [[Pathfinder]], [[Poacher]], [[Ranger (Background)|Ranger]], [[Scout]]
 - **Rare (5):** [[Bard]], [[Blade Dancer]], [[Master Archer]], [[Mind Shaper]], [[Shade Walker]]
 - **Legendary (3):** [[Arcane Prodigy]], [[First Blade]], [[Legendary Hunter]]
 

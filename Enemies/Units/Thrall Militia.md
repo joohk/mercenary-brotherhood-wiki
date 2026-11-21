@@ -44,7 +44,7 @@ A tier-2 enemy of the [[Vampires]] faction — 73 HP, 6 armor, worth 10 XP and 4
 | [[Stats#Vision\|Vision]] | 3 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 15 |
 | [[Stats#Damage Min\|Damage]] | 4-7 |
-| Damage with weapon | 8-15 (base 4-7 + [[Thrall Sword]] 4-8) |
+| Damage with weapon | 8-16 (base 4-7 + [[Thrall Sword]] 4-9) |
 
 ## Combat
 
@@ -56,13 +56,24 @@ A tier-2 enemy of the [[Vampires]] faction — 73 HP, 6 armor, worth 10 XP and 4
 | Gold | 4 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Vampires Combat Sheet\|all Vampires units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 100 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 12 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Tattered Rags]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Tattered Rags]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

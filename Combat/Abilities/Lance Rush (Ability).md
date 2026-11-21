@@ -24,7 +24,7 @@ uses_per_battle: 3
 
 A 1-AP melee ability targeting one enemy up to 5 hexes away, usable 3 times per battle.
 
-> Run a straight line of up to 4 hexes into an enemy and strike. Damage rises with every hex crossed, from 120% up to 190% weapon damage.
+> Run a straight line of up to 4 hexes into an enemy and strike. Damage rises with every hex crossed, from 120% up to 172.5% weapon damage.
 
 ## Stats
 

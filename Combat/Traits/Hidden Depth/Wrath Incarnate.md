@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 Stage 3 of 3 of a hidden depth: a legendary trait that can surface and deepen over a unit's career.
 
-> +17 melee attack, +17 max HP, +5% damage. The blood sings. Wounded rage: below 50% HP, +20% damage.
+> +17 melee attack, +17 max HP, +5% melee damage. The blood sings. Wounded rage: below 50% HP, +20% melee damage.
 >
 > *The ancestors would weep with pride.*
 
@@ -27,14 +27,14 @@ Stage 3 of 3 of a hidden depth: a legendary trait that can surface and deepen ov
 
 | Stage | Trait | Rarity | Description |
 |---|---|---|---|
-| Stage 1 | [[Berserker Blood]] | Rare | +8 melee attack, +8 max HP, -4 melee defense. Fury feeds on pain. Wounded rage: below 50% HP, +10% damage. |
-| Stage 2 | [[Blood Fury (Trait, Hidden Depth)\|Blood Fury]] | Epic | +13 melee attack, +13 max HP, -3 melee defense. The rage answers faster now. Wounded rage: below 50% HP, +15% damage. |
-| Stage 3 | **Wrath Incarnate** | Legendary | +17 melee attack, +17 max HP, +5% damage. The blood sings. Wounded rage: below 50% HP, +20% damage. |
+| Stage 1 | [[Berserker Blood]] | Rare | +8 melee attack, +8 max HP, -4 melee defense. Fury feeds on pain. Wounded rage: below 50% HP, +10% melee damage. |
+| Stage 2 | [[Blood Fury (Trait, Hidden Depth)\|Blood Fury]] | Epic | +13 melee attack, +13 max HP, -3 melee defense. The rage answers faster now. Wounded rage: below 50% HP, +15% melee damage. |
+| Stage 3 | **Wrath Incarnate** | Legendary | +17 melee attack, +17 max HP, +5% melee damage. The blood sings. Wounded rage: below 50% HP, +20% melee damage. |
 
 ## Effects
 
 - +17 [[Stats#Melee Attack|Melee Attack]]
 - +17 [[Stats#Max HP|Max HP]]
-- +5% [[Stats#Damage Min|Damage Min]]
+- +5% [[Stats#Damage Min|Damage]]
 
 *Generated from `traits/hidden_depth_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

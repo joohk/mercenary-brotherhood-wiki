@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A common combat trait (stat boost).
 
-> +8% damage, +5 melee attack
+> +8% melee damage, +5 melee attack
 
 ## Effects
 

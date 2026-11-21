@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Vampires]] faction — 108 HP, 8 armor, worth 44 XP and 
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 23 |
 | [[Stats#Damage Min\|Damage]] | 6-7 |
-| Damage with weapon | 16-24 (base 6-7 + [[Fine Dagger]] 10-17) |
+| Damage with weapon | 20-32 (base 6-7 + [[Fine Dagger]] 14-25) |
 | Action Points | 3 |
 
 ## Combat
@@ -57,7 +57,9 @@ A tier-3 enemy of the [[Vampires]] faction — 108 HP, 8 armor, worth 44 XP and 
 | Gold | 32 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Vampires Combat Sheet\|all Vampires units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -65,10 +67,22 @@ A tier-3 enemy of the [[Vampires]] faction — 108 HP, 8 armor, worth 44 XP and 
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 55 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+| [[Stats#Fire Resist\|Fire]] | -15% | — | **-15%** (weak) |
+| [[Stats#Shadow Resist\|Shadow]] | +25% | — | +25% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Shadow Step (Ability)|Shadow Step]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 
@@ -94,5 +108,6 @@ A tier-3 enemy of the [[Vampires]] faction — 108 HP, 8 armor, worth 44 XP and 
 ## Referenced by
 
 - **Appears in encounters:** [[Forest — Late Tier]]
+- **Escorts:** [[Bloodlord Kael]]
 
 *Generated from `enemies/vampires.json`. Edits will be overwritten — put your own notes in Notes/.*

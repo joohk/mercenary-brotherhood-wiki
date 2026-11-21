@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Demons]] faction — 137 HP, 15 armor, worth 40 XP and 3
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 19-30 (base 5-7 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 22-33 (base 5-7 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -56,13 +56,27 @@ A tier-3 enemy of the [[Demons]] faction — 137 HP, 15 armor, worth 40 XP and 3
 | Gold | 30 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Demons Combat Sheet\|all Demons units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 50 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +20% | [[Banded Mail]] +15 | +35% |
+| [[Stats#Pierce Resist\|Pierce]] | +20% | [[Banded Mail]] +6 | +26% |
+| [[Stats#Blunt Resist\|Blunt]] | +20% | [[Banded Mail]] +10 | +30% |
+| [[Stats#Fire Resist\|Fire]] | +20% | — | +20% |
+| [[Stats#Shadow Resist\|Shadow]] | +20% | — | +20% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -71,6 +85,7 @@ A tier-3 enemy of the [[Demons]] faction — 137 HP, 15 armor, worth 40 XP and 3
 
 ## Passives
 
+- [[Bloodless]] — No blood left to spill. Immune to Bleeding.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.
 - [[Dark Pact (Enemy Passive)|Dark Pact]] — +8 melee attack, +5 damage max, -15 max HP. Sacrificed health for power.
 - [[Battle-Hardened (Enemy Passive)|Battle-Hardened]] — +4 melee defense, +4 ranged defense from years of combat.
@@ -92,6 +107,7 @@ A tier-3 enemy of the [[Demons]] faction — 137 HP, 15 armor, worth 40 XP and 3
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]], [[Ruins — Late Tier]]
+- **Escorts:** [[The Void Herald]]
 - **Reinforces in encounters:** [[Deep Cavern Encounter]], [[Deep Crystal Cave Encounter]], [[Deep Dark Ruins Encounter]], [[Deep Tunnel Encounter]]
 
 *Generated from `enemies/demons.json`. Edits will be overwritten — put your own notes in Notes/.*

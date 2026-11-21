@@ -46,7 +46,7 @@ A tier-1 large Gnoll enemy of the [[Feral Gnolls]] faction — 70 HP, 2 armor, w
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | 2-4 |
-| Damage with weapon | 8-14 (base 2-4 + [[Crude Maul]] 6-10) |
+| Damage with weapon | 8-16 (base 2-4 + [[Crude Maul]] 6-12) |
 
 ## Combat
 
@@ -60,13 +60,25 @@ A tier-1 large Gnoll enemy of the [[Feral Gnolls]] faction — 70 HP, 2 armor, w
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Feral Gnolls Combat Sheet\|all Feral Gnolls units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 45 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 18 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

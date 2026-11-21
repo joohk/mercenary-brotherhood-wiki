@@ -23,7 +23,7 @@ up: "[[Abilities]]"
 
 A 3-AP support ability centred on yourself (radius 2).
 
-> Release a shattering sonic burst. Deals 8-16 sonic damage and shakes enemies within 2 hexes. Requires an instrument. Ends your current aura.
+> Release a shattering sonic burst. Deals 8-16 sonic damage (scales with willpower and magic power) and shakes enemies within 2 hexes. Requires an instrument. Ends your current aura.
 
 ## Stats
 

@@ -20,7 +20,7 @@ up: "[[Traits]]"
 
 Stage 2 of 3 of a hidden depth: an epic trait that can surface and deepen over a unit's career.
 
-> +13 melee attack, +13 max HP, -3 melee defense. The rage answers faster now. Wounded rage: below 50% HP, +15% damage.
+> +13 melee attack, +13 max HP, -3 melee defense. The rage answers faster now. Wounded rage: below 50% HP, +15% melee damage.
 >
 > *They've learned to ride the storm.*
 
@@ -28,9 +28,9 @@ Stage 2 of 3 of a hidden depth: an epic trait that can surface and deepen over a
 
 | Stage | Trait | Rarity | Description |
 |---|---|---|---|
-| Stage 1 | [[Berserker Blood]] | Rare | +8 melee attack, +8 max HP, -4 melee defense. Fury feeds on pain. Wounded rage: below 50% HP, +10% damage. |
-| Stage 2 | **Blood Fury** | Epic | +13 melee attack, +13 max HP, -3 melee defense. The rage answers faster now. Wounded rage: below 50% HP, +15% damage. |
-| Stage 3 | [[Wrath Incarnate]] | Legendary | +17 melee attack, +17 max HP, +5% damage. The blood sings. Wounded rage: below 50% HP, +20% damage. |
+| Stage 1 | [[Berserker Blood]] | Rare | +8 melee attack, +8 max HP, -4 melee defense. Fury feeds on pain. Wounded rage: below 50% HP, +10% melee damage. |
+| Stage 2 | **Blood Fury** | Epic | +13 melee attack, +13 max HP, -3 melee defense. The rage answers faster now. Wounded rage: below 50% HP, +15% melee damage. |
+| Stage 3 | [[Wrath Incarnate]] | Legendary | +17 melee attack, +17 max HP, +5% melee damage. The blood sings. Wounded rage: below 50% HP, +20% melee damage. |
 
 ## Effects
 

@@ -17,14 +17,13 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 2-AP melee ability targeting one enemy up to 2 hexes away, usable twice per battle.
+A 2-AP melee ability targeting one enemy up to 2 hexes away.
 
-> Barrel forward through an empty hex and crash into an enemy two hexes away for 140% damage with +5 to-hit, then sweep into up to two more foes beside them for 70%. Twice per battle.
+> Barrel forward through an empty hex and crash into an enemy two hexes away for 140% damage with +5 to-hit, then sweep into up to two more foes around you for 70%.
 
 ## Stats
 
@@ -33,7 +32,7 @@ A 2-AP melee ability targeting one enemy up to 2 hexes away, usable twice per ba
 | Action Points | 2 |
 | Fatigue | 26 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 2 hexes |
 | Target | Enemy |
 | Line of sight | Required |

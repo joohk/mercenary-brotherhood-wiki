@@ -15,19 +15,15 @@ up: "[[Enemy Passives]]"
 
 [[Home]] › [[Bestiary]] › [[Enemy Passives]]
 
-An enemy passive handled in game code: the description is its rules text.
+An enemy passive: a fixed stat bonus (below) plus behaviour handled in game code.
 
 > 50% resistance to piercing, 15% to slashing. 25% vulnerable to blunt.
 
-## Tuning parameters
+## Effects
 
-Numbers the game code uses for this passive (fractions shown as %).
-
-| Parameter | Value |
-|---|---|
-| Resist Piercing | 50% |
-| Resist Slashing | 15% |
-| Vuln Blunt | 25% |
+- +50% [[Stats#Pierce Resist|Pierce Resist]]
+- +15% [[Stats#Slash Resist|Slash Resist]]
+- -25% [[Stats#Blunt Resist|Blunt Resist]]
 
 ## Referenced by
 

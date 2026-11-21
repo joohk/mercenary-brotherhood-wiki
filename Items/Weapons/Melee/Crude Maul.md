@@ -11,7 +11,7 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_melee.json
-damage_max: 10
+damage_max: 12
 damage_min: 6
 damage_type: blunt
 family: mace
@@ -26,9 +26,9 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-1 two-handed blunt mace dealing 6-10 damage, worth 5 gold.
+A tier-1 two-handed blunt mace dealing 6-12 damage, worth 5 gold.
 
-![[_assets/Icons/tier_1/mace_1h.webp|96]]
+![[_assets/Icons/tier_1/hammer_2h.webp|96]]
 
 ## Stats
 
@@ -37,7 +37,8 @@ A tier-1 two-handed blunt mace dealing 6-10 damage, worth 5 gold.
 | Tier | 1 |
 | Damage type | Blunt |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 6-10 |
+| [[Stats#Damage Min\|Damage]] | 6-12 |
+| [[Stats#Armor Pen\|Armor Pen]] | +2 |
 | [[Stats#Initiative\|Initiative]] | -4 |
 | Price | 5 |
 | Rarity | Normal |

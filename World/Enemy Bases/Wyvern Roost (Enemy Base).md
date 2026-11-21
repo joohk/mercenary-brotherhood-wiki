@@ -68,4 +68,8 @@ Each item rolls separately when the base is cleared.
 | [[Silver Amulet]] | 40% | Epic |
 | [[War Bow]] | 30% | Epic |
 
+## Referenced by
+
+- **Quest target of:** [[Slay the Wyvern]]
+
 *Generated from `world/enemy_bases.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -39,7 +39,7 @@ A 2-AP support ability centred on yourself (radius 2).
 | Area radius | 2 hexes |
 | Line of sight | Not required |
 
-*Tags:* support, sustained, aura
+*Tags:* support, sustained, aura, song
 
 ## Referenced by
 

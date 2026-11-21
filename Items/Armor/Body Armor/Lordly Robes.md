@@ -15,6 +15,9 @@ armor: 6
 family: robe
 price: 4080
 rarity: normal
+resist_blunt: 5
+resist_piercing: 3
+resist_slashing: 5
 slot: body_armor
 spawn_weight: 2
 tier: 6
@@ -36,6 +39,9 @@ A tier-6 robe giving 6 Armor, worth 4080 gold.
 | [[Stats#Armor\|Armor]] | +6 |
 | [[Stats#Magic Power\|Magic Power]] | +25 |
 | [[Stats#Willpower\|Willpower]] | +15 |
+| [[Stats#Slash Resist\|Slash Resist]] | +5% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +3% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +5% |
 | Price | 4080 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 2 |

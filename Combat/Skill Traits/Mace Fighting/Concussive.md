@@ -20,7 +20,7 @@ up: "[[Mace Fighting]]"
 
 A common passive skill trait of [[Mace Fighting]] with 2 ranks.
 
-> Every blow can rattle the skull. 15% chance to Stun the target on a melee hit.
+> Every blow can rattle the skull. +10% chance to Stun the target with a melee hit that deals 12+ damage, added to any other stun chance (Mace Fighting L5).
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Stun chance increases to 25%.
+Stun chance bonus increases to +20%.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

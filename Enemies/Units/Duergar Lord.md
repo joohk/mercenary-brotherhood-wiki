@@ -45,7 +45,7 @@ A tier-5 enemy of the [[Duergar]] faction — 195 HP, 20 armor, worth 72 XP and 
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 8-12 |
-| Damage with weapon | 45-72 (base 8-12 + [[Masterwork Warhammer]] 37-60) |
+| Damage with weapon | 52-78 (base 8-12 + [[Masterwork Warhammer]] 44-66) |
 
 ## Combat
 
@@ -57,13 +57,25 @@ A tier-5 enemy of the [[Duergar]] faction — 195 HP, 20 armor, worth 72 XP and 
 | Gold | 70 |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 4 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 85 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Masterwork Plate]] +29, [[Masterwork Helmet]] +4 | +33% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Masterwork Plate]] +18, [[Masterwork Helmet]] +4 | +22% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Masterwork Plate]] +4, [[Masterwork Helmet]] +9 | +13% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

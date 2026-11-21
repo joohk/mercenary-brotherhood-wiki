@@ -46,7 +46,7 @@ A tier-4 Wild Elf enemy of the [[Wilding Elves]] faction — 157 HP, 14 armor, w
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 6-10 |
-| Damage with weapon | 34-55 (base 6-10 + [[Tempered Greatsword]] 28-45) |
+| Damage with weapon | 38-61 (base 6-10 + [[Tempered Greatsword]] 32-51) |
 
 ## Combat
 
@@ -59,13 +59,25 @@ A tier-4 Wild Elf enemy of the [[Wilding Elves]] faction — 157 HP, 14 armor, w
 | Race | [[Wild Elf]] |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Wilding Elves Combat Sheet\|all Wilding Elves units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 8 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 65 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Full Plate]] +25, [[Plate Helmet]] +3 | +28% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Full Plate]] +15, [[Plate Helmet]] +3 | +18% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Full Plate]] +4, [[Plate Helmet]] +8 | +12% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

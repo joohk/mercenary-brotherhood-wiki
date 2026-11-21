@@ -28,7 +28,7 @@ If a faction is not listed, the default profile is [[How Enemies Behave#Undiscip
 
 **High:** coordination, focus fire, guarding its ranged units, hunting healers and casters · **Low:** flanking
 
-Targets the weakest target. Holds the line; flees when alone. Retreats when wounded (30%).
+Targets Weakest. Holds the line; flees when alone. Retreats when wounded (30%).
 
 | Setting | Value |
 |---|---|
@@ -38,7 +38,7 @@ Targets the weakest target. Holds the line; flees when alone. Retreats when woun
 | Protects its ranged units | 70% |
 | Goes after healers and casters | 70% |
 | Retreats when wounded | 30% |
-| Targets | the weakest target |
+| Targets | Weakest |
 | Holds the line | Yes |
 | Flees when alone | Yes |
 | Hit-chance weight | 25 |
@@ -54,7 +54,7 @@ Targets the weakest target. Holds the line; flees when alone. Retreats when woun
 
 **High:** coordination · **Medium:** focus fire, flanking, guarding its ranged units, hunting healers and casters
 
-Targets the most dangerous target. Flees when alone. Retreats when wounded (25%).
+Targets Most Dangerous. Flees when alone. Retreats when wounded (25%).
 
 | Setting | Value |
 |---|---|
@@ -64,7 +64,7 @@ Targets the most dangerous target. Flees when alone. Retreats when wounded (25%)
 | Protects its ranged units | 50% |
 | Goes after healers and casters | 50% |
 | Retreats when wounded | 25% |
-| Targets | the most dangerous target |
+| Targets | Most Dangerous |
 | Holds the line | No |
 | Flees when alone | Yes |
 | Hit-chance weight | 20 |
@@ -80,7 +80,7 @@ Targets the most dangerous target. Flees when alone. Retreats when wounded (25%)
 
 **Medium:** flanking · **Low:** coordination, focus fire, guarding its ranged units · **None:** hunting healers and casters
 
-Targets random targets. Flees when alone; scatters when its leader dies. Never retreats when wounded.
+Targets Random. Flees when alone; scatters when its leader dies. Never retreats when wounded.
 
 | Setting | Value |
 |---|---|
@@ -90,10 +90,11 @@ Targets random targets. Flees when alone; scatters when its leader dies. Never r
 | Protects its ranged units | 10% |
 | Goes after healers and casters | 0% |
 | Retreats when wounded | 0% |
-| Targets | random targets |
+| Targets | Random |
 | Holds the line | No |
 | Flees when alone | Yes |
 | Scatters when its leader dies | Yes |
+| Disengage Risk Scale | 150% |
 
 **Factions:** [[Bandits]], [[Desperate Rabble]], [[Feral Gnolls]], [[Greenskin Warband]], [[Wilding Elves]]
 
@@ -105,7 +106,7 @@ This is the default profile for any faction not in the map.
 
 **High:** flanking · **Medium:** coordination, focus fire · **None:** guarding its ranged units, hunting healers and casters
 
-Targets the nearest target. Flees when alone; tries to surround. Never retreats when wounded.
+Targets Nearest. Flees when alone; tries to surround. Never retreats when wounded.
 
 | Setting | Value |
 |---|---|
@@ -115,11 +116,12 @@ Targets the nearest target. Flees when alone; tries to surround. Never retreats 
 | Protects its ranged units | 0% |
 | Goes after healers and casters | 0% |
 | Retreats when wounded | 0% |
-| Targets | the nearest target |
+| Targets | Nearest |
 | Holds the line | No |
 | Flees when alone | Yes |
 | Tries to surround | Yes |
 | Surround weight | 10 |
+| Disengage Risk Scale | 150% |
 
 **Factions:** [[Beasts]], [[Ratkin Swarm]], [[Wolf Pack (Faction)|Wolf Pack]]
 
@@ -129,7 +131,7 @@ Targets the nearest target. Flees when alone; tries to surround. Never retreats 
 
 **Low:** coordination, focus fire · **None:** flanking, guarding its ranged units, hunting healers and casters
 
-Targets the nearest target. Fearless. Never retreats when wounded.
+Targets Nearest. Fearless. Never retreats when wounded.
 
 | Setting | Value |
 |---|---|
@@ -139,9 +141,11 @@ Targets the nearest target. Fearless. Never retreats when wounded.
 | Protects its ranged units | 0% |
 | Goes after healers and casters | 0% |
 | Retreats when wounded | 0% |
-| Targets | the nearest target |
+| Targets | Nearest |
 | Holds the line | No |
 | Fearless | Yes |
+| Crosses Barricades | Yes |
+| Disengage Risk Scale | 250% |
 
 **Factions:** [[The Dread Host]], [[The Restless Dead]]
 
@@ -151,7 +155,7 @@ Targets the nearest target. Fearless. Never retreats when wounded.
 
 **High:** coordination, focus fire, hunting healers and casters · **Medium:** flanking, guarding its ranged units
 
-Targets the most dangerous target. Flees when alone; ranged units keep their distance. Retreats when wounded (35%).
+Targets Most Dangerous. Flees when alone; ranged units keep their distance. Retreats when wounded (35%).
 
 | Setting | Value |
 |---|---|
@@ -161,7 +165,7 @@ Targets the most dangerous target. Flees when alone; ranged units keep their dis
 | Protects its ranged units | 60% |
 | Goes after healers and casters | 80% |
 | Retreats when wounded | 35% |
-| Targets | the most dangerous target |
+| Targets | Most Dangerous |
 | Holds the line | No |
 | Flees when alone | Yes |
 | Ranged units keep their distance | Yes |
@@ -178,7 +182,7 @@ Targets the most dangerous target. Flees when alone; ranged units keep their dis
 
 **High:** coordination, focus fire, guarding its ranged units, hunting healers and casters · **Medium:** flanking
 
-Targets the most dangerous target. Never retreats when wounded.
+Targets Most Dangerous. Never retreats when wounded.
 
 | Setting | Value |
 |---|---|
@@ -188,7 +192,7 @@ Targets the most dangerous target. Never retreats when wounded.
 | Protects its ranged units | 80% |
 | Goes after healers and casters | 90% |
 | Retreats when wounded | 0% |
-| Targets | the most dangerous target |
+| Targets | Most Dangerous |
 | Holds the line | No |
 | Hit-chance weight | 35 |
 | Kill-securing weight | 140 |
@@ -248,22 +252,22 @@ Units whose id contains one of these words get extra adjustments on top of their
 | `bog_lurker` | Goes after healers and casters (at most) 10% | [[Bog Lurker]] |
 | `dark_general` | Goes after healers and casters (at least) 60% | [[Dark General]] |
 | `frost_wolf` | Goes after healers and casters (at most) 10% | [[Frost Wolf]] |
-| `goblin` | Goes after healers and casters 40%; Targets the weakest target | [[Goblin Poisoner]], [[Goblin Shaman (Enemy)\|Goblin Shaman]], [[Goblin Skirmisher]], [[Goblin Wolfrider]] |
+| `goblin` | Goes after healers and casters 40%; Targets Weakest | [[Goblin Poisoner]], [[Goblin Shaman (Enemy)\|Goblin Shaman]], [[Goblin Skirmisher]], [[Goblin Wolfrider]] |
 | `hedge_witch` | Goes after healers and casters (at least) 50% | [[Goblin Bandit Shaman]] |
 | `hound` | Goes after healers and casters (at most) 10% | [[Void Hound]] |
 | `lich` | Goes after healers and casters (at least) 80% | [[Lich Commander]] |
 | `marsh_crawler` | Goes after healers and casters (at most) 10% | [[Marsh Crawler]] |
 | `mountain_cub` | Goes after healers and casters (at most) 10% | [[Mountain Cub]] |
 | `necromancer` | Goes after healers and casters (at least) 70% | [[Necromancer]], [[War Necromancer]] |
-| `ogre` | Targets the most dangerous target | [[Ogre]], [[Ogre Crusher]] |
-| `orc` | Targets the most dangerous target | [[Orc Brute]], [[Orc Grunt]], [[Orc Shaman]], [[Orc Warchief]] |
+| `ogre` | Targets Most Dangerous | [[Ogre]], [[Ogre Crusher]] |
+| `orc` | Targets Most Dangerous | [[Orc Brute]], [[Orc Grunt]], [[Orc Shaman]], [[Orc Warchief]] |
 | `shaman` | Goes after healers and casters (at least) 60% | [[Goblin Shaman (Enemy)\|Goblin Shaman]], [[Jotun Shaman]], [[Orc Shaman]], [[Ratkin Plague Shaman]], [[Thornwoad Shaman]] |
 | `spider` | Goes after healers and casters (at most) 10% | [[Court Spider]], [[Giant Spider (Enemy, Beasts)\|Giant Spider (Beasts)]], [[Giant Spider (Enemy, Umbral Court)\|Giant Spider (The Umbral Court)]], [[Spider Broodling]] |
 | `swamp_horror` | Goes after healers and casters (at most) 10% | [[Swamp Horror]] |
 | `taskmaster` | Goes after healers and casters (at most) 100% | [[Duergar Taskmaster]], [[Thrall Taskmaster]] |
 | `thrall` | Goes after healers and casters (at most) 20% | [[Dread Thrall]], [[Thrall Archer]], [[Thrall Crossbowman]], [[Thrall Guard]], [[Thrall Militia]], [[Thrall Slave]], [[Thrall Taskmaster]] |
-| `troll` | Targets the most dangerous target | [[Bog Troll]], [[Cave Troll]] |
-| `wolfrider` | Goes after healers and casters 40%; Targets the weakest target | [[Goblin Wolfrider]] |
+| `troll` | Targets Most Dangerous | [[Bog Troll]], [[Cave Troll]] |
+| `wolfrider` | Goes after healers and casters 40%; Targets Weakest | [[Goblin Wolfrider]] |
 | `wretch` | Goes after healers and casters (at most) 20% | [[Cult Wretch]] |
 
 *Generated from `ai/ai_profiles.json`. Edits will be overwritten — put your own notes in Notes/.*

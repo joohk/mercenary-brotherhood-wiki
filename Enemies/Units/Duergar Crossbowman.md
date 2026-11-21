@@ -58,13 +58,25 @@ A tier-2 enemy of the [[Duergar]] faction — 79 HP, 8 armor, worth 20 XP and 14
 | Gold | 14 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 35 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 28 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Banded Mail]] +15, [[Iron Helmet]] +2 | +17% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Banded Mail]] +6, [[Iron Helmet]] +2 | +8% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Banded Mail]] +10, [[Iron Helmet]] +4 | +14% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

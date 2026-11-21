@@ -21,7 +21,7 @@ up: "[[Nature Magic]]"
 
 An uncommon ability skill trait of [[Nature Magic]] with 3 ranks, granting [[Thornskin (Ability)|Thornskin]].
 
-> Sheathe an ally in spined bramble. Attackers take 6 reflected damage on hit for 3 turns.
+> Sheathe an ally in spined bramble for 3 turns. Anyone who hits them takes 6 reflected damage and is Bled.
 
 ## Effects
 
@@ -35,10 +35,10 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Thornskin reflects 9 damage instead of 6.
+Thornskin reflects 9 damage instead of 6, and a melee attacker has a 25% chance to be rooted for 1 turn.
 
 ### Rank 3
 
-Thornskin reflects 12 damage instead of 9.
+Thornskin reflects 12 damage instead of 9. Melee attackers are still rooted 25% of the time.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

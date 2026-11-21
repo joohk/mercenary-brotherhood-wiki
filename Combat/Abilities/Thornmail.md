@@ -22,7 +22,7 @@ uses_per_battle: 1
 
 A 1-AP ability used on yourself, usable once per battle.
 
-> Wreathe yourself in thorns that reflect damage back at melee attackers. Granted by an accessory; 1 use per battle.
+> Wreathe yourself in thorns that reflect damage back at attackers whose weapon blows hit you, melee or ranged. Granted by an accessory; 1 use per battle.
 
 ## Stats
 

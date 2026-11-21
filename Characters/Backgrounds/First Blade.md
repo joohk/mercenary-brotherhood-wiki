@@ -44,7 +44,7 @@ Bonuses added on top of the recruit's race base stats.
 
 - **Starts with:** [[Swordsmanship]], [[Light Armor Proficiency]], [[Counter Fighter]]
 - **Familiar:** [[Swordsmanship]], [[Light Armor Proficiency]], [[Counter Fighter]], [[Charging]]
-- **Foreign:** [[Suppressor]], [[Pincer]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
+- **Foreign:** [[Suppressor]], [[Teamwork]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.
 

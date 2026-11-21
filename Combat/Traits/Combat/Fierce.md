@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 An uncommon combat trait (stat boost).
 
-> +14% damage, +5 willpower. Berserker fury that unnerves opponents.
+> +14% melee damage, +5 willpower. Berserker fury that unnerves opponents.
 
 ## Effects
 

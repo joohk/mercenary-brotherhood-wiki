@@ -43,7 +43,7 @@ Bonuses added on top of the recruit's race base stats.
 ## Skills
 
 - **Starts with:** [[Crossbow Mastery]], [[Swordsmanship]]
-- **Familiar:** [[Crossbow Mastery]], [[Swordsmanship]], [[Charging]], [[Pincer]]
+- **Familiar:** [[Crossbow Mastery]], [[Swordsmanship]], [[Charging]], [[Teamwork]]
 - **Foreign:** [[Lucky Strike]], [[Dual Wield Mastery]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.

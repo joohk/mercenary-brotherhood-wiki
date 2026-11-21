@@ -45,7 +45,7 @@ A tier-2 Wild Elf enemy of the [[Wilding Elves]] faction — 101 HP, 3 armor, wo
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 4-6 |
-| Damage with weapon | 18-30 (base 4-6 + [[Steel Battle Axe]] 14-24) |
+| Damage with weapon | 19-32 (base 4-6 + [[Steel Battle Axe]] 15-26) |
 | Action Points | 3 |
 
 ## Combat
@@ -59,13 +59,25 @@ A tier-2 Wild Elf enemy of the [[Wilding Elves]] faction — 101 HP, 3 armor, wo
 | Race | [[Wild Elf]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Wilding Elves Combat Sheet\|all Wilding Elves units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 40 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 32 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Ragged Furs]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Ragged Furs]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Ragged Furs]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

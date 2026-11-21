@@ -11,8 +11,8 @@ tags:
   - tier/4
   - type/item
 source: items/weapons_melee.json
-damage_max: 31
-damage_min: 21
+damage_max: 34
+damage_min: 23
 damage_type: slashing
 family: throwing axe
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Axes]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Axes]]
 
-A tier-4 one-handed slashing throwing axe dealing 21-31 damage, worth 720 gold.
+A tier-4 one-handed slashing throwing axe dealing 23-34 damage, worth 720 gold.
 
 ![[_assets/Icons/OneHandedAxe.png|96]]
 
@@ -37,7 +37,7 @@ A tier-4 one-handed slashing throwing axe dealing 21-31 damage, worth 720 gold.
 | Tier | 4 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 21-31 |
+| [[Stats#Damage Min\|Damage]] | 23-34 |
 | [[Stats#Armor Pen\|Armor Pen]] | +6 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 720 |

@@ -42,16 +42,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far |
 |---|---|---|
-| L1 | +4 [[Stats#Melee Attack\|Melee Attack]], +3 [[Stats#Damage Max\|Damage Max]] | +4 Melee Attack, +3 Damage Max |
-| L2 | +4 [[Stats#Melee Attack\|Melee Attack]], +3 [[Stats#Damage Max\|Damage Max]] | +8 Melee Attack, +6 Damage Max |
-| L3 | +3 [[Stats#Melee Attack\|Melee Attack]], +2 to +4 [[Stats#Damage Min\|Damage]] | +11 Melee Attack, +2 to +10 Damage |
-| L4 | +2 [[Stats#Melee Attack\|Melee Attack]], +2 to +5 [[Stats#Damage Min\|Damage]] | +13 Melee Attack, +4 to +15 Damage |
-| L5 | +2 [[Stats#Melee Attack\|Melee Attack]], +3 to +5 [[Stats#Damage Min\|Damage]], +2% [[Stats#Crit Chance\|Crit Chance]] | +15 Melee Attack, +7 to +20 Damage, +2% Crit Chance |
-| L6 | +2 [[Stats#Melee Attack\|Melee Attack]], +3 to +6 [[Stats#Damage Min\|Damage]] | +17 Melee Attack, +10 to +26 Damage, +2% Crit Chance |
-| L7 | +1 [[Stats#Melee Attack\|Melee Attack]], +3 to +6 [[Stats#Damage Min\|Damage]] | +18 Melee Attack, +13 to +32 Damage, +2% Crit Chance |
-| L8 | +4 to +7 [[Stats#Damage Min\|Damage]], +2% [[Stats#Crit Chance\|Crit Chance]] | +18 Melee Attack, +17 to +39 Damage, +4% Crit Chance |
-| L9 | +4 to +7 [[Stats#Damage Min\|Damage]] | +18 Melee Attack, +21 to +46 Damage, +4% Crit Chance |
-| L10 | +5 to +8 [[Stats#Damage Min\|Damage]], +3% [[Stats#Crit Chance\|Crit Chance]] | +18 Melee Attack, +26 to +54 Damage, +7% Crit Chance |
+| L1 | +2 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Damage Max\|Damage Max]] | +2 Melee Attack, +2 Damage Max |
+| L2 | +4 [[Stats#Melee Attack\|Melee Attack]], +3 [[Stats#Damage Max\|Damage Max]] | +6 Melee Attack, +5 Damage Max |
+| L3 | +6 [[Stats#Melee Attack\|Melee Attack]], +1 to +5 [[Stats#Damage Min\|Damage]] | +12 Melee Attack, +1 to +10 Damage |
+| L4 | +7 [[Stats#Melee Attack\|Melee Attack]], +2 to +8 [[Stats#Damage Min\|Damage]] | +19 Melee Attack, +3 to +18 Damage |
+| L5 | +8 [[Stats#Melee Attack\|Melee Attack]], +4 to +10 [[Stats#Damage Min\|Damage]], +1% [[Stats#Crit Chance\|Crit Chance]] | +27 Melee Attack, +7 to +28 Damage, +1% Crit Chance |
+| L6 | +9 [[Stats#Melee Attack\|Melee Attack]], +5 to +13 [[Stats#Damage Min\|Damage]], +1% [[Stats#Crit Chance\|Crit Chance]] | +36 Melee Attack, +12 to +41 Damage, +2% Crit Chance |
+| L7 | +9 [[Stats#Melee Attack\|Melee Attack]], +7 to +16 [[Stats#Damage Min\|Damage]], +1% [[Stats#Crit Chance\|Crit Chance]] | +45 Melee Attack, +19 to +57 Damage, +3% Crit Chance |
+| L8 | +9 [[Stats#Melee Attack\|Melee Attack]], +9 to +20 [[Stats#Damage Min\|Damage]], +2% [[Stats#Crit Chance\|Crit Chance]] | +54 Melee Attack, +28 to +77 Damage, +5% Crit Chance |
+| L9 | +9 [[Stats#Melee Attack\|Melee Attack]], +11 to +23 [[Stats#Damage Min\|Damage]], +2% [[Stats#Crit Chance\|Crit Chance]] | +63 Melee Attack, +39 to +100 Damage, +7% Crit Chance |
+| L10 | +9 [[Stats#Melee Attack\|Melee Attack]], +13 to +27 [[Stats#Damage Min\|Damage]], +4% [[Stats#Crit Chance\|Crit Chance]] | +72 Melee Attack, +52 to +127 Damage, +11% Crit Chance |
 
 ## Skill traits
 

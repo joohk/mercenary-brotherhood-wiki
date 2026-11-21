@@ -15,6 +15,9 @@ armor: 1
 family: robe
 price: 35
 rarity: normal
+resist_blunt: 2
+resist_piercing: 1
+resist_slashing: 2
 slot: body_armor
 spawn_weight: 60
 tier: 1
@@ -36,6 +39,9 @@ A tier-1 robe giving 1 Armor, worth 35 gold.
 | [[Stats#Armor\|Armor]] | +1 |
 | [[Stats#Magic Power\|Magic Power]] | +5 |
 | [[Stats#Willpower\|Willpower]] | +3 |
+| [[Stats#Slash Resist\|Slash Resist]] | +2% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +1% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +2% |
 | Price | 35 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 60 |

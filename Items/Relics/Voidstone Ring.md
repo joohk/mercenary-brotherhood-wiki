@@ -14,6 +14,7 @@ tags:
 source: items/relics.json
 family: ring
 rarity: relic
+relic_power: Null Ward
 slot: accessory
 tier: 7
 unique: true
@@ -22,24 +23,29 @@ up: "[[Relics]]"
 
 [[Home]] › [[Arms & Armor]] › [[Relics]]
 
-A unique relic ring dropped by the arch-villain [[The Void Herald]]. It awakens in three stages as its wielder racks up kills.
+A unique relic ring dropped by the arch-villain [[The Void Herald]]. Its unique power is **Null Ward**. It awakens in three stages as its wielder racks up kills.
 
 ![[_assets/Icons/tier_5/ring.webp|96]]
 
 > A ring of pure black stone that seems to absorb light. Looking at it too long makes your eyes water.
+
+## Relic Power
+
+> [!abstract] Null Ward
+> The bearer and every ally within 2 tiles gain +8 Magic Resist (+20% resistance to every magical damage type).
 
 ## Stats
 
 | Stat | Value |
 |---|---|
 | Slot | Accessory |
-| [[Stats#Willpower\|Willpower]] | +20 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | +12 |
+| [[Stats#Willpower\|Willpower]] | +25 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | +15 |
 | Unique | Yes |
 
 ## Effects
 
-- +5 [[Stats#Armor|Armor]]
+- +8 [[Stats#Armor|Armor]]
 
 ## Drawbacks
 
@@ -55,16 +61,16 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 > The ring pulses cold. Blows that should land seem to slide away, deflected by nothing.
 
-- **Bonus:** +5 [[Stats#Melee Defense|Melee Defense]]
-- **Curse:** -3 [[Stats#Melee Attack|Melee Attack]]
+- **Bonus:** +20 [[Stats#Melee Defense|Melee Defense]]
+- **Curse:** -4 [[Stats#Melee Attack|Melee Attack]]
 
 ### Stage 2 — Hollow (90 kills)
 
 > The void behind the stone widens. It shields you from harm — and numbs you to everything else.
 
-- **Bonus:** +3 [[Stats#Armor|Armor]]
-- **Bonus:** +5 [[Stats#Willpower|Willpower]]
-- **Curse:** -2 [[Stats#Damage Min|Damage]]
+- **Bonus:** +6 [[Stats#Armor|Armor]]
+- **Bonus:** +15 [[Stats#Willpower|Willpower]]
+- **Curse:** -3 [[Stats#Damage Min|Damage]]
 
 ### Stage 3 — Threshold (180 kills)
 
@@ -72,11 +78,11 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 **Perk:** Capstone: grants Arcane Shield — wrap an ally in a damage-absorbing void barrier. If you already know it, its fatigue cost is reduced instead.
 
-- **Bonus:** +6 [[Stats#Ranged Defense|Ranged Defense]]
-- **Bonus:** +5 [[Stats#Melee Defense|Melee Defense]]
+- **Bonus:** +15 [[Stats#Ranged Defense|Ranged Defense]]
+- **Bonus:** +10 [[Stats#Melee Defense|Melee Defense]]
 - **Bonus:** Grants ability: [[Arcane Shield (Ability)|Arcane Shield]]
 - **Bonus (if already known):** [[Arcane Shield (Ability)|Arcane Shield]]: -5 fatigue cost
-- **Curse:** -4 [[Stats#Melee Attack|Melee Attack]]
+- **Curse:** -5 [[Stats#Melee Attack|Melee Attack]]
 
 ## Lore
 

@@ -80,6 +80,13 @@ Weapon families this race favours.
 - **Melee:** Dagger, Spear
 - **Ranged:** Bow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Staff ×3, Bow ×2, Robe ×1.5, Spear ×1.3
+- **Disfavoured:** Heavy Armor ×0.3, Firearm ×0.2
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.

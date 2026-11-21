@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A common combat trait (stat boost).
 
-> +8% damage, +3 willpower. Fights hardest when blood is in the air.
+> +8% melee damage, +3 willpower. Fights hardest when blood is in the air.
 
 ## Effects
 

@@ -76,12 +76,27 @@ Weapon families this race favours.
 - **Melee:** Greatsword, Axe
 - **Ranged:** Thrown
 
+## Resistances
+
+Innate damage-type resistances (negative = vulnerability).
+
+| Resistance | Value |
+|---|---|
+| [[Stats#Pierce Resist\|Pierce Resist]] | +10% |
+| [[Stats#Slash Resist\|Slash Resist]] | +5% |
+
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Heavy Armor ×2, Spear ×2, Sword ×2, Shield ×1.5
+
 ## Backgrounds
 
 The 19 backgrounds a Dragolin recruit can roll.
 
 - **Common (6):** [[Candle Witch]], [[Caravan Guard]], [[Hedge Wizard]], [[Laborer]], [[Militia]], [[Scroll Scribe]]
-- **Uncommon (7):** [[Cleric (Background)|Cleric]], [[Gladiator (Background)|Gladiator]], [[Hedge Knight]], [[Runecarver]], [[Soldier]], [[Warden]], [[Zealot (Background)|Zealot]]
+- **Uncommon (7):** [[Chaplain]], [[Gladiator (Background)|Gladiator]], [[Hedge Knight]], [[Runecarver]], [[Soldier]], [[Warden]], [[Zealot (Background)|Zealot]]
 - **Rare (4):** [[Champion (Background)|Champion]], [[Guardian]], [[Iron Warden]], [[Templar (Background)|Templar]]
 - **Legendary (2):** [[Dragon Slayer (Background)|Dragon Slayer]], [[Grand Master]]
 

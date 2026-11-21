@@ -29,7 +29,8 @@ Each column is the full bonus at that level (not added to the previous one).
 |---|---|---|---|
 | [[Stats#Ranged Attack\|Ranged Attack]] | +5 | +8 | +12 |
 | Ranged Range | +1 | +1 | +2 |
-| [[Stats#Damage Min\|Damage]] | — | +5% | +10% |
+| Ranged Damage Min | — | +5% | +10% |
+| Ranged Damage Max | — | +5% | +10% |
 
 ## How it's earned
 

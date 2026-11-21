@@ -23,7 +23,7 @@ up: "[[Abilities]]"
 
 A 1-AP support ability centred on yourself (radius 1).
 
-> Sustained: Form a defensive shield wall. You and adjacent allies gain +8 melee def, +4 ranged def, -3 initiative while maintained. Drains 4 fatigue/turn.
+> Sustained: Form a defensive shield wall. You and the allies adjacent when you cast gain +8 melee def, +4 ranged def, -3 initiative while maintained, even if they move away. Drains 4 fatigue/turn.
 
 ## Stats
 

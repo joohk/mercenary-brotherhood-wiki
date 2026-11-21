@@ -38,13 +38,13 @@ A tier-3 enemy of the [[Duergar]] faction — 109 HP, 9 armor, worth 40 XP and 3
 | [[Stats#Melee Attack\|Melee Attack]] | 57 |
 | [[Stats#Melee Defense\|Melee Defense]] | 55 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 71 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 52 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 58 |
 | [[Stats#Armor\|Armor]] | 9 |
 | [[Stats#Willpower\|Willpower]] | 69 |
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 17 |
 | [[Stats#Damage Min\|Damage]] | 6-9 |
-| Damage with weapon | 21-33 (base 6-9 + [[Fine Mace]] 15-24) |
+| Damage with weapon | 23-35 (base 6-9 + [[Fine Mace]] 17-26) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-3 enemy of the [[Duergar]] faction — 109 HP, 9 armor, worth 40 XP and 3
 | Gold | 32 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Duergar Combat Sheet\|all Duergar units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,10 +66,20 @@ A tier-3 enemy of the [[Duergar]] faction — 109 HP, 9 armor, worth 40 XP and 3
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 50 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Stone Shards]]
-- [[Stoneskin]]
+- [[Stoneskin (Ability)|Stoneskin]]
 - [[Tremor]]
 
 ## Passives

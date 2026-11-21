@@ -9,11 +9,11 @@ tags:
   - faction/vampires
   - type/villain
 source: villains/arch_villains.json
-armor: 10
+armor: 20
 faction: Vampires
 gold: 150
-hp: 250
-level_min: 6
+hp: 500
+level_min: 9
 personality: calculating
 size: large
 stance: aggressive
@@ -26,7 +26,7 @@ xp: 200
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of the [[Vampires]] — *The Undying*. Awakens from company level 6; 250 HP, 10 armor, worth 200 XP and 150 gold.
+An arch-villain of the [[Vampires]] — *The Undying*. Awakens from company level 9; 500 HP, 20 armor, worth 200 XP and 150 gold.
 
 ![[_assets/Units/BloodlordKael.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of the [[Vampires]] — *The Undying*. Awakens from company leve
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 250 |
+| [[Stats#Max HP\|Max HP]] | 500 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 120 |
-| [[Stats#Initiative\|Initiative]] | 65 |
-| [[Stats#Melee Attack\|Melee Attack]] | 82 |
-| [[Stats#Melee Defense\|Melee Defense]] | 60 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 60 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 55 |
-| [[Stats#Armor\|Armor]] | 10 |
+| [[Stats#Initiative\|Initiative]] | 75 |
+| [[Stats#Melee Attack\|Melee Attack]] | 92 |
+| [[Stats#Melee Defense\|Melee Defense]] | 70 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 70 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 65 |
+| [[Stats#Armor\|Armor]] | 20 |
 | [[Stats#Willpower\|Willpower]] | 95 |
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
-| [[Stats#Damage Min\|Damage]] | 18-30 |
+| [[Stats#Damage Min\|Damage]] | 28-40 |
 
 ## Combat
 
@@ -62,7 +62,24 @@ An arch-villain of the [[Vampires]] — *The Undying*. Awakens from company leve
 | Stance | Aggressive — closes in and fights in melee |
 | Personality | Calculating |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 6 |
+| Appears from company level | 9 |
+| Combat sheet | [[Vampires Combat Sheet\|Vampires units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +25% | — | +25% |
+| [[Stats#Pierce Resist\|Pierce]] | -15% | — | **-15%** (weak) |
+| [[Stats#Blunt Resist\|Blunt]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Crimson Spire**
+
+A black-stone keep where Bloodlord Kael holds court among his thralls. The Undying does not leave it; those who want him must storm the walls.
 
 ## Phases
 
@@ -91,8 +108,9 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
+- 1× [[Vampire Lord]]
 - 2× [[Vampire Knight]]
-- 3× [[Thrall Guard]]
+- 2× [[Vampire Nightblade]]
 
 ## Relic drops
 
@@ -104,8 +122,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 30 |
-| Ambush chance | 15% |
 | Settlement corruption chance | 5% |
 
 Units (hexes, per day) are not stated in the data.

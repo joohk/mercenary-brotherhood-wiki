@@ -24,7 +24,7 @@ up: "[[Abilities]]"
 
 A 2-AP melee ability targeting an adjacent enemy.
 
-> Grab an adjacent enemy and hurl it away, dealing impact damage on landing.
+> Grab an adjacent enemy that is not large and hurl it up to 4 hexes away, dealing impact damage on landing, reduced by armor.
 
 ## Stats
 

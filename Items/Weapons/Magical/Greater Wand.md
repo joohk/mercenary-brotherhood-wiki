@@ -11,13 +11,13 @@ tags:
   - tier/5
   - type/item
 source: items/weapons_magical.json
-damage_max: 20
-damage_min: 12
+damage_max: 25
+damage_min: 15
 damage_type: arcane
 family: wand
 hands: one-handed
 price: 2400
-range: 4
+range: 7
 rarity: normal
 slot: ranged
 spawn_weight: 8
@@ -27,7 +27,7 @@ up: "[[Wands]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Wands]]
 
-A tier-5 one-handed arcane wand dealing 12-20 damage at range 4, worth 2400 gold.
+A tier-5 one-handed arcane wand dealing 15-25 damage at range 7, worth 2400 gold.
 
 ![[_assets/Icons/tier_5/wand.webp|96]]
 
@@ -38,18 +38,18 @@ A tier-5 one-handed arcane wand dealing 12-20 damage at range 4, worth 2400 gold
 | Tier | 5 |
 | Damage type | Arcane |
 | Hands | One-handed |
-| Ranged Damage | 12-20 |
+| Ranged Damage | 15-25 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | +11 |
 | [[Stats#Willpower\|Willpower]] | +11 |
 | [[Stats#Initiative\|Initiative]] | -2 |
-| Range | 4 hexes |
+| Range | 7 hexes |
 | Price | 2400 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 8 |
 
 ## Same line
 
-Items of this line, by tier: [[Apprentice Wand]] (T1) → [[Focus Wand]] (T2) → [[Channeling Wand]] (T3) → [[Arcane Wand]] (T4) → **Greater Wand** (T5) → [[Master Wand]] (T6)
+Items of this line, by tier: [[Apprentice Wand]] (T1) → [[Dark Wand]] (T2) → [[Focus Wand]] (T2) → [[Channeling Wand]] (T3) → [[Arcane Wand]] (T4) → **Greater Wand** (T5) → [[Master Wand]] (T6)
 
 ## Related
 

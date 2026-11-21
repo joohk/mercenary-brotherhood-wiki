@@ -38,6 +38,7 @@ A security quest (kill enemies) for company level 1+, given by a settlement. In 
 | Difficulty tier | 2 of 5 |
 | Time limit | None |
 | Enemy faction | Chosen when the quest is posted |
+| Crime spree | Yes |
 | Posted when security is | 10-29 |
 
 **Hint:** Enter *settlement* to confront the criminals.

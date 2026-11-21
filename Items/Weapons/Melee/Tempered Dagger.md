@@ -11,9 +11,9 @@ tags:
   - tier/4
   - type/item
 source: items/weapons_melee.json
-damage_max: 22
-damage_min: 13
-damage_type: piercing
+damage_max: 30
+damage_min: 18
+damage_type: slashing
 family: dagger
 hands: one-handed
 price: 480
@@ -26,7 +26,7 @@ up: "[[Daggers]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Daggers]]
 
-A tier-4 one-handed piercing dagger dealing 13-22 damage, worth 480 gold.
+A tier-4 one-handed slashing dagger dealing 18-30 damage, worth 480 gold.
 
 ![[_assets/Icons/Dagger.png|96]]
 
@@ -35,9 +35,10 @@ A tier-4 one-handed piercing dagger dealing 13-22 damage, worth 480 gold.
 | Stat | Value |
 |---|---|
 | Tier | 4 |
-| Damage type | Piercing |
+| Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 13-22 |
+| [[Stats#Damage Min\|Damage]] | 18-30 |
+| [[Stats#Armor Pen\|Armor Pen]] | +8 |
 | [[Stats#Initiative\|Initiative]] | +10 |
 | Price | 480 |
 | Rarity | Normal |
@@ -45,7 +46,7 @@ A tier-4 one-handed piercing dagger dealing 13-22 damage, worth 480 gold.
 
 ## Effects
 
-- Grants ability: [[Exploit Opening (Ability, ability_dagger_exploit)|Exploit Opening]]
+- Grants ability: [[Low Blow]]
 
 ## Same line
 

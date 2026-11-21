@@ -11,7 +11,7 @@ source: abilities/combat_abilities.json
 ap_cost: 1
 cooldown_turns: 0
 fatigue_cost: 15
-range: 5
+range: 1
 requires_los: true
 source_type: Skill
 target_type: enemy
@@ -21,9 +21,9 @@ uses_per_battle: 2
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP ability targeting one enemy up to 5 hexes away, usable twice per battle.
+A 1-AP ability targeting an adjacent enemy, usable twice per battle.
 
-> Strike a vulnerable enemy from the side or behind with melee or ranged weapon. Flank: +15 hit, +25% damage. Backstab: +25 hit, +50% damage. Cannot target a foe facing you.
+> Strike a vulnerable enemy within melee reach from the side or behind. Flank: +15 hit, +25% damage. Backstab: +25 hit, +50% damage. Cannot target a foe facing you.
 
 ## Stats
 
@@ -33,7 +33,7 @@ A 1-AP ability targeting one enemy up to 5 hexes away, usable twice per battle.
 | Fatigue | 15 |
 | Cooldown | None |
 | Uses per battle | 2 |
-| Range | 5 hexes |
+| Range | 1 hex |
 | Target | Enemy |
 | Line of sight | Required |
 

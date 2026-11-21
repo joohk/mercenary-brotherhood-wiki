@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Verdant Wind restores 9 fatigue/round instead of 6.
+Verdant Wind restores 9 fatigue/round instead of 6, and cures one Bleed or Poison on each ally it reaches.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

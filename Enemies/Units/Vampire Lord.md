@@ -55,7 +55,9 @@ A tier-4 enemy of the [[Vampires]] faction — 203 HP, 14 armor, worth 65 XP and
 | Gold | 60 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Vampires Combat Sheet\|all Vampires units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -63,11 +65,24 @@ A tier-4 enemy of the [[Vampires]] faction — 203 HP, 14 armor, worth 65 XP and
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 8 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 80 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Hardened Leather]] +9 | +9% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Hardened Leather]] +8 | +8% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Hardened Leather]] +10 | +10% |
+| [[Stats#Fire Resist\|Fire]] | -15% | — | **-15%** (weak) |
+| [[Stats#Poison Resist\|Poison]] | +30% | — | +30% |
+| [[Stats#Shadow Resist\|Shadow]] | +35% | — | +35% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Life Drain]]
 - [[Shadow Step (Ability)|Shadow Step]]
-- [[Blood Feast]]
+- [[Red Feast (Ability)|Red Feast]]
 
 ## Passives
 
@@ -93,5 +108,6 @@ A tier-4 enemy of the [[Vampires]] faction — 203 HP, 14 armor, worth 65 XP and
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]]
+- **Escorts:** [[Bloodlord Kael]]
 
 *Generated from `enemies/vampires.json`. Edits will be overwritten — put your own notes in Notes/.*

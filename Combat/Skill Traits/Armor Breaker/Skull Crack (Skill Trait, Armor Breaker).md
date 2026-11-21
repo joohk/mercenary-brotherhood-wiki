@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Stun chance increased to 45%.
+Stun chance increased to 45%, and the blow deals +10% damage.
 
 *Generated from `skills/defense_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

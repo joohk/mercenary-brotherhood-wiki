@@ -12,7 +12,7 @@ ap_cost: 1
 area_radius: 2
 cooldown_turns: 3
 fatigue_cost: 35
-range: 4
+range: 5
 requires_los: true
 source_type: Skill
 target_type: enemy
@@ -21,9 +21,9 @@ up: "[[Stone Magic]]"
 
 [[Home]] › [[Magic & Spells]] › [[Schools of Magic]] › [[Stone Magic]]
 
-A 1-AP magic ability targeting one enemy up to 4 hexes away.
+A 1-AP magic ability targeting one enemy up to 5 hexes away.
 
-> Split the earth beneath a distant area. All enemies within 2 hexes of the target take damage and are rooted as the ground buckles beneath them.
+> Split the earth beneath a distant area. Every enemy within 2 of the target takes 13-21 blunt damage and 1 Fracture, and is rooted for 1 turn.
 
 ## Stats
 
@@ -33,14 +33,17 @@ A 1-AP magic ability targeting one enemy up to 4 hexes away.
 | Fatigue | 35 |
 | Cooldown | 3 turns |
 | Uses per battle | Unlimited |
-| Range | 4 hexes |
+| Range | 5 hexes |
 | Target | Enemy |
 | Area radius | 2 hexes |
 | Targets a hex | Yes |
 | Structure damage | 14 |
+| Damage type | Blunt |
+| Fracture stacks applied | 1 |
 | Line of sight | Required |
+| Damage | 13-21 blunt damage in radius 2, 1 Fracture each, root 1 turn |
 
-*Tags:* magic, stone, earth
+*Tags:* magic, stone, earth, quake
 
 ## Referenced by
 
@@ -51,6 +54,6 @@ A 1-AP magic ability targeting one enemy up to 4 hexes away.
 - **Variant ability pool:** [[Warcaster]]
 
 > [!note]- Developer notes
-> Stone Magic -- target-centered AOE that roots enemies
+> Stone Magic Quake -- target-centered blunt AoE that cracks and roots
 
 *Generated from `abilities/combat_abilities.json`. Edits will be overwritten — put your own notes in Notes/.*

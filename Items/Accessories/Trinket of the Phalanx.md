@@ -22,7 +22,7 @@ up: "[[Accessories]]"
 
 [[Home]] › [[Arms & Armor]] › [[Accessories]]
 
-A hand-made tier-2 magic trinket that grants [[Brace (Ability, ability_acc_brace)|Brace]], worth 120 gold.
+A hand-made tier-2 magic trinket that grants [[Stand Ready]], worth 120 gold.
 
 ![[_assets/Icons/tier_1/trinket.webp|96]]
 
@@ -37,7 +37,7 @@ A hand-made tier-2 magic trinket that grants [[Brace (Ability, ability_acc_brace
 
 ## Effects
 
-- Grants ability: [[Brace (Ability, ability_acc_brace)|Brace]]
+- Grants ability: [[Stand Ready]]
 
 ## Related
 

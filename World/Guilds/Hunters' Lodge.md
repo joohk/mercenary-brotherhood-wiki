@@ -43,6 +43,17 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Rare | [[Master Archer]] |
 | Legendary | [[Legendary Hunter]] |
 
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Bow | ×4 |
+| Crossbow | ×2.5 |
+| Light Armor | ×2 |
+| Spear | ×1.5 |
+
 ## Gear by hire tier
 
 | Hire tier | Gear |

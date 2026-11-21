@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level | Unlocks |
 |---|---|---|---|---|
-| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +3 Max Fatigue | 20 | Grants ability: [[Life Drain]] |
-| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +6 Max Fatigue | 35 | — |
-| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]] | +10 Max Fatigue, +3 Max HP, +2 Magic Power | 55 | — |
-| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]] | +14 Max Fatigue, +6 Max HP, +4 Magic Power | 85 | — |
-| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]] | +19 Max Fatigue, +9 Max HP, +7 Magic Power | 125 | — |
-| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]] | +24 Max Fatigue, +12 Max HP, +10 Magic Power | 180 | — |
-| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]] | +29 Max Fatigue, +15 Max HP, +13 Magic Power | 250 | — |
-| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]] | +35 Max Fatigue, +18 Max HP, +17 Magic Power | 335 | — |
-| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]] | +41 Max Fatigue, +21 Max HP, +21 Magic Power | 440 | — |
-| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +5 [[Stats#Magic Power\|Magic Power]] | +48 Max Fatigue, +24 Max HP, +26 Magic Power | max | Grants ability: [[Soul Rend (Ability)\|Soul Rend]] |
+| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +3 Max Fatigue, +1 Ranged Attack | 20 | Grants ability: [[Life Drain]] |
+| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +6 Max Fatigue, +2 Ranged Attack | 35 | — |
+| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Max Fatigue, +4 Ranged Attack, +3 Max HP, +2 Magic Power | 55 | — |
+| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Max Fatigue, +6 Ranged Attack, +6 Max HP, +4 Magic Power | 85 | — |
+| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +19 Max Fatigue, +9 Ranged Attack, +9 Max HP, +7 Magic Power | 125 | — |
+| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +24 Max Fatigue, +12 Ranged Attack, +12 Max HP, +10 Magic Power | 180 | — |
+| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +29 Max Fatigue, +16 Ranged Attack, +15 Max HP, +13 Magic Power | 250 | — |
+| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +35 Max Fatigue, +20 Ranged Attack, +18 Max HP, +17 Magic Power | 335 | — |
+| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]], +5 [[Stats#Ranged Attack\|Ranged Attack]] | +41 Max Fatigue, +25 Ranged Attack, +21 Max HP, +21 Magic Power | 440 | — |
+| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +5 [[Stats#Magic Power\|Magic Power]], +6 [[Stats#Ranged Attack\|Ranged Attack]] | +48 Max Fatigue, +31 Ranged Attack, +24 Max HP, +26 Magic Power | max | Grants ability: [[Soul Rend (Ability)\|Soul Rend]] |
 
 ## Skill traits
 
@@ -56,9 +56,9 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 | [[Dark Pact (Skill Trait)\|Dark Pact]] | Common | Passive | 2 | — |
 | [[Malice]] | Common | Passive | 2 | — |
 | [[Curse (Skill Trait)\|Curse]] | Uncommon | Ability | 2 | [[Curse (Ability)\|Curse]] |
-| [[Fatigue Drain (Skill Trait)\|Fatigue Drain]] | Uncommon | Ability | 2 | [[Fatigue Drain (Ability)\|Fatigue Drain]] |
 | [[Greater Life Drain]] | Uncommon | Ability | 2 | — |
 | [[Malevolent Force]] | Uncommon | Passive | 2 | — |
+| [[Sap Stamina (Skill Trait)\|Sap Stamina]] | Uncommon | Ability | 2 | [[Sap Stamina (Ability)\|Sap Stamina]] |
 | [[Wither (Skill Trait)\|Wither]] | Uncommon | Ability | 2 | [[Wither (Ability)\|Wither]] |
 | [[Corrosive Hex]] | Rare | Passive | 2 | — |
 | [[Eldritch Mastery]] | Rare | Passive | 3 | — |

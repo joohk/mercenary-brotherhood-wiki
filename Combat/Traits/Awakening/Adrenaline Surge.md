@@ -18,6 +18,6 @@ up: "[[Traits]]"
 
 A tier-2 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 
-> +1 AP on the first turn of combat. Strike and reposition immediately.
+> +1 AP on each of the first 3 turns of combat. Strike and reposition immediately.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

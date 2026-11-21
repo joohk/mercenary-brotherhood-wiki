@@ -40,7 +40,7 @@ A tier-2 enemy of [[The Restless Dead]] faction — 53 HP, 7 armor, worth 15 XP 
 | [[Stats#Armor\|Armor]] | 7 |
 | [[Stats#Willpower\|Willpower]] | 72 |
 | [[Stats#Damage Min\|Damage]] | 8-12 |
-| Ranged damage with weapon | 14-24 (base 7-12 + [[Shortbow]] 7-12) |
+| Ranged damage with weapon | 15-25 (base 7-12 + [[Shortbow]] 8-13) |
 | Ranged Damage | 7-12 |
 | Ranged Range | 1 |
 
@@ -54,12 +54,25 @@ A tier-2 enemy of [[The Restless Dead]] faction — 53 HP, 7 armor, worth 15 XP 
 | Gold | 8 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Restless Dead Combat Sheet\|all The Restless Dead units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 18 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Bone Armor (Item)\|Bone Armor]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Bone Armor (Item)\|Bone Armor]] +5 | +5% |
+| [[Stats#Poison Resist\|Poison]] | +40% | — | +40% |
+| [[Stats#Shadow Resist\|Shadow]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -67,7 +80,8 @@ A tier-2 enemy of [[The Restless Dead]] faction — 53 HP, 7 armor, worth 15 XP 
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Bone Armor (Enemy Passive)|Bone Armor]] — 50% resistance to piercing, 15% to slashing. 25% vulnerable to blunt.
 
 **Possible bonus passives:** [[Steady Aim (Enemy Passive)|Steady Aim]]

@@ -23,7 +23,7 @@ A variant archetype the default for every melee enemy that matches nothing else.
 
 | Pool | Abilities | Drawn by |
 |---|---|---|
-| Lesser | [[Exploit Opening (Ability, ability_exploit_opening)\|Exploit Opening]], [[Shield Bash (Ability)\|Shield Bash]], [[Sneak Attack (Ability)\|Sneak Attack]] | Elite, Champion |
+| Lesser | [[Exploit Opening]], [[Shield Bash (Ability)\|Shield Bash]], [[Sneak Attack (Ability)\|Sneak Attack]] | Elite, Champion |
 | Greater | [[Cleave (Ability)\|Cleave]], [[Frenzy (Ability)\|Frenzy]], [[Shatter (Ability)\|Shatter]], [[Bull Rush (Ability)\|Bull Rush]] | Champion, Boss |
 | Signature | [[Coup de Grace (Ability)\|Coup de Grace]], [[Killing Blow (Ability)\|Killing Blow]] | Boss |
 | Capstone | [[Thunderclap (Ability)\|Thunderclap]] | Boss |

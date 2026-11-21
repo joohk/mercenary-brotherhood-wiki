@@ -14,40 +14,40 @@ discovery_weight: 0.4
 max_level: 10
 skill_category: combat
 skill_group: Melee
-skill_traits: 9
+skill_traits: 11
 up: "[[Melee Skills]]"
 ---
 
 [[Home]] › [[Your Company]] › [[Melee Skills]]
 
-A combat skill from the Melee group, with 10 levels and 9 skill traits.
+A combat skill from the Melee group, with 10 levels and 11 skill traits.
 
-> The art of the killing strike from behind. Masters of assassination exploit blind spots with lethal precision.
+> The killer's craft: strike from a foe's rear arc and make it count. Each level adds damage, armor penetration and physical resistance penetration to your blows from behind, and each level adds to the last.
 
 ## How to train
 
 **Trained by:** Land a melee hit from behind.
 
-**Restriction:** Rear-attack bonuses only apply when striking from behind.
+**Restriction:** Rear-arc bonuses only apply when striking from behind; the armor penetration gained at levels 3, 6 and 9 applies to every attack.
 
 **Discovery:** Can be discovered on a *rear hit* event; discovery weight 0.4.
 
 ## Progression
 
-Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column). *Uses to next level* is how many qualifying actions it takes to reach the following level.
+Bonuses are **cumulative**: each level adds its gains on top of every earlier level (the *Total so far* column). *Uses to next level* is how many qualifying actions it takes to reach the following level. Bonuses in *italics* only apply in that situation.
 
 | Level | Gains this level | Total so far | Uses to next level |
 |---|---|---|---|
-| L1 | +3 [[Stats#Initiative\|Initiative]] | +3 Initiative | 20 |
-| L2 | +3 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]] | +6 Initiative, +1% Crit Chance | 40 |
-| L3 | +2 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]] | +8 Initiative, +2% Crit Chance | 65 |
-| L4 | +2 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]] | +10 Initiative, +3% Crit Chance | 95 |
-| L5 | +2 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]] | +12 Initiative, +4% Crit Chance | 130 |
-| L6 | +1 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]], +1 [[Stats#Damage Min\|Damage Min]] | +13 Initiative, +5% Crit Chance, +1 Damage Min | 175 |
-| L7 | +1 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]], +1 [[Stats#Damage Min\|Damage Min]] | +14 Initiative, +6% Crit Chance, +2 Damage Min | 230 |
-| L8 | +1 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]], +1 [[Stats#Damage Min\|Damage]] | +15 Initiative, +7% Crit Chance, +3 Damage Min, +1 Damage Max | 335 |
-| L9 | +1 [[Stats#Initiative\|Initiative]], +1% [[Stats#Crit Chance\|Crit Chance]], +1 [[Stats#Damage Min\|Damage]] | +16 Initiative, +8% Crit Chance, +4 Damage Min, +2 Damage Max | 440 |
-| L10 | +1% [[Stats#Crit Chance\|Crit Chance]], +1 to +2 [[Stats#Damage Min\|Damage]] | +16 Initiative, +9% Crit Chance, +5 Damage Min, +4 Damage Max | max |
+| L1 | *Rear-arc hits:* +1 [[Stats#Armor Pen\|Armor Pen]], +2% damage, +2% physical resistance bypass | *Rear-arc hits:* +1 Armor Pen, +2% damage, +2% physical resistance bypass | 20 |
+| L2 | *Rear-arc hits:* +1 [[Stats#Armor Pen\|Armor Pen]], +2% damage, +1% physical resistance bypass | *Rear-arc hits:* +2 Armor Pen, +4% damage, +3% physical resistance bypass | 40 |
+| L3 | +1 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +2% damage, +2% physical resistance bypass | +1 Armor Pen; *Rear-arc hits:* +2 Armor Pen, +6% damage, +5% physical resistance bypass | 65 |
+| L4 | +1 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +1 [[Stats#Armor Pen\|Armor Pen]], +2% damage, +1% physical resistance bypass | +2 Armor Pen; *Rear-arc hits:* +3 Armor Pen, +8% damage, +6% physical resistance bypass | 95 |
+| L5 | +1 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +2% damage, +2% physical resistance bypass, +1 Between the Plates | +3 Armor Pen; *Rear-arc hits:* +3 Armor Pen, +10% damage, +8% physical resistance bypass, +1 Between the Plates | 130 |
+| L6 | +2 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +1 [[Stats#Armor Pen\|Armor Pen]], +2% damage, +1% physical resistance bypass | +5 Armor Pen; *Rear-arc hits:* +4 Armor Pen, +12% damage, +9% physical resistance bypass, +1 Between the Plates | 175 |
+| L7 | +2 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +2% damage, +2% physical resistance bypass | +7 Armor Pen; *Rear-arc hits:* +4 Armor Pen, +14% damage, +11% physical resistance bypass, +1 Between the Plates | 230 |
+| L8 | +2 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +1 [[Stats#Armor Pen\|Armor Pen]], +2% damage, +1% physical resistance bypass | +9 Armor Pen; *Rear-arc hits:* +5 Armor Pen, +16% damage, +12% physical resistance bypass, +1 Between the Plates | 335 |
+| L9 | +3 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +2% damage, +2% physical resistance bypass | +12 Armor Pen; *Rear-arc hits:* +5 Armor Pen, +18% damage, +14% physical resistance bypass, +1 Between the Plates | 440 |
+| L10 | +3 [[Stats#Armor Pen\|Armor Pen]]; *Rear-arc hits:* +1 [[Stats#Armor Pen\|Armor Pen]], +2% damage, +1% physical resistance bypass, +1 Death from Behind | +15 Armor Pen; *Rear-arc hits:* +6 Armor Pen, +20% damage, +15% physical resistance bypass, +1 Between the Plates, +1 Death from Behind | max |
 
 ## Skill traits
 
@@ -55,15 +55,17 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
-| [[Backstab (Skill Trait, Assassination)\|Backstab]] | Common | Passive | 2 | — |
-| [[Shadow Step (Skill Trait)\|Shadow Step]] | Common | Passive | 2 | — |
+| [[Slip Behind (Skill Trait)\|Slip Behind]] | Common | Ability | 2 | [[Slip Behind (Ability)\|Slip Behind]] |
 | [[Exploit Weakness]] | Uncommon | Passive | 2 | — |
-| [[Lethal Ambush]] | Uncommon | Passive | 2 | — |
-| [[Phantom Dodge]] | Uncommon | Passive | 2 | — |
+| [[Find the Vein]] | Uncommon | Passive | 2 | — |
+| [[Open Artery]] | Uncommon | Passive | 2 | — |
+| [[Puncture (Skill Trait)\|Puncture]] | Uncommon | Ability | 2 | [[Puncture (Ability)\|Puncture]] |
+| [[Rend the Seams (Skill Trait)\|Rend the Seams]] | Uncommon | Ability | 2 | [[Rend the Seams (Ability)\|Rend the Seams]] |
 | [[Sneak Attack (Skill Trait)\|Sneak Attack]] | Uncommon | Ability | 1 | [[Sneak Attack (Ability)\|Sneak Attack]] |
 | [[Throat Cutter]] | Uncommon | Passive | 2 | — |
 | [[Deathblow]] | Rare | Passive | 2 | — |
 | [[Killing Blow (Skill Trait)\|Killing Blow]] | Rare | Ability | 1 | [[Killing Blow (Ability)\|Killing Blow]] |
+| [[Patient Knife]] | Rare | Passive | 2 | — |
 
 ## Referenced by
 

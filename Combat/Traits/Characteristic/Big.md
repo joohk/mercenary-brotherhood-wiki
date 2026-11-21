@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A common physical characteristic in the *size* group. Every unit rolls exactly one characteristic at creation.
 
-> +8 max HP, +11% damage, -4 initiative. A large frame grants reach and power, but slows you down
+> +8 max HP, +11% melee damage, -4 initiative. A large frame grants reach and power, but slows you down
 
 ## Characteristic group
 

@@ -26,7 +26,7 @@ A common passive skill trait of [[Staff Mastery]] with 2 ranks.
 
 Rank 1:
 
-- +2 [[Stats#Fatigue Recovery|Fatigue Recovery]]
+- +2 Bonus Fatigue Recovery
 - +3 [[Stats#Willpower|Willpower]]
 
 ## Upgrades
@@ -37,7 +37,7 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 Increased to +3 fatigue recovery, +5 willpower.
 
-- +3 [[Stats#Fatigue Recovery|Fatigue Recovery]]
+- +3 Bonus Fatigue Recovery
 - +5 [[Stats#Willpower|Willpower]]
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

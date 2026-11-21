@@ -79,6 +79,13 @@ Weapon families this race favours.
 - **Melee:** Dagger, Mace
 - **Ranged:** Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Thrown ×3, Dagger ×2, Light Armor ×1.5, Bow ×1.3
+- **Disfavoured:** Hammer ×0.4, Heavy Armor ×0.3
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.
@@ -92,7 +99,7 @@ Multipliers on the chance to discover these skills.
 The 28 backgrounds a Halfling recruit can roll.
 
 - **Common (14):** [[Acolyte]], [[Acolyte Militant]], [[Beggar]], [[Candle Witch]], [[Forager]], [[Hedge Wizard]], [[Herb Apprentice]], [[Minstrel]], [[Pilgrim]], [[Shepherd]], [[Street Urchin]], [[Temple Guard]], [[Trapper]], [[Vagabond]]
-- **Uncommon (7):** [[Cleric (Background)|Cleric]], [[Druid (Background)|Druid]], [[Herbalist]], [[Monk]], [[Scout]], [[Thief (Background)|Thief]], [[Tomb Robber]]
+- **Uncommon (7):** [[Chaplain]], [[Druid (Background)|Druid]], [[Herbalist]], [[Monk]], [[Scout]], [[Thief (Background)|Thief]], [[Tomb Robber]]
 - **Rare (5):** [[Bard]], [[Blade Dancer]], [[Shade Walker]], [[Spymaster]], [[Stalker (Background)|Stalker]]
 - **Legendary (2):** [[Legendary Hunter]], [[Phantom Lord]]
 

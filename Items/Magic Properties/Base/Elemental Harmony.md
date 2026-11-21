@@ -37,6 +37,6 @@ A legendary-or-better magic property for body armor and accessories.
 
 ## Effects
 
-- +25% [[Stats#Fire Resist|Fire Resist]], +25% [[Stats#Cold Resist|Cold Resist]], +25% [[Stats#Lightning Resist|Lightning Resist]], +25% [[Stats#Poison Resist|Poison Resist]], +25% Bleed Resist
+- +25% [[Stats#Fire Resist|Fire Resist]], +25% [[Stats#Cold Resist|Cold Resist]], +25% [[Stats#Lightning Resist|Lightning Resist]], +25% [[Stats#Poison Resist|Poison Resist]], +25% [[Stats#Bleed Resist|Bleed Resist]]
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -21,7 +21,7 @@ up: "[[Traits]]"
 
 A tier-4 awakening trait (ability) for the caster archetype that grants the active ability [[Mass Haste (Ability)|Mass Haste]]. At each awakening tier the player picks one trait from that tier's offer.
 
-> All allies gain +2 AP and +20 initiative for several turns. Once per battle.
+> Active: all allies within 4 hexes gain +2 AP once and +20 initiative for 3 turns. Once per battle.
 
 ## Effects
 

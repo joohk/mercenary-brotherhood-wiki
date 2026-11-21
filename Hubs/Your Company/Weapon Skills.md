@@ -14,7 +14,7 @@ The 9 weapon skill trees.
 | Name | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|
 | [[Axe Fighting]] | Weapon | Land a melee hit with an axe equipped | — | 8 |
-| [[Crossbow Mastery]] | Weapon | Land a ranged hit with a crossbow equipped | — | 7 |
+| [[Crossbow Mastery]] | Weapon | Land a ranged hit with a crossbow equipped | — | 8 |
 | [[Dagger Mastery]] | Weapon | Land a melee hit with a dagger equipped | — | 8 |
 | [[Hammer Fighting]] | Weapon | Land a melee hit with a hammer equipped | — | 7 |
 | [[Mace Fighting]] | Weapon | Land a melee hit with a mace equipped | — | 8 |

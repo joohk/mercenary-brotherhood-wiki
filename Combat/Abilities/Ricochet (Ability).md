@@ -22,7 +22,7 @@ up: "[[Abilities]]"
 
 A 1-AP ranged ability targeting one enemy.
 
-> Throw a weapon that bounces to a second nearby enemy for 60% damage.
+> Throw a weapon that bounces to a second enemy within 2 hexes for 60% damage. The bounce rolls to hit at -10.
 
 ## Stats
 

@@ -56,43 +56,43 @@ Which magic properties give which theme (from the theme map):
 
 ### Arcane
 
-> [!abstract]- 51 properties
-> [[Acidsplit]], [[Adrenal Rush]], [[Arcane Barrage Mastery]], [[Arcane Infusion I]], [[Arcane Infusion II]], [[Arcane Infusion III]], [[Arcane Nova Mastery]], [[Arcane Shield Conditioning]], [[Battle Rush]], [[Berserk Surge]], [[Coup de Grace (Magic Property)|Coup de Grace]], [[Cruel Edge]], [[Daring]], [[Enchanted Bolt Attunement]], [[Finisher]], [[Frostbrand]], [[Headsman (Magic Property)|Headsman]], [[Healer Touch]], [[Legion Ascendant Mastery]], [[Levitate Mastery]], [[Life Clone Mastery]], [[Magic Missile Mastery]], [[Mana Siphon]], [[Mana Surge Reserve]], [[Predator]], [[Rallying Strike]], [[Rift Walk Mastery]], [[Shadowstrike]], [[Smother]], [[Soul Link]], [[Soulrender]], [[Spell Shield]], [[Stormbrand]], [[Sunblade]], [[Tactical Withdraw]], [[Tactician Wreath]], [[Telekinetic Crush Mastery]], [[Telekinetic Grasp Mastery]], [[Telekinetic Gust Reserve]], [[Telekinetic Lift Mastery]], [[Telekinetic Push Reach]], [[Telekinetic Shatter Mastery]], [[Telekinetic Shield Mastery]], [[Telekinetic Slam Reach]], [[Telekinetic Swap Mastery]], [[Telekinetic Wave Mastery]], [[Temporal Echo]], [[Time Dilation]], [[Time Slip Mastery]], [[Void Touch]], [[Witch-Hunter]]
+> [!abstract]- 53 properties
+> [[Acidsplit]], [[Adrenal Rush]], [[Arcane Barrage Mastery]], [[Arcane Burst Mastery]], [[Arcane Infusion I]], [[Arcane Infusion II]], [[Arcane Infusion III]], [[Arcane Nova Mastery]], [[Arcane Shield Conditioning]], [[Battle Rush]], [[Berserk Surge]], [[Coup de Grace (Magic Property)|Coup de Grace]], [[Cruel Edge]], [[Daring]], [[Enchanted Bolt Attunement]], [[Finisher]], [[Frostbrand]], [[Headsman (Magic Property)|Headsman]], [[Healer Touch]], [[Legion Ascendant Mastery]], [[Levitate Mastery]], [[Life Clone Mastery]], [[Magic Missile Mastery]], [[Mana Siphon]], [[Mana Surge Reserve]], [[Predator]], [[Rallying Strike]], [[Rift Walk Mastery]], [[Shadowstrike]], [[Smother]], [[Soul Link]], [[Soulrender]], [[Spell Shield]], [[Stormbrand]], [[Sunblade]], [[Tactical Withdraw]], [[Tactician Wreath]], [[Telekinetic Crush Mastery]], [[Telekinetic Grasp Mastery]], [[Telekinetic Gust Reserve]], [[Telekinetic Lift Mastery]], [[Telekinetic Push Reach]], [[Telekinetic Shatter Mastery]], [[Telekinetic Shield Mastery]], [[Telekinetic Slam Reach]], [[Telekinetic Swap Mastery]], [[Telekinetic Wave Mastery]], [[Temporal Echo]], [[Time Dilation]], [[Time Slip Mastery]], [[Void Touch]], [[Ward Bolt Conditioning]], [[Witch-Hunter]]
 
 ### Blessed
 
-> [!abstract]- 18 properties
-> [[Anthem of Valor Mastery]], [[Apotheosis Mastery]], [[Avatar State (Minor) Mastery]], [[Avatar State Mastery]], [[Blessed I]], [[Blessed II]], [[Blessing of Vigor Mastery]], [[Cleanse Mastery]], [[Cleansing Locket]], [[Cleansing Wave Mastery]], [[Commander]], [[Elemental Harmony]], [[Inspiring Ballad Mastery]], [[Martyr's Grace Mastery]], [[Radiant Nova Mastery]], [[Rallying Cry Mastery]], [[Smite Undead Mastery]], [[Tourniquet Band]]
+> [!abstract]- 19 properties
+> [[Anthem of Valor Mastery]], [[Apotheosis Mastery]], [[Avatar State (Minor) Mastery]], [[Avatar State Mastery]], [[Blessed I]], [[Blessed II]], [[Blessing of Vigor Mastery]], [[Cleanse Mastery]], [[Cleansing Locket]], [[Cleansing Wave Mastery]], [[Commander]], [[Elemental Harmony]], [[Inspiring Ballad Mastery]], [[Martyr's Grace Mastery]], [[Prayer of Renewal Mastery]], [[Radiant Nova Mastery]], [[Rallying Cry Mastery]], [[Smite Undead Mastery]], [[Tourniquet Band]]
 
 ### Blood
 
-> [!abstract]- 25 properties
-> [[Bleed Resistance I]], [[Bleed Resistance II]], [[Bleeding I]], [[Bleeding II]], [[Bleeding III]], [[Blood Bolt Mastery]], [[Blood Bond Mastery]], [[Blood Price]], [[Bloodscent Totem]], [[Bloodseeker Mastery]], [[Glutton-Spirit Charm]], [[Hungering Fetish]], [[Lacerate Mastery]], [[Leech]], [[Life Burn Mastery]], [[Life Drain Mastery]], [[Life Link Mastery]], [[Lifesteal I]], [[Lifesteal II]], [[Lifesteal III]], [[Sanguine Burst Mastery]], [[Sanguine Edge]], [[Vampiric Embrace]], [[Vampiric Touch]], [[War-Caller's Idol]]
+> [!abstract]- 29 properties
+> [[Bleed Resistance I]], [[Bleed Resistance II]], [[Bleeding I]], [[Bleeding II]], [[Bleeding III]], [[Blood Bolt Mastery]], [[Blood Bond Mastery]], [[Blood Pact Conditioning]], [[Blood Price]], [[Blood Ward Mastery]], [[Bloodscent Totem]], [[Broadhead Arrow Mastery]], [[Crimson Tide Mastery]], [[Exsanguinate Mastery]], [[Glutton-Spirit Charm]], [[Hungering Fetish]], [[Lacerate Mastery]], [[Leech]], [[Life Burn Mastery]], [[Life Drain Mastery]], [[Life Link Mastery]], [[Lifesteal I]], [[Lifesteal II]], [[Lifesteal III]], [[Sanguine Burst Mastery]], [[Sanguine Edge]], [[Vampiric Embrace]], [[Vampiric Touch]], [[War-Caller's Idol]]
 
 ### Brutal
 
-> [!abstract]- 71 properties
-> [[Arachne Slayer]], [[Armor Crush Mastery]], [[Aurelian Legions Bane]], [[Bandits Bane]], [[Barbarians Bane]], [[Beast Hunter]], [[Beasts Bane]], [[Blade Storm Mastery]], [[Cleave Mastery]], [[Cleaving I]], [[Cleaving II]], [[Crushing Blow Mastery]], [[Cultists Bane]], [[Demonbane]], [[Demons Bane]], [[Deserters Bane]], [[Dragon Slayer (Magic Property)|Dragon Slayer]], [[Dread Host Bane]], [[Duergar Bane]], [[Eastern Empire Bane]], [[Executioner (Magic Property)|Executioner]], [[Fan of Blades Mastery]], [[Feral Outcasts Bane]], [[Ferocity I]], [[Ferocity II]], [[Ferocity III]], [[Frost Bane]], [[Fury]], [[Giant Killer]], [[Gnoll Slayer]], [[Goblin Hunter]], [[Greenskins Bane]], [[Gyro-Saw Disc Mastery]], [[Heavy Chop Mastery]], [[Inquisition Bane]], [[Jarring Blow (2H) Mastery]], [[Jarring Blow Mastery]], [[Jotunblight Bane]], [[Kesharan Dominion Bane]], [[Last Banner]], [[Mercenaries Bane]], [[Mighty Blow Mastery]], [[Minotaur Bane]], [[Ogre Slayer]], [[Orc Slayer]], [[Overcharge (Magic Property)|Overcharge]], [[Rabble Bane]], [[Ratkin Cleaver]], [[Ratkin Swarm Bane]], [[Rending Chop Mastery]], [[Shatter (Magic Property)|Shatter]], [[Shatter Reserve]], [[Shieldbreaker Mastery]], [[Skull Crack Mastery]], [[Storm of Steel Mastery]], [[Sunder Armor (2H) Mastery]], [[Sunder Armor Mastery]], [[Sundering Blow Reserve]], [[Swamp Dwellers Bane]], [[Sweeping Blow Mastery]], [[Trailcarver]], [[Troll Slayer]], [[Umbral Court Bane]], [[Undead Bane (Magic Property, vs Undead Faction)|Undead Bane]], [[Undead Bane (Magic Property, vs Undead Keyword)|Undead Bane]], [[Vampire Slayer]], [[Vampires Bane]], [[Veterans Bane]], [[Whirlwind Mastery]], [[Wolves Bane]], [[Wraith Bane]]
+> [!abstract]- 73 properties
+> [[Arachne Slayer]], [[Aurelian Legions Bane]], [[Bandits Bane]], [[Barbarians Bane]], [[Beast Hunter]], [[Beasts Bane]], [[Blade Storm Mastery]], [[Cleave Mastery]], [[Cleaving I]], [[Cleaving II]], [[Crush Resistance Mastery]], [[Crushing Blow Mastery]], [[Cultists Bane]], [[Demonbane]], [[Demons Bane]], [[Deserters Bane]], [[Dragon Slayer (Magic Property)|Dragon Slayer]], [[Dread Host Bane]], [[Duergar Bane]], [[Eastern Empire Bane]], [[Executioner (Magic Property)|Executioner]], [[Fan of Blades Mastery]], [[Feral Outcasts Bane]], [[Ferocity I]], [[Ferocity II]], [[Ferocity III]], [[Frost Bane]], [[Fury]], [[Giant Killer]], [[Gnoll Slayer]], [[Goblin Hunter]], [[Greenskins Bane]], [[Gyro-Saw Disc Mastery]], [[Heavy Chop Mastery]], [[Inquisition Bane]], [[Jarring Blow (2H) Mastery]], [[Jarring Blow Mastery]], [[Jotunblight Bane]], [[Kesharan Dominion Bane]], [[Last Banner]], [[Mercenaries Bane]], [[Mighty Blow Mastery]], [[Minotaur Bane]], [[Ogre Slayer]], [[Orc Slayer]], [[Overcharge (Magic Property)|Overcharge]], [[Rabble Bane]], [[Ratkin Cleaver]], [[Ratkin Swarm Bane]], [[Rending Chop Mastery]], [[Shared Sunder]], [[Shatter (Magic Property)|Shatter]], [[Shatter Reserve]], [[Shieldbreaker Mastery]], [[Skull Crack Mastery]], [[Storm of Steel Mastery]], [[Sunder Armor (2H) Mastery]], [[Sunder Armor Mastery]], [[Sundering Blow Reserve]], [[Swamp Dwellers Bane]], [[Sweeping Blow Mastery]], [[Trailcarver]], [[Troll Slayer]], [[Umbral Court Bane]], [[Undead Bane (Magic Property, vs Undead Faction)|Undead Bane]], [[Undead Bane (Magic Property, vs Undead Keyword)|Undead Bane]], [[Vampire Slayer]], [[Vampires Bane]], [[Veterans Bane]], [[War-Chorus]], [[Whirlwind Mastery]], [[Wolves Bane]], [[Wraith Bane]]
 
 ### Cursed
 
-> [!abstract]- 8 properties
-> [[Curse Mastery]], [[Cursed Strike]], [[Dirge of Despair Conditioning]], [[Dissonant Chord Mastery]], [[Exhausting Presence]], [[Fatigue Drain Mastery]], [[Mocking Anthem Conditioning]], [[Wither Mastery]]
+> [!abstract]- 9 properties
+> [[Curse Mastery]], [[Cursed Strike]], [[Dirge of Despair Conditioning]], [[Dissonant Chord Mastery]], [[Exhausting Presence]], [[Fatigue Drain Mastery]], [[Mocking Anthem Conditioning]], [[Sap Stamina Mastery]], [[Wither Mastery]]
 
 ### Death
 
-> [!abstract]- 19 properties
-> [[Battle Fury]], [[Coup de Grace Reserve]], [[Death Blossom Mastery]], [[Death's Embrace]], [[Deathmark]], [[Decapitate Reserve]], [[Doom]], [[Doom Herald Mastery]], [[Harbinger]], [[Immortal Host Mastery]], [[Killing Blow Mastery]], [[Maelstrom]], [[Reaping]], [[Soul Harvest]], [[Soul Rend Mastery]], [[Throat Slash Mastery]], [[True Immortality Mastery]], [[Undying Mastery]], [[Warcry of Ruin Mastery]]
+> [!abstract]- 22 properties
+> [[Battle Fury]], [[Coup de Grace Reserve]], [[Death Blossom Mastery]], [[Death's Embrace]], [[Deathmark]], [[Decapitate Reserve]], [[Doom]], [[Doom Herald Mastery]], [[Execution Shot Mastery]], [[Harbinger]], [[Immortal Host Mastery]], [[Kill Zone Conditioning]], [[Killing Blow Mastery]], [[Maelstrom]], [[Reaping]], [[Seamrender]], [[Soul Harvest]], [[Soul Rend Mastery]], [[Throat Slash Mastery]], [[True Immortality Mastery]], [[Undying Mastery]], [[Warcry of Ruin Mastery]]
 
 ### Fire
 
-> [!abstract]- 17 properties
-> [[Cataclysm Mastery]], [[Cauterize]], [[Cinderbrand Charm]], [[Fire Bomb Reserve]], [[Fire Burst]], [[Fire I]], [[Fire II]], [[Fire III]], [[Fire Resistance I]], [[Fire Resistance II]], [[Fire-Quench Wrap]], [[Fireball Mastery]], [[Grand Finale Mastery]], [[Meteor Strike Mastery]], [[Ragnarok Mastery]], [[Soulfire]], [[Sunburst Mastery]]
+> [!abstract]- 19 properties
+> [[Cataclysm Mastery]], [[Cauterize]], [[Cinderbrand Charm]], [[Fire Arrow Mastery]], [[Fire Bomb Reserve]], [[Fire Burst]], [[Fire I]], [[Fire II]], [[Fire III]], [[Fire Resistance I]], [[Fire Resistance II]], [[Fire-Quench Wrap]], [[Fireball Mastery]], [[Grand Finale Mastery]], [[Meteor Strike Mastery]], [[Ragnarok Mastery]], [[Siege Bolt Mastery]], [[Soulfire]], [[Sunburst Mastery]]
 
 ### Force
 
-> [!abstract]- 31 properties
-> [[Ballistic Shot Mastery]], [[Battering Ram Mastery]], [[Boulder Throw Mastery]], [[Bull Rush Mastery]], [[Bull's Pauldron]], [[Concussion Mastery]], [[Couched Grip]], [[Crescendo Mastery]], [[Devastating Charge Mastery]], [[Earthquake Mastery (Magic Property)|Earthquake Mastery]], [[Earthshaker Reserve]], [[Gravitational Crush Mastery]], [[Gravity Well (Magic Property)|Gravity Well]], [[Headlong Charge Mastery]], [[Hurler's Harness]], [[Juggernaut (Magic Property)|Juggernaut]], [[Knockback I]], [[Knockback II]], [[Leap and Smash Mastery]], [[Panic Bell]], [[Seismic Slam Mastery]], [[Shattering Crescendo Mastery]], [[Spectral Chains I]], [[Spectral Chains II]], [[Staff Slam Reserve]], [[Steam-Powered Punch Mastery]], [[Throw Enemy Mastery]], [[Titan's Grip Mastery]], [[Tremor Mastery (Magic Property)|Tremor Mastery]], [[Unstoppable (Magic Property)|Unstoppable]], [[Vortex]]
+> [!abstract]- 35 properties
+> [[Anvil-Caller]], [[Ballistic Shot Mastery]], [[Battering Ram Mastery]], [[Blunt Arrow Mastery]], [[Boulder Throw Mastery]], [[Bull Rush Mastery]], [[Bull's Pauldron]], [[Concussion Mastery]], [[Couched Grip]], [[Crescendo Mastery]], [[Devastating Charge Mastery]], [[Earthquake Mastery (Magic Property)|Earthquake Mastery]], [[Earthshaker Reserve]], [[Gravitational Crush Mastery]], [[Gravity Well (Magic Property)|Gravity Well]], [[Headlong Charge Mastery]], [[Hurler's Harness]], [[Juggernaut (Magic Property)|Juggernaut]], [[Knockback I]], [[Knockback II]], [[Leap and Smash Mastery]], [[Panic Bell]], [[Pulverize Mastery]], [[Seismic Slam Mastery]], [[Shattering Crescendo Mastery]], [[Spectral Chains I]], [[Spectral Chains II]], [[Staff Slam Reserve]], [[Steam-Powered Punch Mastery]], [[Stone Shards Conditioning]], [[Throw Enemy Mastery]], [[Titan's Grip Mastery]], [[Tremor Mastery (Magic Property)|Tremor Mastery]], [[Unstoppable (Magic Property)|Unstoppable]], [[Vortex]]
 
 ### Frost
 
@@ -101,13 +101,13 @@ Which magic properties give which theme (from the theme map):
 
 ### Iron
 
-> [!abstract]- 24 properties
-> [[Absorb Material Mastery]], [[Brace Reserve]], [[Defensive Thrust Mastery]], [[Endurance I]], [[Endurance II]], [[Fortitude I]], [[Fortitude II]], [[Fortitude III]], [[Hardened I]], [[Hardened II]], [[Hardened III]], [[Hold the Line Focus]], [[Iron Surge]], [[Ironheart]], [[Last Stand (Magic Property)|Last Stand]], [[March of Steel Conditioning]], [[Resilience I]], [[Resilience II]], [[Resilience III]], [[Shield Bash Reserve]], [[Stone Bastion Conditioning]], [[Stoneskin Conditioning]], [[Undying (Magic Property)|Undying]], [[Void Armor]]
+> [!abstract]- 25 properties
+> [[Absorb Material Mastery]], [[Brace Reserve]], [[Endurance I]], [[Endurance II]], [[Fortitude I]], [[Fortitude II]], [[Fortitude III]], [[Hardened I]], [[Hardened II]], [[Hardened III]], [[Heart of the Mountain Conditioning]], [[Hold the Line Focus]], [[Iron Surge]], [[Ironheart]], [[Last Stand (Magic Property)|Last Stand]], [[March of Steel Conditioning]], [[Mountain's Shelter Mastery]], [[Resilience I]], [[Resilience II]], [[Resilience III]], [[Shield Bash Reserve]], [[Skewer Mastery]], [[Stoneskin Conditioning]], [[Undying (Magic Property)|Undying]], [[Void Armor]]
 
 ### Keen
 
-> [!abstract]- 35 properties
-> [[Accuracy I]], [[Accuracy II]], [[Accuracy III]], [[Adrenal Edge]], [[Aimed Throw Mastery]], [[Blade Dance Mastery]], [[Bloodthirst]], [[Called Shot Mastery (Magic Property, mag_emp_awk_called_shot)|Called Shot Mastery]], [[Called Shot Mastery (Magic Property, mag_emp_called_shot)|Called Shot Mastery]], [[Counter Stance Mastery]], [[Crippling Shot Mastery]], [[Critical I]], [[Critical II]], [[Critical III]], [[Disarming Strike Mastery]], [[Exploit Opening Reserve]], [[Guard-Splitter]], [[Pincer Sigil]], [[Pinning Shot Reserve]], [[Precise Strike (2H) Mastery]], [[Precise Strike Mastery]], [[Precision I]], [[Precision II]], [[Precision III]], [[Resonant Strike]], [[Sharpness I]], [[Sharpness II]], [[Sharpness III]], [[Steady Aim I]], [[Steady Aim II]], [[Steady Aim III]], [[Surge]], [[Tireless (Magic Property)|Tireless]], [[Twin Strike Mastery]], [[Volley Mastery]]
+> [!abstract]- 41 properties
+> [[Accuracy I]], [[Accuracy II]], [[Accuracy III]], [[Adrenal Edge]], [[Aimed Throw Mastery]], [[Blade Dance Mastery]], [[Bloodthirst]], [[Called Shot Mastery (Magic Property, mag_emp_awk_called_shot)|Called Shot Mastery]], [[Called Shot Mastery (Magic Property, mag_emp_called_shot)|Called Shot Mastery]], [[Counter Stance Mastery]], [[Crippling Shot Mastery]], [[Critical I]], [[Critical II]], [[Critical III]], [[Disarming Strike Mastery]], [[Exploit Opening Reserve]], [[Flushing Shot Mastery]], [[Gap-Finder]], [[Gaze-Catcher]], [[Guard-Breaker]], [[Guard-Splitter]], [[Needle's Point]], [[Pincer Sigil]], [[Pinning Shot Reserve]], [[Precise Strike (2H) Mastery]], [[Precise Strike Mastery]], [[Precision I]], [[Precision II]], [[Precision III]], [[Resonant Strike]], [[Sharpness I]], [[Sharpness II]], [[Sharpness III]], [[Sniper's Nest Conditioning]], [[Steady Aim I]], [[Steady Aim II]], [[Steady Aim III]], [[Surge]], [[Tireless (Magic Property)|Tireless]], [[Twin Strike Mastery]], [[Volley Mastery]]
 
 ### Lightning
 
@@ -117,32 +117,32 @@ Which magic properties give which theme (from the theme map):
 ### Nature
 
 > [!abstract]- 24 properties
-> [[Bloom of Life Mastery]], [[Earthbind Mastery]], [[Endurance Ring]], [[Entangling Roots Mastery]], [[Fatigue Restore Mastery]], [[Field Surgeon's Kit]], [[Healer's Standard]], [[Invigorate]], [[Mend Mastery]], [[Mending I]], [[Mending II]], [[Mending III]], [[Minor Heal Mastery]], [[Nature Walk Mastery]], [[Phoenix Flame]], [[Regeneration I]], [[Regeneration II]], [[Regeneration III]], [[Regrowth Mastery]], [[Second Wind (Magic Property)|Second Wind]], [[Second Wind Reserve]], [[Stamina Belt]], [[Verdant Wind Mastery]], [[Wild Growth Mastery]]
+> [[Barkskin Mastery]], [[Bloom of Life Mastery]], [[Endurance Ring]], [[Entangling Roots Mastery]], [[Fatigue Restore Mastery]], [[Field Surgeon's Kit]], [[Healer's Standard]], [[Heart of the Wild Conditioning]], [[Invigorate]], [[Mend Mastery]], [[Mending I]], [[Mending II]], [[Mending III]], [[Minor Heal Mastery]], [[Nature Walk Mastery]], [[Phoenix Flame]], [[Regeneration I]], [[Regeneration II]], [[Regeneration III]], [[Regrowth Mastery]], [[Second Wind (Magic Property)|Second Wind]], [[Second Wind Reserve]], [[Stamina Belt]], [[Verdant Wind Mastery]]
 
 ### Piercing
 
-> [!abstract]- 10 properties
-> [[Arrow Storm Mastery]], [[Long Thrust Mastery]], [[Oiled Gearworks]], [[Penetrating Bolt Reserve]], [[Piercing I]], [[Piercing II]], [[Piercing III]], [[Piercing Shot Mastery]], [[Pinning Shot Mastery]], [[Rain of Arrows Mastery]]
+> [!abstract]- 11 properties
+> [[Arrow Storm Mastery]], [[Bodkin Arrow Mastery]], [[Long Thrust Mastery]], [[Oiled Gearworks]], [[Penetrating Bolt Reserve]], [[Piercing I]], [[Piercing II]], [[Piercing III]], [[Piercing Shot Mastery]], [[Pinning Shot Mastery]], [[Rain of Arrows Mastery]]
 
 ### Poison
 
-> [!abstract]- 10 properties
-> [[Antivenom Charm]], [[Pestilent Focus]], [[Poison I]], [[Poison II]], [[Poison III]], [[Poison Resistance I]], [[Poison Resistance II]], [[Sporecloud Mastery]], [[Twin Fangs Mastery]], [[Venomous Coating]]
+> [!abstract]- 11 properties
+> [[Antivenom Charm]], [[Creeping Blight Mastery]], [[Pestilent Focus]], [[Poison I]], [[Poison II]], [[Poison III]], [[Poison Resistance I]], [[Poison Resistance II]], [[Sporecloud Mastery]], [[Twin Fangs Mastery]], [[Venomous Coating]]
 
 ### Shadow
 
-> [!abstract]- 25 properties
-> [[Blind Angle]], [[Blink Attack Mastery]], [[Blink Step]], [[Blur Mastery]], [[Ethereal I]], [[Ethereal II]], [[Exploit Opening Mastery]], [[Ghost Walk Mastery]], [[Invisibility Mastery]], [[Mirror Image]], [[Phantom Cloak]], [[Phase Shift I]], [[Phase Shift II]], [[Phase Shift Mastery]], [[Phase Strike Mastery]], [[Shadow Bolt Reach]], [[Shadow Cloak Focus]], [[Shadow Nova Mastery (Magic Property)|Shadow Nova Mastery]], [[Shadow Step (Magic Property)|Shadow Step]], [[Shadow Step Mastery]], [[Shadow Strike Mastery]], [[Shadow Veil Mastery (Magic Property)|Shadow Veil Mastery]], [[Shadow Walk Mastery (Magic Property)|Shadow Walk Mastery]], [[Slip Strike Mastery]], [[Sneak Attack Mastery]]
+> [!abstract]- 26 properties
+> [[Blind Angle]], [[Blink Attack Mastery]], [[Blink Step]], [[Blur Mastery]], [[Ethereal I]], [[Ethereal II]], [[Ghost Walk Mastery]], [[Invisibility Mastery]], [[Low Blow Mastery]], [[Mirror Image]], [[Phantom Cloak]], [[Phase Shift I]], [[Phase Shift II]], [[Phase Shift Mastery]], [[Phase Strike Mastery]], [[Shadow Bolt Reach]], [[Shadow Cloak Focus]], [[Shadow Nova Mastery (Magic Property)|Shadow Nova Mastery]], [[Shadow Step (Magic Property)|Shadow Step]], [[Shadow Step Mastery]], [[Shadow Strike Mastery]], [[Shadow Veil Mastery (Magic Property)|Shadow Veil Mastery]], [[Shadow Walk Mastery (Magic Property)|Shadow Walk Mastery]], [[Slip Strike Mastery]], [[Sneak Attack Mastery]], [[Unseen Step]]
 
 ### Sight
 
-> [!abstract]- 9 properties
-> [[Far Shot I]], [[Far Shot II]], [[Farsight I]], [[Farsight II]], [[Hunter's Mark (Magic Property)|Hunter's Mark]], [[Hunter's Mark Mastery]], [[Lucky I]], [[Lucky II]], [[Ricochet Mastery]]
+> [!abstract]- 12 properties
+> [[Deadeye Shot Mastery]], [[Far Shot I]], [[Far Shot II]], [[Farsight I]], [[Farsight II]], [[Firing Line Conditioning]], [[Hunter's Mark (Magic Property)|Hunter's Mark]], [[Hunter's Mark Mastery]], [[Lucky I]], [[Lucky II]], [[Ricochet Mastery]], [[Warning Shot Mastery]]
 
 ### Swift
 
-> [!abstract]- 28 properties
-> [[Adrenaline]], [[Battle-Tested]], [[Brace (Magic Property)|Brace]], [[Encore Mastery]], [[Flurry Mastery]], [[Gust Mastery]], [[Haste Conditioning]], [[Mass Haste Mastery]], [[Opportunist Strike Reserve]], [[Overclock Reserve]], [[Quickflow]], [[Song of Haste Mastery]], [[Spring Jump Mastery]], [[Sprint Reserve]], [[Stormrider's Wings]], [[Strider I]], [[Strider II]], [[Swiftness I]], [[Swiftness II]], [[Swiftness III]], [[Tumble]], [[Turnkey Hilt]], [[Untouchable (Magic Property)|Untouchable]], [[Vigor I]], [[Vigor II]], [[Wanderer's Cadence Conditioning]], [[Wind Walker]], [[Wolf's Tread]]
+> [!abstract]- 31 properties
+> [[Adrenaline]], [[Battle-Tested]], [[Brace (Magic Property)|Brace]], [[Darting Edge]], [[Encore Mastery]], [[Flurry Mastery]], [[Gust Mastery]], [[Hail of Arrows Conditioning]], [[Haste Conditioning]], [[Mass Haste Mastery]], [[Opportunist Strike Reserve]], [[Overclock Reserve]], [[Quick Shot Mastery]], [[Quickflow]], [[Song of Haste Mastery]], [[Spring Jump Mastery]], [[Sprint Reserve]], [[Stormrider's Wings]], [[Strider I]], [[Strider II]], [[Swiftness I]], [[Swiftness II]], [[Swiftness III]], [[Tumble]], [[Untouchable (Magic Property)|Untouchable]], [[Vigor I]], [[Vigor II]], [[Wanderer's Cadence Conditioning]], [[Whirlwind Step]], [[Wind Walker]], [[Wolf's Tread]]
 
 ### Thorns
 
@@ -151,13 +151,13 @@ Which magic properties give which theme (from the theme map):
 
 ### Ward
 
-> [!abstract]- 19 properties
-> [[Aegis]], [[Aegis of the Fallen Mastery]], [[Bannerward Sigil]], [[Barrier Strike Mastery]], [[Bulwark (Magic Property)|Bulwark]], [[Deflection I]], [[Deflection II]], [[Deflection III]], [[Guardian I]], [[Guardian II]], [[Guardian Spirit Mastery]], [[Hymn of Shielding Conditioning]], [[Overheal Shield Mastery]], [[Sanctuary (Magic Property)|Sanctuary]], [[Sanctuary Mastery]], [[Sentinel (Magic Property)|Sentinel]], [[Warding I]], [[Warding II]], [[Warding III]]
+> [!abstract]- 20 properties
+> [[Aegis]], [[Aegis of the Fallen Mastery]], [[Bannerward Sigil]], [[Barrier Strike Mastery]], [[Bulwark (Magic Property)|Bulwark]], [[Covering Fire Mastery]], [[Deflection I]], [[Deflection II]], [[Deflection III]], [[Guardian I]], [[Guardian II]], [[Guardian Spirit Mastery]], [[Hymn of Shielding Conditioning]], [[Overheal Shield Mastery]], [[Sanctuary (Magic Property)|Sanctuary]], [[Sanctuary Mastery]], [[Sentinel (Magic Property)|Sentinel]], [[Warding I]], [[Warding II]], [[Warding III]]
 
 ### Wild
 
-> [!abstract]- 9 properties
-> [[Berserker I]], [[Berserker II]], [[Chain Shot]], [[Frenzy Reserve]], [[Rapid Fire]], [[Steady]], [[Titan's Grip (Magic Property)|Titan's Grip]], [[Whirlwind Strike Mastery]], [[Wildshape Mastery]]
+> [!abstract]- 8 properties
+> [[Berserker I]], [[Berserker II]], [[Chain Shot]], [[Frenzy Reserve]], [[Rapid Fire]], [[Steady]], [[Titan's Grip (Magic Property)|Titan's Grip]], [[Whirlwind Strike Mastery]]
 
 ### Willpower
 

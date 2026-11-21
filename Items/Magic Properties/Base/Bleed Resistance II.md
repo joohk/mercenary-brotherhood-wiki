@@ -38,7 +38,7 @@ A rare-or-better magic property for body armor, helmets and accessories.
 
 ## Effects
 
-- +35% Bleed Resist
+- +35% [[Stats#Bleed Resist|Bleed Resist]]
 
 ## Tiers
 

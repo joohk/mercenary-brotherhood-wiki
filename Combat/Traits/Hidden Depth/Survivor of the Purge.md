@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 Stage 1 of 3 of a hidden depth: a rare trait that can surface and deepen over a unit's career.
 
-> +8 melee attack, +4 willpower vs the faction that destroyed their people. Cruel cuts: 25% chance to cause Bleeding on melee hits.
+> +8 melee attack, +4 willpower. Cruel cuts: 25% chance to cause Bleeding on melee hits.
 >
 > *Every kill is a debt repaid.*
 
@@ -27,9 +27,9 @@ Stage 1 of 3 of a hidden depth: a rare trait that can surface and deepen over a 
 
 | Stage | Trait | Rarity | Description |
 |---|---|---|---|
-| Stage 1 | **Survivor of the Purge** | Rare | +8 melee attack, +4 willpower vs the faction that destroyed their people. Cruel cuts: 25% chance to cause Bleeding on melee hits. |
-| Stage 2 | [[The Reckoning]] | Epic | +13 melee attack, +7 willpower, +5% damage. The fury grows colder. Cruel cuts: 35% chance to cause Bleeding on melee hits. |
-| Stage 3 | [[Instrument of Vengeance]] | Legendary | +17 melee attack, +10 willpower, +10% damage. Vengeance made flesh. Cruel cuts: 45% chance to cause Bleeding on melee hits. |
+| Stage 1 | **Survivor of the Purge** | Rare | +8 melee attack, +4 willpower. Cruel cuts: 25% chance to cause Bleeding on melee hits. |
+| Stage 2 | [[The Reckoning]] | Epic | +13 melee attack, +7 willpower, +5% melee damage. The fury grows colder. Cruel cuts: 35% chance to cause Bleeding on melee hits. |
+| Stage 3 | [[Instrument of Vengeance]] | Legendary | +17 melee attack, +10 willpower, +10% melee damage. Vengeance made flesh. Cruel cuts: 45% chance to cause Bleeding on melee hits. |
 
 ## Effects
 

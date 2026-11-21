@@ -45,7 +45,7 @@ A tier-2 enemy of [[The Inquisition]] faction — 92 HP, 9 armor, worth 24 XP an
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 14-22 (base 3-4 + [[Steel Sword]] 11-18) |
+| Damage with weapon | 15-25 (base 3-4 + [[Steel Sword]] 12-21) |
 
 ## Combat
 
@@ -57,13 +57,25 @@ A tier-2 enemy of [[The Inquisition]] faction — 92 HP, 9 armor, worth 24 XP an
 | Gold | 18 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Defensive — holds its ground and protects its allies |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[The Inquisition Combat Sheet\|all The Inquisition units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 35 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 32 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6, [[Steel Helmet]] +2 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5, [[Steel Helmet]] +2 | +7% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7, [[Steel Helmet]] +5 | +12% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

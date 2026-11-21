@@ -40,6 +40,10 @@ A 1-AP ability used on yourself, usable once per battle.
 
 *Tags:* awakening, heal, self
 
+## Requirements
+
+- Requires Injured
+
 ## Referenced by
 
 - **Empowered by magic properties:** [[True Immortality Mastery]]

@@ -40,10 +40,14 @@ A 1-AP magic ability targeting an ally up to 4 hexes away.
 
 *Tags:* magic, holy, heal, self castable
 
+## Requirements
+
+- Requires Injured
+
 ## Referenced by
 
 - **Empowered by magic properties:** [[Minor Heal Mastery]]
-- **Granted by background:** [[Acolyte]], [[Acolyte Militant]], [[Cleric (Background)|Cleric]], [[Crusader (Background)|Crusader]], [[Herb Apprentice]], [[Herbalist]], [[Monk]], [[Penitent]], [[Pilgrim]], [[Templar (Background)|Templar]], [[War Priest]], [[Zealot (Background)|Zealot]]
+- **Granted by background:** [[Acolyte]], [[Acolyte Militant]], [[Chaplain]], [[Crusader (Background)|Crusader]], [[Herb Apprentice]], [[Herbalist]], [[Monk]], [[Penitent]], [[Pilgrim]], [[Templar (Background)|Templar]], [[War Priest]], [[Zealot (Background)|Zealot]]
 - **Granted by skill level:** [[Holy Magic]]
 - **Used by enemies:** [[Cult Acolyte]], [[Cult Chanter]], [[Goblin Bandit Shaman]], [[Goblin Shaman (Enemy)|Goblin Shaman]], [[Mercenary Mage]], [[Orc Shaman]], [[Thornwoad Shaman]]
 - **Variant ability pool:** [[Zealot (Variant)|Zealot]]

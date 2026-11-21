@@ -21,7 +21,7 @@ up: "[[Formation Fighter]]"
 
 An uncommon ability skill trait of [[Formation Fighter]] with 2 ranks, granting [[Long Thrust (Ability)|Long Thrust]].
 
-> A lunging stab at range 2. Requires a spear.
+> A lunging stab at range 3. Requires a spear.
 
 ## Effects
 

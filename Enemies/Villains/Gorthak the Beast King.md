@@ -9,11 +9,11 @@ tags:
   - faction/greenskins
   - type/villain
 source: villains/arch_villains.json
-armor: 8
+armor: 18
 faction: Greenskin Warband
 gold: 130
-hp: 320
-level_min: 6
+hp: 640
+level_min: 9
 personality: savage
 size: large
 stance: aggressive
@@ -26,7 +26,7 @@ xp: 210
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of the [[Greenskin Warband]] — *Warchief of the Broken Tusk*. Awakens from company level 6; 320 HP, 8 armor, worth 210 XP and 130 gold.
+An arch-villain of the [[Greenskin Warband]] — *Warchief of the Broken Tusk*. Awakens from company level 9; 640 HP, 18 armor, worth 210 XP and 130 gold.
 
 ![[_assets/Units/BeastKing.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of the [[Greenskin Warband]] — *Warchief of the Broken Tusk*. 
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 320 |
+| [[Stats#Max HP\|Max HP]] | 640 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 100 |
-| [[Stats#Initiative\|Initiative]] | 40 |
-| [[Stats#Melee Attack\|Melee Attack]] | 85 |
-| [[Stats#Melee Defense\|Melee Defense]] | 52 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 0 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 40 |
-| [[Stats#Armor\|Armor]] | 8 |
+| [[Stats#Initiative\|Initiative]] | 50 |
+| [[Stats#Melee Attack\|Melee Attack]] | 95 |
+| [[Stats#Melee Defense\|Melee Defense]] | 62 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 10 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 50 |
+| [[Stats#Armor\|Armor]] | 18 |
 | [[Stats#Willpower\|Willpower]] | 88 |
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
-| [[Stats#Damage Min\|Damage]] | 22-36 |
+| [[Stats#Damage Min\|Damage]] | 32-46 |
 
 ## Combat
 
@@ -62,7 +62,24 @@ An arch-villain of the [[Greenskin Warband]] — *Warchief of the Broken Tusk*. 
 | Stance | Aggressive — closes in and fights in melee |
 | Personality | Savage |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 6 |
+| Appears from company level | 9 |
+| Combat sheet | [[Greenskin Warband Combat Sheet\|Greenskin Warband units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +20% | — | +20% |
+| [[Stats#Pierce Resist\|Pierce]] | -10% | — | **-10%** (weak) |
+| [[Stats#Blunt Resist\|Blunt]] | +20% | — | +20% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Broken Tusk**
+
+Gorthak's war-hold, a stockaded keep of bones and timber. The Beast King waits inside for anyone strong enough to come and take his head.
 
 ## Phases
 
@@ -92,8 +109,9 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
-- 2× [[Orc Brute]]
-- 3× [[Goblin Skirmisher]]
+- 1× [[Ogre Crusher]]
+- 2× [[Ogre]]
+- 2× [[Orc Shaman]]
 
 ## Relic drops
 
@@ -105,8 +123,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 40 |
-| Ambush chance | 20% |
 | Settlement corruption chance | 3% |
 
 Units (hexes, per day) are not stated in the data.

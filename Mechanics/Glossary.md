@@ -24,7 +24,7 @@ Eight arch-villains are placed in the world at the start of every game. They awa
 
 **Flat damage subtracted from every hit before HP is lost.**
 
-Armor subtracts a flat amount from every hit before it reaches HP, capped so it can never absorb more than about 70% of a single blow. Armor Penetration on the attacker reduces the target's effective armor before this reduction is applied.
+Armor subtracts a flat amount from every hit before it reaches HP, capped so it can never absorb more than about 70% of a single blow (50% of a spell). Armor Penetration on the attacker reduces the target's effective armor before this reduction is applied.
 
 *See also:* [[Glossary#Armor Penetration|Armor Penetration]]
 
@@ -52,7 +52,7 @@ Ascendancy is the peak of a unit's growth. Eligibility is demanding: high level 
 
 **Crossing a Potential tier lets a unit choose a powerful tier-unique awakening trait.**
 
-When a unit crosses a Potential tier threshold it can undergo an Awakening, choosing a powerful trait unique to that tier and locking in the tier's benefits. Each level-up after awakening consumes 150 potential, so units that level quickly may drop tiers.
+When a unit crosses a Potential tier threshold it can undergo an Awakening, choosing a powerful trait unique to that tier, which also grants the tier's XP bonus. Leveling up never reduces Potential, so every battle moves a unit closer to its next tier.
 
 *Also:* awakened, awaken
 
@@ -62,7 +62,7 @@ When a unit crosses a Potential tier threshold it can undergo an Awakening, choo
 
 **Terrain between shooter and target lowers ranged hit chance and absorbs damage.**
 
-Forest, ruins, and obstacles on the line between a shooter and its target reduce ranged hit chance and absorb a fraction of the damage that lands. Firing at a foe locked in melee with an ally is harder still. Reposition for a clean line of sight.
+Windows, sandbags, barrels, low walls, and similar obstacles on the line of fire lower ranged hit chance, and most also absorb part of the damage. Forest and bushes block sight entirely, but a unit standing in forest is harder to hit. Shooting with an enemy next to you is harder, and each unit on the line of fire lowers the chance further.
 
 *See also:* [[Glossary#Flanking|Flanking]]
 
@@ -88,7 +88,7 @@ Dodge is a chance to avoid an attack that would otherwise land, on top of your d
 
 **Builds as units act; the more tired a unit is, the worse it fights.**
 
-Every action costs fatigue. As units tire they move through Fresh, Winded, Tired, Fatigued, and Exhausted stages, losing initiative first and then attack, defense, and dodge. Units shed a little fatigue each turn and far more by resting (End Turn without attacking). High Willpower speeds recovery.
+Every action costs fatigue. As units tire they move through Fresh, Winded, Tired, Fatigued, and Exhausted stages, losing initiative first and then attack, defense, and dodge. Units shed a little fatigue each turn and far more by resting (ending the turn with AP unspent). High Willpower makes resting recover more.
 
 *Also:* fatigued, exhausted, exhaustion, tired, winded
 
@@ -98,7 +98,7 @@ Every action costs fatigue. As units tire they move through Fresh, Winded, Tired
 
 **Attacking outside a foe's front arc grants bonus hit chance (and crit from the rear).**
 
-Every unit faces a direction. Striking from the side (flank) grants +10% to hit; striking from behind (rear) grants +20% to hit and +5% crit. Ranged attacks get half the bonus. A unit turns to face its target after attacking, opening its back to others.
+Every unit faces a direction. Striking from the side (flank) grants +10% to hit; striking from behind (rear) grants +15% to hit and +5% crit. Ranged attacks get half the bonus. A unit turns to face its target after a basic attack, opening its back to others. A melee blow from the side also ignores 3 armor and 5% of resistance; from behind, 2 armor and 10% of physical resistance.
 
 *Also:* flank, flanked, facing, rear
 
@@ -108,7 +108,7 @@ Every unit faces a direction. Striking from the side (flank) grants +10% to hit;
 
 **Secret traits some recruits carry that reveal themselves as the unit fights.**
 
-Some recruits harbor Hidden Depths — secret traits that reveal themselves as the unit fights, explores, or reaches milestones. Watch for hints during recruitment; hidden depths can unlock unique abilities as the unit gains specializations.
+Some recruits harbor Hidden Depths — secret traits that reveal themselves as the unit fights, explores, or reaches milestones. Watch for hints during recruitment; a revealed depth can grow through further stages into a stronger trait.
 
 *See also:* [[Glossary#Trait|Trait]], [[Glossary#Specialization|Specialization]]
 
@@ -126,13 +126,13 @@ Initiative sets where a unit falls in the turn order. Higher initiative acts soo
 
 Magic Power increases offensive spell damage and support-spell healing once a spell connects — it does not change whether the spell lands. It is the Magic Power stat plus Willpower above 40. Ranged Attack is a caster's accuracy with magic.
 
-*See also:* [[Glossary#Willpower|Willpower]], [[Stats#Ranged Attack|Ranged Attack]]
+*See also:* [[Glossary#Willpower|Willpower]]
 
 ## Officer Role
 
 **Appointed members grant company-wide benefits and level up through their deeds.**
 
-As your company level rises you can appoint members to officer roles — Captain, Quartermaster, Champion, Scout Master, and more — each granting company-wide benefits. Roles level to 5 through their own deeds. You may field one active role per five living members.
+As your company level rises you can appoint members to officer roles — Captain, Quartermaster, Champion, Scout Master, and more — each granting company-wide benefits. Roles level to 5 through their own deeds. You can fill one role to start, plus one more for every two company levels.
 
 *Also:* officer, captain, quartermaster
 
@@ -140,9 +140,9 @@ As your company level rises you can appoint members to officer roles — Captain
 
 ## Potential
 
-**A hidden growth resource earned in combat that raises trait rarity and XP gains.**
+**A growth resource earned in combat that raises trait rarity and XP gains.**
 
-Potential accumulates from combat: 100% of a foe's value for a kill, 25% for an assist, 5% for being present. It is organised into 10 tiers; higher tiers make rare and legendary traits appear more often at level-up and add +5% XP per tier, up to +25%. Fight tougher enemies to build it faster.
+Potential accumulates from combat: 100% of a foe's value for a kill, 25% for an assist, 5% for being present. It is organised into 10 tiers; higher tiers make uncommon and rare traits appear more often at level-up, and each awakened tier adds +5% unit XP, up to +25%. Fight tougher enemies to build it faster.
 
 *See also:* [[Glossary#Awakening|Awakening]], [[Glossary#Trait|Trait]]
 
@@ -160,15 +160,15 @@ There are 12 unique relics, each won from an arch-villain. Relics are extremely 
 
 **Each settlement and realm tracks its standing with your company.**
 
-Beyond a settlement's opinion of you, the realms themselves track your standing. Quests, cleared bases, and battles within a realm's borders shift how it — and its allies — regard you. Strong standing opens better work and warmer welcomes; a poor one closes doors.
+Beyond a settlement's opinion of you, the realms themselves track your standing. Quests, cleared bases, and battles within a realm's borders shift how it regards you. Strong standing opens better work and warmer welcomes; a poor one closes doors.
 
 *See also:* [[Glossary#Siege|Siege]]
 
 ## Siege
 
-**A faction marches war parties on a settlement; ride in during the assault to defend.**
+**A faction marches war parties on a settlement; ride in before it falls to defend.**
 
-When a faction's aggression boils over it raises war parties and marches on a settlement. A siege builds for several days before the assault; ride there during the assault to fight in its defense. Some are led by a Warlord whose defeat breaks the campaign. Leave a siege unanswered and the settlement is sacked.
+When a faction's aggression boils over it raises war parties and marches on a settlement. A siege builds for a week or more before the assault; ride there before the settlement falls to fight in its defense. Some are led by a Warlord whose defeat breaks the campaign. Leave a siege unanswered and the settlement is sacked.
 
 *Also:* sieges, invasion, warlord
 
@@ -208,7 +208,7 @@ Traits are permanent passive bonuses — extra damage, crit, armor, and more. Th
 
 **A named enemy promoted from an ordinary foe who then hunts your company.**
 
-When an ordinary enemy kills one of your mercenaries, survives a battle, or escapes, they may become a Vendetta — a named rival who remembers the encounter, grows stronger, adapts to how you fight, and ambushes your squad on the map. The Vendetta Chance dial sets how readily they form.
+If you lose or retreat, an enemy that killed one of your mercenaries may become a Vendetta — a named rival who remembers the encounter, grows stronger, adapts to how you fight, and ambushes your squad as you travel. So may a foe that flees a battle you win. The Vendetta Chance dial sets how readily they form.
 
 *Also:* vendettas, nemesis, rival
 
@@ -228,7 +228,7 @@ Warbands are the ordinary enemy groups that roam the overland map. They are wand
 
 **Resistance to morale checks; above 40 it also aids fatigue recovery and magic.**
 
-Willpower governs how well a unit holds its nerve under pressure. Above 40 it boosts fatigue recovery, Magic Power, and Second Wind healing. Your mercenaries never flee, but Shaken units fight worse. Enemies whose willpower breaks may flee the field.
+Willpower governs how well a unit holds its nerve under pressure. Above 40 it boosts fatigue recovery, Magic Power, and Second Wind healing. Your mercenaries never flee, but a Shaken unit has 20 less Willpower. Enemies whose willpower breaks may flee the field.
 
 *Also:* morale, shaken, resolve
 

@@ -42,16 +42,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far |
 |---|---|---|
-| L1 | +5 [[Stats#Ranged Attack\|Ranged Attack]], +2 Ranged Damage Min | +5 Ranged Attack, +2 Ranged Damage Min |
-| L2 | +5 [[Stats#Ranged Attack\|Ranged Attack]], +2 Ranged Damage Min | +10 Ranged Attack, +4 Ranged Damage Min |
-| L3 | +4 [[Stats#Ranged Attack\|Ranged Attack]], +2 Ranged Damage | +14 Ranged Attack, +6 Ranged Damage Min, +2 Ranged Damage Max |
-| L4 | +4 [[Stats#Ranged Attack\|Ranged Attack]], +2 to +3 Ranged Damage | +18 Ranged Attack, +8 Ranged Damage Min, +5 Ranged Damage Max |
-| L5 | +3 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +4 Ranged Damage | +21 Ranged Attack, +11 Ranged Damage Min, +9 Ranged Damage Max |
-| L6 | +3 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +5 Ranged Damage | +24 Ranged Attack, +14 Ranged Damage |
-| L7 | +2 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +5 Ranged Damage | +26 Ranged Attack, +17 to +19 Ranged Damage |
-| L8 | +2 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +6 Ranged Damage | +28 Ranged Attack, +20 to +25 Ranged Damage |
-| L9 | +2 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +6 Ranged Damage | +30 Ranged Attack, +23 to +31 Ranged Damage |
-| L10 | +1 [[Stats#Ranged Attack\|Ranged Attack]], +3 to +7 Ranged Damage | +31 Ranged Attack, +26 to +38 Ranged Damage |
+| L1 | +3 [[Stats#Ranged Attack\|Ranged Attack]], +1 Ranged Damage Min | +3 Ranged Attack, +1 Ranged Damage Min |
+| L2 | +5 [[Stats#Ranged Attack\|Ranged Attack]], +2 Ranged Damage Min | +8 Ranged Attack, +3 Ranged Damage Min |
+| L3 | +7 [[Stats#Ranged Attack\|Ranged Attack]], +3 Ranged Damage Min, +1 Ranged Damage Max | +15 Ranged Attack, +6 Ranged Damage Min, +1 Ranged Damage Max |
+| L4 | +9 [[Stats#Ranged Attack\|Ranged Attack]], +4 Ranged Damage Min, +3 Ranged Damage Max | +24 Ranged Attack, +10 Ranged Damage Min, +4 Ranged Damage Max |
+| L5 | +11 [[Stats#Ranged Attack\|Ranged Attack]], +6 Ranged Damage Min, +5 Ranged Damage Max | +35 Ranged Attack, +16 Ranged Damage Min, +9 Ranged Damage Max |
+| L6 | +12 [[Stats#Ranged Attack\|Ranged Attack]], +7 Ranged Damage | +47 Ranged Attack, +23 Ranged Damage Min, +16 Ranged Damage Max |
+| L7 | +13 [[Stats#Ranged Attack\|Ranged Attack]], +9 to +10 Ranged Damage | +60 Ranged Attack, +32 Ranged Damage Min, +26 Ranged Damage Max |
+| L8 | +14 [[Stats#Ranged Attack\|Ranged Attack]], +10 to +13 Ranged Damage | +74 Ranged Attack, +42 Ranged Damage Min, +39 Ranged Damage Max |
+| L9 | +15 [[Stats#Ranged Attack\|Ranged Attack]], +12 to +16 Ranged Damage | +89 Ranged Attack, +54 to +55 Ranged Damage |
+| L10 | +16 [[Stats#Ranged Attack\|Ranged Attack]], +13 to +19 Ranged Damage | +105 Ranged Attack, +67 to +74 Ranged Damage |
 
 ## Skill traits
 

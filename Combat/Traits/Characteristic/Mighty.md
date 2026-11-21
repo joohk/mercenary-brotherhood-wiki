@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A rare physical characteristic in the *strength* group. Every unit rolls exactly one characteristic at creation.
 
-> +16% damage. Extraordinary physical strength, deals significantly more damage
+> +16% melee damage. Extraordinary physical strength, deals significantly more damage
 
 ## Characteristic group
 

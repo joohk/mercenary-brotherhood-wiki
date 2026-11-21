@@ -46,7 +46,7 @@ A tier-2 Gnoll enemy of the [[Feral Gnolls]] faction — 106 HP, 7 armor, worth 
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 13-20 (base 3-4 + [[Throwing Hatchet]] 10-16) |
+| Damage with weapon | 14-22 (base 3-4 + [[Throwing Hatchet]] 11-18) |
 | Action Points | 3 |
 
 ## Combat
@@ -60,13 +60,25 @@ A tier-2 Gnoll enemy of the [[Feral Gnolls]] faction — 106 HP, 7 armor, worth 
 | Race | [[Gnoll]] |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Feral Gnolls Combat Sheet\|all Feral Gnolls units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 38 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

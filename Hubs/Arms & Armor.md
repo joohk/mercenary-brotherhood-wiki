@@ -19,7 +19,7 @@ Weapons by type, armor, accessories, relics and magic properties.
 
 ## Other gear
 
-[[Accessories]] · [[Relics]] · [[Monster Parts]] · [[Magic Properties]] · [[Magic Item Names]]
+[[Accessories]] · [[Utility Items]] · [[Relics]] · [[Monster Parts]] · [[Magic Properties]] · [[Magic Item Names]]
 
 ## Everything
 

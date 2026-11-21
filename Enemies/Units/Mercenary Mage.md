@@ -12,7 +12,7 @@ source: enemies/mercenaries.json
 armor: 4
 faction: Rival Mercenaries
 gold: 20
-hp: 66
+hp: 72
 stance: ranged
 threat_cost: 4
 tier: 2
@@ -22,7 +22,7 @@ xp: 25
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Outlaws & Sellswords]] › [[Rival Mercenaries]]
 
-A tier-2 enemy of the [[Rival Mercenaries]] faction — 66 HP, 4 armor, worth 25 XP and 20 gold.
+A tier-2 enemy of the [[Rival Mercenaries]] faction — 72 HP, 4 armor, worth 25 XP and 20 gold.
 
 ![[_assets/Units/MercenaryMage.webp|160]]
 
@@ -32,19 +32,19 @@ A tier-2 enemy of the [[Rival Mercenaries]] faction — 66 HP, 4 armor, worth 25
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 66 |
+| [[Stats#Max HP\|Max HP]] | 72 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 82 |
 | [[Stats#Initiative\|Initiative]] | 55 |
 | [[Stats#Melee Attack\|Melee Attack]] | 46 |
 | [[Stats#Melee Defense\|Melee Defense]] | 44 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 0 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 46 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 50 |
 | [[Stats#Armor\|Armor]] | 4 |
 | [[Stats#Willpower\|Willpower]] | 68 |
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 15 |
 | [[Stats#Damage Min\|Damage]] | 1-2 |
-| Ranged damage with weapon | 7-12 (base 1-2 + [[Hex Staff]] 6-10) |
+| Damage with weapon | 13-23 (base 1-2 + [[Hex Staff]] 12-21) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-2 enemy of the [[Rival Mercenaries]] faction — 66 HP, 4 armor, worth 25
 | Gold | 20 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Rival Mercenaries Combat Sheet\|all Rival Mercenaries units and abilities]] |
 | Max share of an encounter | 15% |
 
 > [!info]- Spawn data
@@ -64,6 +66,16 @@ A tier-2 enemy of the [[Rival Mercenaries]] faction — 66 HP, 4 armor, worth 25
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 20 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 35 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Acolyte Robes]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Acolyte Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Acolyte Robes]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -79,6 +91,7 @@ A tier-2 enemy of the [[Rival Mercenaries]] faction — 66 HP, 4 armor, worth 25
 ## Equipment
 
 - [[Hex Staff]]
+- [[Focus Wand]]
 - [[Acolyte Robes]]
 - [[Bone Amulet]]
 

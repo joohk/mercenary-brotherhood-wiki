@@ -11,8 +11,8 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_melee.json
-damage_max: 15
-damage_min: 9
+damage_max: 17
+damage_min: 10
 damage_type: blunt
 family: mace
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-1 one-handed blunt mace dealing 9-15 damage, worth 35 gold.
+A tier-1 one-handed blunt mace dealing 10-17 damage, worth 35 gold.
 
 ![[_assets/Icons/tier_1/mace_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-1 one-handed blunt mace dealing 9-15 damage, worth 35 gold.
 | Tier | 1 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 9-15 |
+| [[Stats#Damage Min\|Damage]] | 10-17 |
 | [[Stats#Armor Pen\|Armor Pen]] | +3 |
 | [[Stats#Initiative\|Initiative]] | -4 |
 | Price | 35 |
@@ -60,6 +60,6 @@ Items of this line, by tier: [[Spiked Flail]] (T1) → **Iron Mace** (T1) → [[
 
 - **Dropped by:** [[Duergar Stonekeeper]]
 - **Guild gear:** [[Holy Order]]
-- **Starting gear of:** [[Acolyte Militant]], [[Cleric (Background)|Cleric]], [[Dreadnought]], [[Enforcer]], [[Penitent]], [[Pit Fighter]], [[Temple Guard]], [[Undying Sentinel]], [[War Priest]]
+- **Starting gear of:** [[Acolyte Militant]], [[Chaplain]], [[Dreadnought]], [[Enforcer]], [[Penitent]], [[Pit Fighter]], [[Temple Guard]], [[Undying Sentinel]], [[War Priest]]
 
 *Generated from `items/weapons_melee.json`. Edits will be overwritten — put your own notes in Notes/.*

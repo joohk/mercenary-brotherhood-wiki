@@ -39,6 +39,6 @@ An epic-or-better magic property for body armor and accessories.
 
 ## Effects
 
-- On a melee kill: cast [[Sprint (Ability, ability_sprint)|Sprint]]
+- On a melee kill: cast [[Sprint (Ability)|Sprint]]
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

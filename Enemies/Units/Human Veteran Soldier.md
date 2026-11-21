@@ -43,7 +43,7 @@ A tier-3 Human enemy of the [[Veteran Company]] faction — 115 HP, 14 armor, wo
 | [[Stats#Armor\|Armor]] | 14 |
 | [[Stats#Willpower\|Willpower]] | 69 |
 | [[Stats#Damage Min\|Damage]] | 16-26 |
-| Damage with weapon | 30-49 (base 16-26 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 33-52 (base 16-26 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -56,12 +56,24 @@ A tier-3 Human enemy of the [[Veteran Company]] faction — 115 HP, 14 armor, wo
 | Race | [[Human]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Veteran Company Combat Sheet\|all Veteran Company units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 35 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8, [[Plated Helmet]] +2, [[Steel Shield]] +3 | +13% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6, [[Plated Helmet]] +2, [[Steel Shield]] +15 | +23% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9, [[Plated Helmet]] +6, [[Steel Shield]] +2 | +17% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

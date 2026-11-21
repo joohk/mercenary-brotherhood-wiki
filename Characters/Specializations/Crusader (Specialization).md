@@ -46,7 +46,7 @@ A unit may choose a specialization every 4 levels. *Weapon Mastery category:* Co
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Reaver Hall]]
+- **Sponsored by guilds:** [[Holy Order]]
 
 > [!note]- Developer notes
 > *separator:* ── WEAPON MASTERY (8) ── conditional on weapon equipped, reduced points

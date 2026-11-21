@@ -26,7 +26,7 @@ uses_per_battle: 1
 
 A 3-AP magic ability targeting an area up to 6 hexes away, usable once per battle.
 
-> Call down a meteor on the target hex, dealing 40 fire damage to all enemies within 2 hexes and applying Burning. Once per battle.
+> Call down a meteor on the target hex, dealing 40 fire damage (scales with willpower and magic power) to all enemies within 2 hexes and applying Burning. Once per battle.
 
 ## Stats
 

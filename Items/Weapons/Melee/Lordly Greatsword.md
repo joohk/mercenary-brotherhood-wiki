@@ -11,8 +11,8 @@ tags:
   - tier/6
   - type/item
 source: items/weapons_melee.json
-damage_max: 64
-damage_min: 40
+damage_max: 75
+damage_min: 48
 damage_type: slashing
 family: sword
 hands: two-handed
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-6 two-handed slashing sword dealing 40-64 damage, worth 7680 gold.
+A tier-6 two-handed slashing sword dealing 48-75 damage, worth 7680 gold.
 
 ![[_assets/Icons/tier_5/sword_2h.webp|96]]
 
@@ -37,8 +37,9 @@ A tier-6 two-handed slashing sword dealing 40-64 damage, worth 7680 gold.
 | Tier | 6 |
 | Damage type | Slashing |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 40-64 |
-| [[Stats#Initiative\|Initiative]] | -8 |
+| [[Stats#Damage Min\|Damage]] | 48-75 |
+| [[Stats#Armor Pen\|Armor Pen]] | +12 |
+| [[Stats#Initiative\|Initiative]] | -13 |
 | Price | 7680 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 2 |

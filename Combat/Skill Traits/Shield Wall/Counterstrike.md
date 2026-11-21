@@ -20,7 +20,7 @@ up: "[[Shield Wall (Skill)]]"
 
 A rare passive skill trait of [[Shield Wall (Skill)|Shield Wall]] with 2 ranks.
 
-> When an enemy's melee attack fails against you, your shield deflects a retaliatory blow for 5-8 damage.
+> When an enemy's melee attack fails against you, you deflect a retaliatory blow for 50% of your weapon's damage roll.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Reflected damage increases to 8-12.
+Reflected damage increases to 75% of your weapon's damage roll.
 
 *Generated from `skills/defense_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

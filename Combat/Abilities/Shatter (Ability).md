@@ -36,6 +36,7 @@ A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
 | Uses per battle | 2 |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, armor break

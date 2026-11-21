@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 An uncommon company trait: it applies to every member of the company.
 
-> This company moves with purpose. Mountain and swamp movement costs reduced by 1 day.
+> This company moves with purpose. Mountain and swamp tiles cost 1 movement point instead of 2.
 
 ## Effects
 

@@ -21,7 +21,7 @@ up: "[[Nature Magic]]"
 
 A rare ability skill trait of [[Nature Magic]] with 2 ranks, granting [[Bloom of Life (Ability)|Bloom of Life]].
 
-> Burst a flower of healing light. Heals all allies in radius 2 for 14 HP each.
+> Burst a flower of healing light. Heals all allies in radius 2 for 14 HP each. An ally carrying your healing over time also receives all of its remaining healing at once, plus 25%.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Bloom of Life heals 20 HP instead of 14.
+Allies whose healing over time Bloom of Life harvested keep 1 more round of it.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

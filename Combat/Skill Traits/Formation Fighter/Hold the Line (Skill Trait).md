@@ -21,7 +21,7 @@ up: "[[Formation Fighter]]"
 
 An uncommon ability skill trait of [[Formation Fighter]] with 2 ranks, granting [[Hold the Line (Ability)|Hold the Line]].
 
-> Adjacent allies gain +10 Melee Defense for 2 turns. 1 AP, 1 use per battle.
+> Sustained: adjacent allies gain +10 Melee Defense while you hold it. 1 AP, drains fatigue each turn.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-+15 Melee Defense, 2 uses per battle.
++15 Melee Defense.
 
 *Generated from `skills/defense_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

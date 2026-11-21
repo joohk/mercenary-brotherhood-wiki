@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A common combat trait (stat boost).
 
-> +5 willpower, +10 max HP. Refuses to quit, even when the body protests.
+> +5 willpower, +10 max HP. Psionic Blast suffers -5 to hit against them. Refuses to quit, even when the body protests.
 
 ## Effects
 

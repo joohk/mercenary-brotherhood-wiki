@@ -24,7 +24,7 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Cleric (Specialization)|Cleric]], [[Poisoner (Specialization)|Poisoner]], [[Hemomancer (Specialization)|Hemomancer]]
+[[Cleric]], [[Poisoner (Specialization)|Poisoner]], [[Hemomancer]]
 
 ## Signature skills
 
@@ -41,6 +41,17 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Common | [[Herb Apprentice]], [[Forager]], [[Grave Tender]] |
 | Uncommon | [[Herbalist]], [[Alchemist]] |
 | Rare | [[Venom Adept]], [[Blood Shaman]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Dagger | ×2.5 |
+| Light Armor | ×2.5 |
+| Robe | ×2 |
+| Staff | ×1.5 |
 
 ## Gear by hire tier
 

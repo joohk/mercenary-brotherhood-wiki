@@ -29,7 +29,8 @@ Each column is the full bonus at that level (not added to the previous one).
 | Bonus | Arbalist I | Arbalist II | Arbalist III |
 |---|---|---|---|
 | [[Stats#Ranged Attack\|Ranged Attack]] | +4 | +6 | +10 |
-| [[Stats#Damage Min\|Damage]] | +8% | +12% | +18% |
+| Ranged Damage Min | +8% | +12% | +18% |
+| Ranged Damage Max | +8% | +12% | +18% |
 | [[Stats#Crit Chance\|Crit Chance]] | — | +2% | +4% |
 
 ## How it's earned

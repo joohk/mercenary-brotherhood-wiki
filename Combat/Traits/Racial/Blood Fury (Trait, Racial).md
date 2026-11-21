@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A rare Orc racial trait.
 
-> +8 Melee ATK, +5 damage when below 50% HP. Wounded orcs are more dangerous, not less.
+> +8 Melee ATK, +5% melee damage when below 50% HP. Wounded orcs are more dangerous, not less.
 
 ## Effects
 

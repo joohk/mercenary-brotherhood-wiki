@@ -76,6 +76,12 @@ Weapon families this race favours.
 - **Melee:** Sword, Mace
 - **Ranged:** Crossbow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Wand ×2.5, Staff ×2, Dagger ×1.5, Robe ×1.5, Sword ×1.2
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.
@@ -89,7 +95,7 @@ Multipliers on the chance to discover these skills.
 The 25 backgrounds a Tiefling recruit can roll.
 
 - **Common (9):** [[Beggar]], [[Blood Initiate]], [[Candle Witch]], [[Farmhand]], [[Fortune Teller]], [[Grave Digger]], [[Grave Tender]], [[Militia]], [[Torch Bearer]]
-- **Uncommon (10):** [[Cleric (Background)|Cleric]], [[Cultist]], [[Enforcer]], [[Gladiator (Background)|Gladiator]], [[Penitent]], [[Shadow Mage]], [[Soldier]], [[Warlock (Background)|Warlock]], [[Witch Hunter (Background)|Witch Hunter]], [[Zealot (Background)|Zealot]]
+- **Uncommon (10):** [[Chaplain]], [[Cultist]], [[Enforcer]], [[Gladiator (Background)|Gladiator]], [[Penitent]], [[Shadow Mage]], [[Soldier]], [[Warlock (Background)|Warlock]], [[Witch Hunter (Background)|Witch Hunter]], [[Zealot (Background)|Zealot]]
 - **Rare (4):** [[Bard]], [[Executioner (Background)|Executioner]], [[Pit Fighter]], [[War Priest]]
 - **Legendary (2):** [[Royal Exile]], [[Void Touched]]
 

@@ -7,19 +7,18 @@ aliases:
   - shaman_staff
 tags:
   - item/magical-weapon
-  - slot/ranged
+  - slot/weapon
   - tier/3
   - type/item
 source: items/weapons_magical.json
-damage_max: 12
-damage_min: 7
+damage_max: 26
+damage_min: 17
 damage_type: blunt
 family: staff
 hands: two-handed
 price: 40
-range: 5
 rarity: normal
-slot: ranged
+slot: weapon
 spawn_weight: 0
 tier: 3
 up: "[[Staves]]"
@@ -27,7 +26,7 @@ up: "[[Staves]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
 
-A tier-3 two-handed blunt staff dealing 7-12 damage at range 5, worth 40 gold.
+A tier-3 two-handed blunt staff dealing 17-26 damage, worth 40 gold.
 
 ![[_assets/Icons/Staff.png|96]]
 
@@ -38,8 +37,11 @@ A tier-3 two-handed blunt staff dealing 7-12 damage at range 5, worth 40 gold.
 | Tier | 3 |
 | Damage type | Blunt |
 | Hands | Two-handed |
-| Ranged Damage | 7-12 |
-| Range | 5 hexes |
+| [[Stats#Damage Min\|Damage]] | 17-26 |
+| [[Stats#Melee Attack\|Melee Attack]] | +6 |
+| [[Stats#Willpower\|Willpower]] | +8 |
+| [[Stats#Max Fatigue\|Max Fatigue]] | +9 |
+| [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 40 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 0 (never rolled for shops or random loot) |
@@ -50,7 +52,7 @@ Items of this line, by tier: [[Wooden Staff]] (T1) → [[Hex Staff]] (T2) → [[
 
 ## Related
 
-- **Tags:** Staff, Ranged, Two-handed
+- **Tags:** Staff, Melee, Two-handed
 
 ## Referenced by
 

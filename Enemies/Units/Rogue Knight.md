@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Deserters]] faction — 130 HP, 15 armor, worth 35 XP an
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 20 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 19-30 (base 5-7 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 22-33 (base 5-7 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-3 enemy of the [[Deserters]] faction — 130 HP, 15 armor, worth 35 XP an
 | Gold | 30 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Deserters Combat Sheet\|all Deserters units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
@@ -64,10 +66,20 @@ A tier-3 enemy of the [[Deserters]] faction — 130 HP, 15 armor, worth 35 XP an
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 18 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 45 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Steel Shield]] +3, [[Plated Helmet]] +2 | +25% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Steel Shield]] +15, [[Plated Helmet]] +2 | +29% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Steel Shield]] +2, [[Plated Helmet]] +6 | +11% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
 - [[Cleave (Ability)|Cleave]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 
 ## Passives
 

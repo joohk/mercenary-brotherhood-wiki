@@ -57,13 +57,25 @@ A tier-4 large enemy of the [[Swamp Dwellers]] faction — 218 HP, 14 armor, wor
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Swamp Dwellers Combat Sheet\|all Swamp Dwellers units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 5 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 72 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Blunt Resist\|Blunt]] | +30% | — | +30% |
+| [[Stats#Fire Resist\|Fire]] | -25% | — | **-25%** (weak) |
+| [[Stats#Poison Resist\|Poison]] | +40% | — | +40% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -72,6 +84,7 @@ A tier-4 large enemy of the [[Swamp Dwellers]] faction — 218 HP, 14 armor, wor
 
 ## Passives
 
+- [[Bloodless]] — No blood left to spill. Immune to Bleeding.
 - [[Regeneration]] — Heals 5 HP at the start of each turn.
 - [[Massive Frame]] — +20 max HP, +3 armor, -6 initiative. Shrugs off stuns and roots 50% of the time. Enormous and slow.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.

@@ -21,6 +21,9 @@ up: "[[Underdark]]"
 
 An enemy faction that appears from company level 4 and fights as [[How Enemies Behave#Cunning|Cunning]] (intelligent and devious): 10 unit types, tiers 1-5.
 
+> [!tip] [[The Umbral Court Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/UmbralMatriarch.webp|160]]
 
 > A subterranean dark elf civilisation that raids the surface for slaves, territory, and sacrificial offerings. Their armies are built on expendable thralls of captured races driven ahead of elite Umbral warriors and hunting spiders. Mid-to-late game faction.
@@ -39,23 +42,23 @@ Encounter tables have their own level gates and can field this faction outside i
 
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ![[_assets/Units/ThrallArcher.webp\|40]] | [[Thrall Archer]] | 1 | 38 | 0 | 25 | 20 | 44 | 7-12 (ranged) | Ranged | 1 | 8 |
-| ![[_assets/Units/ThrallSlave.webp\|40]] | [[Thrall Slave]] | 1 | 48 | 1 | 40 | 28 | 0 | 8-14 | Aggressive | 1 | 8 |
+| ![[_assets/Units/ThrallArcher.webp\|40]] | [[Thrall Archer]] | 1 | 38 | 0 | 25 | 20 | 44 | 8-13 (ranged) | Ranged | 1 | 8 |
+| ![[_assets/Units/ThrallSlave.webp\|40]] | [[Thrall Slave]] | 1 | 48 | 1 | 40 | 28 | 0 | 10-17 | Aggressive | 1 | 8 |
 | ![[_assets/Units/CourtSpider.webp\|40]] | [[Court Spider]] | 2 | 73 | 6 | 72 | 55 | 0 | 11-18 | Aggressive | 3 | 18 |
-| ![[_assets/Units/ThrallTaskmaster.webp\|40]] | [[Thrall Taskmaster]] | 2 | 90 | 7 | 70 | 53 | 0 | 14-22 | Aggressive | 3 | 20 |
+| ![[_assets/Units/ThrallTaskmaster.webp\|40]] | [[Thrall Taskmaster]] | 2 | 90 | 7 | 70 | 53 | 0 | 15-25 | Aggressive | 3 | 20 |
 | ![[_assets/Units/GiantSpider.webp\|40]] | [[Giant Spider (Enemy, Umbral Court)\|Giant Spider]] | 3 | 172 | 14 | 85 | 63 | 0 | 21-32 | Aggressive | 7 | 40 |
-| ![[_assets/Units/UmbralArcher.webp\|40]] | [[Umbral Archer]] | 3 | 90 | 8 | 66 | 55 | 97 | 11-19 (ranged) | Ranged | 5 | 34 |
-| ![[_assets/Units/UmbralSwordsman.webp\|40]] | [[Umbral Swordsman]] | 3 | 115 | 12 | 97 | 80 | 0 | 20-31 | Aggressive | 6 | 38 |
-| ![[_assets/Units/UmbralBlademaster.webp\|40]] | [[Umbral Blademaster]] | 4 | 149 | 14 | 114 | 96 | 0 | 34-55 | Aggressive | 10 | 56 |
-| ![[_assets/Units/UmbralShadowcaster.webp\|40]] | [[Umbral Shadowcaster]] | 4 | 113 | 8 | 64 | 56 | 108 | 14-21 (ranged) | Ranged | 9 | 52 |
-| ![[_assets/Units/UmbralMatriarch.webp\|40]] | [[Umbral Matriarch]] | 5 | 179 | 18 | 111 | 92 | 119 | 42-66 | Ranged | 15 | 75 |
+| ![[_assets/Units/UmbralArcher.webp\|40]] | [[Umbral Archer]] | 3 | 90 | 8 | 66 | 55 | 97 | 12-21 (ranged) | Ranged | 5 | 34 |
+| ![[_assets/Units/UmbralSwordsman.webp\|40]] | [[Umbral Swordsman]] | 3 | 115 | 12 | 97 | 80 | 0 | 23-34 | Aggressive | 6 | 38 |
+| ![[_assets/Units/UmbralBlademaster.webp\|40]] | [[Umbral Blademaster]] | 4 | 149 | 14 | 114 | 96 | 0 | 38-61 | Aggressive | 10 | 56 |
+| ![[_assets/Units/UmbralShadowcaster.webp\|40]] | [[Umbral Shadowcaster]] | 4 | 113 | 8 | 64 | 56 | 108 | 32-52 | Ranged | 9 | 52 |
+| ![[_assets/Units/UmbralMatriarch.webp\|40]] | [[Umbral Matriarch]] | 5 | 179 | 18 | 111 | 92 | 119 | 46-75 | Ranged | 15 | 75 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*
 
 ## Arch-villains
 
-- [[The Shadow Weaver]] — *Vaelith of the Deep Dark*, from company level 7
-- [[The Witch Queen]] — *Seraphel of the Veil*, from company level 7
+- [[The Shadow Weaver]] — *Vaelith of the Deep Dark*, from company level 10
+- [[The Witch Queen]] — *Seraphel of the Veil*, from company level 10
 
 ## Encounter tables
 

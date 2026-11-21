@@ -18,6 +18,6 @@ up: "[[Traits]]"
 
 A tier-2 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 
-> Immune to Rooted and Stunned. Cannot be crowd-controlled.
+> Immune to Rooted and Stunned. Cannot be pinned down.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

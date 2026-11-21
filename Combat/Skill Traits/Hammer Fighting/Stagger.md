@@ -20,7 +20,7 @@ up: "[[Hammer Fighting]]"
 
 A common passive skill trait of [[Hammer Fighting]] with 2 ranks.
 
-> A well-placed hammer blow knocks the target off balance. 15% chance to Stun on a melee hit.
+> A well-placed hammer blow knocks the target off balance. 15% chance on a melee hit to reduce the target's Initiative by 15 for 2 turns.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Stun chance increases to 25%.
+Chance increases to 25%.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -15,6 +15,9 @@ armor: 1
 family: helmet
 price: 20
 rarity: normal
+resist_blunt: 4
+resist_piercing: 2
+resist_slashing: 2
 slot: helmet
 spawn_weight: 70
 tier: 1
@@ -36,6 +39,9 @@ A tier-1 helmet giving 1 Armor, worth 20 gold.
 | [[Stats#Willpower\|Willpower]] | +5 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -2 |
 | [[Stats#Initiative\|Initiative]] | -1 |
+| [[Stats#Slash Resist\|Slash Resist]] | +2% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +2% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +4% |
 | Price | 20 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 70 |

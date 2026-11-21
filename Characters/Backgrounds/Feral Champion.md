@@ -51,7 +51,7 @@ Bonuses added on top of the recruit's race base stats.
 ## Starting equipment
 
 - [[Battle Axe]]
-- [[Crude Hides]]
+- [[Leather Armor]]
 
 ## Trait pool
 

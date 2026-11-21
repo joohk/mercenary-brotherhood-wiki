@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Brace (Ability, ability_brace)|Brace]]: +1 use per battle
+- [[Brace (Ability)|Brace]]: +1 use per battle
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

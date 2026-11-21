@@ -76,7 +76,7 @@ All 60 specializations in the game data.
 
 | Name | Tracks | Every | Points | Weapon |
 |---|---|---|---|---|
-| [[Cleric (Specialization)\|Cleric]] | Total HP Healed | 20 | 2 | — |
+| [[Cleric]] | Total HP Healed | 20 | 2 | — |
 
 ## Resolve (3)
 
@@ -99,7 +99,7 @@ All 60 specializations in the game data.
 | [[Templar (Specialization)\|Templar]] | Holy Kills | 4 | 1 | — |
 | [[Archmage (Specialization)\|Archmage]] | Arcane Kills | 5 | 2 | — |
 | [[Warlock (Specialization)\|Warlock]] | Dark Kills | 4 | 1 | — |
-| [[Hemomancer (Specialization)\|Hemomancer]] | Blood Magic Kills | 3 | 2 | — |
+| [[Hemomancer]] | Blood Magic Kills | 3 | 2 | — |
 | [[Geomancer (Specialization)\|Geomancer]] | Stone Magic Kills | 4 | 1 | — |
 | [[Nightblade (Specialization)\|Nightblade]] | Shadow Magic Kills | 4 | 1 | — |
 | [[Kineticist]] | Telekinesis Kills | 4 | 1 | — |

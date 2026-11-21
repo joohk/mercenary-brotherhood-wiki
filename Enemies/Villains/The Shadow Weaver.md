@@ -9,11 +9,11 @@ tags:
   - faction/umbral_court
   - type/villain
 source: villains/arch_villains.json
-armor: 5
+armor: 15
 faction: The Umbral Court
 gold: 170
-hp: 180
-level_min: 7
+hp: 360
+level_min: 10
 personality: cold
 size: normal
 stance: aggressive
@@ -26,7 +26,7 @@ xp: 220
 
 [[Home]] › [[Bestiary]] › [[Arch-Villains]]
 
-An arch-villain of [[The Umbral Court]] — *Vaelith of the Deep Dark*. Awakens from company level 7; 180 HP, 5 armor, worth 220 XP and 170 gold.
+An arch-villain of [[The Umbral Court]] — *Vaelith of the Deep Dark*. Awakens from company level 10; 360 HP, 15 armor, worth 220 XP and 170 gold.
 
 ![[_assets/Units/ShadowWeaver.webp|200]]
 
@@ -36,18 +36,18 @@ An arch-villain of [[The Umbral Court]] — *Vaelith of the Deep Dark*. Awakens 
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 180 |
+| [[Stats#Max HP\|Max HP]] | 360 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 120 |
-| [[Stats#Initiative\|Initiative]] | 78 |
-| [[Stats#Melee Attack\|Melee Attack]] | 80 |
-| [[Stats#Melee Defense\|Melee Defense]] | 65 |
-| [[Stats#Ranged Attack\|Ranged Attack]] | 60 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 62 |
-| [[Stats#Armor\|Armor]] | 5 |
+| [[Stats#Initiative\|Initiative]] | 88 |
+| [[Stats#Melee Attack\|Melee Attack]] | 90 |
+| [[Stats#Melee Defense\|Melee Defense]] | 75 |
+| [[Stats#Ranged Attack\|Ranged Attack]] | 70 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 72 |
+| [[Stats#Armor\|Armor]] | 15 |
 | [[Stats#Willpower\|Willpower]] | 85 |
 | [[Stats#Vision\|Vision]] | 9 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
-| [[Stats#Damage Min\|Damage]] | 16-26 |
+| [[Stats#Damage Min\|Damage]] | 26-36 |
 | Ranged Range | 4 |
 
 ## Combat
@@ -63,7 +63,23 @@ An arch-villain of [[The Umbral Court]] — *Vaelith of the Deep Dark*. Awakens 
 | Stance | Aggressive — closes in and fights in melee |
 | Personality | Cold |
 | AI | [[How Enemies Behave#Elite\|Elite]] (assignment to arch-villains is not stated in the data; no faction uses this profile) |
-| Appears from company level | 7 |
+| Appears from company level | 10 |
+| Combat sheet | [[The Umbral Court Combat Sheet\|The Umbral Court units and abilities]] |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +10% | — | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
+## Keep
+
+**The Hollow Dark**
+
+A lightless keep the Shadow Weaver has claimed on the surface. Its halls are guarded by umbral blademasters who never sleep.
 
 ## Phases
 
@@ -80,7 +96,7 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 ## Abilities
 
 - [[Opportunist Strike (Ability)|Opportunist Strike]]
-- [[Exploit Opening (Ability, ability_exploit_opening)|Exploit Opening]]
+- [[Exploit Opening]]
 - [[Shadow Nova]]
 - [[Shadow Stalk]]
 
@@ -94,7 +110,8 @@ The fight starts in phase 1. When the villain's HP drops below the threshold, th
 
 Travels and fights with:
 
-- 2× [[Umbral Blademaster]]
+- 1× [[Umbral Blademaster]]
+- 2× [[Giant Spider (Enemy, Umbral Court)|Giant Spider (The Umbral Court)]]
 - 2× [[Umbral Archer]]
 
 ## Relic drops
@@ -108,8 +125,6 @@ Defeating this villain drops a unique relic:
 
 |  | Value |
 |---|---|
-| Roam radius | 35 |
-| Ambush chance | 25% |
 | Settlement corruption chance | 4% |
 
 Units (hexes, per day) are not stated in the data.

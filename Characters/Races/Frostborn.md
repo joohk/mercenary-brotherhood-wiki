@@ -81,6 +81,13 @@ Weapon families this race favours.
 - **Melee:** Hammer, Axe
 - **Ranged:** Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Axe ×2.5, Spear ×2, Heavy Armor ×1.5, Thrown ×1.3
+- **Disfavoured:** Robe ×0.5
+
 ## Backgrounds
 
 The 19 backgrounds a Frostborn recruit can roll.

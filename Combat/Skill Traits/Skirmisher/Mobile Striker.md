@@ -20,7 +20,7 @@ up: "[[Skirmisher (Skill)]]"
 
 A common passive skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 ranks.
 
-> +3 Melee Attack after moving. Momentum fuels the blade.
+> +3 Melee Attack. Momentum fuels the blade.
 
 ## Effects
 

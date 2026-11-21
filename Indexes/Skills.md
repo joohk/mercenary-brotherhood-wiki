@@ -3,45 +3,46 @@ type: index
 tags:
   - type/index
 source: skills/
-count: 52
+count: 53
 up: "[[Your Company]]"
 ---
 
 [[Home]] › [[Your Company]]
 
-All 52 skills in the game data.
+All 53 skills in the game data.
 
 ## Magic (11)
 
 | Name | Group | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|---|
 | [[Arcane Mastery]] | Magic | Combat | Cast an arcane spell in combat | [[Magic Missile]] | 12 |
-| [[Blood Magic]] | Magic | Combat | Cast a blood spell in combat | [[Blood Bolt]], [[Sanguine Burst]] | 11 |
+| [[Blood Magic]] | Magic | Combat | Cast a blood spell in combat | [[Blood Bolt]], [[Crimson Tide]] | 13 |
 | [[Dark Magic]] | Magic | Combat | Cast a dark spell in combat | [[Life Drain]], [[Soul Rend (Ability)\|Soul Rend]] | 10 |
 | [[Holy Magic]] | Magic | Combat | Cast a holy spell in combat | [[Minor Heal]], [[Sunburst (Ability)\|Sunburst]] | 10 |
-| [[Nature Magic]] | Magic | Combat | Cast a nature spell in combat | [[Regrowth]], [[Wild Growth]] | 10 |
+| [[Nature Magic]] | Magic | Combat | Cast a nature spell in combat | [[Regrowth]], [[Heart of the Wild]] | 15 |
 | [[Shadow Magic]] | Magic | Combat | Cast a shadow spell in combat | [[Shadow Step (Ability)\|Shadow Step]], [[Phase Strike]] | 8 |
-| [[Shamanism]] | Magic | Combat | Use a Shamanism ability in combat | [[Spirit Leech]], [[Feast of War]] | 7 |
-| [[Staff Mastery]] | Magic | Combat | Cast a spell while wielding a staff | — | 9 |
-| [[Stone Magic]] | Magic | Combat | Cast a stone spell in combat | [[Stoneskin]], [[Earthbind]] | 9 |
+| [[Shamanism]] | Magic | Combat | Use a Shamanism ability in combat, or strike under a Shamanism life-drain | [[Spirit Leech]], [[Feast of War]] | 7 |
+| [[Staff Mastery]] | Magic | Combat | Cast a spell while wielding a staff | — | 12 |
+| [[Stone Magic]] | Magic | Combat | Cast a stone spell in combat | [[Stone Shards]], [[Heart of the Mountain]] | 12 |
 | [[Telekinesis]] | Magic | Combat | Cast a telekinetic spell in combat | [[Force Gust]], [[Telekinetic Crush]] | 10 |
-| [[Wand Mastery]] | Magic | Combat | Cast a spell while wielding a wand | — | 10 |
+| [[Wand Mastery]] | Magic | Combat | Hit with a wand, or cast a spell while wielding one | — | 12 |
 
-## Ranged (5)
+## Ranged (6)
 
 | Name | Group | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|---|
-| [[Archery]] | Ranged | Combat | Land a ranged hit with a bow | — | 11 |
+| [[Archery]] | Ranged | Combat | Land a ranged hit with a bow | [[Hail of Arrows]] | 9 |
 | [[Lucky Strike]] | Ranged | Combat | Hit with under 20% hit chance | — | 6 |
-| [[Marksman (Skill)\|Marksman]] | Ranged | Combat | Land a ranged hit at 4+ tiles distance | — | 9 |
+| [[Marksman (Skill)\|Marksman]] | Ranged | Combat | Land a ranged hit at 4+ tiles distance | [[Sniper's Nest]] | 9 |
+| [[Ranged Mastery]] | Ranged | Combat | Land a ranged hit with a bow, crossbow, firearm, thrown weapon or sling | [[Firing Line]] | 7 |
 | [[Skirmisher (Skill)\|Skirmisher]] | Ranged | Combat | Attack after moving in the same turn | — | 6 |
-| [[Suppressor]] | Ranged | Combat | Hit an enemy with ranged after they moved | — | 9 |
+| [[Suppressor]] | Ranged | Combat | Land a ranged hit on a foe that moved this round or is Suppressed | [[Kill Zone]] | 10 |
 
 ## Defense (10)
 
 | Name | Group | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|---|
-| [[Armor Breaker]] | Defense | Combat | Hit an enemy with 8+ armor | — | 8 |
+| [[Armor Breaker]] | Defense | Combat | Hit an enemy with 8+ armor in melee | — | 8 |
 | [[Battle Hardened (Skill)\|Battle Hardened]] | Defense | Combat | Take damage in combat | — | 7 |
 | [[Bloodied Veteran]] | Defense | Combat | Survive a critical hit | — | 6 |
 | [[Dodge Master]] | Defense | Combat | Enemy misses you with an attack | — | 6 |
@@ -56,23 +57,23 @@ All 52 skills in the game data.
 
 | Name | Group | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|---|
-| [[Assassination]] | Melee | Combat | Land a melee hit from behind | — | 9 |
+| [[Assassination]] | Melee | Combat | Land a melee hit from behind | — | 11 |
 | [[Berserker (Skill)\|Berserker]] | Melee | Combat | Attack while under 50% HP | — | 10 |
 | [[Charging]] | Melee | Combat | Land a melee hit after moving 2+ hexes in the same turn | — | 11 |
 | [[Counter Fighter]] | Melee | Combat | Get hit by a melee attack | — | 7 |
 | [[Dual Wield Mastery]] | Melee | Combat | Land an offhand hit | — | 7 |
 | [[Executioner (Skill)\|Executioner]] | Melee | Combat | Land a killing blow | — | 6 |
-| [[Flanking]] | Melee | Combat | Land a melee hit in an enemy's side arc | — | 11 |
+| [[Flanking]] | Melee | Combat | Land a melee hit in an enemy's side arc | — | 10 |
 | [[Giant Slayer]] | Melee | Combat | Damage an elite or boss enemy | — | 9 |
 | [[Melee Mastery]] | Melee | Combat | Land a melee hit in combat | — | 11 |
-| [[Pincer]] | Melee | Combat | Hit an enemy that has an ally adjacent | — | 8 |
+| [[Teamwork]] | Melee | Combat | Hit an enemy that has an ally adjacent | — | 10 |
 
 ## Weapon (9)
 
 | Name | Group | Type | Trained by | Unlocks | Traits |
 |---|---|---|---|---|---|
 | [[Axe Fighting]] | Weapon | Weapon | Land a melee hit with an axe equipped | — | 8 |
-| [[Crossbow Mastery]] | Weapon | Weapon | Land a ranged hit with a crossbow equipped | — | 7 |
+| [[Crossbow Mastery]] | Weapon | Weapon | Land a ranged hit with a crossbow equipped | — | 8 |
 | [[Dagger Mastery]] | Weapon | Weapon | Land a melee hit with a dagger equipped | — | 8 |
 | [[Hammer Fighting]] | Weapon | Weapon | Land a melee hit with a hammer equipped | — | 7 |
 | [[Mace Fighting]] | Weapon | Weapon | Land a melee hit with a mace equipped | — | 8 |

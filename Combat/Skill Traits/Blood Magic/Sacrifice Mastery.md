@@ -20,7 +20,7 @@ up: "[[Blood Magic]]"
 
 An uncommon passive skill trait of [[Blood Magic]] with 3 ranks.
 
-> Blood spell HP costs are reduced by 25%.
+> Blood costs are reduced by 25%.
 
 ## Upgrades
 
@@ -28,10 +28,10 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-HP cost reduction increases to 35%.
+Blood costs are reduced by 35%.
 
 ### Rank 3
 
-HP cost reduction increases to 45%.
+Blood costs are reduced by 45%.
 
 *Generated from `skills/magic_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

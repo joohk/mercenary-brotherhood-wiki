@@ -19,7 +19,7 @@ up: "[[Traits]]"
 
 A rare combat trait (stat boost).
 
-> +19% damage, +5 melee attack. There is an art to killing. They have mastered it.
+> +19% melee damage, +5 melee attack. There is an art to killing. They have mastered it.
 
 ## Effects
 

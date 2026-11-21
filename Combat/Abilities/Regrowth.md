@@ -39,6 +39,10 @@ A 1-AP magic ability targeting an ally up to 4 hexes away.
 
 *Tags:* magic, nature, heal, hot
 
+## Requirements
+
+- Requires Injured
+
 ## Referenced by
 
 - **Empowered by magic properties:** [[Regrowth Mastery]]

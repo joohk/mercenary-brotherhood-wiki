@@ -28,6 +28,6 @@ A common combat trait (stat boost).
 ## Referenced by
 
 - **In racial trait pool of:** [[Deepkin]], [[Dragolin]], [[Dwarf]], [[Frostborn]], [[Gnoll]], [[Goblin]], [[Half-Ogre]], [[Half-Troll]], [[Halfling]], [[Human]], [[Lizardfolk]], [[Minotaur]], [[Orc]], [[Stoneman]], [[Tiefling]]
-- **In trait pool of:** [[Beast Tamer]], [[Cleric (Background)|Cleric]], [[Dreadnought]], [[Grave Digger]], [[Guardian]], [[Hedge Knight]], [[Herbalist]], [[Iron Warden]], [[Mariner]], [[Mind Shaper]], [[Miner]], [[Soldier]], [[Undying Sentinel]], [[Warden]]
+- **In trait pool of:** [[Beast Tamer]], [[Chaplain]], [[Dreadnought]], [[Grave Digger]], [[Guardian]], [[Hedge Knight]], [[Herbalist]], [[Iron Warden]], [[Mariner]], [[Mind Shaper]], [[Miner]], [[Soldier]], [[Undying Sentinel]], [[Warden]]
 
 *Generated from `traits/combat_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

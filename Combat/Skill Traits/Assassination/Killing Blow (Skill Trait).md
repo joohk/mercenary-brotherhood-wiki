@@ -21,7 +21,7 @@ up: "[[Assassination]]"
 
 A rare ability skill trait of [[Assassination]] with 1 rank, granting [[Killing Blow (Ability)|Killing Blow]].
 
-> A precise execution strike at 150% weapon damage. If the blow kills the target, refunds 1 AP. Usable only when target is below 35% HP. 4-turn cooldown.
+> An execution strike at 150% weapon damage, usable on a target below 35% HP, or below 50% from behind. Refunds 1 AP if the blow kills. 4-turn cooldown.
 
 ## Effects
 

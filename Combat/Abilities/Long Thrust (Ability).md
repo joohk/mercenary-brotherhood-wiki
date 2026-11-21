@@ -9,10 +9,10 @@ tags:
   - ability/melee
   - type/ability
 source: abilities/combat_abilities.json
-ap_cost: 1
+ap_cost: 2
 cooldown_turns: 2
 fatigue_cost: 14
-range: 2
+range: 3
 requires_los: true
 source_type: Skill
 target_type: enemy
@@ -21,20 +21,21 @@ up: "[[Abilities]]"
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting one enemy up to 2 hexes away.
+A 2-AP melee ability targeting one enemy up to 3 hexes away.
 
-> A lunging stab that strikes at range 2 with +10 to-hit. The spear's reach finds its mark.
+> A lunging stab that strikes at range 3 with +10 to-hit. The spear's reach finds its mark.
 
 ## Stats
 
 |  | Value |
 |---|---|
-| Action Points | 1 |
+| Action Points | 2 |
 | Fatigue | 14 |
 | Cooldown | 2 turns |
 | Uses per battle | Unlimited |
-| Range | 2 hexes |
+| Range | 3 hexes |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, spear, reach

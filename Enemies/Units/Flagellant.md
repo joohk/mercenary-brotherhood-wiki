@@ -44,7 +44,7 @@ A tier-1 enemy of [[The Inquisition]] faction — 45 HP, 0 armor, worth 9 XP and
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | 2-4 |
-| Damage with weapon | 8-14 (base 2-4 + [[Spiked Flail]] 6-10) |
+| Damage with weapon | 9-15 (base 2-4 + [[Spiked Flail]] 7-11) |
 
 ## Combat
 
@@ -56,13 +56,24 @@ A tier-1 enemy of [[The Inquisition]] faction — 45 HP, 0 armor, worth 9 XP and
 | Gold | 4 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[The Inquisition Combat Sheet\|all The Inquisition units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 80 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 12 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Penitent Rags]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Penitent Rags]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

@@ -24,7 +24,7 @@ up: "[[Arms & Armor]]"
 | [[Ring of the Bulwark]] | Ring | 2 | — | 120 | Grants [[Iron Ward]] |
 | [[Steel Ring]] | Ring | 2 | — | 60 | — |
 | [[Trinket of Quickening]] | Trinket | 2 | — | 120 | Grants [[Quickening]] |
-| [[Trinket of the Phalanx]] | Trinket | 2 | — | 120 | Grants [[Brace (Ability, ability_acc_brace)\|Brace]] |
+| [[Trinket of the Phalanx]] | Trinket | 2 | — | 120 | Grants [[Stand Ready]] |
 | [[Amulet of Cleansing]] | Amulet | 3 | — | 180 | Grants [[Purifying Light]] |
 | [[Amulet of Mending]] | Amulet | 3 | — | 180 | Grants [[Mending Word]] |
 | [[Amulet of Reprisal]] | Amulet | 3 | — | 180 | — |

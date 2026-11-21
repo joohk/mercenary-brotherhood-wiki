@@ -50,7 +50,7 @@ Bonuses added on top of the recruit's race base stats.
 ## Starting equipment
 
 - [[Throwing Hatchet]]
-- [[Javelins]]
+- [[Light Javelins]]
 - [[Leather Armor]]
 
 ## Trait pool

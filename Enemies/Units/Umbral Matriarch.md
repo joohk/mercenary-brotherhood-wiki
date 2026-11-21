@@ -44,7 +44,7 @@ A tier-5 enemy of [[The Umbral Court]] faction — 179 HP, 18 armor, worth 75 XP
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 25 |
 | [[Stats#Damage Min\|Damage]] | 8-12 |
-| Damage with weapon | 42-66 (base 8-12 + [[Masterwork Greatsword]] 34-54) |
+| Damage with weapon | 46-75 (base 8-12 + [[Masterwork Greatsword]] 38-63) |
 | Ranged Damage | 20-30 |
 | Ranged Range | 6 |
 
@@ -58,13 +58,25 @@ A tier-5 enemy of [[The Umbral Court]] faction — 179 HP, 18 armor, worth 75 XP
 | Gold | 70 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[The Umbral Court Combat Sheet\|all The Umbral Court units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 3 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 90 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Masterwork Leather]] +10, [[Masterwork Helmet]] +4 | +14% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Masterwork Leather]] +9, [[Masterwork Helmet]] +4 | +13% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Masterwork Leather]] +12, [[Masterwork Helmet]] +9 | +21% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

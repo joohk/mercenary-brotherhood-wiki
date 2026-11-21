@@ -14,19 +14,19 @@ discovery_weight: 0.8
 max_level: 10
 skill_category: combat
 skill_group: Magic
-skill_traits: 10
+skill_traits: 12
 up: "[[Schools of Magic]]"
 ---
 
 [[Home]] › [[Magic & Spells]] › [[Schools of Magic]]
 
-A combat skill from the Magic group, with 10 levels and 10 skill traits.
+A combat skill from the Magic group, with 10 levels and 12 skill traits.
 
-> Proficiency with wands improves spellcasting potency with minor ranged accuracy.
+> Proficiency with wands. Each level adds 1 to wand damage, along with Willpower and Ranged Attack. Bonuses only apply when using a wand.
 
 ## How to train
 
-**Trained by:** Cast a spell while wielding a wand.
+**Trained by:** Hit with a wand, or cast a spell while wielding one.
 
 **Discovery:** Can be discovered on a *spell cast* event involving wand-tagged gear or spells; discovery weight 0.8.
 
@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level |
 |---|---|---|---|
-| L1 | +2 [[Stats#Willpower\|Willpower]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +2 Willpower, +1 Ranged Attack | 20 |
-| L2 | +2 [[Stats#Willpower\|Willpower]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +4 Willpower, +2 Ranged Attack | 35 |
-| L3 | +2 [[Stats#Willpower\|Willpower]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +6 Willpower, +3 Ranged Attack | 55 |
-| L4 | +2 [[Stats#Willpower\|Willpower]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +8 Willpower, +4 Ranged Attack | 85 |
-| L5 | +3 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +11 Willpower, +6 Ranged Attack | 125 |
-| L6 | +3 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Willpower, +8 Ranged Attack | 180 |
-| L7 | +3 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +17 Willpower, +10 Ranged Attack | 250 |
-| L8 | +3 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +20 Willpower, +12 Ranged Attack | 335 |
-| L9 | +3 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +23 Willpower, +14 Ranged Attack | 440 |
-| L10 | +3 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +26 Willpower, +16 Ranged Attack | max |
+| L1 | +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]], +1 Ranged Damage | +2 Willpower, +2 Ranged Attack, +1 Ranged Damage | 20 |
+| L2 | +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Ranged Attack\|Ranged Attack]], +2 Ranged Damage | +4 Willpower, +4 Ranged Attack, +3 Ranged Damage | 35 |
+| L3 | +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Ranged Attack\|Ranged Attack]], +3 Ranged Damage | +6 Willpower, +7 Ranged Attack, +6 Ranged Damage | 55 |
+| L4 | +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Ranged Attack\|Ranged Attack]], +4 Ranged Damage | +8 Willpower, +10 Ranged Attack, +10 Ranged Damage | 85 |
+| L5 | +3 [[Stats#Willpower\|Willpower]], +4 [[Stats#Ranged Attack\|Ranged Attack]], +5 Ranged Damage | +11 Willpower, +14 Ranged Attack, +15 Ranged Damage | 125 |
+| L6 | +3 [[Stats#Willpower\|Willpower]], +4 [[Stats#Ranged Attack\|Ranged Attack]], +6 Ranged Damage | +14 Willpower, +18 Ranged Attack, +21 Ranged Damage | 180 |
+| L7 | +3 [[Stats#Willpower\|Willpower]], +5 [[Stats#Ranged Attack\|Ranged Attack]], +7 Ranged Damage | +17 Willpower, +23 Ranged Attack, +28 Ranged Damage | 250 |
+| L8 | +3 [[Stats#Willpower\|Willpower]], +5 [[Stats#Ranged Attack\|Ranged Attack]], +8 Ranged Damage | +20 Willpower, +28 Ranged Attack, +36 Ranged Damage | 335 |
+| L9 | +3 [[Stats#Willpower\|Willpower]], +6 [[Stats#Ranged Attack\|Ranged Attack]], +9 Ranged Damage | +23 Willpower, +34 Ranged Attack, +45 Ranged Damage | 440 |
+| L10 | +3 [[Stats#Willpower\|Willpower]], +7 [[Stats#Ranged Attack\|Ranged Attack]], +10 Ranged Damage | +26 Willpower, +41 Ranged Attack, +55 Ranged Damage | max |
 
 ## Skill traits
 
@@ -54,15 +54,17 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
 | [[Arcane Focus]] | Common | Passive | 2 | — |
-| [[Precise Aim]] | Common | Passive | 2 | — |
+| [[Spellweave]] | Common | Passive | 2 | — |
 | [[Arcane Barrage (Skill Trait)\|Arcane Barrage]] | Uncommon | Ability | 2 | [[Arcane Barrage (Ability)\|Arcane Barrage]] |
-| [[Dual Channel]] | Uncommon | Passive | 2 | — |
+| [[Arcane Burst (Skill Trait)\|Arcane Burst]] | Uncommon | Ability | 2 | [[Arcane Burst (Ability)\|Arcane Burst]] |
+| [[Arcane Echo]] | Uncommon | Passive | 2 | — |
 | [[Extended Channel]] | Uncommon | Passive | 2 | — |
 | [[Quick Cast]] | Uncommon | Passive | 2 | — |
 | [[Amplifying Conduit]] | Rare | Passive | 2 | — |
 | [[Conduit]] | Rare | Passive | 1 | — |
 | [[Mana Surge (Skill Trait)\|Mana Surge]] | Rare | Ability | 2 | [[Mana Surge (Ability)\|Mana Surge]] |
 | [[Spell Sniper]] | Rare | Passive | 1 | — |
+| [[Ward Bolt (Skill Trait)\|Ward Bolt]] | Rare | Ability | 2 | [[Ward Bolt (Ability)\|Ward Bolt]] |
 
 ## Referenced by
 

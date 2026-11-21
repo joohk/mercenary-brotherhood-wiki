@@ -39,6 +39,6 @@ A legendary-or-better magic property for shields and accessories.
 
 ## Effects
 
-- +25% All Elemental Resists
+- +25% [[Stats#Elemental Resist|Elemental Resist]]
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

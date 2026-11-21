@@ -17,12 +17,11 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP ranged ability targeting one enemy up to 6 hexes away, usable twice per battle.
+A 1-AP ranged ability targeting one enemy up to 6 hexes away.
 
 > Loose a heavy arrow that punches through the target and into a second enemy in a straight line behind them. Each enemy is rolled separately at 80% damage.
 
@@ -33,7 +32,7 @@ A 1-AP ranged ability targeting one enemy up to 6 hexes away, usable twice per b
 | Action Points | 1 |
 | Fatigue | 16 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 6 hexes |
 | Target | Enemy |
 | Line of sight | Required |

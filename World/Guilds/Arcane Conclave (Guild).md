@@ -45,6 +45,16 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Rare | [[War Mage]], [[Mind Shaper]] |
 | Legendary | [[Arcane Prodigy]], [[Void Touched]] |
 
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Staff | ×4 |
+| Wand | ×4 |
+| Robe | ×3 |
+
 ## Gear by hire tier
 
 | Hire tier | Gear |

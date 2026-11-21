@@ -11,7 +11,7 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_melee.json
-damage_max: 30
+damage_max: 32
 damage_min: 18
 damage_type: slashing
 family: sword
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-2 two-handed slashing sword dealing 18-30 damage, worth 480 gold.
+A tier-2 two-handed slashing sword dealing 18-32 damage, worth 480 gold.
 
 ![[_assets/Icons/tier_1/sword_2h.webp|96]]
 
@@ -37,8 +37,9 @@ A tier-2 two-handed slashing sword dealing 18-30 damage, worth 480 gold.
 | Tier | 2 |
 | Damage type | Slashing |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 18-30 |
-| [[Stats#Initiative\|Initiative]] | -8 |
+| [[Stats#Damage Min\|Damage]] | 18-32 |
+| [[Stats#Armor Pen\|Armor Pen]] | +5 |
+| [[Stats#Initiative\|Initiative]] | -9 |
 | Price | 480 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 35 |

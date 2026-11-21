@@ -20,7 +20,7 @@ up: "[[Dagger Mastery]]"
 
 An uncommon passive skill trait of [[Dagger Mastery]] with 2 ranks.
 
-> You know exactly where to cut. +3 Crit Chance and +3 Damage Min. Attacks from behind gain +5 to-hit.
+> You know exactly where to cut. +3 Crit Chance and +3 Damage Min. Attacks from behind gain +5 to-hit. Dagger strikes ignore 10% of a target's armor and resistances.
 
 ## Effects
 
@@ -28,6 +28,7 @@ Rank 1:
 
 - +3% [[Stats#Crit Chance|Crit Chance]]
 - +3 [[Stats#Damage Min|Damage Min]]
+- +10 [[Stats#Bypass|Bypass]]
 
 ## Upgrades
 
@@ -39,5 +40,6 @@ Increased to +5 Crit Chance and +5 Damage Min. Rear attacks gain +8 to-hit.
 
 - +5% [[Stats#Crit Chance|Crit Chance]]
 - +5 [[Stats#Damage Min|Damage Min]]
+- +10 [[Stats#Bypass|Bypass]]
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

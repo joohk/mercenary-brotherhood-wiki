@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A legendary combo-exclusive trait — only Orc Grave Knight recruits can roll it.
 
-> +22% damage and +8 armor. Only available to Orc Grave Knights.
+> +22% melee damage and +8 armor. Only available to Orc Grave Knights.
 
 ## Effects
 

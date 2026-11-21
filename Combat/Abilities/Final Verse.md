@@ -21,7 +21,7 @@ up: "[[Abilities]]"
 
 A 2-AP support ability used on yourself.
 
-> Consume your active aura to release its essence. Each ally currently affected heals 12 HP; each enemy currently affected takes 15 sonic damage. Requires an active aura and an instrument.
+> Consume your active aura to release its essence. Each ally currently affected heals 12 HP; each enemy currently affected takes 15 sonic damage (scales with willpower and magic power). Requires an active aura and an instrument.
 
 ## Stats
 

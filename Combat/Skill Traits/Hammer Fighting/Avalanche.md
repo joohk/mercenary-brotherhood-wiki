@@ -32,6 +32,6 @@ Threshold drops to 20 damage and the blow now ignores all remaining armor.
 
 ### Rank 3
 
-Threshold drops to 16 damage and the blow also Stuns the target.
+Threshold drops to 16 damage.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

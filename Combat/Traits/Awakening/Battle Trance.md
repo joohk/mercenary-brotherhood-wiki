@@ -18,6 +18,6 @@ up: "[[Traits]]"
 
 A tier-6 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 
-> After landing 3 hits in combat, enter Trance for 2 turns: +25% damage, immune to all status effects.
+> Once per battle, after landing 3 hits, enter Trance for 2 turns: +25% damage, immune to all status effects.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

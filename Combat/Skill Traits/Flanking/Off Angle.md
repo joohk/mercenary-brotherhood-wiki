@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-+10 Melee Attack, and +2 damage from the side.
++10 Melee Attack, and your first side-arc hit each turn gives 1 extra Footwork.
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

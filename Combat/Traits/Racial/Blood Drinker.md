@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A rare Vampling racial trait.
 
-> +23% damage, +6 melee attack. Every wound inflicted feeds the hunger and sharpens the edge.
+> +23% melee damage, +6 melee attack. Every wound inflicted feeds the hunger and sharpens the edge.
 
 ## Effects
 

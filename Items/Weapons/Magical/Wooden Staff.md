@@ -11,8 +11,8 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_magical.json
-damage_max: 10
-damage_min: 5
+damage_max: 17
+damage_min: 10
 damage_type: blunt
 family: staff
 hands: two-handed
@@ -26,7 +26,7 @@ up: "[[Staves]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
 
-A tier-1 two-handed blunt staff dealing 5-10 damage, worth 35 gold.
+A tier-1 two-handed blunt staff dealing 10-17 damage, worth 35 gold.
 
 ![[_assets/Icons/tier_1/staff.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-1 two-handed blunt staff dealing 5-10 damage, worth 35 gold.
 | Tier | 1 |
 | Damage type | Blunt |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 5-10 |
+| [[Stats#Damage Min\|Damage]] | 10-17 |
 | [[Stats#Melee Attack\|Melee Attack]] | +2 |
 | [[Stats#Willpower\|Willpower]] | +4 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | +5 |

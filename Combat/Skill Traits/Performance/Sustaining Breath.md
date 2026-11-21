@@ -20,7 +20,7 @@ up: "[[Performance]]"
 
 An uncommon passive skill trait of [[Performance]] with 1 rank.
 
-> All sustained abilities cost 1 less fatigue per turn — bards and non-bards both.
+> All songs and auras cost 1 less fatigue per turn.
 
 ## Effects
 

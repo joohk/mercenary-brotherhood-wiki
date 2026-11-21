@@ -19,6 +19,6 @@ up: "[[Traits]]"
 
 A tier-2 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 
-> Immune to Shaken status. Never wavers, no matter the odds.
+> Immune to Shaken status. Psionic Blast has -15% to hit you. Never wavers, no matter the odds.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

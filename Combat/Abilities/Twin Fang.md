@@ -24,7 +24,7 @@ uses_per_battle: 1
 
 A 1-AP melee ability targeting an adjacent enemy, usable once per battle.
 
-> Unleash two rapid strikes at a single foe. Granted by an accessory; 1 use per battle.
+> Unleash two rapid strikes at a single foe, each at -15 to hit. Granted by an accessory; 1 use per battle.
 
 ## Stats
 

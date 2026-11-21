@@ -24,7 +24,7 @@ A weapon skill from the Weapon group, with 10 levels and 7 skill traits.
 
 ![[_assets/Icons/tier_1/hammer_1h.webp|64]]
 
-> Brute-force technique born at the forge. Hammers trade precision for devastating impact; each level increases crushing power and raw damage. At L5 critical hammer blows send foes flying back one tile.
+> Brute-force technique born at the forge. Hammers trade precision for devastating impact; each level increases crushing power and raw damage. From L5, every hammer hit takes 2 armor off the target for the rest of the battle.
 
 ## How to train
 
@@ -42,16 +42,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far |
 |---|---|---|
-| L1 | +3 [[Stats#Damage Min\|Damage]] | +3 Damage |
-| L2 | +3 [[Stats#Damage Min\|Damage]] | +6 Damage |
-| L3 | +2 to +4 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +8 to +10 Damage, +1 Armor Pen |
-| L4 | +2 to +4 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +10 to +14 Damage, +2 Armor Pen |
-| L5 | +2 to +5 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +12 to +19 Damage, +3 Armor Pen |
-| L6 | +2 to +5 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +14 to +24 Damage, +4 Armor Pen |
-| L7 | +1 to +5 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +15 to +29 Damage, +5 Armor Pen |
-| L8 | +1 to +6 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +16 to +35 Damage, +6 Armor Pen |
-| L9 | +1 to +6 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +17 to +41 Damage, +7 Armor Pen |
-| L10 | +1 to +6 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +18 to +47 Damage, +8 Armor Pen |
+| L1 | +2 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +2 Damage, +1 Armor Pen |
+| L2 | +3 [[Stats#Damage Min\|Damage]], +2 [[Stats#Armor Pen\|Armor Pen]] | +5 Damage, +3 Armor Pen |
+| L3 | +4 to +5 [[Stats#Damage Min\|Damage]], +4 [[Stats#Armor Pen\|Armor Pen]] | +9 to +10 Damage, +7 Armor Pen |
+| L4 | +5 to +7 [[Stats#Damage Min\|Damage]], +5 [[Stats#Armor Pen\|Armor Pen]] | +14 to +17 Damage, +12 Armor Pen |
+| L5 | +6 to +10 [[Stats#Damage Min\|Damage]], +7 [[Stats#Armor Pen\|Armor Pen]] | +20 to +27 Damage, +19 Armor Pen |
+| L6 | +7 to +12 [[Stats#Damage Min\|Damage]], +8 [[Stats#Armor Pen\|Armor Pen]] | +27 to +39 Damage, +27 Armor Pen |
+| L7 | +8 to +15 [[Stats#Damage Min\|Damage]], +10 [[Stats#Armor Pen\|Armor Pen]] | +35 to +54 Damage, +37 Armor Pen |
+| L8 | +8 to +18 [[Stats#Damage Min\|Damage]], +11 [[Stats#Armor Pen\|Armor Pen]] | +43 to +72 Damage, +48 Armor Pen |
+| L9 | +9 to +21 [[Stats#Damage Min\|Damage]], +13 [[Stats#Armor Pen\|Armor Pen]] | +52 to +93 Damage, +61 Armor Pen |
+| L10 | +9 to +24 [[Stats#Damage Min\|Damage]], +14 [[Stats#Armor Pen\|Armor Pen]] | +61 to +117 Damage, +75 Armor Pen |
 
 ## Skill traits
 
@@ -61,8 +61,8 @@ Skill traits belonging to this skill.
 |---|---|---|---|---|
 | [[Heavy Blows (Skill Trait, Hammer Fighting)\|Heavy Blows]] | Common | Passive | 2 | — |
 | [[Stagger]] | Common | Passive | 2 | — |
-| [[Armor Crush (Skill Trait)\|Armor Crush]] | Uncommon | Ability | 2 | [[Armor Crush (Ability)\|Armor Crush]] |
-| [[Sunder Armor (Skill Trait)\|Sunder Armor]] | Uncommon | Passive | 2 | — |
+| [[Crush Resistance (Skill Trait)\|Crush Resistance]] | Uncommon | Ability | 2 | [[Crush Resistance (Ability)\|Crush Resistance]] |
+| [[Plate Breaker]] | Uncommon | Passive | 2 | — |
 | [[Thunderstrike (Skill Trait, Hammer Fighting)\|Thunderstrike]] | Uncommon | Ability | 2 | [[Thunderstrike (Ability)\|Thunderstrike]] |
 | [[Avalanche]] | Rare | Passive | 3 | — |
 | [[Earthshaker (Skill Trait)\|Earthshaker]] | Rare | Ability | 3 | [[Earthshaker (Ability)\|Earthshaker]] |

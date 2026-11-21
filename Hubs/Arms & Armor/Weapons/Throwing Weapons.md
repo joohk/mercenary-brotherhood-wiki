@@ -7,7 +7,7 @@ up: "[[Weapons]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]]
 
-9 weapons, tiers 0–6. Trained by: [[Thrown Weapons]].
+10 weapons, tiers 0–6. Trained by: [[Ranged Mastery]], [[Thrown Weapons]].
 
 ## Weapons
 
@@ -16,6 +16,7 @@ up: "[[Weapons]]"
 | [[Burning Brand]] | Blunt, 1H | 0 | 3 | 6 | 3 | 0 | 0 | — | 2 | Not rolled randomly |
 | [[Alchemist Flask]] | Blunt, 1H | 1 | 3 | 6 | 4 | 0 | 0 | — | 6 | Venomous; Not rolled randomly |
 | [[Throwing Knives]] | Piercing, 1H | 1 | 5 | 8 | 3 | 0 | 0 | — | 20 | — |
+| [[Light Javelins]] | Piercing, 1H | 2 | 7 | 12 | 4 | 1 | 0 | — | 150 | — |
 | [[Throwing Daggers]] | Piercing, 1H | 2 | 6 | 11 | 3 | 0 | 0 | — | 150 | — |
 | [[Holy Censer]] | Blunt, 1H | 3 | 8 | 13 | 4 | 0 | 0 | — | 50 | Not rolled randomly |
 | [[Javelins]] | Piercing, 1H | 3 | 9 | 16 | 4 | 2 | 0 | — | 300 | — |

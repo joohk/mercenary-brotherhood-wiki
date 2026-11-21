@@ -25,7 +25,7 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Templar (Specialization)|Templar]], [[Paladin (Specialization)|Paladin]], [[Battle Cleric (Specialization)|Battle Cleric]], [[Warpriest]], [[Witch Hunter (Specialization)|Witch Hunter]], [[Cleric (Specialization)|Cleric]]
+[[Templar (Specialization)|Templar]], [[Paladin (Specialization)|Paladin]], [[Battle Cleric (Specialization)|Battle Cleric]], [[Warpriest]], [[Witch Hunter (Specialization)|Witch Hunter]], [[Cleric]], [[Crusader (Specialization)|Crusader]], [[Zealot (Specialization)|Zealot]]
 
 ## Signature skills
 
@@ -40,8 +40,19 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Rarity | Backgrounds |
 |---|---|
 | Common | [[Acolyte]], [[Acolyte Militant]], [[Temple Guard]], [[Pilgrim]], [[Grave Tender]] |
-| Uncommon | [[Cleric (Background)\|Cleric]], [[Monk]], [[Penitent]], [[Zealot (Background)\|Zealot]] |
+| Uncommon | [[Chaplain]], [[Monk]], [[Penitent]], [[Zealot (Background)\|Zealot]] |
 | Rare | [[Templar (Background)\|Templar]], [[Crusader (Background)\|Crusader]], [[War Priest]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Mace | ×4 |
+| Shield | ×3 |
+| Hammer | ×2 |
+| Robe | ×1.5 |
 
 ## Gear by hire tier
 

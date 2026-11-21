@@ -66,7 +66,7 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 ## Referenced by
 
 - **Familiar to:** [[Bonecarver]], [[Executioner (Background)|Executioner]], [[Pit Fighter]], [[Scout]], [[Tanner]]
-- **Foreign to:** [[Cleric (Background)|Cleric]], [[Herb Apprentice]], [[Hunter]], [[Legendary Hunter]], [[Ranger (Background)|Ranger]]
+- **Foreign to:** [[Chaplain]], [[Herb Apprentice]], [[Hunter]], [[Legendary Hunter]], [[Ranger (Background)|Ranger]]
 - **Guild signature skill:** [[Reaver Hall]]
 - **Starting skill of:** [[Executioner (Background)|Executioner]]
 

@@ -12,9 +12,13 @@ tags:
   - tier/7
   - type/item
 source: items/relics.json
-armor: 4
+armor: 12
 family: helmet
 rarity: relic
+relic_power: Ashen Wake
+resist_blunt: 11
+resist_piercing: 5
+resist_slashing: 5
 slot: helmet
 tier: 7
 unique: true
@@ -23,30 +27,38 @@ up: "[[Relics]]"
 
 [[Home]] › [[Arms & Armor]] › [[Relics]]
 
-A unique relic helmet dropped by the arch-villain [[Plague Bishop Malachar]]. It awakens in three stages as its wielder racks up kills.
+A unique relic helmet dropped by the arch-villain [[Plague Bishop Malachar]]. Its unique power is **Ashen Wake**. It awakens in three stages as its wielder racks up kills.
 
 ![[_assets/Icons/tier_5/helmet.webp|96]]
 
 > A circlet of fused cinders that never cools. Faint embers drift from its tines.
+
+## Relic Power
+
+> [!abstract] Ashen Wake
+> An enemy that begins its turn next to the bearer catches fire.
 
 ## Stats
 
 | Stat | Value |
 |---|---|
 | Slot | Helmet |
-| [[Stats#Armor\|Armor]] | +4 |
+| [[Stats#Armor\|Armor]] | +12 |
+| [[Stats#Slash Resist\|Slash Resist]] | +5% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +5% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +11% |
 | Unique | Yes |
 
 ## Effects
 
-- +28% [[Stats#Damage Min|Damage]]
+- +30% [[Stats#Damage Min|Damage]]
 
 ## Drawbacks
 
 Always active while equipped.
 
-- -25 [[Stats#Willpower|Willpower]]
-- -8 [[Stats#Max HP|Max HP]]
+- -20 [[Stats#Willpower|Willpower]]
+- -12 [[Stats#Max HP|Max HP]]
 
 ## Awakening
 
@@ -56,8 +68,8 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 > The ashes remember fire. Your strikes leave trails of heat in the air.
 
-- **Bonus:** +4 [[Stats#Melee Attack|Melee Attack]]
-- **Curse:** -4 [[Stats#Willpower|Willpower]]
+- **Bonus:** +15 [[Stats#Melee Attack|Melee Attack]]
+- **Curse:** -5 [[Stats#Willpower|Willpower]]
 
 ### Stage 2 — Kindled (90 kills)
 
@@ -65,10 +77,10 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 **Perk:** Cinderbrand — your attacks set foes Burning.
 
-- **Bonus:** +5% [[Stats#Damage Min|Damage Min]]
-- **Bonus:** +5% [[Stats#Damage Max|Damage Max]]
+- **Bonus:** +8% [[Stats#Damage Min|Damage Min]]
+- **Bonus:** +8% [[Stats#Damage Max|Damage Max]]
 - **Bonus:** On hit: Inflicts Burning I (5 fire damage per tick for 2 ticks)
-- **Curse:** -4 [[Stats#Max HP|Max HP]]
+- **Curse:** -8 [[Stats#Max HP|Max HP]]
 
 ### Stage 3 — Conflagration (180 kills)
 
@@ -76,12 +88,12 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 **Perk:** Capstone: grants Hellfire Rebuke — erupt in flame, damaging and igniting all adjacent foes. If you already know it, you gain an extra use per battle instead.
 
-- **Bonus:** +5 [[Stats#Melee Attack|Melee Attack]]
-- **Bonus:** +2 [[Stats#Armor|Armor]]
+- **Bonus:** +15 [[Stats#Melee Attack|Melee Attack]]
+- **Bonus:** +8 [[Stats#Armor|Armor]]
 - **Bonus:** Grants ability: [[Hellfire Rebuke]]
 - **Bonus (if already known):** [[Hellfire Rebuke]]: +1 use per battle
 - **Curse:** -8 [[Stats#Willpower|Willpower]]
-- **Curse:** -4 [[Stats#Max HP|Max HP]]
+- **Curse:** -8 [[Stats#Max HP|Max HP]]
 
 ## Lore
 

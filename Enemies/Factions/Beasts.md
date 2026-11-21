@@ -22,6 +22,9 @@ up: "[[Wild Beasts]]"
 
 An enemy faction that appears from company level 1 and fights as [[How Enemies Behave#Swarm|Swarm]] (flanks and surrounds): 7 unit types, tiers 1-4.
 
+> [!tip] [[Beasts Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/Manticore.webp|160]]
 
 > Dangerous wildlife beyond common wolves. No loot (animals), but high XP. Found in forests, hills, mountains, and swamps.

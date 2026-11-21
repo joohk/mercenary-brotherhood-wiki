@@ -74,6 +74,13 @@ Weapon families this race favours.
 - **Melee:** Greatsword, Axe
 - **Ranged:** Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Axe ×3, Hammer ×2.5, Heavy Armor ×1.5
+- **Disfavoured:** Dagger ×0.4, Bow ×0.3
+
 ## Backgrounds
 
 The 19 backgrounds a Minotaur recruit can roll.

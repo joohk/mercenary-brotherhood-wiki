@@ -3,13 +3,13 @@ type: index
 tags:
   - type/index
 source: passives/enemy_passives.json
-count: 89
+count: 92
 up: "[[Bestiary]]"
 ---
 
 [[Home]] › [[Bestiary]]
 
-All 89 enemy passives in the game data.
+All 92 enemy passives in the game data.
 
 ## Coded: Combat Triggers (9)
 
@@ -60,7 +60,7 @@ All 89 enemy passives in the game data.
 | [[Massive Frame]] | +20 max HP, +3 armor, -6 initiative. Shrugs off stuns and roots 50% of the time. Enormous and slow. | — |
 | [[Natural Camouflage]] | +3 ranged def always. +10 bonus on forest/swamp/scrub terrain, +0 on open ground. Lure it out! | Yes |
 | [[Stalwart]] | +10 willpower, +2 armor. Unyielding in the face of danger. | — |
-| [[Stone Flesh]] | +3 armor always, -5 initiative. +5 bonus armor vs slash/pierce, +0 vs blunt. Blunt deals +25% damage. Shrugs off stuns and roots 50% of the time. Use maces! | Yes |
+| [[Stone Flesh]] | +3 armor always, -5 initiative. 25% resistance to slashing and piercing. 25% vulnerable to blunt. Shrugs off stuns and roots 50% of the time. Use maces! | Yes |
 
 ## Core passives (30)
 
@@ -69,8 +69,8 @@ All 89 enemy passives in the game data.
 | [[Berserker Rage]] | +10 melee attack, -8 melee defense. Offense over defense. | — |
 | [[Blood Drinking]] | Heals for 25% of melee damage dealt. | Yes |
 | [[Bone Armor (Enemy Passive)\|Bone Armor]] | 50% resistance to piercing, 15% to slashing. 25% vulnerable to blunt. | Yes |
-| [[Boss Fortitude]] | Shrugs off stuns, roots and knockback 75% of the time. | — |
 | [[Champion Fortitude]] | Shrugs off stuns, roots and knockback 50% of the time. | — |
+| [[Corrupted Fortitude]] | Shrugs off stuns, roots and knockback 75% of the time. | — |
 | [[Dark Blessing]] | +5 armor, +10 willpower from unholy patron's protection. | — |
 | [[Dark Iron Armor]] | +3 armor, +5 melee defense. Fire and magic attacks ignore 2 armor and corrode -1 armor per hit. Corrodes: -1 armor every 3 turns. | Yes |
 | [[Death Throes]] | Explodes on death, dealing 10 damage to all adjacent units. | Yes |
@@ -94,8 +94,21 @@ All 89 enemy passives in the game data.
 | [[Thick Hide (Enemy Passive)\|Thick Hide]] | +4 armor from tough, leathery skin. After taking 3 hits, the hide cracks and armor drops to +2. | Yes |
 | [[Unbowed]] | Arch-villains shrug off stuns, roots and knockback 75% of the time. | — |
 | [[Unbroken Defiance]] | Each ranged hit, spells included, adds +4 melee and ranged defense for 3 turns. Stacks up to 10 times, and each stack keeps its own clock. | Yes |
-| [[Undead Resilience]] | Immune to poison. Bleeding damage reduced by 75%. | Yes |
+| [[Undead Resilience]] | Immune to poison and Bleeding. | Yes |
 | [[Venomous (Enemy Passive)\|Venomous]] | 30% chance to poison the target on hit. | Yes |
+
+## Coded: Auras/Presence (8)
+
+| Name | Description | Coded |
+|---|---|---|
+| [[Bloodless]] | No blood left to spill. Immune to Bleeding. | Yes |
+| [[Construct]] | Metal and forge-sorcery, not flesh. Immune to Bleeding. | Yes |
+| [[Frost Aura (Enemy Passive)\|Frost Aura]] | 20% chance to reduce melee attacker's initiative by 10 for 1 turn. | Yes |
+| [[Intimidating Presence]] | Adjacent enemies suffer -5 willpower on morale checks. | Yes |
+| [[Poison Cloud]] | Adjacent enemies take 2 poison damage at the start of this unit's turn. | Yes |
+| [[Rallying Presence]] | Adjacent allies gain +5 willpower on morale checks. | Yes |
+| [[Terrifying]] | Enemies must pass a morale check (with -15 willpower penalty) when first engaging in melee. | Yes |
+| [[Tireless (Enemy Passive)\|Tireless]] | Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it. | Yes |
 
 ## Stat-only: Tradeoff (9)
 
@@ -124,15 +137,5 @@ All 89 enemy passives in the game data.
 | [[Savage Fury]] | +6 damage max, -2 melee defense. Wild, uncontrolled strikes. | — |
 | [[Steady Aim (Enemy Passive)\|Steady Aim]] | +3 ranged attack always. +9 bonus if this unit did not move this turn. Rush it to force movement! | Yes |
 | [[Vicious]] | +1 damage always. +5 bonus damage vs bleeding, poisoned, or burning targets. Cure status fast! | Yes |
-
-## Coded: Auras/Presence (5)
-
-| Name | Description | Coded |
-|---|---|---|
-| [[Frost Aura (Enemy Passive)\|Frost Aura]] | 20% chance to reduce melee attacker's initiative by 10 for 1 turn. | Yes |
-| [[Intimidating Presence]] | Adjacent enemies suffer -5 willpower on morale checks. | Yes |
-| [[Poison Cloud]] | Adjacent enemies take 2 poison damage at the start of this unit's turn. | Yes |
-| [[Rallying Presence]] | Adjacent allies gain +5 willpower on morale checks. | Yes |
-| [[Terrifying]] | Enemies must pass a morale check (with -15 willpower penalty) when first engaging in melee. | Yes |
 
 *Generated from `passives/enemy_passives.json`. Edits will be overwritten — put your own notes in Notes/.*

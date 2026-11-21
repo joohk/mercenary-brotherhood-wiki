@@ -75,6 +75,13 @@ Weapon families this race favours.
 - **Melee:** Dagger, Mace
 - **Ranged:** Crossbow
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Firearm ×3, Crossbow ×2.5, Wand ×1.5, Light Armor ×1.3, Hammer ×1.2
+- **Disfavoured:** Axe ×0.5, Heavy Armor ×0.5
+
 ## Skill discovery
 
 Multipliers on the chance to discover these skills.
@@ -88,7 +95,7 @@ Multipliers on the chance to discover these skills.
 The 28 backgrounds a Gnome recruit can roll.
 
 - **Common (12):** [[Acolyte]], [[Acolyte Militant]], [[Candle Witch]], [[Cave Crawler]], [[Fisherman]], [[Forager]], [[Fungus Farmer]], [[Hedge Wizard]], [[Herb Apprentice]], [[Rat Catcher]], [[Scroll Scribe]], [[Torch Bearer]]
-- **Uncommon (9):** [[Alchemist]], [[Bounty Hunter]], [[Cleric (Background)|Cleric]], [[Druid (Background)|Druid]], [[Herbalist]], [[Pathfinder]], [[Saboteur]], [[Scout]], [[Tinkerer]]
+- **Uncommon (9):** [[Alchemist]], [[Bounty Hunter]], [[Chaplain]], [[Druid (Background)|Druid]], [[Herbalist]], [[Pathfinder]], [[Saboteur]], [[Scout]], [[Tinkerer]]
 - **Rare (5):** [[Bard]], [[Master Archer]], [[Mind Shaper]], [[Spymaster]], [[Venom Adept]]
 - **Legendary (2):** [[Arcane Prodigy]], [[Legendary Hunter]]
 

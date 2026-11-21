@@ -13,6 +13,7 @@ armor: 0
 faction: Greenskin Warband
 gold: 6
 hp: 28
+race: Goblin
 stance: ranged
 threat_cost: 2
 tier: 1
@@ -22,7 +23,7 @@ xp: 10
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Greenskin Warband]]
 
-A tier-1 enemy of the [[Greenskin Warband]] faction — 28 HP, 0 armor, worth 10 XP and 6 gold.
+A tier-1 Goblin enemy of the [[Greenskin Warband]] faction — 28 HP, 0 armor, worth 10 XP and 6 gold.
 
 ![[_assets/Units/EnemyGoblinArcher.webp|160]]
 
@@ -44,7 +45,7 @@ A tier-1 enemy of the [[Greenskin Warband]] faction — 28 HP, 0 armor, worth 10
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 12 |
 | [[Stats#Damage Min\|Damage]] | 3-6 |
-| Ranged damage with weapon | 4-8 (base 1-2 + [[Poison Shortbow]] 3-6) |
+| Ranged damage with weapon | 4-9 (base 1-2 + [[Poison Shortbow]] 3-7) |
 | Ranged Damage | 1-2 |
 
 ## Combat
@@ -55,9 +56,12 @@ A tier-1 enemy of the [[Greenskin Warband]] faction — 28 HP, 0 armor, worth 10
 | [[Glossary#Numbers used on this wiki\|Threat cost]] | 2 |
 | XP | 10 |
 | Gold | 6 |
+| Race | [[Goblin]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Greenskin Warband Combat Sheet\|all Greenskin Warband units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |

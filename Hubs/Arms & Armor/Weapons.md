@@ -14,18 +14,18 @@ Every weapon type, the skill that trains it, and every weapon.
 | Type | Weapons | Tiers | Hands | Trained by |
 |---|---|---|---|---|
 | [[Swords]] | 13 | 1–6 | one-handed, two-handed | [[Swordsmanship]], [[Two-Handed Mastery]] |
-| [[Axes]] | 20 | 1–6 | one-handed, two-handed | [[Axe Fighting]], [[Thrown Weapons]], [[Two-Handed Mastery]] |
+| [[Axes]] | 20 | 1–6 | one-handed, two-handed | [[Axe Fighting]], [[Ranged Mastery]], [[Thrown Weapons]], [[Two-Handed Mastery]] |
 | [[Maces & Clubs]] | 11 | 0–6 | one-handed, two-handed | [[Mace Fighting]], [[Two-Handed Mastery]] |
 | [[War Hammers]] | 13 | 1–6 | one-handed, two-handed | [[Hammer Fighting]], [[Two-Handed Mastery]] |
 | [[Daggers]] | 8 | 0–6 | one-handed | [[Dagger Mastery]] |
 | [[Spears]] | 6 | 1–6 | one-handed | [[Spear Fighting]] |
-| [[Bows]] | 9 | 1–6 | two-handed | [[Archery]], [[Two-Handed Mastery]] |
-| [[Crossbows]] | 13 | 1–6 | two-handed | [[Crossbow Mastery]], [[Tinkering]], [[Two-Handed Mastery]] |
-| [[Firearms]] | 4 | 1–3 | one-handed, two-handed | [[Tinkering]], [[Two-Handed Mastery]] |
-| [[Throwing Weapons]] | 9 | 0–6 | one-handed | [[Thrown Weapons]] |
-| [[Staves]] | 12 | 1–6 | one-handed, two-handed | [[Staff Mastery]], [[Two-Handed Mastery]] |
-| [[Wands]] | 6 | 1–6 | one-handed | [[Wand Mastery]] |
-| [[Other Weapons]] | 3 | 0–3 | one-handed, two-handed | [[Performance]], [[Two-Handed Mastery]] |
+| [[Bows]] | 9 | 1–6 | two-handed | [[Archery]], [[Ranged Mastery]], [[Two-Handed Mastery]] |
+| [[Crossbows]] | 13 | 1–6 | two-handed | [[Crossbow Mastery]], [[Ranged Mastery]], [[Tinkering]], [[Two-Handed Mastery]] |
+| [[Firearms]] | 4 | 1–3 | one-handed, two-handed | [[Ranged Mastery]], [[Tinkering]], [[Two-Handed Mastery]] |
+| [[Throwing Weapons]] | 10 | 0–6 | one-handed | [[Ranged Mastery]], [[Thrown Weapons]] |
+| [[Staves]] | 11 | 1–6 | two-handed | [[Staff Mastery]], [[Two-Handed Mastery]] |
+| [[Wands]] | 7 | 1–6 | one-handed | [[Wand Mastery]] |
+| [[Other Weapons]] | 2 | 0–3 | one-handed, two-handed | [[Ranged Mastery]], [[Two-Handed Mastery]] |
 
 ## See also
 

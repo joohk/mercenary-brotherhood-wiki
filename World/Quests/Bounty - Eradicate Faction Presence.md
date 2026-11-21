@@ -41,6 +41,7 @@ A bounty for company level 6+, given by a settlement. In game the title reads `B
 | Difficulty tier | 3 of 5 |
 | Time limit | None |
 | Enemy faction | Chosen when the quest is posted |
+| Region restricted | Yes — targets one region |
 | Area | within 18 hexes of the settlement |
 
 **Hint:** Destroy *faction* warbands near *settlement*.

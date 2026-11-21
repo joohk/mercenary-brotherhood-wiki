@@ -43,7 +43,7 @@ A tier-3 Halfling enemy of the [[Veteran Company]] faction — 78 HP, 8 armor, w
 | [[Stats#Armor\|Armor]] | 8 |
 | [[Stats#Willpower\|Willpower]] | 63 |
 | [[Stats#Damage Min\|Damage]] | 10-16 |
-| Damage with weapon | 27-41 (base 10-16 + [[Fine Throwing Hatchet]] 17-25) |
+| Damage with weapon | 29-44 (base 10-16 + [[Fine Throwing Hatchet]] 19-28) |
 | Ranged Damage | 9-14 |
 | Ranged Range | 4 |
 
@@ -58,12 +58,24 @@ A tier-3 Halfling enemy of the [[Veteran Company]] faction — 78 HP, 8 armor, w
 | Race | [[Halfling]] |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Veteran Company Combat Sheet\|all Veteran Company units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 30 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6 | +6% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9 | +9% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

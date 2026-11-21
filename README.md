@@ -5,7 +5,7 @@
 An unofficial, fan-made wiki for **Mercenary Brotherhood**, generated entirely from the game's own modding
 data (`modding/reference_data`, the JSON the game runs on) and its unit and item art. It has a page for
 every background, race, skill, ability, trait, enemy, item, settlement, dungeon, quest and more —
-**3159 notes** covering all **3230** entries in the data, cross-linked so you can follow any connection
+**3318 notes** covering all **3398** entries in the data, cross-linked so you can follow any connection
 (an item to the enemies that drop it, a race to the backgrounds it can roll, a dungeon to its defenders).
 
 ## How to read it
@@ -22,10 +22,10 @@ between pages and images only work in Obsidian:
 | Area | Indexes |
 |---|---|
 | Characters | [Ascendant Paths](Indexes/Ascendant%20Paths.md) (8) · [Backgrounds](Indexes/Backgrounds.md) (115) · [Callings](Indexes/Callings.md) (5) · [Company Roles](Indexes/Company%20Roles.md) (10) · [Foundings](Indexes/Foundings.md) (6) · [Personalities](Indexes/Personalities.md) (12) · [Race-Background Combos](Indexes/Race-Background%20Combos.md) (31) · [Races](Indexes/Races.md) (26) · [Specializations](Indexes/Specializations.md) (60) |
-| Combat | [Abilities](Indexes/Abilities.md) (286) · [Enemy Passives](Indexes/Enemy%20Passives.md) (89) · [Skill Traits](Indexes/Skill%20Traits.md) (422) · [Skills](Indexes/Skills.md) (52) · [Squad Archetype Families](Indexes/Squad%20Archetype%20Families.md) (15) · [Squad Archetypes](Indexes/Squad%20Archetypes.md) (75) · [Traits](Indexes/Traits.md) (418) |
+| Combat | [Abilities](Indexes/Abilities.md) (320) · [Enemy Passives](Indexes/Enemy%20Passives.md) (92) · [Skill Traits](Indexes/Skill%20Traits.md) (447) · [Skills](Indexes/Skills.md) (53) · [Squad Archetype Families](Indexes/Squad%20Archetype%20Families.md) (15) · [Squad Archetypes](Indexes/Squad%20Archetypes.md) (75) · [Traits](Indexes/Traits.md) (478) |
 | Enemies | [Arch-Villains](Indexes/Arch-Villains.md) (8) · [Encounter Tables](Indexes/Encounter%20Tables.md) (55) · [Enemies](Indexes/Enemies.md) (188) · [Enemy Variants](Indexes/Enemy%20Variants.md) (6) · [Factions](Indexes/Factions.md) (24) · [How Enemies Behave](Enemies/How%20Enemies%20Behave.md) (7) · [Vendetta Abilities](Indexes/Vendetta%20Abilities.md) (5) · [Vendetta Traits](Indexes/Vendetta%20Traits.md) (18) · [Vendetta Trophies](Enemies/Vendetta/Vendetta%20Trophies.md) (6) |
-| Items | [Items](Indexes/Items.md) (309) · [Magic Properties](Indexes/Magic%20Properties.md) (477) |
-| World | [Battle Events](Indexes/Battle%20Events.md) (6) · [Deities](Indexes/Deities.md) (8) · [Dungeon Rooms](Indexes/Dungeon%20Rooms.md) (9) · [Dungeons](Indexes/Dungeons.md) (29) · [Enemy Bases](Indexes/Enemy%20Bases.md) (38) · [Guilds](Indexes/Guilds.md) (10) · [Points of Interest](Indexes/Points%20of%20Interest.md) (13) · [Quest Chains](Indexes/Quest%20Chains.md) (5) · [Quests](Indexes/Quests.md) (51) · [Settlements](Indexes/Settlements.md) (270) |
+| Items | [Items](Indexes/Items.md) (311) · [Magic Properties](Indexes/Magic%20Properties.md) (512) |
+| World | [Battle Events](Indexes/Battle%20Events.md) (6) · [Deities](Indexes/Deities.md) (8) · [Dungeon Rooms](Indexes/Dungeon%20Rooms.md) (9) · [Dungeons](Indexes/Dungeons.md) (29) · [Enemy Bases](Indexes/Enemy%20Bases.md) (38) · [Guilds](Indexes/Guilds.md) (10) · [Points of Interest](Indexes/Points%20of%20Interest.md) (13) · [Quest Chains](Indexes/Quest%20Chains.md) (5) · [Quests](Indexes/Quests.md) (50) · [Settlements](Indexes/Settlements.md) (270) |
 | Mechanics | [Glossary](Mechanics/Glossary.md) · [Stats](Mechanics/Stats.md) · [Racial Relations](Mechanics/Racial%20Relations.md) |
 
 Every page shows the data's own description verbatim, the numbers as stats tables, effects in plain

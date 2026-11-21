@@ -24,7 +24,7 @@ A weapon skill from the Weapon group, with 10 levels and 8 skill traits.
 
 ![[_assets/Icons/tier_1/sword_1h.webp|64]]
 
-> Refined blade technique honed through repetition. Improves both accuracy and cutting power, weighted toward clean, precise strikes. At L5 the first hit on each enemy finds a gap in their armor.
+> Refined blade technique honed through repetition. Improves both accuracy and cutting power, weighted toward clean, precise strikes. From L5, Measured Strikes: each consecutive sword hit on the same foe gives +5% to hit, +10% damage and ignores 5% of its resistances, stacking up to 3 times. A miss or a new target resets it. Every level adds sword damage.
 
 ## How to train
 
@@ -42,16 +42,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far |
 |---|---|---|
-| L1 | +5 [[Stats#Melee Attack\|Melee Attack]] | +5 Melee Attack |
-| L2 | +5 [[Stats#Melee Attack\|Melee Attack]] | +10 Melee Attack |
-| L3 | +4 [[Stats#Melee Attack\|Melee Attack]], +2 [[Stats#Damage Max\|Damage Max]] | +14 Melee Attack, +2 Damage Max |
-| L4 | +4 [[Stats#Melee Attack\|Melee Attack]], +1 to +3 [[Stats#Damage Min\|Damage]] | +18 Melee Attack, +1 to +5 Damage |
-| L5 | +3 [[Stats#Melee Attack\|Melee Attack]], +2 to +3 [[Stats#Damage Min\|Damage]] | +21 Melee Attack, +3 to +8 Damage |
-| L6 | +3 [[Stats#Melee Attack\|Melee Attack]], +2 to +4 [[Stats#Damage Min\|Damage]] | +24 Melee Attack, +5 to +12 Damage |
-| L7 | +2 [[Stats#Melee Attack\|Melee Attack]], +3 to +4 [[Stats#Damage Min\|Damage]] | +26 Melee Attack, +8 to +16 Damage |
-| L8 | +2 [[Stats#Melee Attack\|Melee Attack]], +3 to +5 [[Stats#Damage Min\|Damage]] | +28 Melee Attack, +11 to +21 Damage |
-| L9 | +2 [[Stats#Melee Attack\|Melee Attack]], +3 to +5 [[Stats#Damage Min\|Damage]] | +30 Melee Attack, +14 to +26 Damage |
-| L10 | +1 [[Stats#Melee Attack\|Melee Attack]], +3 to +6 [[Stats#Damage Min\|Damage]] | +31 Melee Attack, +17 to +32 Damage |
+| L1 | +3 [[Stats#Melee Attack\|Melee Attack]], +1 to +2 [[Stats#Damage Min\|Damage]], +1 [[Stats#Armor Pen\|Armor Pen]] | +3 Melee Attack, +1 to +2 Damage, +1 Armor Pen |
+| L2 | +5 [[Stats#Melee Attack\|Melee Attack]], +2 to +3 [[Stats#Damage Min\|Damage]], +2 [[Stats#Armor Pen\|Armor Pen]] | +8 Melee Attack, +3 to +5 Damage, +3 Armor Pen |
+| L3 | +7 [[Stats#Melee Attack\|Melee Attack]], +2 to +4 [[Stats#Damage Min\|Damage]], +3 [[Stats#Armor Pen\|Armor Pen]] | +15 Melee Attack, +5 to +9 Damage, +6 Armor Pen |
+| L4 | +9 [[Stats#Melee Attack\|Melee Attack]], +3 to +5 [[Stats#Damage Min\|Damage]], +4 [[Stats#Armor Pen\|Armor Pen]] | +24 Melee Attack, +8 to +14 Damage, +10 Armor Pen |
+| L5 | +11 [[Stats#Melee Attack\|Melee Attack]], +4 to +6 [[Stats#Damage Min\|Damage]], +5 [[Stats#Armor Pen\|Armor Pen]] | +35 Melee Attack, +12 to +20 Damage, +15 Armor Pen |
+| L6 | +12 [[Stats#Melee Attack\|Melee Attack]], +4 to +7 [[Stats#Damage Min\|Damage]], +6 [[Stats#Armor Pen\|Armor Pen]] | +47 Melee Attack, +16 to +27 Damage, +21 Armor Pen |
+| L7 | +13 [[Stats#Melee Attack\|Melee Attack]], +5 to +8 [[Stats#Damage Min\|Damage]], +7 [[Stats#Armor Pen\|Armor Pen]] | +60 Melee Attack, +21 to +35 Damage, +28 Armor Pen |
+| L8 | +14 [[Stats#Melee Attack\|Melee Attack]], +6 to +9 [[Stats#Damage Min\|Damage]], +8 [[Stats#Armor Pen\|Armor Pen]] | +74 Melee Attack, +27 to +44 Damage, +36 Armor Pen |
+| L9 | +15 [[Stats#Melee Attack\|Melee Attack]], +6 to +10 [[Stats#Damage Min\|Damage]], +9 [[Stats#Armor Pen\|Armor Pen]] | +89 Melee Attack, +33 to +54 Damage, +45 Armor Pen |
+| L10 | +16 [[Stats#Melee Attack\|Melee Attack]], +7 to +11 [[Stats#Damage Min\|Damage]], +10 [[Stats#Armor Pen\|Armor Pen]] | +105 Melee Attack, +40 to +65 Damage, +55 Armor Pen |
 
 ## Skill traits
 

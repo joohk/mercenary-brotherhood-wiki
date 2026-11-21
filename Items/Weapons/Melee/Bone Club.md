@@ -11,7 +11,7 @@ tags:
   - tier/0
   - type/item
 source: items/weapons_melee.json
-damage_max: 7
+damage_max: 8
 damage_min: 4
 damage_type: blunt
 family: club
@@ -26,7 +26,7 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-0 one-handed blunt club dealing 4-7 damage, worth 3 gold.
+A tier-0 one-handed blunt club dealing 4-8 damage, worth 3 gold.
 
 ![[_assets/Icons/Club.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-0 one-handed blunt club dealing 4-7 damage, worth 3 gold.
 | Tier | 0 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 4-7 |
+| [[Stats#Damage Min\|Damage]] | 4-8 |
 | [[Stats#Initiative\|Initiative]] | -1 |
 | Price | 3 |
 | Rarity | Normal |

@@ -15,6 +15,9 @@ armor: 2
 family: robe
 price: 255
 rarity: normal
+resist_blunt: 2
+resist_piercing: 2
+resist_slashing: 2
 slot: body_armor
 spawn_weight: 40
 tier: 2
@@ -36,6 +39,9 @@ A tier-2 robe giving 2 Armor, worth 255 gold.
 | [[Stats#Armor\|Armor]] | +2 |
 | [[Stats#Magic Power\|Magic Power]] | +8 |
 | [[Stats#Willpower\|Willpower]] | +5 |
+| [[Stats#Slash Resist\|Slash Resist]] | +2% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +2% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +2% |
 | Price | 255 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 40 |

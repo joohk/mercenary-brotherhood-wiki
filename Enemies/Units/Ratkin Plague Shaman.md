@@ -12,7 +12,7 @@ source: enemies/ratkin_swarm.json
 armor: 0
 faction: Ratkin Swarm
 gold: 8
-hp: 28
+hp: 36
 stance: ranged
 threat_cost: 2
 tier: 1
@@ -22,7 +22,7 @@ xp: 14
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Ratkin Swarm]]
 
-A tier-1 enemy of the [[Ratkin Swarm]] faction — 28 HP, 0 armor, worth 14 XP and 8 gold.
+A tier-1 enemy of the [[Ratkin Swarm]] faction — 36 HP, 0 armor, worth 14 XP and 8 gold.
 
 ![[_assets/Units/RatkinPlagueShaman.webp|160]]
 
@@ -32,19 +32,19 @@ A tier-1 enemy of the [[Ratkin Swarm]] faction — 28 HP, 0 armor, worth 14 XP a
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 28 |
+| [[Stats#Max HP\|Max HP]] | 36 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 65 |
 | [[Stats#Initiative\|Initiative]] | 53 |
 | [[Stats#Melee Attack\|Melee Attack]] | 25 |
 | [[Stats#Melee Defense\|Melee Defense]] | 20 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 0 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 27 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 32 |
 | [[Stats#Armor\|Armor]] | 0 |
 | [[Stats#Willpower\|Willpower]] | 42 |
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 12 |
 | [[Stats#Damage Min\|Damage]] | 1-2 |
-| Ranged damage with weapon | 8-14 (base 1-2 + [[Shaman Staff]] 7-12) |
+| Damage with weapon | 18-28 (base 1-2 + [[Shaman Staff]] 17-26) |
 
 ## Combat
 
@@ -56,7 +56,9 @@ A tier-1 enemy of the [[Ratkin Swarm]] faction — 28 HP, 0 armor, worth 14 XP a
 | Gold | 8 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Swarm\|Swarm]] |
+| Combat sheet | [[Ratkin Swarm Combat Sheet\|all Ratkin Swarm units and abilities]] |
 | Max share of an encounter | 20% |
 
 > [!info]- Spawn data
@@ -65,9 +67,19 @@ A tier-1 enemy of the [[Ratkin Swarm]] faction — 28 HP, 0 armor, worth 14 XP a
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 25 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 18 |
 
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
+
 ## Abilities
 
-- [[Fatigue Drain (Ability)|Fatigue Drain]]
+- [[Sap Stamina (Ability)|Sap Stamina]]
 - [[Plague Bolt]]
 
 ## Passives
@@ -80,6 +92,7 @@ A tier-1 enemy of the [[Ratkin Swarm]] faction — 28 HP, 0 armor, worth 14 XP a
 ## Equipment
 
 - [[Shaman Staff]]
+- [[Apprentice Wand]]
 - [[Crude Hides]]
 
 ## Referenced by

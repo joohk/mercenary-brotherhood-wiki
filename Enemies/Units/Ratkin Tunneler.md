@@ -44,7 +44,7 @@ A tier-0 enemy of the [[Ratkin Swarm]] faction — 24 HP, 0 armor, worth 7 XP an
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 14 |
 | [[Stats#Damage Min\|Damage]] | — (from weapon) |
-| Damage with weapon | 5-10 (base 0 + [[Iron Dagger]] 5-10) |
+| Damage with weapon | 9-17 (base 0 + [[Iron Dagger]] 9-17) |
 
 ## Combat
 
@@ -56,13 +56,25 @@ A tier-0 enemy of the [[Ratkin Swarm]] faction — 24 HP, 0 armor, worth 7 XP an
 | Gold | 2 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Swarm\|Swarm]] |
+| Combat sheet | [[Ratkin Swarm Combat Sheet\|all Ratkin Swarm units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 55 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 9 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Crude Hides]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

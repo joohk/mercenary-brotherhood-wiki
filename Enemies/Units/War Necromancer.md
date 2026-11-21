@@ -12,7 +12,7 @@ source: enemies/dread_host.json
 armor: 8
 faction: The Dread Host
 gold: 30
-hp: 86
+hp: 90
 stance: ranged
 threat_cost: 6
 tier: 3
@@ -22,7 +22,7 @@ xp: 38
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[The Dread Host]]
 
-A tier-3 enemy of [[The Dread Host]] faction — 86 HP, 8 armor, worth 38 XP and 30 gold.
+A tier-3 enemy of [[The Dread Host]] faction — 90 HP, 8 armor, worth 38 XP and 30 gold.
 
 ![[_assets/Units/WarNecromancer.webp|160]]
 
@@ -32,19 +32,19 @@ A tier-3 enemy of [[The Dread Host]] faction — 86 HP, 8 armor, worth 38 XP and
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 86 |
+| [[Stats#Max HP\|Max HP]] | 90 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 80 |
 | [[Stats#Initiative\|Initiative]] | 48 |
 | [[Stats#Melee Attack\|Melee Attack]] | 57 |
 | [[Stats#Melee Defense\|Melee Defense]] | 48 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 92 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 57 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 60 |
 | [[Stats#Armor\|Armor]] | 8 |
 | [[Stats#Willpower\|Willpower]] | 75 |
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 17 |
 | [[Stats#Damage Min\|Damage]] | 10-16 |
-| Ranged damage with weapon | 20-33 (base 13-21 + [[Profane Staff]] 7-12) |
+| Damage with weapon | 27-42 (base 10-16 + [[Profane Staff]] 17-26) |
 | Ranged Damage | 13-21 |
 | Ranged Range | 1 |
 
@@ -58,13 +58,25 @@ A tier-3 enemy of [[The Dread Host]] faction — 86 HP, 8 armor, worth 38 XP and
 | Gold | 30 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Dread Host Combat Sheet\|all The Dread Host units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 48 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Adept Robes]] +3 | +3% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Adept Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Adept Robes]] +3 | +3% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -81,6 +93,7 @@ A tier-3 enemy of [[The Dread Host]] faction — 86 HP, 8 armor, worth 38 XP and
 ## Equipment
 
 - [[Profane Staff]]
+- [[Channeling Wand]]
 - [[Adept Robes]]
 - [[Silver Amulet]]
 

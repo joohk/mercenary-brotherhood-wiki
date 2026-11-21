@@ -20,7 +20,7 @@ up: "[[Traits]]"
 
 A negative common physical characteristic in the *strength* group. Every unit rolls exactly one characteristic at creation.
 
-> -14% damage. Lacking physical power, deals less melee damage
+> -14% melee damage. Lacking physical power, deals less melee damage
 
 ## Characteristic group
 

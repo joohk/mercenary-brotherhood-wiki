@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A common company trait: it applies to every member of the company.
 
-> Hard negotiators get better prices. Shop buy prices reduced by 15%, sell prices increased by 15%.
+> Hard negotiators get better prices. Shop buy prices reduced by 15%; items sell for an extra 15% of their base price.
 
 ## Effects
 

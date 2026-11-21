@@ -11,13 +11,13 @@ tags:
   - tier/4
   - type/item
 source: items/weapons_magical.json
-damage_max: 17
-damage_min: 10
+damage_max: 20
+damage_min: 12
 damage_type: arcane
 family: wand
 hands: one-handed
 price: 1200
-range: 4
+range: 6
 rarity: normal
 slot: ranged
 spawn_weight: 15
@@ -27,7 +27,7 @@ up: "[[Wands]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Wands]]
 
-A tier-4 one-handed arcane wand dealing 10-17 damage at range 4, worth 1200 gold.
+A tier-4 one-handed arcane wand dealing 12-20 damage at range 6, worth 1200 gold.
 
 ![[_assets/Icons/Wand.png|96]]
 
@@ -38,21 +38,25 @@ A tier-4 one-handed arcane wand dealing 10-17 damage at range 4, worth 1200 gold
 | Tier | 4 |
 | Damage type | Arcane |
 | Hands | One-handed |
-| Ranged Damage | 10-17 |
+| Ranged Damage | 12-20 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | +9 |
 | [[Stats#Willpower\|Willpower]] | +9 |
 | [[Stats#Initiative\|Initiative]] | -2 |
-| Range | 4 hexes |
+| Range | 6 hexes |
 | Price | 1200 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 15 |
 
 ## Same line
 
-Items of this line, by tier: [[Apprentice Wand]] (T1) → [[Focus Wand]] (T2) → [[Channeling Wand]] (T3) → **Arcane Wand** (T4) → [[Greater Wand]] (T5) → [[Master Wand]] (T6)
+Items of this line, by tier: [[Apprentice Wand]] (T1) → [[Dark Wand]] (T2) → [[Focus Wand]] (T2) → [[Channeling Wand]] (T3) → **Arcane Wand** (T4) → [[Greater Wand]] (T5) → [[Master Wand]] (T6)
 
 ## Related
 
 - **Tags:** Wand, Ranged, One-handed
+
+## Referenced by
+
+- **Carried by:** [[High Priest]], [[Necromancer]], [[Umbral Shadowcaster]]
 
 *Generated from `items/weapons_magical.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -11,20 +11,19 @@ tags:
 source: abilities/combat_abilities.json
 ap_cost: 1
 area_radius: 1
-cooldown_turns: 0
+cooldown_turns: 3
 fatigue_cost: 20
 requires_los: false
 source_type: Skill
 target_type: area
 up: "[[Abilities]]"
-uses_per_battle: 1
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an area, usable once per battle.
+A 1-AP melee ability targeting an area.
 
-> Slam the hammer into the ground with tremendous force. All adjacent enemies take 50% weapon damage and are Stunned. Each strike rolls at -5 to-hit.
+> Slam the hammer into the ground with tremendous force. Every adjacent enemy takes 75% weapon damage and loses 2 armor and 10% physical resistance for the rest of the battle. Each strike rolls at -5 to-hit.
 
 ## Stats
 
@@ -32,14 +31,14 @@ A 1-AP melee ability targeting an area, usable once per battle.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 20 |
-| Cooldown | None |
-| Uses per battle | 1 |
+| Cooldown | 3 turns |
+| Uses per battle | Unlimited |
 | Range | — |
 | Target | Area |
 | Area radius | 1 hex |
 | Line of sight | Not required |
 
-*Tags:* melee, hammer, area, stun
+*Tags:* melee, hammer, area
 
 ## Requirements
 

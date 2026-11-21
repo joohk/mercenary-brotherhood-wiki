@@ -45,7 +45,7 @@ A tier-1 Elf enemy of the [[Bandits]] faction — 48 HP, 1 armor, worth 20 XP an
 | [[Stats#Vision\|Vision]] | 8 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 15 |
 | [[Stats#Damage Min\|Damage]] | 5-8 |
-| Ranged damage with weapon | 12-20 (base 5-8 + [[Shortbow]] 7-12) |
+| Ranged damage with weapon | 13-21 (base 5-8 + [[Shortbow]] 8-13) |
 
 ## Combat
 
@@ -58,13 +58,25 @@ A tier-1 Elf enemy of the [[Bandits]] faction — 48 HP, 1 armor, worth 20 XP an
 | Race | [[Elf]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Bandits Combat Sheet\|all Bandits units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 45 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 27 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Leather Armor]] +4 | +4% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Leather Armor]] +5 | +5% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Passives
 

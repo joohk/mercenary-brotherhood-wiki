@@ -42,7 +42,7 @@ A tier-4 enemy of [[The Restless Dead]] faction — 140 HP, 17 armor, worth 55 X
 | [[Stats#Armor\|Armor]] | 17 |
 | [[Stats#Willpower\|Willpower]] | 102 |
 | [[Stats#Damage Min\|Damage]] | 20-36 |
-| Damage with weapon | 38-65 (base 20-36 + [[Tempered Sword]] 18-29) |
+| Damage with weapon | 41-70 (base 20-36 + [[Tempered Sword]] 21-34) |
 
 ## Combat
 
@@ -54,12 +54,26 @@ A tier-4 enemy of [[The Restless Dead]] faction — 140 HP, 17 armor, worth 55 X
 | Gold | 36 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Restless Dead Combat Sheet\|all The Restless Dead units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 60 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Full Plate]] +25, [[Plate Helmet]] +3 | +28% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Full Plate]] +15, [[Plate Helmet]] +3 | +18% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Full Plate]] +4, [[Plate Helmet]] +8 | +12% |
+| [[Stats#Poison Resist\|Poison]] | +30% | — | +30% |
+| [[Stats#Shadow Resist\|Shadow]] | +30% | — | +30% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -69,7 +83,8 @@ A tier-4 enemy of [[The Restless Dead]] faction — 140 HP, 17 armor, worth 55 X
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.
 - [[Drain Life]] — Heals 3 HP on each successful melee hit.
 

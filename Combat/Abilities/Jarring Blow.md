@@ -34,6 +34,7 @@ A 2-AP melee ability targeting an adjacent enemy.
 | Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, weapon ability, blunt, one handed

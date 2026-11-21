@@ -20,7 +20,7 @@ up: "[[Spear Fighting]]"
 
 An uncommon passive skill trait of [[Spear Fighting]] with 2 ranks.
 
-> Spear butt planted, point lowered. Deal double damage to any enemy that moved this turn before attacking you.
+> Spear butt planted, point lowered. When an enemy that moved this turn attacks you in melee, you strike it first with a free counter-attack at double damage. Impales one enemy per round.
 
 ## Upgrades
 
@@ -28,6 +28,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Damage multiplier increases to 2.5× against charging enemies.
+Impales up to two enemies per round, and the damage multiplier increases to 2.5×.
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

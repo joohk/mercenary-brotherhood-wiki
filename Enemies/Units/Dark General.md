@@ -45,7 +45,7 @@ A tier-4 enemy of [[The Dread Host]] faction — 172 HP, 18 armor, worth 62 XP a
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 22 |
 | [[Stats#Damage Min\|Damage]] | 6-10 |
-| Damage with weapon | 34-55 (base 6-10 + [[Tempered Greatsword]] 28-45) |
+| Damage with weapon | 38-61 (base 6-10 + [[Tempered Greatsword]] 32-51) |
 
 ## Combat
 
@@ -57,13 +57,25 @@ A tier-4 enemy of [[The Dread Host]] faction — 172 HP, 18 armor, worth 62 XP a
 | Gold | 56 |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Relentless\|Relentless]] |
+| Combat sheet | [[The Dread Host Combat Sheet\|all The Dread Host units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 5 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 72 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Full Plate]] +25, [[Plate Helmet]] +3 | +28% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Full Plate]] +15, [[Plate Helmet]] +3 | +18% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Full Plate]] +4, [[Plate Helmet]] +8 | +12% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -73,7 +85,8 @@ A tier-4 enemy of [[The Dread Host]] faction — 172 HP, 18 armor, worth 62 XP a
 
 ## Passives
 
-- [[Undead Resilience]] — Immune to poison. Bleeding damage reduced by 75%.
+- [[Undead Resilience]] — Immune to poison and Bleeding.
+- [[Tireless (Enemy Passive)|Tireless]] — Never tires in battle. Attacks and abilities cost no fatigue; only moving tires it.
 - [[Fearless (Enemy Passive)|Fearless]] — Immune to morale checks and Shaken.
 - [[Iron Discipline (Enemy Passive)|Iron Discipline]] — +15 willpower. Adjacent allies gain +5 willpower on morale checks. On death, allies within 3 hexes suffer -10 willpower for 2 turns.
 - [[Rallying Presence]] — Adjacent allies gain +5 willpower on morale checks.

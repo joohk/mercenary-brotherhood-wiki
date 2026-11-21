@@ -46,7 +46,7 @@ A unit may choose a specialization every 4 levels. *Tactics category:* Positioni
 
 ## Referenced by
 
-- **Sponsored by guilds:** [[Wildwardens]]
+- **Sponsored by guilds:** [[Reaver Hall]]
 
 > [!note]- Developer notes
 > *separator:* ── TACTICS (8) ── positioning and skill-focused specializations

@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A tier-3 awakening trait (stat boost). At each awakening tier the player picks one trait from that tier's offer.
 
-> +25 willpower, +8 melee defense. A wall of determination.
+> +25 willpower, +8 melee defense. Psionic Blast has -15% to hit you. A wall of determination.
 
 ## Effects
 

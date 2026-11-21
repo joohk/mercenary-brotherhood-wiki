@@ -14,6 +14,9 @@ source: items/armor.json
 family: shield
 price: 25
 rarity: normal
+resist_blunt: 1
+resist_piercing: 7
+resist_slashing: 2
 slot: offhand
 spawn_weight: 65
 tier: 1
@@ -35,6 +38,9 @@ A tier-1 shield, worth 25 gold.
 | [[Stats#Ranged Defense\|Ranged Defense]] | +5 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -3 |
 | [[Stats#Initiative\|Initiative]] | -2 |
+| [[Stats#Slash Resist\|Slash Resist]] | +2% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +7% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +1% |
 | Price | 25 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 65 |
@@ -52,6 +58,6 @@ Items of this line, by tier: **Buckler** (T1) → [[Iron Shield]] (T2) → [[Ste
 - **Bonus loot at:** [[Goblin Tunnels (Enemy Base)|Goblin Tunnels]], [[Goblin Tunnels (Underground Enemy Base)|Goblin Tunnels]], [[Greenskin Warren]]
 - **Dropped by:** [[Sellsword (Enemy)|Sellsword]], [[Thorn Warden]]
 - **Guild gear:** [[Fighters' Guild]], [[Holy Order]]
-- **Starting gear of:** [[Champion (Background)|Champion]], [[Cleric (Background)|Cleric]], [[Guardian]], [[Hedge Knight]], [[Iron Warden]], [[Shield Master]], [[Soldier]], [[Templar (Background)|Templar]], [[Temple Guard]], [[Warden]]
+- **Starting gear of:** [[Champion (Background)|Champion]], [[Chaplain]], [[Guardian]], [[Hedge Knight]], [[Iron Warden]], [[Shield Master]], [[Soldier]], [[Templar (Background)|Templar]], [[Temple Guard]], [[Warden]]
 
 *Generated from `items/armor.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -21,7 +21,7 @@ up: "[[Holy Magic]]"
 
 An uncommon ability skill trait of [[Holy Magic]] with 2 ranks, granting [[Sunburst (Ability)|Sunburst]].
 
-> A radiant lance of sunfire scours the target for 10-16 holy damage, +50% vs undead, dark, or eldritch foes.
+> A radiant lance of sunfire scours the target for 10-16 holy damage, +50% vs demons and undead.
 
 ## Effects
 

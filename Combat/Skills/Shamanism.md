@@ -26,7 +26,7 @@ A combat skill from the Magic group, with 10 levels and 7 skill traits.
 
 ## How to train
 
-**Trained by:** Use a Shamanism ability in combat.
+**Trained by:** Use a Shamanism ability in combat, or strike under a Shamanism life-drain.
 
 **Discovery:** Can be discovered on a *spill blood* event; discovery weight 1.
 

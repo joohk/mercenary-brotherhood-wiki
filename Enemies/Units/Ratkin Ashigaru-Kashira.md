@@ -46,7 +46,7 @@ A tier-2 Ratkin enemy of the [[Ratkin Empire]] faction — 88 HP, 9 armor, worth
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 3-4 |
-| Damage with weapon | 14-22 (base 3-4 + [[Steel Sword]] 11-18) |
+| Damage with weapon | 15-25 (base 3-4 + [[Steel Sword]] 12-21) |
 
 ## Combat
 
@@ -59,13 +59,25 @@ A tier-2 Ratkin enemy of the [[Ratkin Empire]] faction — 88 HP, 9 armor, worth
 | Race | [[Ratkin]] |
 | Variant role | [[Warlord (Variant)\|Warlord]] |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Disciplined\|Disciplined]] |
+| Combat sheet | [[Ratkin Empire Combat Sheet\|all Ratkin Empire units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 50 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 30 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Studded Leather]] +6, [[Steel Helmet]] +2 | +8% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Studded Leather]] +5, [[Steel Helmet]] +2 | +7% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Studded Leather]] +7, [[Steel Helmet]] +5 | +12% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

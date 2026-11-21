@@ -45,7 +45,7 @@ A tier-3 large enemy of the [[Greenskin Warband]] faction — 207 HP, 7 armor, w
 | [[Stats#Vision\|Vision]] | 4 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 18 |
 | [[Stats#Damage Min\|Damage]] | 23-37 |
-| Damage with weapon | 29-47 (base 23-37 + [[Crude Maul]] 6-10) |
+| Damage with weapon | 29-49 (base 23-37 + [[Crude Maul]] 6-12) |
 | Action Points | 3 |
 
 ## Combat
@@ -59,13 +59,24 @@ A tier-3 large enemy of the [[Greenskin Warband]] faction — 207 HP, 7 armor, w
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Undisciplined\|Undisciplined]] |
+| Combat sheet | [[Greenskin Warband Combat Sheet\|all Greenskin Warband units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 22 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 55 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Tattered Rags]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Tattered Rags]] +1 | +1% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -92,6 +103,7 @@ A tier-3 large enemy of the [[Greenskin Warband]] faction — 207 HP, 7 armor, w
 ## Referenced by
 
 - **Appears in encounters:** [[Forest — Late Tier]], [[Forest — Mid Tier]], [[Hills — Mid Tier]], [[Plains — Late Tier]], [[Warlord's Citadel (Encounter Table)|Warlord's Citadel]]
+- **Escorts:** [[Gorthak the Beast King]]
 - **Reinforces in encounters:** [[Forest — Late Tier]], [[Forest — Mid Tier]], [[Hills — Mid Tier]], [[Mountain — Mid Tier]], [[Plains — Late Tier]]
 
 *Generated from `enemies/greenskins.json`. Edits will be overwritten — put your own notes in Notes/.*

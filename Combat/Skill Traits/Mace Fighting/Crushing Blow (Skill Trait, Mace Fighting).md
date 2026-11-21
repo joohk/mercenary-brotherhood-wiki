@@ -21,7 +21,7 @@ up: "[[Mace Fighting]]"
 
 An uncommon ability skill trait of [[Mace Fighting]] with 2 ranks, granting [[Crushing Blow (Ability)|Crushing Blow]].
 
-> A heavy bludgeon swing that deals normal damage and knocks the target back one hex on hit. Requires a mace or club.
+> A heavy bludgeon swing that deals 110% damage and knocks the target back one hex on hit. Requires a mace or club.
 
 ## Effects
 

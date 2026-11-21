@@ -23,7 +23,7 @@ up: "[[Abilities]]"
 
 A 1-AP support ability used on yourself.
 
-> Channel 40 healing into yourself; any beyond your max HP becomes a protective barrier.
+> Channel 40 healing into yourself (scales with willpower and magic power); any beyond your max HP becomes a protective barrier.
 
 ## Stats
 

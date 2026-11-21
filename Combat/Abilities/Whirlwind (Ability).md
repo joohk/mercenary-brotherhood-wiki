@@ -18,14 +18,13 @@ requires_los: false
 source_type: Skill
 target_type: area
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 2-AP melee ability targeting an area up to 1 hex away, usable twice per battle.
+A 2-AP melee ability targeting an area up to 1 hex away.
 
-> Spin in a full circle with your great weapon, striking every adjacent enemy for full weapon damage. Twice per battle.
+> Spin in a full circle with your great weapon, striking every adjacent enemy for full weapon damage.
 
 ## Stats
 
@@ -34,7 +33,7 @@ A 2-AP melee ability targeting an area up to 1 hex away, usable twice per battle
 | Action Points | 2 |
 | Fatigue | 28 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Area |
 | Area radius | 1 hex |

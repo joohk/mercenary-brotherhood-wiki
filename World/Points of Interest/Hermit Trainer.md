@@ -30,7 +30,7 @@ A persistent point of interest (11 placed in each world).
 | Spacing | Medium |
 | Preferred terrain | Forest, Mountain, Swamp |
 | Discovery radius | 5 hexes |
-| Training cost (base) | 200 gold |
+| Training cost (base) | 500 gold |
 | Training cooldown | 21 days |
 
 ## Trainable skills

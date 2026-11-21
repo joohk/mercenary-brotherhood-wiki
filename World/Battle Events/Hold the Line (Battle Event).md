@@ -29,6 +29,7 @@ Each random or warband battle has a 20% chance to turn into a battle event; ever
 |---|---|
 | Enemy count | ×1.8 |
 | Turns to hold | 8-10 |
+| Enemy waves arrive every | 2 turns |
 | Reward for holding | 75 gold |
 | Reputation for holding | +5 |
 | Reputation if you retreat | -5 |
@@ -43,26 +44,5 @@ Multiplier on this event's weight when the battle is fought on that terrain.
 | Bridge | ×1.3 |
 | Mountain | ×1.2 |
 | Plains | ×0.8 |
-
-## Allies
-
-Allied units that fight alongside you.
-
-### Allied Soldier
-
-Fights aggressively. Equipment: [[Iron Sword]], [[Leather Armor]].
-
-| Stat | Value |
-|---|---|
-| [[Stats#Max HP\|Max HP]] | 50 |
-| [[Stats#Melee Attack\|Melee Attack]] | 50 |
-| [[Stats#Melee Defense\|Melee Defense]] | 45 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 35 |
-| [[Stats#Armor\|Armor]] | 4 |
-| [[Stats#Initiative\|Initiative]] | 45 |
-| Action Points | 2 |
-| [[Stats#Willpower\|Willpower]] | 55 |
-| [[Stats#Vision\|Vision]] | 5 |
-| [[Stats#Damage Min\|Damage]] | 7-12 |
 
 *Generated from `encounters/battle_events.json`. Edits will be overwritten — put your own notes in Notes/.*

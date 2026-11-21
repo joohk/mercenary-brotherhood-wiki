@@ -11,8 +11,8 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_melee.json
-damage_max: 31
-damage_min: 19
+damage_max: 35
+damage_min: 21
 damage_type: blunt
 family: war hammer
 hands: two-handed
@@ -26,7 +26,7 @@ up: "[[War Hammers]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[War Hammers]]
 
-A tier-2 two-handed blunt war hammer dealing 19-31 damage, worth 420 gold.
+A tier-2 two-handed blunt war hammer dealing 21-35 damage, worth 420 gold.
 
 ![[_assets/Icons/tier_1/hammer_2h.webp|96]]
 
@@ -37,9 +37,9 @@ A tier-2 two-handed blunt war hammer dealing 19-31 damage, worth 420 gold.
 | Tier | 2 |
 | Damage type | Blunt |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 19-31 |
-| [[Stats#Armor Pen\|Armor Pen]] | +6 |
-| [[Stats#Initiative\|Initiative]] | -10 |
+| [[Stats#Damage Min\|Damage]] | 21-35 |
+| [[Stats#Armor Pen\|Armor Pen]] | +8 |
+| [[Stats#Initiative\|Initiative]] | -11 |
 | Price | 420 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 30 |

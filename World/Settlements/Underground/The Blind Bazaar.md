@@ -54,7 +54,6 @@ Quests this settlement's board can post:
 
 - [[Clear the Lair]] — company level 3-6
 - [[Destroy the Outpost]] — company level 2-5
-- [[Close the Demon Rift]] — company level 10+
 
 Bounties, security, trade and chain quests are posted dynamically and are not listed here — see [[Quests]].
 

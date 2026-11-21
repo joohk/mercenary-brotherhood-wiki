@@ -11,8 +11,8 @@ tags:
   - tier/1
   - type/item
 source: items/weapons_melee.json
-damage_max: 16
-damage_min: 10
+damage_max: 18
+damage_min: 11
 damage_type: blunt
 family: war hammer
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[War Hammers]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[War Hammers]]
 
-A tier-1 one-handed blunt war hammer dealing 10-16 damage, worth 40 gold.
+A tier-1 one-handed blunt war hammer dealing 11-18 damage, worth 40 gold.
 
 ![[_assets/Icons/tier_1/hammer_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-1 one-handed blunt war hammer dealing 10-16 damage, worth 40 gold.
 | Tier | 1 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 10-16 |
+| [[Stats#Damage Min\|Damage]] | 11-18 |
 | [[Stats#Armor Pen\|Armor Pen]] | +4 |
 | [[Stats#Initiative\|Initiative]] | -6 |
 | Price | 40 |
@@ -46,7 +46,7 @@ A tier-1 one-handed blunt war hammer dealing 10-16 damage, worth 40 gold.
 
 ## Effects
 
-- Grants ability: [[Sunder Armor (Ability)|Sunder Armor]]
+- Grants ability: [[Sunder Armor]]
 
 ## Same line
 

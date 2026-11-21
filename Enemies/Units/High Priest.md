@@ -44,7 +44,7 @@ A tier-4 enemy of the [[Cult of the Hollow Eye]] faction — 125 HP, 11 armor, w
 | [[Stats#Vision\|Vision]] | 7 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 19 |
 | [[Stats#Damage Min\|Damage]] | 12-20 |
-| Ranged damage with weapon | 14-21 (base 4-5 + [[High Priest Staff]] 10-16) |
+| Damage with weapon | 33-54 (base 12-20 + [[High Priest Staff]] 21-34) |
 | Ranged Damage | 4-5 |
 
 ## Combat
@@ -57,13 +57,25 @@ A tier-4 enemy of the [[Cult of the Hollow Eye]] faction — 125 HP, 11 armor, w
 | Gold | 48 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 8 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 68 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Master Robes]] +4 | +4% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Master Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Master Robes]] +4 | +4% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -82,11 +94,13 @@ A tier-4 enemy of the [[Cult of the Hollow Eye]] faction — 125 HP, 11 armor, w
 ## Equipment
 
 - [[High Priest Staff]]
+- [[Arcane Wand]]
 - [[Master Robes]]
 - [[Gold Amulet]]
 
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]]
+- **Escorts:** [[Plague Bishop Malachar]]
 
 *Generated from `enemies/cultists.json`. Edits will be overwritten — put your own notes in Notes/.*

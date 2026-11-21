@@ -43,7 +43,7 @@ A tier-3 Elf enemy of the [[Veteran Company]] faction — 90 HP, 8 armor, worth 
 | [[Stats#Armor\|Armor]] | 8 |
 | [[Stats#Willpower\|Willpower]] | 63 |
 | [[Stats#Damage Min\|Damage]] | 12-18 |
-| Ranged damage with weapon | 27-44 (base 14-22 + [[Composite Bow]] 13-22) |
+| Ranged damage with weapon | 29-47 (base 14-22 + [[Composite Bow]] 15-25) |
 | Ranged Damage | 14-22 |
 | Ranged Range | 1 |
 
@@ -58,12 +58,24 @@ A tier-3 Elf enemy of the [[Veteran Company]] faction — 90 HP, 8 armor, worth 
 | Race | [[Elf]] |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Piercing |
 | Faction AI | [[How Enemies Behave#Professional\|Professional]] |
+| Combat sheet | [[Veteran Company Combat Sheet\|all Veteran Company units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 32 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Reinforced Leather]] +8, [[Plated Helmet]] +2 | +10% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Reinforced Leather]] +6, [[Plated Helmet]] +2 | +8% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Reinforced Leather]] +9, [[Plated Helmet]] +6 | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

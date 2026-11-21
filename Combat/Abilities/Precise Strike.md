@@ -22,7 +22,7 @@ up: "[[Abilities]]"
 
 A 2-AP melee ability targeting an adjacent enemy.
 
-> A focused sword attack with superior accuracy. +10 to-hit bonus and +15% damage.
+> A focused sword attack with superior accuracy. +10 to-hit and 130% weapon damage, and it ignores 10% of the target's armor and resistances.
 
 ## Stats
 
@@ -34,6 +34,8 @@ A 2-AP melee ability targeting an adjacent enemy.
 | Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| [[Stats#Bypass\|Bypass]] | 10% |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, weapon ability, sword, one handed

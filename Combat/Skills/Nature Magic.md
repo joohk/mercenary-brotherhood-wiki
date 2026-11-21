@@ -14,15 +14,15 @@ discovery_weight: 0.6
 max_level: 10
 skill_category: combat
 skill_group: Magic
-skill_traits: 10
+skill_traits: 15
 up: "[[Schools of Magic]]"
 ---
 
 [[Home]] › [[Magic & Spells]] › [[Schools of Magic]]
 
-A combat skill from the Magic group, with 10 levels and 10 skill traits.
+A combat skill from the Magic group, with 10 levels and 15 skill traits.
 
-> Channel the living green — knit wounds, restore breath, and turn flesh against itself with bramble and bloom. Each level increases Max Fatigue, willpower, and spell potency. Initiates know Regrowth. At L10 you can cast Wild Growth, an AoE heal-and-regen aura.
+> Channel the living green — knit wounds, restore breath, and turn flesh against itself with bramble and bloom. Each level increases Max Fatigue, willpower, and spell potency. Initiates know Regrowth. At L5, Cycle of Life: your Bleeds and Poisons heal your most wounded ally. At L10 you can hold Heart of the Wild, an aura that heals allies and bleeds, poisons and roots foes.
 
 ## How to train
 
@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level | Unlocks |
 |---|---|---|---|---|
-| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +3 Max Fatigue | 20 | Grants ability: [[Regrowth]] |
-| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]] | +6 Max Fatigue | 35 | — |
-| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]] | +10 Max Fatigue, +2 Willpower, +2 Magic Power | 55 | — |
-| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]] | +14 Max Fatigue, +4 Willpower, +4 Magic Power | 85 | — |
-| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]] | +19 Max Fatigue, +6 Willpower, +7 Magic Power | 125 | — |
-| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]] | +24 Max Fatigue, +8 Willpower, +10 Magic Power | 180 | — |
-| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]] | +29 Max Fatigue, +10 Willpower, +13 Magic Power | 250 | — |
-| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]] | +35 Max Fatigue, +12 Willpower, +17 Magic Power | 335 | — |
-| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]] | +41 Max Fatigue, +14 Willpower, +21 Magic Power | 440 | — |
-| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +5 [[Stats#Magic Power\|Magic Power]] | +48 Max Fatigue, +16 Willpower, +26 Magic Power | max | Grants ability: [[Wild Growth]] |
+| L1 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +3 Max Fatigue, +1 Ranged Attack | 20 | Grants ability: [[Regrowth]] |
+| L2 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +6 Max Fatigue, +2 Ranged Attack | 35 | — |
+| L3 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Max Fatigue, +4 Ranged Attack, +2 Willpower, +2 Magic Power | 55 | — |
+| L4 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Max Fatigue, +6 Ranged Attack, +4 Willpower, +4 Magic Power | 85 | — |
+| L5 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +19 Max Fatigue, +9 Ranged Attack, +6 Willpower, +7 Magic Power | 125 | — |
+| L6 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +24 Max Fatigue, +12 Ranged Attack, +8 Willpower, +10 Magic Power | 180 | — |
+| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +29 Max Fatigue, +16 Ranged Attack, +10 Willpower, +13 Magic Power | 250 | — |
+| L8 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +35 Max Fatigue, +20 Ranged Attack, +12 Willpower, +17 Magic Power | 335 | — |
+| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +4 [[Stats#Magic Power\|Magic Power]], +5 [[Stats#Ranged Attack\|Ranged Attack]] | +41 Max Fatigue, +25 Ranged Attack, +14 Willpower, +21 Magic Power | 440 | — |
+| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +2 [[Stats#Willpower\|Willpower]], +5 [[Stats#Magic Power\|Magic Power]], +5 [[Stats#Ranged Attack\|Ranged Attack]] | +48 Max Fatigue, +30 Ranged Attack, +16 Willpower, +26 Magic Power | max | Grants ability: [[Heart of the Wild]] |
 
 ## Skill traits
 
@@ -53,16 +53,21 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
-| [[Evergreen]] | Common | Passive | 3 | — |
-| [[Nature's Vigor]] | Common | Passive | 2 | — |
-| [[Entangling Roots (Skill Trait)\|Entangling Roots]] | Uncommon | Ability | 2 | [[Entangling Roots (Ability)\|Entangling Roots]] |
+| [[Festering Rot]] | Common | Passive | 1 | — |
+| [[Green Breath]] | Common | Passive | 2 | — |
+| [[Last Leaf]] | Common | Passive | 1 | — |
+| [[Entangling Roots (Skill Trait)\|Entangling Roots]] | Uncommon | Ability | 3 | [[Entangling Roots (Ability)\|Entangling Roots]] |
+| [[Lingering Bloom]] | Uncommon | Passive | 1 | — |
+| [[Spreading Rot]] | Uncommon | Passive | 1 | — |
 | [[Thorn Lance (Skill Trait)\|Thorn Lance]] | Uncommon | Ability | 2 | [[Thorn Lance (Ability)\|Thorn Lance]] |
 | [[Thornskin (Skill Trait)\|Thornskin]] | Uncommon | Ability | 3 | [[Thornskin (Ability)\|Thornskin]] |
 | [[Verdant Wind (Skill Trait)\|Verdant Wind]] | Uncommon | Ability | 2 | [[Verdant Wind (Ability)\|Verdant Wind]] |
+| [[Barkskin (Skill Trait)\|Barkskin]] | Rare | Ability | 2 | [[Barkskin (Ability)\|Barkskin]] |
 | [[Bloom of Life (Skill Trait)\|Bloom of Life]] | Rare | Ability | 2 | [[Bloom of Life (Ability)\|Bloom of Life]] |
-| [[Grovebound]] | Rare | Passive | 2 | — |
-| [[Sporecloud (Skill Trait)\|Sporecloud]] | Rare | Ability | 1 | [[Sporecloud (Ability)\|Sporecloud]] |
-| [[Wildshape (Skill Trait)\|Wildshape]] | Rare | Ability | 2 | [[Wildshape (Ability)\|Wildshape]] |
+| [[Creeping Blight (Skill Trait)\|Creeping Blight]] | Rare | Ability | 1 | [[Creeping Blight (Ability)\|Creeping Blight]] |
+| [[Rotting Ground]] | Rare | Passive | 1 | — |
+| [[Sporecloud (Skill Trait)\|Sporecloud]] | Rare | Ability | 2 | [[Sporecloud (Ability)\|Sporecloud]] |
+| [[Tearing Thorns]] | Rare | Passive | 1 | — |
 
 ## Referenced by
 

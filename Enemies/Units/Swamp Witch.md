@@ -12,7 +12,7 @@ source: enemies/swamp_dwellers.json
 armor: 4
 faction: Swamp Dwellers
 gold: 16
-hp: 59
+hp: 66
 stance: ranged
 threat_cost: 4
 tier: 2
@@ -22,7 +22,7 @@ xp: 22
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Wild Peoples]] › [[Swamp Dwellers]]
 
-A tier-2 enemy of the [[Swamp Dwellers]] faction — 59 HP, 4 armor, worth 22 XP and 16 gold.
+A tier-2 enemy of the [[Swamp Dwellers]] faction — 66 HP, 4 armor, worth 22 XP and 16 gold.
 
 ![[_assets/Units/SwampWitch.webp|160]]
 
@@ -32,19 +32,19 @@ A tier-2 enemy of the [[Swamp Dwellers]] faction — 59 HP, 4 armor, worth 22 XP
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 59 |
+| [[Stats#Max HP\|Max HP]] | 66 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 66 |
 | [[Stats#Initiative\|Initiative]] | 50 |
 | [[Stats#Melee Attack\|Melee Attack]] | 44 |
 | [[Stats#Melee Defense\|Melee Defense]] | 36 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 75 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 45 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 47 |
 | [[Stats#Armor\|Armor]] | 4 |
 | [[Stats#Willpower\|Willpower]] | 61 |
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 15 |
 | [[Stats#Damage Min\|Damage]] | 7-11 |
-| Ranged damage with weapon | 8-14 (base 2-4 + [[Hex Staff]] 6-10) |
+| Damage with weapon | 19-32 (base 7-11 + [[Hex Staff]] 12-21) |
 | Ranged Damage | 2-4 |
 
 ## Combat
@@ -57,13 +57,25 @@ A tier-2 enemy of the [[Swamp Dwellers]] faction — 59 HP, 4 armor, worth 22 XP
 | Gold | 16 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Swamp Dwellers Combat Sheet\|all Swamp Dwellers units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 40 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 28 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Acolyte Robes]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Acolyte Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Acolyte Robes]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -80,6 +92,7 @@ A tier-2 enemy of the [[Swamp Dwellers]] faction — 59 HP, 4 armor, worth 22 XP
 ## Equipment
 
 - [[Hex Staff]]
+- [[Focus Wand]]
 - [[Acolyte Robes]]
 - [[Bone Amulet]]
 

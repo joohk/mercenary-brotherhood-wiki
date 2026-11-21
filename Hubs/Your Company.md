@@ -18,7 +18,7 @@ Races, backgrounds, skills and traits: who you recruit and how they grow.
 
 ## How they grow
 
-- [[Skills]]: all 52 skill trees
+- [[Skills]]: all 53 skill trees
 - Skill groups: [[Weapon Skills]] · [[Melee Skills]] · [[Ranged Skills]] · [[Schools of Magic]] · [[Defense Skills]] · [[Armor Skills]] · [[Utility Skills]]
 - [[Skill Traits]] · [[Traits]] · [[Abilities]]
 - [[Specializations]] · [[Ascendant Paths]] · [[Squad Archetypes]] · [[Squad Archetype Families]]

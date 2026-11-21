@@ -11,10 +11,13 @@ tags:
   - tier/2
   - type/item
 source: items/armor.json
-armor: 3
+armor: 2
 family: helmet
 price: 150
 rarity: normal
+resist_blunt: 5
+resist_piercing: 2
+resist_slashing: 2
 slot: helmet
 spawn_weight: 50
 tier: 2
@@ -23,7 +26,7 @@ up: "[[Helmets]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Helmets]]
 
-A tier-2 helmet giving 3 Armor, worth 150 gold.
+A tier-2 helmet giving 2 Armor, worth 150 gold.
 
 ![[_assets/Icons/tier_1/helmet.webp|96]]
 
@@ -32,10 +35,13 @@ A tier-2 helmet giving 3 Armor, worth 150 gold.
 | Stat | Value |
 |---|---|
 | Tier | 2 |
-| [[Stats#Armor\|Armor]] | +3 |
+| [[Stats#Armor\|Armor]] | +2 |
 | [[Stats#Willpower\|Willpower]] | +5 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -3 |
 | [[Stats#Initiative\|Initiative]] | -1 |
+| [[Stats#Slash Resist\|Slash Resist]] | +2% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +2% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +5% |
 | Price | 150 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 50 |

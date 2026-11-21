@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Pinning Shot (Ability, ability_pinning_shot)|Pinning Shot]]: +1 use per battle
+- [[Pinning Shot (Ability)|Pinning Shot]]: +1 use per battle
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

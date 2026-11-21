@@ -21,7 +21,7 @@ up: "[[Swordsmanship]]"
 
 An uncommon ability skill trait of [[Swordsmanship]] with 2 ranks, granting [[Disarming Strike (Ability)|Disarming Strike]].
 
-> A precise cut at the weapon hand for 70% damage. Target deals 25% less damage for 2 turns. Requires a sword.
+> A precise cut at the weapon hand for 70% damage. Target deals 25% less damage for 2 turns.
 
 ## Effects
 

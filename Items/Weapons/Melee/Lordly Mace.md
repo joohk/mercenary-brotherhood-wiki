@@ -11,8 +11,8 @@ tags:
   - tier/6
   - type/item
 source: items/weapons_melee.json
-damage_max: 44
-damage_min: 29
+damage_max: 50
+damage_min: 32
 damage_type: blunt
 family: mace
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-6 one-handed blunt mace dealing 29-44 damage, worth 3840 gold.
+A tier-6 one-handed blunt mace dealing 32-50 damage, worth 3840 gold.
 
 ![[_assets/Icons/tier_5/mace_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-6 one-handed blunt mace dealing 29-44 damage, worth 3840 gold.
 | Tier | 6 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 29-44 |
+| [[Stats#Damage Min\|Damage]] | 32-50 |
 | [[Stats#Armor Pen\|Armor Pen]] | +12 |
 | [[Stats#Initiative\|Initiative]] | -4 |
 | Price | 3840 |

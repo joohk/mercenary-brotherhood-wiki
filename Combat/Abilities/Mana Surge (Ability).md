@@ -10,18 +10,17 @@ tags:
   - type/ability
 source: abilities/combat_abilities.json
 ap_cost: 1
-cooldown_turns: 0
+cooldown_turns: 3
 fatigue_cost: 25
 requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 1
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP ranged ability targeting one enemy, usable once per battle.
+A 1-AP ranged ability targeting one enemy.
 
 > Channel a burst of raw arcane energy at the target. Deals 130% damage at the cost of heavy fatigue.
 
@@ -31,8 +30,8 @@ A 1-AP ranged ability targeting one enemy, usable once per battle.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 25 |
-| Cooldown | None |
-| Uses per battle | 1 |
+| Cooldown | 3 turns |
+| Uses per battle | Unlimited |
 | Range | — |
 | Target | Enemy |
 | Line of sight | Required |

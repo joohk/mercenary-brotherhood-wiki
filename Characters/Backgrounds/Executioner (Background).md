@@ -45,7 +45,7 @@ Bonuses added on top of the recruit's race base stats.
 
 - **Starts with:** [[Axe Fighting]], [[Melee Mastery]], [[Executioner (Skill)|Executioner]]
 - **Familiar:** [[Axe Fighting]], [[Melee Mastery]], [[Executioner (Skill)|Executioner]], [[Shield Wall (Skill)|Shield Wall]]
-- **Foreign:** [[Pincer]], [[Flanking]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
+- **Foreign:** [[Teamwork]], [[Flanking]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.
 

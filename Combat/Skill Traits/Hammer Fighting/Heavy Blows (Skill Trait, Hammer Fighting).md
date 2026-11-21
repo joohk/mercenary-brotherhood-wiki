@@ -21,13 +21,13 @@ up: "[[Hammer Fighting]]"
 
 A common passive skill trait of [[Hammer Fighting]] with 2 ranks.
 
-> Forge-hardened arms drive each swing home. +3 Damage Min and +4 Damage Max.
+> Forge-hardened arms drive each swing home. Hammer strikes deal +10% damage.
 
 ## Effects
 
 Rank 1:
 
-- +3 to +4 [[Stats#Damage Min|Damage]]
+- +10% [[Stats#Weapon Damage|Weapon Damage]]
 
 ## Upgrades
 
@@ -35,8 +35,8 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Increased to +5 Damage Min and +7 Damage Max.
+Hammer strikes deal +20% damage.
 
-- +5 to +7 [[Stats#Damage Min|Damage]]
+- +20% [[Stats#Weapon Damage|Weapon Damage]]
 
 *Generated from `skills/weapon_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

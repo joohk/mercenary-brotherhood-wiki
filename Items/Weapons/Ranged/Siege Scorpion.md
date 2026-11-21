@@ -29,6 +29,8 @@ up: "[[Other Weapons]]"
 
 A tier-3 two-handed piercing siege weapon dealing 10-16 damage at range 7, worth 100 gold.
 
+![[_assets/Icons/Crossbow.png|96]]
+
 ## Stats
 
 | Stat | Value |

@@ -23,7 +23,7 @@ uses_per_battle: 1
 
 A free-action ability used on yourself, usable once per battle.
 
-> Refill your action points and take a second turn immediately. Once per battle.
+> Gain a full turn's action points on top of any you have left and take a second turn immediately. Once per battle.
 
 ## Stats
 

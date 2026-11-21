@@ -45,7 +45,7 @@ Bonuses added on top of the recruit's race base stats.
 
 - **Starts with:** [[Swordsmanship]], [[Heavy Armor Proficiency]], [[Melee Mastery]]
 - **Familiar:** [[Swordsmanship]], [[Heavy Armor Proficiency]], [[Melee Mastery]], [[Performance]]
-- **Foreign:** [[Archery]], [[Dagger Mastery]], [[Pincer]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
+- **Foreign:** [[Archery]], [[Dagger Mastery]], [[Teamwork]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.
 

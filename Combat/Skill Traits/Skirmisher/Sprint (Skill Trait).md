@@ -19,7 +19,7 @@ up: "[[Skirmisher (Skill)]]"
 
 [[Home]] › [[Your Company]] › [[Ranged Skills]] › [[Skirmisher (Skill)]]
 
-An uncommon ability skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 ranks, granting [[Sprint (Ability, ability_sprint)|Sprint]].
+An uncommon ability skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 ranks, granting [[Sprint (Ability)|Sprint]].
 
 > Burst of speed — move 3 additional hexes. Once per battle.
 
@@ -27,7 +27,7 @@ An uncommon ability skill trait of [[Skirmisher (Skill)|Skirmisher]] with 2 rank
 
 Rank 1:
 
-- Grants ability: [[Sprint (Ability, ability_sprint)|Sprint]]
+- Grants ability: [[Sprint (Ability)|Sprint]]
 
 ## Upgrades
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Sprint moves 4 hexes.
+Sprint moves 4 hexes and can be used twice per battle.
 
 *Generated from `skills/ranged_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

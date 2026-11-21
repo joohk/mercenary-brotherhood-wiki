@@ -17,12 +17,11 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
+A 1-AP melee ability targeting an adjacent enemy.
 
 > A precise opening cut. If it connects, follow up with a second 70% damage strike on the same target, or on another adjacent enemy if the first cut killed it.
 
@@ -33,7 +32,7 @@ A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
 | Action Points | 1 |
 | Fatigue | 16 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
 | Line of sight | Required |

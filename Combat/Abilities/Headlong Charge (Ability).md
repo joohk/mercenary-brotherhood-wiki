@@ -17,12 +17,11 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting one enemy up to 2 hexes away, usable twice per battle.
+A 1-AP melee ability targeting one enemy up to 2 hexes away.
 
 > Charge an enemy two hexes away through an empty hex between you. Move adjacent and strike for 140% weapon damage with +5 to-hit.
 
@@ -33,7 +32,7 @@ A 1-AP melee ability targeting one enemy up to 2 hexes away, usable twice per ba
 | Action Points | 1 |
 | Fatigue | 18 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 2 hexes |
 | Target | Enemy |
 | Line of sight | Required |

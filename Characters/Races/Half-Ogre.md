@@ -79,6 +79,13 @@ Weapon families this race favours.
 - **Melee:** Hammer, Axe
 - **Ranged:** Thrown
 
+## Gear affinities
+
+Weights on gear families tied to this race (above ×1 favoured, below ×1 disfavoured). Per the patch notes, these also shape what specialised shops stock.
+
+- **Favoured:** Hammer ×3, Mace ×2.5, Heavy Armor ×1.5
+- **Disfavoured:** Dagger ×0.4, Bow ×0.3, Wand ×0.3
+
 ## Backgrounds
 
 The 17 backgrounds a Half-Ogre recruit can roll.

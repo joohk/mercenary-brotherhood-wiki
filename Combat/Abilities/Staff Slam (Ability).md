@@ -11,21 +11,20 @@ tags:
 source: abilities/combat_abilities.json
 ap_cost: 1
 area_radius: 1
-cooldown_turns: 0
+cooldown_turns: 3
 fatigue_cost: 18
 range: 1
 requires_los: false
 source_type: Skill
 target_type: area
 up: "[[Abilities]]"
-uses_per_battle: 1
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an area up to 1 hex away, usable once per battle.
+A 1-AP melee ability targeting an area up to 1 hex away.
 
-> Strike the ground to send a shockwave outward. Hits all enemies at range 1 for 70% damage at -10 to-hit.
+> Strike the ground to send a shockwave outward. Hits all enemies at range 1 for 100% damage at -10 to-hit and knocks each one back 1 tile.
 
 ## Stats
 
@@ -33,8 +32,8 @@ A 1-AP melee ability targeting an area up to 1 hex away, usable once per battle.
 |---|---|
 | Action Points | 1 |
 | Fatigue | 18 |
-| Cooldown | None |
-| Uses per battle | 1 |
+| Cooldown | 3 turns |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Area |
 | Area radius | 1 hex |

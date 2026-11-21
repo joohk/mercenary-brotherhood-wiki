@@ -11,7 +11,7 @@ tags:
   - tier/0
   - type/item
 source: items/weapons_melee.json
-damage_max: 7
+damage_max: 8
 damage_min: 4
 damage_type: blunt
 family: mace
@@ -26,7 +26,7 @@ up: "[[Maces & Clubs]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Maces & Clubs]]
 
-A tier-0 one-handed blunt mace dealing 4-7 damage, worth 3 gold.
+A tier-0 one-handed blunt mace dealing 4-8 damage, worth 3 gold.
 
 ![[_assets/Icons/tier_1/mace_1h.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-0 one-handed blunt mace dealing 4-7 damage, worth 3 gold.
 | Tier | 0 |
 | Damage type | Blunt |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 4-7 |
+| [[Stats#Damage Min\|Damage]] | 4-8 |
 | [[Stats#Armor Pen\|Armor Pen]] | +1 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 3 |

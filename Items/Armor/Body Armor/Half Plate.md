@@ -11,10 +11,13 @@ tags:
   - tier/3
   - type/item
 source: items/armor.json
-armor: 11
+armor: 8
 family: heavy armor
 price: 1140
 rarity: normal
+resist_blunt: 3
+resist_piercing: 12
+resist_slashing: 20
 slot: body_armor
 spawn_weight: 18
 tier: 3
@@ -23,7 +26,7 @@ up: "[[Heavy Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Heavy Armor]]
 
-A tier-3 heavy armor giving 11 Armor, worth 1140 gold.
+A tier-3 heavy armor giving 8 Armor, worth 1140 gold.
 
 ![[_assets/Icons/Breastplate.png|96]]
 
@@ -33,10 +36,13 @@ A tier-3 heavy armor giving 11 Armor, worth 1140 gold.
 |---|---|
 | Tier | 3 |
 | Class | Heavy armor |
-| [[Stats#Armor\|Armor]] | +11 |
+| [[Stats#Armor\|Armor]] | +8 |
 | [[Stats#Melee Defense\|Melee Defense]] | +5 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -20 |
 | [[Stats#Initiative\|Initiative]] | -12 |
+| [[Stats#Slash Resist\|Slash Resist]] | +20% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +12% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +3% |
 | Price | 1140 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 18 |

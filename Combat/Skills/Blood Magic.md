@@ -14,15 +14,15 @@ discovery_weight: 0.6
 max_level: 10
 skill_category: combat
 skill_group: Magic
-skill_traits: 11
+skill_traits: 13
 up: "[[Schools of Magic]]"
 ---
 
 [[Home]] › [[Magic & Spells]] › [[Schools of Magic]]
 
-A combat skill from the Magic group, with 10 levels and 11 skill traits.
+A combat skill from the Magic group, with 10 levels and 13 skill traits.
 
-> Channel power through sacrifice and blood rituals. Each level increases Max HP, Max Fatigue, and spell potency. Initiates know Blood Bolt.
+> Channel power through sacrifice and blood rituals. Every blood cost is a share of your max HP. Each level increases Max HP, Max Fatigue, and spell potency. Initiates know Blood Bolt; at level 5 your blood spells return a quarter of their damage to you, and at level 10 you learn Crimson Tide.
 
 ## How to train
 
@@ -36,16 +36,16 @@ Bonuses are **cumulative**: each level adds its gains on top of every earlier le
 
 | Level | Gains this level | Total so far | Uses to next level | Unlocks |
 |---|---|---|---|---|
-| L1 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]] | +2 Max Fatigue, +3 Max HP | 20 | Grants ability: [[Blood Bolt]] |
-| L2 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]] | +4 Max Fatigue, +6 Max HP | 35 | — |
-| L3 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]] | +7 Max Fatigue, +9 Max HP | 55 | — |
-| L4 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]] | +10 Max Fatigue, +13 Max HP, +2 Magic Power | 85 | — |
-| L5 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]] | +14 Max Fatigue, +17 Max HP, +4 Magic Power | 125 | — |
-| L6 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]] | +18 Max Fatigue, +21 Max HP, +7 Magic Power | 180 | — |
-| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]] | +23 Max Fatigue, +25 Max HP, +10 Magic Power | 250 | — |
-| L8 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +5 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]] | +28 Max Fatigue, +30 Max HP, +13 Magic Power | 335 | — |
-| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +5 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]] | +34 Max Fatigue, +35 Max HP, +17 Magic Power | 440 | — |
-| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +5 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]] | +41 Max Fatigue, +40 Max HP, +21 Magic Power | max | Grants ability: [[Sanguine Burst]] |
+| L1 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +3 [[Stats#Max HP\|Max HP]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +2 Max Fatigue, +3 Max HP, +1 Ranged Attack | 20 | Grants ability: [[Blood Bolt]] |
+| L2 | +2 [[Stats#Max Fatigue\|Max Fatigue]], +4 [[Stats#Max HP\|Max HP]], +1 [[Stats#Ranged Attack\|Ranged Attack]] | +4 Max Fatigue, +7 Max HP, +2 Ranged Attack | 35 | — |
+| L3 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +5 [[Stats#Max HP\|Max HP]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +7 Max Fatigue, +12 Max HP, +4 Ranged Attack | 55 | — |
+| L4 | +3 [[Stats#Max Fatigue\|Max Fatigue]], +6 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]], +2 [[Stats#Ranged Attack\|Ranged Attack]] | +10 Max Fatigue, +18 Max HP, +6 Ranged Attack, +2 Magic Power | 85 | — |
+| L5 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +7 [[Stats#Max HP\|Max HP]], +2 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +14 Max Fatigue, +25 Max HP, +9 Ranged Attack, +4 Magic Power | 125 | — |
+| L6 | +4 [[Stats#Max Fatigue\|Max Fatigue]], +8 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]], +3 [[Stats#Ranged Attack\|Ranged Attack]] | +18 Max Fatigue, +33 Max HP, +12 Ranged Attack, +7 Magic Power | 180 | — |
+| L7 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +9 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +23 Max Fatigue, +42 Max HP, +16 Ranged Attack, +10 Magic Power | 250 | — |
+| L8 | +5 [[Stats#Max Fatigue\|Max Fatigue]], +10 [[Stats#Max HP\|Max HP]], +3 [[Stats#Magic Power\|Magic Power]], +4 [[Stats#Ranged Attack\|Ranged Attack]] | +28 Max Fatigue, +52 Max HP, +20 Ranged Attack, +13 Magic Power | 335 | — |
+| L9 | +6 [[Stats#Max Fatigue\|Max Fatigue]], +11 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]], +5 [[Stats#Ranged Attack\|Ranged Attack]] | +34 Max Fatigue, +63 Max HP, +25 Ranged Attack, +17 Magic Power | 440 | — |
+| L10 | +7 [[Stats#Max Fatigue\|Max Fatigue]], +12 [[Stats#Max HP\|Max HP]], +4 [[Stats#Magic Power\|Magic Power]], +6 [[Stats#Ranged Attack\|Ranged Attack]] | +41 Max Fatigue, +75 Max HP, +31 Ranged Attack, +21 Magic Power | max | Grants ability: [[Crimson Tide]] |
 
 ## Skill traits
 
@@ -53,16 +53,18 @@ Each level-up offers a skill trait from this list: 60% of the time the offer upg
 
 | Skill trait | Rarity | Type | Ranks | Grants |
 |---|---|---|---|---|
-| [[Crimson Focus]] | Common | Passive | 2 | — |
-| [[Life Tap]] | Common | Passive | 2 | — |
+| [[Leeching Magic]] | Common | Passive | 2 | — |
+| [[Opened Veins]] | Common | Passive | 2 | — |
+| [[Blood Ward (Skill Trait)\|Blood Ward]] | Uncommon | Ability | 1 | [[Blood Ward (Ability)\|Blood Ward]] |
 | [[Blood-Quenched Edge]] | Uncommon | Passive | 2 | — |
-| [[Bloodseeker (Skill Trait)\|Bloodseeker]] | Uncommon | Ability | 1 | [[Bloodseeker (Ability)\|Bloodseeker]] |
+| [[Desperate Rite]] | Uncommon | Passive | 2 | — |
+| [[Red Feast (Skill Trait)\|Red Feast]] | Uncommon | Passive | 1 | — |
 | [[Red Mist]] | Uncommon | Passive | 2 | — |
 | [[Sacrifice Mastery]] | Uncommon | Passive | 3 | — |
-| [[Vitality]] | Uncommon | Passive | 2 | — |
-| [[Blood Amplification]] | Rare | Passive | 2 | — |
+| [[Scent of Blood]] | Uncommon | Passive | 2 | — |
 | [[Blood Bond (Skill Trait)\|Blood Bond]] | Rare | Ability | 2 | [[Blood Bond (Ability)\|Blood Bond]] |
-| [[Hemomancer (Skill Trait)\|Hemomancer]] | Rare | Passive | 3 | — |
+| [[Blood Pact (Skill Trait)\|Blood Pact]] | Rare | Ability | 1 | [[Blood Pact (Ability)\|Blood Pact]] |
+| [[Exsanguinate (Skill Trait)\|Exsanguinate]] | Rare | Ability | 1 | [[Exsanguinate (Ability)\|Exsanguinate]] |
 | [[Sanguine Power]] | Rare | Ability | 3 | [[Sanguine Burst]] |
 
 ## Referenced by

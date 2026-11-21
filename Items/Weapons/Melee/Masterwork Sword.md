@@ -11,8 +11,8 @@ tags:
   - tier/5
   - type/item
 source: items/weapons_melee.json
-damage_max: 35
-damage_min: 22
+damage_max: 42
+damage_min: 25
 damage_type: slashing
 family: sword
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-5 one-handed slashing sword dealing 22-35 damage, worth 2280 gold.
+A tier-5 one-handed slashing sword dealing 25-42 damage, worth 2280 gold.
 
 ![[_assets/Icons/tier_5/sword_1h.webp|96]]
 
@@ -37,7 +37,8 @@ A tier-5 one-handed slashing sword dealing 22-35 damage, worth 2280 gold.
 | Tier | 5 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 22-35 |
+| [[Stats#Damage Min\|Damage]] | 25-42 |
+| [[Stats#Armor Pen\|Armor Pen]] | +6 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 2280 |
 | Rarity | Normal |

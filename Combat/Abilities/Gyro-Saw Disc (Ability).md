@@ -24,7 +24,7 @@ uses_per_battle: 2
 
 A 1-AP ranged ability targeting one enemy up to 4 hexes away, usable twice per battle.
 
-> Launch a spinning saw disc at an enemy. Deals piercing damage and causes bleeding on hit.
+> Launch a spinning saw disc at an enemy. Deals damage that ignores armor and causes bleeding on hit.
 
 ## Stats
 

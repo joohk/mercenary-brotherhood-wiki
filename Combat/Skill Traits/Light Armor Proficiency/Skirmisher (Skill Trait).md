@@ -21,7 +21,7 @@ up: "[[Light Armor Proficiency]]"
 
 A rare passive skill trait of [[Light Armor Proficiency]] with 3 ranks.
 
-> You fight on the move. Moving this turn no longer reduces ranged attack accuracy, and you may sprint 1 additional hex.
+> You fight on the move. +3 Ranged ATK when attacking after moving this turn, and you may sprint 1 additional hex.
 
 ## Upgrades
 
@@ -33,7 +33,7 @@ Also grants +5 Ranged ATK when attacking immediately after movement.
 
 ### Rank 3
 
-Grants +8 Ranged ATK after movement and +3 Initiative while moving.
+Grants +8 Ranged ATK after movement and +3 Initiative.
 
 - +3 [[Stats#Initiative|Initiative]]
 

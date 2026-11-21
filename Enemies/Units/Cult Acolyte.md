@@ -12,7 +12,7 @@ source: enemies/cultists.json
 armor: 4
 faction: Cult of the Hollow Eye
 gold: 12
-hp: 53
+hp: 64
 stance: ranged
 threat_cost: 3
 tier: 2
@@ -22,7 +22,7 @@ xp: 18
 
 [[Home]] › [[Bestiary]] › [[Enemy Types]] › [[Undead & Unholy]] › [[Cult of the Hollow Eye]]
 
-A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 53 HP, 4 armor, worth 18 XP and 12 gold.
+A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 64 HP, 4 armor, worth 18 XP and 12 gold.
 
 ![[_assets/Units/Cultist.webp|160]]
 
@@ -32,19 +32,19 @@ A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 53 HP, 4 armor, wor
 
 | Stat | Value |
 |---|---|
-| [[Stats#Max HP\|Max HP]] | 53 |
+| [[Stats#Max HP\|Max HP]] | 64 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | 72 |
 | [[Stats#Initiative\|Initiative]] | 50 |
 | [[Stats#Melee Attack\|Melee Attack]] | 46 |
 | [[Stats#Melee Defense\|Melee Defense]] | 40 |
 | [[Stats#Ranged Attack\|Ranged Attack]] | 72 |
-| [[Stats#Ranged Defense\|Ranged Defense]] | 40 |
+| [[Stats#Ranged Defense\|Ranged Defense]] | 46 |
 | [[Stats#Armor\|Armor]] | 4 |
 | [[Stats#Willpower\|Willpower]] | 66 |
 | [[Stats#Vision\|Vision]] | 5 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 15 |
 | [[Stats#Damage Min\|Damage]] | 8-12 |
-| Ranged damage with weapon | 7-13 (base 2-4 + [[Dark Wand]] 5-9) |
+| Ranged damage with weapon | 8-15 (base 2-4 + [[Dark Wand]] 6-11) |
 | Ranged Damage | 2-4 |
 
 ## Combat
@@ -57,13 +57,25 @@ A tier-2 enemy of the [[Cult of the Hollow Eye]] faction — 53 HP, 4 armor, wor
 | Gold | 12 |
 | Variant role | [[Skirmisher (Variant)\|Skirmisher]] (auto-assigned to ranged units) |
 | Stance | Ranged — keeps its distance and attacks from range |
+| Damage type | Arcane |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 60 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 25 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Acolyte Robes]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Acolyte Robes]] +2 | +2% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Acolyte Robes]] +2 | +2% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

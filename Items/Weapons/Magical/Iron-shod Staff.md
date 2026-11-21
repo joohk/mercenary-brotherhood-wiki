@@ -11,8 +11,8 @@ tags:
   - tier/2
   - type/item
 source: items/weapons_magical.json
-damage_max: 13
-damage_min: 7
+damage_max: 21
+damage_min: 12
 damage_type: blunt
 family: staff
 hands: two-handed
@@ -26,7 +26,7 @@ up: "[[Staves]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Staves]]
 
-A tier-2 two-handed blunt staff dealing 7-13 damage, worth 250 gold.
+A tier-2 two-handed blunt staff dealing 12-21 damage, worth 250 gold.
 
 ![[_assets/Icons/tier_1/staff.webp|96]]
 
@@ -37,7 +37,7 @@ A tier-2 two-handed blunt staff dealing 7-13 damage, worth 250 gold.
 | Tier | 2 |
 | Damage type | Blunt |
 | Hands | Two-handed |
-| [[Stats#Damage Min\|Damage]] | 7-13 |
+| [[Stats#Damage Min\|Damage]] | 12-21 |
 | [[Stats#Melee Attack\|Melee Attack]] | +4 |
 | [[Stats#Willpower\|Willpower]] | +6 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | +7 |

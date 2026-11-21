@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Sprint (Ability, ability_sprint)|Sprint]]: +1 use per battle
+- [[Sprint (Ability)|Sprint]]: +1 use per battle
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

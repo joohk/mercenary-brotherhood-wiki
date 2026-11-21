@@ -15,6 +15,9 @@ armor: 5
 family: robe
 price: 2040
 rarity: normal
+resist_blunt: 4
+resist_piercing: 3
+resist_slashing: 4
 slot: body_armor
 spawn_weight: 5
 tier: 5
@@ -36,6 +39,9 @@ A tier-5 robe giving 5 Armor, worth 2040 gold.
 | [[Stats#Armor\|Armor]] | +5 |
 | [[Stats#Magic Power\|Magic Power]] | +20 |
 | [[Stats#Willpower\|Willpower]] | +12 |
+| [[Stats#Slash Resist\|Slash Resist]] | +4% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +3% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +4% |
 | Price | 2040 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 5 |

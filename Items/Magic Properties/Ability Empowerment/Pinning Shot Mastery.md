@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Pinning Shot (Ability, awakening_pinning_shot)|Pinning Shot]]: -1 turn cooldown
+- [[Transfixing Shot (Ability)|Transfixing Shot]]: -1 turn cooldown
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

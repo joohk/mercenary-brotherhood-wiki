@@ -18,6 +18,6 @@ up: "[[Traits]]"
 
 A tier-7 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 
-> After hitting an enemy, your next attack against the same target costs 1 less AP.
+> After hitting an enemy, your next attack this turn against the same target costs 1 less AP.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

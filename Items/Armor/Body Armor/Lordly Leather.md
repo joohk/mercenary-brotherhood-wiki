@@ -11,10 +11,13 @@ tags:
   - tier/6
   - type/item
 source: items/armor.json
-armor: 18
+armor: 14
 family: light armor
 price: 4080
 rarity: normal
+resist_blunt: 14
+resist_piercing: 10
+resist_slashing: 12
 slot: body_armor
 spawn_weight: 3
 tier: 6
@@ -23,7 +26,7 @@ up: "[[Light Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Light Armor]]
 
-A tier-6 light armor giving 18 Armor, worth 4080 gold.
+A tier-6 light armor giving 14 Armor, worth 4080 gold.
 
 ![[_assets/Icons/tier_5/light_armor.webp|96]]
 
@@ -33,9 +36,12 @@ A tier-6 light armor giving 18 Armor, worth 4080 gold.
 |---|---|
 | Tier | 6 |
 | Class | Light armor |
-| [[Stats#Armor\|Armor]] | +18 |
+| [[Stats#Armor\|Armor]] | +14 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -10 |
 | [[Stats#Initiative\|Initiative]] | -3 |
+| [[Stats#Slash Resist\|Slash Resist]] | +12% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +10% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +14% |
 | Price | 4080 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 3 |

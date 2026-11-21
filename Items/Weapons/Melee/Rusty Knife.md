@@ -11,9 +11,9 @@ tags:
   - tier/0
   - type/item
 source: items/weapons_melee.json
-damage_max: 6
-damage_min: 3
-damage_type: piercing
+damage_max: 10
+damage_min: 6
+damage_type: slashing
 family: dagger
 hands: one-handed
 price: 2
@@ -26,7 +26,7 @@ up: "[[Daggers]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Daggers]]
 
-A tier-0 one-handed piercing dagger dealing 3-6 damage, worth 2 gold.
+A tier-0 one-handed slashing dagger dealing 6-10 damage, worth 2 gold.
 
 ![[_assets/Icons/tier_1/dagger.webp|96]]
 
@@ -35,9 +35,9 @@ A tier-0 one-handed piercing dagger dealing 3-6 damage, worth 2 gold.
 | Stat | Value |
 |---|---|
 | Tier | 0 |
-| Damage type | Piercing |
+| Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 3-6 |
+| [[Stats#Damage Min\|Damage]] | 6-10 |
 | [[Stats#Initiative\|Initiative]] | +2 |
 | Price | 2 |
 | Rarity | Normal |
@@ -45,7 +45,7 @@ A tier-0 one-handed piercing dagger dealing 3-6 damage, worth 2 gold.
 
 ## Effects
 
-- Grants ability: [[Exploit Opening (Ability, ability_dagger_exploit)|Exploit Opening]]
+- Grants ability: [[Low Blow]]
 
 ## Related
 

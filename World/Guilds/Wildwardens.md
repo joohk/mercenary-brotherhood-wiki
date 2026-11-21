@@ -24,7 +24,7 @@ A guild whose halls appear inside villages, towns and the capital, offering vete
 
 ## Sponsored specializations
 
-[[Druid (Specialization)|Druid]], [[Spiritbinder]], [[Champion (Specialization)|Champion]], [[Firewalker]], [[Gladiator (Specialization)|Gladiator]]
+[[Druid (Specialization)|Druid]], [[Spiritbinder]], [[Firewalker]], [[Lancer]], [[Ranger (Specialization)|Ranger]]
 
 ## Signature skills
 
@@ -42,6 +42,17 @@ A recruit's background is rolled by rarity (higher hire levels weight the rarer 
 | Uncommon | [[Ranger (Background)\|Ranger]], [[Warden]], [[Beast Tamer]], [[Druid (Background)\|Druid]], [[Pathfinder]], [[Poacher]] |
 | Rare | [[Beastmaster]], [[Blood Shaman]] |
 | Legendary | [[Feral Champion]], [[Legendary Hunter]] |
+
+## Gear affinities
+
+Gear types this guild favours, with their affinity weight from the game data (higher means a stronger preference).
+
+| Gear type | Affinity |
+|---|---|
+| Spear | ×3.5 |
+| Bow | ×2.5 |
+| Light Armor | ×2 |
+| Staff | ×2 |
 
 ## Gear by hire tier
 

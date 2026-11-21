@@ -24,7 +24,7 @@ up: "[[Abilities]]"
 
 A 1-AP support ability centred on yourself (radius 1).
 
-> Sustained: All adjacent allies gain +10 melee defense while you maintain concentration. Drains 4 fatigue/turn.
+> Sustained: Allies adjacent to you when you cast gain +10 Melee Defense while you maintain concentration, even if they move away. Drains 4 fatigue/turn.
 
 ## Stats
 

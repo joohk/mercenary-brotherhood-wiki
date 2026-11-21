@@ -12,9 +12,13 @@ tags:
   - tier/7
   - type/item
 source: items/relics.json
-armor: 3
+armor: 12
 family: helmet
 rarity: relic
+relic_power: Contagion
+resist_blunt: 11
+resist_piercing: 5
+resist_slashing: 5
 slot: helmet
 tier: 7
 unique: true
@@ -23,19 +27,27 @@ up: "[[Relics]]"
 
 [[Home]] › [[Arms & Armor]] › [[Relics]]
 
-A unique relic helmet dropped by the arch-villain [[Plague Bishop Malachar]]. It awakens in three stages as its wielder racks up kills.
+A unique relic helmet dropped by the arch-villain [[Plague Bishop Malachar]]. Its unique power is **Contagion**. It awakens in three stages as its wielder racks up kills.
 
 ![[_assets/Icons/tier_5/helmet.webp|96]]
 
 > A crown of thorns wrapped in sickly green vines that weep a caustic sap. The air around it smells of rot.
+
+## Relic Power
+
+> [!abstract] Contagion
+> While the bearer lives, a Poisoned enemy that dies passes its poison to every enemy within 2 tiles.
 
 ## Stats
 
 | Stat | Value |
 |---|---|
 | Slot | Helmet |
-| [[Stats#Armor\|Armor]] | +3 |
-| [[Stats#Melee Attack\|Melee Attack]] | +8 |
+| [[Stats#Armor\|Armor]] | +12 |
+| [[Stats#Melee Attack\|Melee Attack]] | +12 |
+| [[Stats#Slash Resist\|Slash Resist]] | +5% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +5% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +11% |
 | Unique | Yes |
 
 ## Effects
@@ -46,7 +58,7 @@ A unique relic helmet dropped by the arch-villain [[Plague Bishop Malachar]]. It
 
 Always active while equipped.
 
-- -12 [[Stats#Max HP|Max HP]]
+- -15 [[Stats#Max HP|Max HP]]
 
 ## Awakening
 
@@ -56,8 +68,8 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 > New thorns have grown. The crown is adapting to you, or you to it.
 
-- **Bonus:** +4 [[Stats#Melee Attack|Melee Attack]]
-- **Curse:** -3 [[Stats#Max HP|Max HP]]
+- **Bonus:** +15 [[Stats#Melee Attack|Melee Attack]]
+- **Curse:** -6 [[Stats#Max HP|Max HP]]
 
 ### Stage 2 — Festering (90 kills)
 
@@ -66,7 +78,8 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 **Perk:** Festering — your poison strikes bite harder and refresh on every hit.
 
 - **Bonus:** On hit: Inflicts Poison I (8% chance) (2 poison damage per tick for 6 ticks)
-- **Curse:** -5 [[Stats#Willpower|Willpower]]
+- **Bonus:** +10 [[Stats#Melee Attack|Melee Attack]]
+- **Curse:** -8 [[Stats#Willpower|Willpower]]
 
 ### Stage 3 — Pestilent (180 kills)
 
@@ -74,11 +87,11 @@ The relic awakens at each kill threshold. Stages are cumulative: every stage rea
 
 **Perk:** Capstone: grants Plague Bolt — hurl a bolt of raw contagion at a distant foe. If you already know it, its cooldown is reduced instead.
 
-- **Bonus:** +4 [[Stats#Melee Attack|Melee Attack]]
-- **Bonus:** +2 [[Stats#Armor|Armor]]
+- **Bonus:** +12 [[Stats#Melee Attack|Melee Attack]]
+- **Bonus:** +8 [[Stats#Armor|Armor]]
 - **Bonus:** Grants ability: [[Plague Bolt]]
 - **Bonus (if already known):** [[Plague Bolt]]: -1 turn cooldown
-- **Curse:** -6 [[Stats#Max HP|Max HP]]
+- **Curse:** -10 [[Stats#Max HP|Max HP]]
 
 ## Lore
 

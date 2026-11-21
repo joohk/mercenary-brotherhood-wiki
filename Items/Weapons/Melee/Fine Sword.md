@@ -11,8 +11,8 @@ tags:
   - tier/3
   - type/item
 source: items/weapons_melee.json
-damage_max: 23
-damage_min: 14
+damage_max: 26
+damage_min: 17
 damage_type: slashing
 family: sword
 hands: one-handed
@@ -26,7 +26,7 @@ up: "[[Swords]]"
 
 [[Home]] › [[Arms & Armor]] › [[Weapons]] › [[Swords]]
 
-A tier-3 one-handed slashing sword dealing 14-23 damage, worth 570 gold.
+A tier-3 one-handed slashing sword dealing 17-26 damage, worth 570 gold.
 
 ![[_assets/Icons/OneHandedSword.png|96]]
 
@@ -37,7 +37,8 @@ A tier-3 one-handed slashing sword dealing 14-23 damage, worth 570 gold.
 | Tier | 3 |
 | Damage type | Slashing |
 | Hands | One-handed |
-| [[Stats#Damage Min\|Damage]] | 14-23 |
+| [[Stats#Damage Min\|Damage]] | 17-26 |
+| [[Stats#Armor Pen\|Armor Pen]] | +4 |
 | [[Stats#Initiative\|Initiative]] | -3 |
 | Price | 570 |
 | Rarity | Normal |

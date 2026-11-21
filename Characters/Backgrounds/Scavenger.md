@@ -40,7 +40,7 @@ Bonuses added on top of the recruit's race base stats.
 ## Skills
 
 - **Starts with:** [[Dodge Master]]
-- **Familiar:** [[Dodge Master]], [[Light Armor Proficiency]], [[Skirmisher (Skill)|Skirmisher]], [[Pincer]]
+- **Familiar:** [[Dodge Master]], [[Light Armor Proficiency]], [[Skirmisher (Skill)|Skirmisher]], [[Teamwork]]
 - **Foreign:** [[Heavy Armor Proficiency]], [[Shield Wall (Skill)|Shield Wall]], [[Charging]], [[Arcane Mastery]], [[Blood Magic]], [[Dark Magic]], [[Holy Magic]], [[Nature Magic]], [[Shadow Magic]], [[Shamanism]], [[Stone Magic]], [[Telekinesis]], [[Staff Mastery]], [[Wand Mastery]]
 
 *Familiar* skills suit this background; *foreign* ones don't. Skills in neither list are neutral.

@@ -44,7 +44,7 @@ A tier-3 enemy of the [[Vampires]] faction — 152 HP, 14 armor, worth 48 XP and
 | [[Stats#Vision\|Vision]] | 6 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 21 |
 | [[Stats#Damage Min\|Damage]] | 5-7 |
-| Damage with weapon | 19-30 (base 5-7 + [[Fine Sword]] 14-23) |
+| Damage with weapon | 22-33 (base 5-7 + [[Fine Sword]] 17-26) |
 
 ## Combat
 
@@ -56,13 +56,27 @@ A tier-3 enemy of the [[Vampires]] faction — 152 HP, 14 armor, worth 48 XP and
 | Gold | 40 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Vampires Combat Sheet\|all Vampires units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 18 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 60 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Half Plate]] +20, [[Plated Helmet]] +2 | +22% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Half Plate]] +12, [[Plated Helmet]] +2 | +14% |
+| [[Stats#Blunt Resist\|Blunt]] | — | [[Half Plate]] +3, [[Plated Helmet]] +6 | +9% |
+| [[Stats#Fire Resist\|Fire]] | -15% | — | **-15%** (weak) |
+| [[Stats#Shadow Resist\|Shadow]] | +25% | — | +25% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

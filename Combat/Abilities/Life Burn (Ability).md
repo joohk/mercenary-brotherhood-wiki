@@ -35,7 +35,7 @@ A free-action ability used on yourself.
 | Range | Self |
 | Target | Self |
 | Line of sight | Not required |
-| Damage | Costs HP (rising), grants +2 AP |
+| Damage | Costs 8 HP, +6 per use this battle; grants +2 AP |
 
 *Tags:* awakening, self
 

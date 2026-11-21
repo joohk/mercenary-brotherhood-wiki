@@ -21,7 +21,7 @@ up: "[[Flanking]]"
 
 A common ability skill trait of [[Flanking]] with 2 ranks, granting [[Circle the Prey (Ability)|Circle the Prey]].
 
-> Step around a foe you are already engaged with to the open hex beside them with the best flanking angle, without provoking. 1 AP.
+> Step around a foe you are already engaged with to the open tile in its side arc, without provoking. 1 AP.
 
 ## Effects
 
@@ -35,6 +35,6 @@ When an upgrade restates a bonus, the new value **replaces** the old one (it is 
 
 ### Rank 2
 
-Costs no AP once per battle.
+Gives you 1 AP back each time you use it.
 
 *Generated from `skills/melee_skill_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

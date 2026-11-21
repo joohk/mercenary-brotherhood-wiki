@@ -24,9 +24,9 @@ A variant archetype auto-assigned to ranged enemies.
 
 | Pool | Abilities | Drawn by |
 |---|---|---|
-| Lesser | [[Flurry (Ability)\|Flurry]], [[Sprint (Ability, ability_sprint)\|Sprint]], [[Piercing Shot (Ability)\|Piercing Shot]] | Elite, Champion |
-| Greater | [[Volley (Ability)\|Volley]], [[Pinning Shot (Ability, ability_pinning_shot)\|Pinning Shot]], [[Crippling Shot (Ability)\|Crippling Shot]] | Champion, Boss |
-| Signature | [[Called Shot (Ability, ability_called_shot)\|Called Shot]], [[Aimed Throw (Ability)\|Aimed Throw]] | Boss |
+| Lesser | [[Flurry (Ability)\|Flurry]], [[Sprint (Ability)\|Sprint]], [[Piercing Shot (Ability)\|Piercing Shot]] | Elite, Champion |
+| Greater | [[Volley (Ability)\|Volley]], [[Pinning Shot (Ability)\|Pinning Shot]], [[Crippling Shot (Ability)\|Crippling Shot]] | Champion, Boss |
+| Signature | [[Called Shot (Ability)\|Called Shot]], [[Aimed Throw (Ability)\|Aimed Throw]] | Boss |
 | Capstone | [[Fan of Blades (Ability)\|Fan of Blades]] | Boss |
 
 ## How variants work

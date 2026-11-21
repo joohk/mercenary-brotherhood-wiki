@@ -18,6 +18,6 @@ up: "[[Traits]]"
 
 A tier-1 awakening trait (passive). At each awakening tier the player picks one trait from that tier's offer.
 
-> +10% hit chance when attacking with an adjacent ally. Instinctive coordination.
+> +10% melee hit chance when an ally is also beside your target. Instinctive coordination.
 
 *Generated from `traits/awakening_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

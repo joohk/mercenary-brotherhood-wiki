@@ -56,13 +56,25 @@ A tier-2 enemy of the [[Swamp Dwellers]] faction — 99 HP, 10 armor, worth 20 X
 | Gold | 6 |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Slashing |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Swamp Dwellers Combat Sheet\|all Swamp Dwellers units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 45 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 26 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | +20% | — | +20% |
+| [[Stats#Pierce Resist\|Pierce]] | +10% | — | +10% |
+| [[Stats#Poison Resist\|Poison]] | +20% | — | +20% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 

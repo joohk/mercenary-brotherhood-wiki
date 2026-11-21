@@ -21,6 +21,9 @@ up: "[[Wild Peoples]]"
 
 An enemy faction that appears from company level 1 and fights as [[How Enemies Behave#Undisciplined|Undisciplined]] (unpredictable, low coordination): 10 unit types, tiers 1-4.
 
+> [!tip] [[Greenskin Warband Combat Sheet]]
+> Every unit of this faction with its abilities, passives, damage types and resistances on one page: a reference for fights.
+
 ![[_assets/Units/EnemyOrcAxeman.webp|160]]
 
 > Organized orc and goblin raiding parties. Goblins are fast and fragile; orcs are slow and brutal. Found across plains, forests, and hills.
@@ -40,22 +43,22 @@ Encounter tables have their own level gates and can field this faction outside i
 
 |  | Unit | Tier | HP | Armor | MAtk | MDef | RAtk | Dmg | Stance | Threat | XP |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| ![[_assets/Units/EnemyGoblinArcher.webp\|40]] | [[Goblin Poisoner]] | 1 | 28 | 0 | 30 | 25 | 52 | 4-8 (ranged) | Ranged | 2 | 10 |
-| ![[_assets/Units/GoblinShaman.webp\|40]] | [[Goblin Shaman (Enemy)\|Goblin Shaman]] | 1 | 30 | 0 | 30 | 22 | 50 | 7-12 (ranged) | Defensive | 2 | 12 |
-| ![[_assets/Units/EnemyGoblin.webp\|40]] | [[Goblin Skirmisher]] | 1 | 35 | 1 | 52 | 28 | 0 | 6-12 | Aggressive | 1 | 8 |
-| ![[_assets/Units/EnemyOrcAxeman.webp\|40]] | [[Orc Grunt]] | 1 | 75 | 3 | 58 | 38 | 0 | 10-16 | Aggressive | 2 | 14 |
-| ![[_assets/Units/GoblinWolfrider.webp\|40]] | [[Goblin Wolfrider]] | 2 | 73 | 5 | 73 | 47 | 0 | 16-24 | Aggressive | 3 | 20 |
-| ![[_assets/Units/OrcBrute.webp\|40]] | [[Orc Brute]] | 2 | 119 | 10 | 77 | 58 | 0 | 17-28 | Aggressive | 4 | 25 |
-| ![[_assets/Units/OrcBrute.webp\|40]] | [[Ogre]] | 3 | 207 | 7 | 69 | 41 | 0 | 29-47 | Aggressive | 7 | 45 |
-| ![[_assets/Units/EnemyGoblinArcher.webp\|40]] | [[Orc Shaman]] | 3 | 94 | 8 | 60 | 52 | 85 | 9-17 (ranged) | Ranged | 6 | 35 |
-| ![[_assets/Units/OrcBrute.webp\|40]] | [[Ogre Crusher]] | 4 | 276 | 11 | 79 | 55 | 0 | 43-67 | Aggressive | 10 | 60 |
-| ![[_assets/Units/EnemyOrcAxeman.webp\|40]] | [[Orc Warchief]] | 4 | 172 | 16 | 102 | 84 | 0 | 34-55 | Aggressive | 9 | 55 |
+| ![[_assets/Units/EnemyGoblinArcher.webp\|40]] | [[Goblin Poisoner]] | 1 | 28 | 0 | 30 | 25 | 52 | 4-9 (ranged) | Ranged | 2 | 10 |
+| ![[_assets/Units/GoblinShaman.webp\|40]] | [[Goblin Shaman (Enemy)\|Goblin Shaman]] | 1 | 44 | 0 | 30 | 22 | 50 | 13-23 | Defensive | 2 | 12 |
+| ![[_assets/Units/EnemyGoblin.webp\|40]] | [[Goblin Skirmisher]] | 1 | 35 | 1 | 52 | 28 | 0 | 10-19 | Aggressive | 1 | 8 |
+| ![[_assets/Units/EnemyOrcAxeman.webp\|40]] | [[Orc Grunt]] | 1 | 75 | 3 | 58 | 38 | 0 | 11-18 | Aggressive | 2 | 14 |
+| ![[_assets/Units/GoblinWolfrider.webp\|40]] | [[Goblin Wolfrider]] | 2 | 73 | 5 | 73 | 47 | 0 | 17-26 | Aggressive | 3 | 20 |
+| ![[_assets/Units/OrcBrute.webp\|40]] | [[Orc Brute]] | 2 | 119 | 10 | 77 | 58 | 0 | 18-30 | Aggressive | 4 | 25 |
+| ![[_assets/Units/OrcBrute.webp\|40]] | [[Ogre]] | 3 | 207 | 7 | 69 | 41 | 0 | 29-49 | Aggressive | 7 | 45 |
+| ![[_assets/Units/OrcShaman.webp\|40]] | [[Orc Shaman]] | 3 | 94 | 8 | 60 | 52 | 85 | 27-43 | Ranged | 6 | 35 |
+| ![[_assets/Units/OrcBrute.webp\|40]] | [[Ogre Crusher]] | 4 | 276 | 11 | 79 | 55 | 0 | 43-69 | Aggressive | 10 | 60 |
+| ![[_assets/Units/EnemyOrcAxeman.webp\|40]] | [[Orc Warchief]] | 4 | 172 | 16 | 102 | 84 | 0 | 38-61 | Aggressive | 9 | 55 |
 
 *Dmg is the unit's base damage plus its main weapon's damage ("ranged" when that weapon is a ranged one); see each unit's page for the breakdown.*
 
 ## Arch-villains
 
-- [[Gorthak the Beast King]] — *Warchief of the Broken Tusk*, from company level 6
+- [[Gorthak the Beast King]] — *Warchief of the Broken Tusk*, from company level 9
 
 ## Encounter tables
 

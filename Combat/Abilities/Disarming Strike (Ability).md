@@ -17,12 +17,11 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
+A 1-AP melee ability targeting an adjacent enemy.
 
 > A precise cut at the weapon hand for 70% damage. Target deals 25% less damage for 2 turns.
 
@@ -33,16 +32,13 @@ A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
 | Action Points | 1 |
 | Fatigue | 15 |
 | Cooldown | 3 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
-*Tags:* melee, sword, debuff
-
-## Requirements
-
-- Requires a sword equipped
+*Tags:* melee, debuff
 
 ## Effects
 

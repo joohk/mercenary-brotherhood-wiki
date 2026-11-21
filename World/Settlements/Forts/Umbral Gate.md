@@ -56,7 +56,6 @@ Quests this settlement's board can post:
 - [[Assault the Fortress]] — company level 6-9
 - [[Conquer the Citadel]] — company level 8+
 - [[Slay the Wyvern]] — company level 7+
-- [[Close the Demon Rift]] — company level 10+
 - [[Clear the Roads of Faction]] — company level 3-8
 
 Bounties, security, trade and chain quests are posted dynamically and are not listed here — see [[Quests]].

@@ -11,10 +11,13 @@ tags:
   - tier/5
   - type/item
 source: items/armor.json
-armor: 14
+armor: 11
 family: light armor
 price: 2040
 rarity: normal
+resist_blunt: 12
+resist_piercing: 9
+resist_slashing: 10
 slot: body_armor
 spawn_weight: 8
 tier: 5
@@ -23,7 +26,7 @@ up: "[[Light Armor]]"
 
 [[Home]] › [[Arms & Armor]] › [[Armor]] › [[Light Armor]]
 
-A tier-5 light armor giving 14 Armor, worth 2040 gold.
+A tier-5 light armor giving 11 Armor, worth 2040 gold.
 
 ![[_assets/Icons/tier_5/light_armor.webp|96]]
 
@@ -33,9 +36,12 @@ A tier-5 light armor giving 14 Armor, worth 2040 gold.
 |---|---|
 | Tier | 5 |
 | Class | Light armor |
-| [[Stats#Armor\|Armor]] | +14 |
+| [[Stats#Armor\|Armor]] | +11 |
 | [[Stats#Max Fatigue\|Max Fatigue]] | -10 |
 | [[Stats#Initiative\|Initiative]] | -4 |
+| [[Stats#Slash Resist\|Slash Resist]] | +10% |
+| [[Stats#Pierce Resist\|Pierce Resist]] | +9% |
+| [[Stats#Blunt Resist\|Blunt Resist]] | +12% |
 | Price | 2040 |
 | Rarity | Normal |
 | [[Glossary#Numbers used on this wiki\|Spawn weight]] | 8 |

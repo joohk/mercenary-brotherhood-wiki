@@ -45,7 +45,7 @@ A tier-3 large enemy of the [[Cult of the Hollow Eye]] faction — 172 HP, 13 ar
 | [[Stats#Vision\|Vision]] | 3 |
 | [[Stats#Fatigue Recovery\|Fatigue Recovery]] | 21 |
 | [[Stats#Damage Min\|Damage]] | 6-9 |
-| Damage with weapon | 21-33 (base 6-9 + [[Fine Mace]] 15-24) |
+| Damage with weapon | 23-35 (base 6-9 + [[Fine Mace]] 17-26) |
 
 ## Combat
 
@@ -58,13 +58,26 @@ A tier-3 large enemy of the [[Cult of the Hollow Eye]] faction — 172 HP, 13 ar
 | Size | Large |
 | Variant role | Auto-assigned (usually [[Brute]]; [[Warcaster]] or [[Zealot (Variant)\|Zealot]] for casters and healers) |
 | Stance | Aggressive — closes in and fights in melee |
+| Damage type | Blunt |
 | Faction AI | [[How Enemies Behave#Cunning\|Cunning]] |
+| Combat sheet | [[Cult of the Hollow Eye Combat Sheet\|all Cult of the Hollow Eye units and abilities]] |
 
 > [!info]- Spawn data
 > |  | Value |
 > |---|---|
 > | [[Glossary#Numbers used on this wiki\|Spawn weight]] in the faction pool | 15 |
 > | [[Glossary#Numbers used on this wiki\|Potential value]] | 50 |
+
+## Resistances
+
+| Damage type | Natural | From gear | Total |
+|---|---|---|---|
+| [[Stats#Slash Resist\|Slash]] | — | [[Crude Hides]] +2 | +2% |
+| [[Stats#Pierce Resist\|Pierce]] | — | [[Crude Hides]] +1 | +1% |
+| [[Stats#Blunt Resist\|Blunt]] | +15% | [[Crude Hides]] +2 | +17% |
+| [[Stats#Shadow Resist\|Shadow]] | +15% | — | +15% |
+
+*Resistances are percentages: positive values reduce that damage type, negative values are a weakness (more damage taken). Totals add the unit's natural resistance and its worn armor, helmet and shield; the game caps resistance at 90%.*
 
 ## Abilities
 
@@ -87,6 +100,7 @@ A tier-3 large enemy of the [[Cult of the Hollow Eye]] faction — 172 HP, 13 ar
 ## Referenced by
 
 - **Appears in encounters:** [[Dungeon — Boss Encounter]], [[Forest — Late Tier]], [[Swamp — Late Tier]]
+- **Escorts:** [[Plague Bishop Malachar]]
 - **Reinforces in encounters:** [[Mid-depth Crystal Cave Encounter]], [[Mid-depth Dark Ruins Encounter]]
 
 *Generated from `enemies/cultists.json`. Edits will be overwritten — put your own notes in Notes/.*

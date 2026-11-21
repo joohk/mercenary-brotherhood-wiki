@@ -40,6 +40,6 @@ A rare-or-better magic property for weapons, helmets and accessories.
 
 ## Effects
 
-- [[Stoneskin]]: -30% fatigue cost
+- [[Stoneskin (Ability)|Stoneskin]]: -30% fatigue cost
 
 *Generated from `items/magic_properties.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -21,7 +21,7 @@ up: "[[Assassination]]"
 
 An uncommon ability skill trait of [[Assassination]] with 1 rank, granting [[Sneak Attack (Ability)|Sneak Attack]].
 
-> A perfectly-timed strike against an isolated foe — 140% weapon damage, +20% to-hit. Target must have no allies adjacent. 3-turn cooldown.
+> A strike at +20% to hit: 150% weapon damage and ignores 5 armor from behind, 100% weapon damage from anywhere else. 3-turn cooldown.
 
 ## Effects
 

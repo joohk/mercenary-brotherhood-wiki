@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 A rare combo-exclusive trait — only Human Gladiator recruits can roll it.
 
-> +22% damage, +5 melee attack, and -5 melee defense. Only available to Human Gladiators.
+> +22% melee damage, +5 melee attack, and -5 melee defense. Only available to Human Gladiators.
 
 ## Effects
 

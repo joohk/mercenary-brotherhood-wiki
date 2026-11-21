@@ -24,7 +24,7 @@ up: "[[Abilities]]"
 
 A 1-AP melee ability targeting an area up to 1 hex away.
 
-> Slam the ground with devastating force, stunning all adjacent enemies for 1 turn and knocking them back 1 hex.
+> Slam the ground with devastating force, stunning all adjacent enemies for 1 turn and knocking them back 1 hex. Rolls melee to-hit against each enemy.
 
 ## Stats
 

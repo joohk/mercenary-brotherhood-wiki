@@ -37,10 +37,6 @@ An epic-or-better magic property for shields and body armor.
 | [[Glossary#Numbers used on this wiki\|Weight (power)]] | 2 |
 | Naming theme | [[Magic Item Names#Iron\|Iron]] |
 
-## Effects
-
-- -12% Damage Taken
-
 ## Tiers
 
 Properties of the *Resilience* family: [[Resilience I]] → **Resilience II** → [[Resilience III]]

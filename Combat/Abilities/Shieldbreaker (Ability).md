@@ -17,14 +17,13 @@ requires_los: true
 source_type: Skill
 target_type: enemy
 up: "[[Abilities]]"
-uses_per_battle: 2
 ---
 
 [[Home]] › [[Your Company]] › [[Abilities]]
 
-A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
+A 1-AP melee ability targeting an adjacent enemy.
 
-> Target the enemy's guard. Deals 50% damage and reduces their melee defense by 10 for 3 turns.
+> Target the enemy's guard. Deals 110% damage and reduces their melee defense by 10 for 3 turns.
 
 ## Stats
 
@@ -33,9 +32,10 @@ A 1-AP melee ability targeting an adjacent enemy, usable twice per battle.
 | Action Points | 1 |
 | Fatigue | 14 |
 | Cooldown | 2 turns |
-| Uses per battle | 2 |
+| Uses per battle | Unlimited |
 | Range | 1 hex |
 | Target | Enemy |
+| Off-hand rider | Yes |
 | Line of sight | Required |
 
 *Tags:* melee, mace, debuff

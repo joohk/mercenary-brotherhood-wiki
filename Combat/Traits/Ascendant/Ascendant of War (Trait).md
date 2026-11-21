@@ -18,7 +18,7 @@ up: "[[Traits]]"
 
 The trait a unit gains on becoming an Ascendant of the [[Ascendant of War (Ascendant Path)|Ascendant of War]] path.
 
-> Demigod of War. +20 melee attack, +25% damage. Aura of Slaughter: nearby enemies lose willpower.
+> Demigod of War. +20 melee attack, +25% melee weapon damage. Aura of Slaughter: nearby enemies lose willpower.
 >
 > *War incarnate.*
 
