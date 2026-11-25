@@ -66,4 +66,8 @@ Gear types this guild favours, with their affinity weight from the game data (hi
 
 Generated hall names use the words *chapter*, *gate* and *hall*; methods are described as *drill*, *line* and *form*.
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `guilds/guilds.json`. Edits will be overwritten — put your own notes in Notes/.*

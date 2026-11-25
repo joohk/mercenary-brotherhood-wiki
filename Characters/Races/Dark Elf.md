@@ -149,15 +149,19 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Zayn'rai, Vael'shi, Drix'an, Keth'vas, Shiv'el, Torv'an, Relx'ni, Ux'shan, Phrix, Zael, Drel, Nyx, Keth, Shal, Torv, Relx, Uvesh, Vrix, Zayre, Drelix, Szor'ath, Ghaul'rin, Ilv'rath, Szel'in, Vorn'ai, Quel'vix, Xun'ra, Dhaer'el, Ryl'shan, Velv'or, Nhal'vis, Mez'ran, Sorn, Ilvex, Zhaun, Vhex, Quorl, Dyrr, Ryzel, Sszar, Xelv, Nhurl, Vyrnix, T'lorn
 
+## Where to recruit
+
+Most common in [[Ashwoven]] (75%), [[Blackthread]] (75%), [[Moonless]] (75%). Full list, weights and recruiting rules: [[Where Races Live#Dark Elf]].
+
 ## Referenced by
 
-- **Dominant race of:** [[Ashwoven]], [[Blackthread]], [[Moonless]], [[Shadowkin]], [[Silentstep]], [[Spider Court]], [[Spider Gate]], [[Spinelight]], [[Thornloom]], [[Umbral Redoubt]], [[Veilstone]], [[Weaver Hall]]
-- **Pages:** [[Racial Relations]]
+- **Dominant race of:** [[Shadowkin]], [[Silentstep]], [[Spider Court]], [[Spider Gate]], [[Spinelight]], [[Thornloom]], [[Umbral Redoubt]], [[Veilstone]], [[Weaver Hall]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Cunning]], [[Cynical]], [[Grim]], [[Vengeful]]
 - **Starting draft of:** [[Outcasts]]
 
-> [!info]- Population in (37)
-> [[Abyssal Throne]], [[Academy of the Veiled Star]], [[Ashwoven]], [[Blackmarket]], [[Blackthorn]], [[Blackthread]], [[Cindervale]], [[Crowsreach]], [[Drifter's Hollow]], [[Duskhollow]], [[Ember's Edge]], [[Gloomweb Market]], [[Lyceum of Ashenmoor]], [[Mistwall]], [[Moonless]], [[Nightbloom]], [[Nightveil]], [[Ravensholme]], [[Sablewood]], [[Shadowkin]], [[Shadowmere]], [[Silentstep]], [[Silkweb Grotto]], [[Spider Court]], [[Spider Gate]], [[Spidersong Cavern]], [[Spinelight]], [[The Blind Bazaar]], [[The Crawling Dark]], [[The Undermoot]], [[Thornloom]], [[Umbral Gate]], [[Umbral Redoubt]], [[Vagrant's Rest]], [[Veilstone]], [[Voidreach]], [[Weaver Hall]]
+> [!info]- Population in (34)
+> [[Abyssal Throne]], [[Academy of the Veiled Star]], [[Blackmarket]], [[Blackthorn]], [[Cindervale]], [[Crowsreach]], [[Drifter's Hollow]], [[Duskhollow]], [[Ember's Edge]], [[Gloomweb Market]], [[Lyceum of Ashenmoor]], [[Mistwall]], [[Nightbloom]], [[Nightveil]], [[Ravensholme]], [[Sablewood]], [[Shadowkin]], [[Shadowmere]], [[Silentstep]], [[Silkweb Grotto]], [[Spider Court]], [[Spider Gate]], [[Spidersong Cavern]], [[Spinelight]], [[The Blind Bazaar]], [[The Crawling Dark]], [[The Undermoot]], [[Thornloom]], [[Umbral Gate]], [[Umbral Redoubt]], [[Vagrant's Rest]], [[Veilstone]], [[Voidreach]], [[Weaver Hall]]
 
 > [!note]- Developer notes
 > Dark Elf — dark elves. Fast and lethal, with poison-enhanced strikes. Fragile resolve and not very tough.

@@ -66,4 +66,8 @@ Gear types this guild favours, with their affinity weight from the game data (hi
 
 Generated hall names use the words *den*, *house* and *warren*; methods are described as *hand*, *method* and *craft*.
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `guilds/guilds.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -30,6 +30,10 @@ Towns distrust you: every settlement starts well below favor, respectable work i
 | Starting reputation with every settlement | -20 |
 | Starting draft races | [[Dark Elf]], [[Half-Ogre]], [[Tiefling]], [[Wolfkin]], [[Orc]] |
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 > [!note]- Developer notes
 > *catch:* starting_settlement_rep is applied to every settlement at new-game finalize (negative = distrust).
 >

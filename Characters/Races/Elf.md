@@ -157,17 +157,21 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Aeryn, Sylveth, Faenor, Thessal, Edralith, Orvyn, Saeris, Vyriel, Wyndael, Eirian, Faelith, Galaen, Havaril, Jaeneth, Kalaras, Loraneth, Naeris, Pyrael, Erevan, Galdrion, Theren, Aerendil, Vaelorn, Halidor, Aelindor, Ithrandel, Myriath, Nythalor, Quelorin, Raelith, Thalindel, Ysmerel, Aerovan, Saelorn, Celendor, Daelorin, Iravel, Ilyndor, Kaelyth, Lethariel, Mithrael, Orlaeth, Saelwyn, Talathir, Velarion, Ylvaris, Elandrel, Sorethil
 
+## Where to recruit
+
+Most common in [[Evenshade]] (75%), [[Moonleaf Ward]] (75%), [[Silverbough]] (75%). Full list, weights and recruiting rules: [[Where Races Live#Elf]].
+
 ## Referenced by
 
-- **Dominant race of:** [[Evenshade]], [[Moonhollow]], [[Moonleaf Ward]], [[Silverbough]], [[Silverglade]], [[Starfall Glade]], [[Starlight Grove]], [[Thistleveil]], [[Thornwillow]], [[Verdantshade]], [[Whisperwood]], [[Wyrdleaf]]
+- **Dominant race of:** [[Moonhollow]], [[Silverglade]], [[Starfall Glade]], [[Starlight Grove]], [[Thistleveil]], [[Thornwillow]], [[Verdantshade]], [[Whisperwood]], [[Wyrdleaf]]
 - **Enemies of this race:** [[Elf Bandit Archer]], [[Elf Veteran Archer]]
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Cautious]], [[Cunning]], [[Pious]], [[Quiet]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Prime race in:** [[Prime Race Clan]]
 
-> [!info]- Population in (58)
-> [[Academy of the Veiled Star]], [[Ashgate]], [[Blackthorn]], [[Border Watch]], [[Cedarlight]], [[Copper Falls]], [[Coppergate]], [[Crossroads Landing]], [[Dawngrove]], [[Elmsworth]], [[Emerald Reach]], [[Evenshade]], [[Fangwood]], [[Hawkridge]], [[Hollowfield]], [[Honeydale]], [[Howling Pines]], [[Ironhaven]], [[Ironroot]], [[Kingsmead]], [[Kingsreach]], [[Lanternwick]], [[Lyceum of Ashenmoor]], [[Mistwall]], [[Moonhollow]], [[Moonleaf Ward]], [[Moonridge]], [[Oakenford]], [[Pilgrim's Rest]], [[Pinecrest]], [[Riverfork Exchange]], [[Rivermere]], [[Sablewood]], [[Sanctuary of the Silver Flame]], [[Silverbough]], [[Silverglade]], [[Sporewick]], [[Starfall Glade]], [[Starlight Grove]], [[Stillbrook]], [[Stillwater]], [[Stonecross]], [[Sunstone]], [[Temple of the Dawn]], [[Thistleveil]], [[Thornhaven]], [[Thornwillow]], [[Three Rivers]], [[Trader's Bluff]], [[Tradewind]], [[Verdantshade]], [[Whisperwood]], [[Whitegate]], [[Willowmere]], [[Windhaven]], [[Wulfmere]], [[Wyrdleaf]], [[Zephyr's Rest]]
+> [!info]- Population in (55)
+> [[Academy of the Veiled Star]], [[Ashgate]], [[Blackthorn]], [[Border Watch]], [[Cedarlight]], [[Copper Falls]], [[Coppergate]], [[Crossroads Landing]], [[Dawngrove]], [[Elmsworth]], [[Emerald Reach]], [[Fangwood]], [[Hawkridge]], [[Hollowfield]], [[Honeydale]], [[Howling Pines]], [[Ironhaven]], [[Ironroot]], [[Kingsmead]], [[Kingsreach]], [[Lanternwick]], [[Lyceum of Ashenmoor]], [[Mistwall]], [[Moonhollow]], [[Moonridge]], [[Oakenford]], [[Pilgrim's Rest]], [[Pinecrest]], [[Riverfork Exchange]], [[Rivermere]], [[Sablewood]], [[Sanctuary of the Silver Flame]], [[Silverglade]], [[Sporewick]], [[Starfall Glade]], [[Starlight Grove]], [[Stillbrook]], [[Stillwater]], [[Stonecross]], [[Sunstone]], [[Temple of the Dawn]], [[Thistleveil]], [[Thornhaven]], [[Thornwillow]], [[Three Rivers]], [[Trader's Bluff]], [[Tradewind]], [[Verdantshade]], [[Whisperwood]], [[Whitegate]], [[Willowmere]], [[Windhaven]], [[Wulfmere]], [[Wyrdleaf]], [[Zephyr's Rest]]
 
 > [!note]- Developer notes
 > Elves — graceful and precise. High initiative and ranged attack, low HP and resolve.

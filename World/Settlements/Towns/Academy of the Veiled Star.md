@@ -69,4 +69,8 @@ Manufactures these trade goods and sells them at a discount; every other trade g
 - [[Glass Bottles]]
 - [[Beeswax]]
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `settlements/towns.json`. Edits will be overwritten — put your own notes in Notes/.*

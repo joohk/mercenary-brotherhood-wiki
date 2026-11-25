@@ -64,4 +64,8 @@ Gear types this guild favours, with their affinity weight from the game data (hi
 
 Generated hall names use the words *works*, *foundry* and *shop*; methods are described as *pattern*, *method* and *works*.
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `guilds/guilds.json`. Edits will be overwritten — put your own notes in Notes/.*

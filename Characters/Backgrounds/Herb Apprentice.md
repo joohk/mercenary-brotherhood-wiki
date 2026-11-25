@@ -70,6 +70,10 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×0.55 |
 | Recruitment weight | 30 |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Herb Apprentice]].
+
 ## Referenced by
 
 - **Available to races:** [[Dwarf]], [[Elf]], [[Gnome]], [[Halfling]], [[Human]], [[Lizardfolk]], [[Spriggan]], [[Sylphborne]], [[Wolfkin]]

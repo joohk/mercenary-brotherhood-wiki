@@ -15,6 +15,7 @@ Races, backgrounds, skills and traits: who you recruit and how they grow.
 - [[Race Families]]: the races grouped by lineage
 - [[Backgrounds]]: every background · [[Backgrounds by Role]]: the same, grouped by what they start with
 - [[Personalities]] · [[Race-Background Combos]] · [[Recruit Names]]
+- [[Where Races Live]] · [[Where Backgrounds Come From]]: where each race and background can be recruited, with every weight
 
 ## How they grow
 

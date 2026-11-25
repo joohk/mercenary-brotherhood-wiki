@@ -140,11 +140,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Bjarn, Hvit, Rimfrost, Glacin, Icemar, Kaldur, Halvard, Blizzar, Coldar, Drift, Eisar, Frostr, Gelid, Hoar, Isar, Jokul, Kelvar, Lodur, Mjoln, Nordak, Sturlak, Grimvald, Hrimnar, Kaldvar, Isvald, Snjorn, Vetrulf, Jokvar, Brimgar, Gelvar, Kuldrik, Rimbjorn, Sveinur, Ulfrim, Vindar, Ymvar, Fjolnar, Kjeldar, Isgrim, Frosvik, Hagalt, Bergvid, Skaldvin, Eiskar
 
+## Where to recruit
+
+Most common in [[Glacierfall]] (45%), [[Rimespire]] (40%), [[Emberfall]] (20%). Full list, weights and recruiting rules: [[Where Races Live#Frostborn]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Stoic (Personality)|Stoic]]
-- **Population in:** [[Ashenmoor]], [[Cragmoor]], [[Crystalheim]], [[Emberfall]], [[Flintmarch]], [[Glacierfall]], [[Northvale]], [[Rimespire]]
+- **Population in:** [[Ashenmoor]], [[Cragmoor]], [[Crystalheim]], [[Flintmarch]], [[Northvale]]
 - **Slayer properties:** [[Frost Bane]]
 
 > [!note]- Developer notes

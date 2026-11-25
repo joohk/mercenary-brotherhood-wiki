@@ -142,10 +142,14 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Skaeth, Vyrrax, Drekkar, Thessax, Ignarr, Flaemyr, Golvrak, Cendrix, Pyrrath, Zarketh, Ashen, Blaze, Cinder, Drake, Embrix, Flare, Glyph, Haze, Ignath, Jhar, Karath, Leth, Myrrak, Nox, Vharrak, Skorvyr, Thraxis, Pyrekk, Kazrith, Kaldrax, Ignyth, Sythrak, Varrek, Embrath, Fyrrin, Gharax, Hyskar, Iskarr, Jharrok, Kyrrath, Moltrex, Nyrrax, Ossrak, Scorvax, Thyrrak, Vulkrix, Xarreth, Zyrrak
 
+## Where to recruit
+
+Most common in [[Dragon's Perch]] (40%), [[Dragonscar]] (30%), [[Ember's Edge]] (10%). Full list, weights and recruiting rules: [[Where Races Live#Dragolin]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
-- **Population in:** [[Dragon's Perch]], [[Dragonscar]], [[Ember's Edge]], [[Emberpeak]], [[Sunstone]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
+- **Population in:** [[Emberpeak]], [[Sunstone]]
 - **Slayer properties:** [[Dragon Slayer (Magic Property)|Dragon Slayer]]
 
 > [!note]- Developer notes

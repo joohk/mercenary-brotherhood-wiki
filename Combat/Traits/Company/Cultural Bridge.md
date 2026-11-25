@@ -24,4 +24,8 @@ A rare company trait: it applies to every member of the company.
 
 - Company: -5 to the recruitment threshold
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 *Generated from `traits/company_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

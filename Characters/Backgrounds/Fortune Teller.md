@@ -70,6 +70,10 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×0.6 |
 | Recruitment weight | 30 |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Fortune Teller]].
+
 ## Referenced by
 
 - **Available to races:** [[Arachne]], [[Dark Elf]], [[Goblin]], [[Human]], [[Tiefling]], [[Vampling]], [[Wraithkin]]

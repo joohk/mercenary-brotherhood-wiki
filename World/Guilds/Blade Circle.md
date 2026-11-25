@@ -65,4 +65,8 @@ Gear types this guild favours, with their affinity weight from the game data (hi
 
 Generated hall names use the words *circle*, *salle* and *court*; methods are described as *school*, *form* and *style*.
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `guilds/guilds.json`. Edits will be overwritten — put your own notes in Notes/.*

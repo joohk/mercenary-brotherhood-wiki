@@ -70,9 +70,14 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×0.75 |
 | Recruited only at temples | Yes |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Acolyte Militant]].
+
 ## Referenced by
 
 - **Available to races:** [[Elf]], [[Gnome]], [[Halfling]], [[Human]]
+- **Pages:** [[Where Races Live]]
 - **Recruited by guilds:** [[Holy Order]]
 
 > [!note]- Developer notes

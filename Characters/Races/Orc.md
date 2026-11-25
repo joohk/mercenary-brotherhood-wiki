@@ -150,19 +150,23 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 40 names
 > Grak, Morg, Durz, Vrash, Krug, Torg, Brak, Shruk, Muzak, Reth, Snag, Urak, Wrug, Xoruk, Yag, Zarn, Dregg, Skuld, Gorkul, Thrag, Gruk, Mazg, Drok, Vorg, Krazz, Thruk, Snarg, Urzog, Ghash, Rokk, Ghorlash, Murz, Durg, Skrag, Gharz, Hrug, Lugz, Vrakk, Grashnak, Kurdak
 
+## Where to recruit
+
+Most common in [[Bloodfield]] (75%), [[Broken Palisade]] (75%), [[Gorewhistle]] (75%). Full list, weights and recruiting rules: [[Where Races Live#Orc]].
+
 ## Referenced by
 
-- **Dominant race of:** [[Bloodfield]], [[Bloodrock]], [[Broken Palisade]], [[Gorewhistle]], [[Ironfang Hold]], [[Irontooth]], [[Rendpost]], [[Screamhold]], [[Skullcairn]], [[Stoneskull]], [[Tusk Hollow]], [[War Drum]]
+- **Dominant race of:** [[Bloodrock]], [[Ironfang Hold]], [[Irontooth]], [[Rendpost]], [[Screamhold]], [[Skullcairn]], [[Stoneskull]], [[Tusk Hollow]], [[War Drum]]
 - **Enemies of this race:** [[Orc Bandit Raider]], [[Orc Thug]], [[Orc Veteran Sergeant]]
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Boastful]], [[Reckless]], [[Vengeful]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Prime race in:** [[Prime Race Clan]]
 - **Slayer properties:** [[Orc Slayer]]
 - **Starting draft of:** [[Outcasts]]
 
-> [!info]- Population in (101)
-> [[Ashenmoor]], [[Barrowdale]], [[Battleford]], [[Blackmarket]], [[Bloodfield]], [[Bloodrock]], [[Boglight]], [[Bonehill]], [[Bonepath]], [[Border Watch]], [[Briarford]], [[Broken Palisade]], [[Catterton]], [[Coalpit]], [[Cragmoor]], [[Crossroads Landing]], [[Crushbone]], [[Dragon's Perch]], [[Dragonscar]], [[Dreadmaw]], [[Drifter's Hollow]], [[Dunmoor]], [[Dustfall]], [[Dusthaven]], [[Dusthaven Depot]], [[Elderpine]], [[Elmhurst]], [[Ember's Edge]], [[Emberfall]], [[Fangmarket]], [[Fangwood]], [[Flintmarch]], [[Fort Greymere]], [[Fort Ironclad]], [[Frostden]], [[Gallowfield]], [[Glacierfall]], [[Gorewhistle]], [[Granite Watch]], [[Granitehold]], [[Grayfang Hold]], [[Greenmaw]], [[Greyport]], [[Grimtusk Hold]], [[Grubstake Fort]], [[Gutstitch]], [[Hammerfell]], [[Highwall]], [[Horn's End]], [[Howl Keep]], [[Howling Pines]], [[Iron Tomb Garrison]], [[Ironfang Hold]], [[Ironhaven]], [[Irontooth]], [[Kingsmead]], [[Kingsreach]], [[Knifebottom]], [[Labyrinth's Gate]], [[Last Chance]], [[Lone Watch Fort]], [[Lonepine]], [[Long Howl]], [[Lyceum of Ashenmoor]], [[Moonfang]], [[Moonridge]], [[Mucksprawl]], [[Old Garrison]], [[Oxbow]], [[Rampart Keep]], [[Ratrun]], [[Rattletrap]], [[Ravensfeather]], [[Redhill]], [[Rendpost]], [[Rimespire]], [[Rottenbow]], [[Sanctuary of the Silver Flame]], [[Scorched Crossing]], [[Scrapheap]], [[Scrappers Drift]], [[Screamhold]], [[Skewerden]], [[Skullcairn]], [[Skulltop]], [[Slag Furnace]], [[Slag Market]], [[Snowwatch]], [[Spiketown]], [[Stonefist]], [[Stoneskull]], [[Stormgate]], [[The Broken Shield]], [[Thornwall]], [[Tusk Hollow]], [[Vagrant's Rest]], [[War Drum]], [[Warg's Rest]], [[Wayward Inn]], [[Wolfspire]], [[Yarmouth]]
+> [!info]- Population in (98)
+> [[Ashenmoor]], [[Barrowdale]], [[Battleford]], [[Blackmarket]], [[Bloodrock]], [[Boglight]], [[Bonehill]], [[Bonepath]], [[Border Watch]], [[Briarford]], [[Catterton]], [[Coalpit]], [[Cragmoor]], [[Crossroads Landing]], [[Crushbone]], [[Dragon's Perch]], [[Dragonscar]], [[Dreadmaw]], [[Drifter's Hollow]], [[Dunmoor]], [[Dustfall]], [[Dusthaven]], [[Dusthaven Depot]], [[Elderpine]], [[Elmhurst]], [[Ember's Edge]], [[Emberfall]], [[Fangmarket]], [[Fangwood]], [[Flintmarch]], [[Fort Greymere]], [[Fort Ironclad]], [[Frostden]], [[Gallowfield]], [[Glacierfall]], [[Granite Watch]], [[Granitehold]], [[Grayfang Hold]], [[Greenmaw]], [[Greyport]], [[Grimtusk Hold]], [[Grubstake Fort]], [[Gutstitch]], [[Hammerfell]], [[Highwall]], [[Horn's End]], [[Howl Keep]], [[Howling Pines]], [[Iron Tomb Garrison]], [[Ironfang Hold]], [[Ironhaven]], [[Irontooth]], [[Kingsmead]], [[Kingsreach]], [[Knifebottom]], [[Labyrinth's Gate]], [[Last Chance]], [[Lone Watch Fort]], [[Lonepine]], [[Long Howl]], [[Lyceum of Ashenmoor]], [[Moonfang]], [[Moonridge]], [[Mucksprawl]], [[Old Garrison]], [[Oxbow]], [[Rampart Keep]], [[Ratrun]], [[Rattletrap]], [[Ravensfeather]], [[Redhill]], [[Rendpost]], [[Rimespire]], [[Rottenbow]], [[Sanctuary of the Silver Flame]], [[Scorched Crossing]], [[Scrapheap]], [[Scrappers Drift]], [[Screamhold]], [[Skewerden]], [[Skullcairn]], [[Skulltop]], [[Slag Furnace]], [[Slag Market]], [[Snowwatch]], [[Spiketown]], [[Stonefist]], [[Stoneskull]], [[Stormgate]], [[The Broken Shield]], [[Thornwall]], [[Tusk Hollow]], [[Vagrant's Rest]], [[War Drum]], [[Warg's Rest]], [[Wayward Inn]], [[Wolfspire]], [[Yarmouth]]
 
 > [!note]- Developer notes
 > Orcs — powerful and durable but slow. High HP, armor, and melee; low initiative and ranged.

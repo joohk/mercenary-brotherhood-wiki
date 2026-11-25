@@ -24,4 +24,8 @@ A common company trait: it applies to every member of the company.
 
 - Company: -60% chance of recruits leaving
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 *Generated from `traits/company_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

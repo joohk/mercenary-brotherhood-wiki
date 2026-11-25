@@ -72,6 +72,10 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×0.58 |
 | Recruitment weight | 30 |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Grave Tender]].
+
 ## Referenced by
 
 - **Available to races:** [[Arachne]], [[Dark Elf]], [[Deepkin]], [[Goblin]], [[Human]], [[Lizardfolk]], [[Orc]], [[Tiefling]], [[Vampling]], [[Wraithkin]]

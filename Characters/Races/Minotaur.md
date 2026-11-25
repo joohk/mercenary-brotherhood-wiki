@@ -133,11 +133,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Borak, Kragash, Taurveth, Hornveld, Bullhorn, Gor'ak, Ravash, Stormhorn, Tarvak, Ugorak, Vashor, Widhorn, Xorak, Yaash, Zarak, Ashhorn, Bruthorn, Cromak, Darkhorn, Earthshaker, Forgak, Grimhorn, Halvak, Ironhoof, Brakkor, Gorvash, Thundrak, Hoofbrand, Morghorn, Ravokk, Steelhorn, Tauvrek, Ugrath, Vardak, Bellowhorn, Kraghoof, Dunvak, Grumak, Halgor, Orvash, Skarhorn, Bargoth, Ashhoof, Brazenhorn, Korrak, Mazrak, Ruinhorn, Zorvath
 
+## Where to recruit
+
+Most common in [[Horn's End]] (40%), [[Labyrinth's Gate]] (40%), [[Emberheart Forge]] (15%). Full list, weights and recruiting rules: [[Where Races Live#Minotaur]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Stoic (Personality)|Stoic]]
-- **Population in:** [[Bloodrock]], [[Crushbone]], [[Dragon's Perch]], [[Dragonscar]], [[Dreadmaw]], [[Emberheart Forge]], [[Horn's End]], [[Ironfang Hold]], [[Labyrinth's Gate]]
+- **Population in:** [[Bloodrock]], [[Crushbone]], [[Dragon's Perch]], [[Dragonscar]], [[Dreadmaw]], [[Ironfang Hold]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Slayer properties:** [[Minotaur Bane]]
 

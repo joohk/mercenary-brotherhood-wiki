@@ -63,4 +63,8 @@ Manufactures these trade goods and sells them at a discount; every other trade g
 - [[Sulfur]]
 - [[Iron-Forged Tools]]
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 *Generated from `settlements/_underground_settlements.json`. Edits will be overwritten — put your own notes in Notes/.*

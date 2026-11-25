@@ -142,10 +142,14 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 46 names
 > Zephyr, Gust, Breeze, Wisp, Drift, Flurr, Mist, Nimbus, Squall, Aether, Billow, Cirrus, Dew, Eddy, Foehn, Gale, Haze, Iota, Jest, Kite, Lofty, Mare, Nadir, Sirocco, Mistral, Bora, Khamsin, Levant, Simoom, Zonda, Etesian, Pampero, Harmattan, Ventus, Aeolan, Cirrin, Stratus, Gossam, Flurrin, Soaren, Pennan, Nimbel, Aerin, Tramontane, Ciel, Altus
 
+## Where to recruit
+
+Most common in [[Zephyr's Rest]] (45%), [[Moonhollow]] (15%), [[Windhaven]] (15%). Full list, weights and recruiting rules: [[Where Races Live#Sylphborne]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
-- **Population in:** [[Moonhollow]], [[Willowmere]], [[Windhaven]], [[Zephyr's Rest]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
+- **Population in:** [[Willowmere]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 
 > [!note]- Developer notes

@@ -150,11 +150,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Vael, Nox, Shroud, Umbra, Shade, Dusk, Gloom, Murk, Penumbra, Shadow, Ash, Blight, Crypt, Dirge, Ebony, Fear, Grimm, Haunt, Inky, Jest, Keen, Limbo, Mort, Nihil, Gloam, Tenebris, Noxar, Umbrael, Wyther, Morrowin, Sepulc, Caligo, Lethe, Nebul, Murrow, Vespin, Obscur, Spectrin, Hollen, Grimwold, Crepus, Shadeth, Fumar, Nocten, Sombrin, Eclipt, Wisperin, Vantom
 
+## Where to recruit
+
+Most common in [[Mistwall]] (35%), [[Umbral Gate]] (20%), [[Voidreach]] (20%). Full list, weights and recruiting rules: [[Where Races Live#Wraithkin]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Grim]], [[Quiet]]
-- **Population in:** [[Abyssal Throne]], [[Ashenmoor]], [[Ashwoven]], [[Barrowdale]], [[Blackthread]], [[Cindervale]], [[Cragmoor]], [[Crowsreach]], [[Mistwall]], [[Moonless]], [[Nightbloom]], [[Ravensholme]], [[Shadowkin]], [[Silentstep]], [[Spider Court]], [[Spider Gate]], [[Spinelight]], [[Thornloom]], [[Umbral Gate]], [[Umbral Redoubt]], [[Veilstone]], [[Voidreach]], [[Weaver Hall]]
+- **Population in:** [[Abyssal Throne]], [[Ashenmoor]], [[Ashwoven]], [[Barrowdale]], [[Blackthread]], [[Cindervale]], [[Cragmoor]], [[Crowsreach]], [[Moonless]], [[Nightbloom]], [[Ravensholme]], [[Shadowkin]], [[Silentstep]], [[Spider Court]], [[Spider Gate]], [[Spinelight]], [[Thornloom]], [[Umbral Redoubt]], [[Veilstone]], [[Weaver Hall]]
 - **Slayer properties:** [[Wraith Bane]]
 
 > [!note]- Developer notes

@@ -145,9 +145,13 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 42 names
 > Skrix, Chitt, Mandis, Chelith, Silk, Threx, Vosh, Arax, Brisk, Crawl, Drex, Eigh, Fang, Gloss, Husk, Itch, Jink, Krix, Lace, Mite, Nett, Skeeth, Chirrix, Vessith, Thrisk, Zhix, Kessith, Nirrix, Akkith, Tchell, Srith, Ixith, Cheelix, Vrissk, Pallith, Quixith, Ressk, Thix, Ochith, Silthex, Zikkit, Chessik
 
+## Where to recruit
+
+Not part of any settlement's population. Full list, weights and recruiting rules: [[Where Races Live#Arachne]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Slayer properties:** [[Arachne Slayer]]
 
 > [!note]- Developer notes

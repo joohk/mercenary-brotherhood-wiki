@@ -148,11 +148,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Gravel, Cairn, Bedrock, Shale, Flint, Granite, Basalt, Schist, Quarry, Crag, Dolmen, Escarp, Fissure, Gneiss, Hornfels, Ignite, Jasper, Kaolin, Limestone, Marl, Nodule, Onyx, Pumice, Quartz, Feldspar, Galena, Mica, Obsidian, Pyrite, Garnet, Agate, Cinnabar, Dolomite, Gabbro, Tufa, Scoria, Chert, Breccia, Andesite, Diorite, Porphyry, Zircon, Felsite, Rhyolite, Spinel, Hematite, Corundum, Travertine
 
+## Where to recruit
+
+Most common in [[Abyssal Throne]] (25%), [[Emberheart Forge]] (25%), [[Iron Tomb Garrison]] (25%). Full list, weights and recruiting rules: [[Where Races Live#Stoneman]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Grim]], [[Quiet]], [[Stoic (Personality)|Stoic]]
-- **Population in:** [[Abyssal Throne]], [[Crystalspring]], [[Deepforge Hold]], [[Deephollow Proper]], [[Deepkeep]], [[Echohollow]], [[Emberheart Forge]], [[Granite Watch]], [[Iron Tomb Garrison]], [[Lowveil]], [[Moonshade Caverns]], [[Shaftwarden]], [[Slag Furnace]], [[Stonefoot]], [[The Undermoot]], [[Underwell]], [[Vault of Silentstone]], [[Vault Warden]]
+- **Population in:** [[Crystalspring]], [[Deepforge Hold]], [[Deephollow Proper]], [[Deepkeep]], [[Echohollow]], [[Granite Watch]], [[Lowveil]], [[Moonshade Caverns]], [[Shaftwarden]], [[Slag Furnace]], [[Stonefoot]], [[The Undermoot]], [[Underwell]], [[Vault of Silentstone]], [[Vault Warden]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 
 > [!note]- Developer notes

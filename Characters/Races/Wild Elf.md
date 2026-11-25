@@ -140,10 +140,14 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Thornveil, Moss-Eye, Briar, Kaerith, Silvan, Vyrnhal, Feyrin, Solen, Thirralin, Oraveth, Grennith, Haerion, Lyaris, Ossai, Raefel, Syrel, Vaelon, Wynneth, Eardrel, Tammoril, Ulfen, Rhovan, Aelvarin, Brinoth, Caelreth, Faelorn, Gwaethir, Hyrrin, Thaelvar, Sylvaeth, Myrrandel, Naerith, Pellanor, Quessan, Rilvaen, Saelthorn, Taeryn, Ulvareth, Vaenor, Wyllas, Yraenil, Bark-Skin, Owl-Sight, Fern-Hand
 
+## Where to recruit
+
+Not part of any settlement's population. Full list, weights and recruiting rules: [[Where Races Live#Wild Elf]].
+
 ## Referenced by
 
 - **Enemies of this race:** [[Thorn Warden]], [[Thornwoad Shaman]], [[Wilding Berserker]], [[Wilding Bloodsworn]], [[Wilding Huntsman]], [[Wilding Raider]], [[Wilding Warchief]]
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 
 > [!note]- Developer notes

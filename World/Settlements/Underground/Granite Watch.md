@@ -61,4 +61,8 @@ Manufactures these trade goods and sells them at a discount; every other trade g
 - [[Iron Ore]]
 - [[Charcoal]]
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `settlements/_underground_settlements.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -133,11 +133,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 46 names
 > Skritch, Nezzik, Veshk, Rattax, Chitter, Kaskar, Yetsu, Mikato, Hinoji, Tsuku, Ryugen, Kurohige, Akarai, Sentaru, Grizzik, Sneek, Vrask, Fangret, Pestil, Scabrit, Nekozu, Haibane, Oroku, Skrittik, Vekkis, Gnashik, Kizzar, Skivver, Rizzek, Twitchet, Vermik, Scuttik, Gnawl, Snikkar, Krezzit, Tsubaro, Kenzaki, Murakai, Hatori, Zenkuro, Yorimaru, Kitsuro, Sabizu, Nezumaru, Kagerou, Tsurik
 
+## Where to recruit
+
+Most common in [[Gloomweb Market]] (20%), [[The Blind Bazaar]] (15%), [[The Crawling Dark]] (10%). Full list, weights and recruiting rules: [[Where Races Live#Ratkin]].
+
 ## Referenced by
 
 - **Enemies of this race:** [[Ratkin Ashigaru]], [[Ratkin Ashigaru-Kashira]], [[Ratkin Bowman]], [[Ratkin Daimyo]], [[Ratkin Hatamoto]], [[Ratkin Ronin]], [[Ratkin Samurai]], [[Ratkin Shinobi]], [[Ratkin Sohei]], [[Ratkin Tanegashima Gunner]], [[Ratkin Yabusame]]
-- **Pages:** [[Racial Relations]]
-- **Population in:** [[Gloomweb Market]], [[Greenmaw]], [[The Blind Bazaar]], [[The Crawling Dark]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
+- **Population in:** [[Greenmaw]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Slayer properties:** [[Ratkin Cleaver]]
 

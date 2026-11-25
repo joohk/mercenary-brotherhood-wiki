@@ -65,4 +65,8 @@ Manufactures these trade goods and sells them at a discount; every other trade g
 - [[Rope]]
 - [[Timber]]
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 *Generated from `settlements/towns.json`. Edits will be overwritten — put your own notes in Notes/.*

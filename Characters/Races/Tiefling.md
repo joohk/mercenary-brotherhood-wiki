@@ -142,15 +142,19 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Zaryth, Thexal, Morven, Kael, Draven, Nyx, Vael, Crix, Asmov, Beleth, Cravex, Devrak, Embrix, Fornax, Grimval, Hexan, Ifrix, Javeth, Kravoth, Lethax, Malkith, Nexar, Azrix, Azrakel, Cazrath, Draxim, Ezrakh, Felveth, Gorvex, Hazrith, Ixar, Jorvak, Kazmir, Lorvex, Mazreth, Nirax, Orvex, Pyrax, Quellix, Rhazek, Sarvex, Tazreth, Ulvax, Vexith
 
+## Where to recruit
+
+Most common in [[Ashen Redoubt]] (75%), [[Azure Court]] (75%), [[Blackcoal]] (75%). Full list, weights and recruiting rules: [[Where Races Live#Tiefling]].
+
 ## Referenced by
 
-- **Dominant race of:** [[Ashen Redoubt]], [[Azure Court]], [[Blackcoal]], [[Cinderwell]], [[Dust Market]], [[Emberport]], [[Ghazira]], [[Obsidian Quarter]], [[Redspring]], [[Salt Pillar]], [[Sandgaze]], [[Scaleweave]], [[Scorched Keep]]
-- **Pages:** [[Racial Relations]]
+- **Dominant race of:** [[Cinderwell]], [[Dust Market]], [[Emberport]], [[Ghazira]], [[Obsidian Quarter]], [[Redspring]], [[Salt Pillar]], [[Sandgaze]], [[Scaleweave]], [[Scorched Keep]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Cynical]], [[Pious]]
 - **Starting draft of:** [[Outcasts]]
 
-> [!info]- Population in (43)
-> [[Academy of the Veiled Star]], [[Ashen Redoubt]], [[Ashenmoor]], [[Azure Court]], [[Blackcoal]], [[Blackmarket]], [[Cindervale]], [[Cinderwell]], [[Crowsreach]], [[Dragon's Perch]], [[Dragonscar]], [[Drifter's Hollow]], [[Dunmoor]], [[Duskhollow]], [[Dust Market]], [[Ember's Edge]], [[Emberpeak]], [[Emberport]], [[Gallowfield]], [[Ghazira]], [[Kingsreach]], [[Lanternwick]], [[Lyceum of Ashenmoor]], [[Mistwall]], [[Nightbloom]], [[Nightveil]], [[Obsidian Quarter]], [[Rattletrap]], [[Redspring]], [[Rottenbow]], [[Salt Pillar]], [[Sandgaze]], [[Scaleweave]], [[Scorched Crossing]], [[Scorched Keep]], [[Shadowmere]], [[Silkweb Grotto]], [[Slag Market]], [[The Blind Bazaar]], [[The Undermoot]], [[Umbral Gate]], [[Vagrant's Rest]], [[Voidreach]]
+> [!info]- Population in (40)
+> [[Academy of the Veiled Star]], [[Ashenmoor]], [[Blackmarket]], [[Cindervale]], [[Cinderwell]], [[Crowsreach]], [[Dragon's Perch]], [[Dragonscar]], [[Drifter's Hollow]], [[Dunmoor]], [[Duskhollow]], [[Dust Market]], [[Ember's Edge]], [[Emberpeak]], [[Emberport]], [[Gallowfield]], [[Ghazira]], [[Kingsreach]], [[Lanternwick]], [[Lyceum of Ashenmoor]], [[Mistwall]], [[Nightbloom]], [[Nightveil]], [[Obsidian Quarter]], [[Rattletrap]], [[Redspring]], [[Rottenbow]], [[Salt Pillar]], [[Sandgaze]], [[Scaleweave]], [[Scorched Crossing]], [[Scorched Keep]], [[Shadowmere]], [[Silkweb Grotto]], [[Slag Market]], [[The Blind Bazaar]], [[The Undermoot]], [[Umbral Gate]], [[Vagrant's Rest]], [[Voidreach]]
 
 > [!note]- Developer notes
 > Tieflings — infernal bloodline. Strong melee and iron resolve; slight natural resilience.

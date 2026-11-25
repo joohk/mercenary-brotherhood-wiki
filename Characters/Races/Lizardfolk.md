@@ -156,11 +156,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 46 names
 > Sss'karr, Reth, Vashk, Tessik, Zarak, Drex, Sythis, Varash, Krix, Sseth, Thrak, Vrek, Yisk, Zeth, Rashk, Skarr, Tekka, Urak, Vissak, Wreth, Xisk, Yrak, Zethi, Ssiv, Kesh, Thessik, Zaruk, Vrass, Isskar, Hesh, Sakkis, Tzik, Vorsk, Kreth, Ssarak, Xath, Yessk, Ixtalak, Draxis, Ressik, Shask, Tsek, Vesk, Krasst, Ss'teth, Szaketh
 
+## Where to recruit
+
+Most common in [[Boghollow]] (45%), [[Fenwatch]] (40%), [[Scalemire]] (40%). Full list, weights and recruiting rules: [[Where Races Live#Lizardfolk]].
+
 ## Referenced by
 
 - **Enemies of this race:** [[Cold One Rider]], [[Salamander Handler]], [[Saurian Eternity Guard]], [[Saurian Legionary]], [[Saurian Oldblood]], [[Saurian Temple Guard]], [[Skink Javelineer]], [[Skink Screen]], [[Slann Warlord]], [[Stegadon]]
-- **Pages:** [[Racial Relations]]
-- **Population in:** [[Boghollow]], [[Bogside]], [[Dustfall]], [[Fenwatch]], [[Marshfield]], [[Reed's End]], [[Saltgrotto]], [[Scalemire]], [[Sporewick]], [[Stillwater]], [[Tidewash]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
+- **Population in:** [[Bogside]], [[Dustfall]], [[Marshfield]], [[Reed's End]], [[Saltgrotto]], [[Sporewick]], [[Stillwater]], [[Tidewash]]
 
 > [!note]- Developer notes
 > Lizardfolk — tough and durable. Natural armor, solid melee, and good HP; slow and poor ranged.

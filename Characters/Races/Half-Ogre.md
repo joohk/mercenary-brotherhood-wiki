@@ -139,10 +139,14 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 46 names
 > Grumn, Vokk, Bragg, Thudd, Snog, Klump, Drogg, Ugg, Rolk, Clomp, Dogg, Erg, Forg, Gogg, Hogg, Igg, Jogg, Kogg, Logg, Mogg, Nogg, Pogg, Rogg, Brumm, Grokk, Klonk, Mukk, Thrumm, Vogg, Wogg, Zogg, Blugg, Crugg, Drumm, Glomm, Hurk, Lumm, Ogg, Splugg, Uggo, Bludd, Brongg, Snorg, Tharg, Durrb, Kruff
 
+## Where to recruit
+
+Most common in [[Grimtusk Hold]] (20%), [[Bloodrock]] (15%), [[Bonehill]] (15%). Full list, weights and recruiting rules: [[Where Races Live#Half-Ogre]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
-- **Population in:** [[Battleford]], [[Bloodrock]], [[Bonehill]], [[Border Watch]], [[Crushbone]], [[Dreadmaw]], [[Dusthaven]], [[Emberheart Forge]], [[Flintmarch]], [[Fort Greymere]], [[Fort Ironclad]], [[Granite Watch]], [[Grimtusk Hold]], [[Highwall]], [[Horn's End]], [[Iron Tomb Garrison]], [[Ironfang Hold]], [[Labyrinth's Gate]], [[Old Garrison]], [[Redhill]], [[Skulltop]], [[Spiketown]], [[Stonefist]], [[Stormgate]], [[The Broken Shield]], [[Warg's Rest]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
+- **Population in:** [[Battleford]], [[Border Watch]], [[Crushbone]], [[Dreadmaw]], [[Dusthaven]], [[Emberheart Forge]], [[Flintmarch]], [[Fort Greymere]], [[Fort Ironclad]], [[Granite Watch]], [[Highwall]], [[Horn's End]], [[Iron Tomb Garrison]], [[Ironfang Hold]], [[Labyrinth's Gate]], [[Old Garrison]], [[Redhill]], [[Skulltop]], [[Spiketown]], [[Stonefist]], [[Stormgate]], [[The Broken Shield]], [[Warg's Rest]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Slayer properties:** [[Ogre Slayer]]
 - **Starting draft of:** [[Outcasts]]

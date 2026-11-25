@@ -138,12 +138,16 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 42 names
 > Fang, Howl, Ravik, Snarr, Greycoat, Varg, Ulrik, Dusk, Ashpelt, Brun, Clawmark, Drift, Ember, Frost, Grim, Hunt, Iron, Jaws, Keen, Lope, Moon, Rimepelt, Duskmane, Moonhowl, Ironjaw, Scarmane, Fellhunt, Greyrun, Frostfang, Halvarg, Grivvar, Ulvar, Vorrik, Grawl, Skoll, Brannoc, Lupek, Haskel, Blackmuzzle, Emberfang, Hollowpaw, Snowmaw
 
+## Where to recruit
+
+Most common in [[Bonepath]] (75%), [[Elderpine]] (75%), [[Frostden]] (75%). Full list, weights and recruiting rules: [[Where Races Live#Wolfkin]].
+
 ## Referenced by
 
-- **Dominant race of:** [[Bonepath]], [[Elderpine]], [[Frostden]], [[Grayfang Hold]], [[Howl Keep]], [[Lone Watch Fort]], [[Lonepine]], [[Long Howl]], [[Moonfang]], [[Moonridge]], [[Ravensfeather]], [[Snowwatch]]
-- **Pages:** [[Racial Relations]]
+- **Dominant race of:** [[Grayfang Hold]], [[Howl Keep]], [[Lone Watch Fort]], [[Lonepine]], [[Long Howl]], [[Moonfang]], [[Moonridge]], [[Ravensfeather]], [[Snowwatch]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Loyal]], [[Reckless]], [[Vengeful]]
-- **Population in:** [[Bonepath]], [[Cragmoor]], [[Drifter's Hollow]], [[Elderpine]], [[Fangwood]], [[Frostden]], [[Glacierfall]], [[Grayfang Hold]], [[Howl Keep]], [[Howling Pines]], [[Lone Watch Fort]], [[Lonepine]], [[Long Howl]], [[Moonfang]], [[Moonridge]], [[Oakenford]], [[Ravensfeather]], [[Rimespire]], [[Sablewood]], [[Shadowmere]], [[Skulltop]], [[Snowwatch]], [[Thistleveil]], [[Vagrant's Rest]], [[Warg's Rest]], [[Whisperwood]], [[Wolfspire]], [[Wulfmere]]
+- **Population in:** [[Cragmoor]], [[Drifter's Hollow]], [[Fangwood]], [[Glacierfall]], [[Grayfang Hold]], [[Howl Keep]], [[Howling Pines]], [[Lone Watch Fort]], [[Lonepine]], [[Long Howl]], [[Moonfang]], [[Moonridge]], [[Oakenford]], [[Ravensfeather]], [[Rimespire]], [[Sablewood]], [[Shadowmere]], [[Skulltop]], [[Snowwatch]], [[Thistleveil]], [[Vagrant's Rest]], [[Warg's Rest]], [[Whisperwood]], [[Wolfspire]], [[Wulfmere]]
 - **Starting draft of:** [[Outcasts]]
 
 > [!note]- Developer notes

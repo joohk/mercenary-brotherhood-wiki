@@ -139,14 +139,18 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Vorthax, Ilyx, Mnemon, Psireth, Keth'ul, Zorval, Umnath, Thyrvex, Qorash, Rythvex, Abrax, Blinthex, Cervex, Dynoval, Elthrix, Farvex, Gynthax, Holvex, Idrax, Jolvex, Kothvex, Lyndrix, Myrvex, Nothrix, Zhorvex, Quorthax, Mnethrix, Psylvax, Ulthrix, Ozvex, Thaldrix, Xyrvex, Ssolveth, Ombrax, Kyrthax, Nymvex, Sorvax, Rhennix, Tolvex, Wyrthax, Yrthex, Zuldrix, Belvex, Corthax, Druvex, Ezmoth, Phyrrex, Vel'oth
 
+## Where to recruit
+
+Most common in [[Crystalspring]] (75%), [[Deephollow Proper]] (75%), [[Deepkeep]] (75%). Full list, weights and recruiting rules: [[Where Races Live#Deepkin]].
+
 ## Referenced by
 
-- **Dominant race of:** [[Crystalspring]], [[Deephollow Proper]], [[Deepkeep]], [[Echohollow]], [[Lowveil]], [[Moonshade Caverns]], [[Saltgrotto]], [[Shaftwarden]], [[Stonefoot]], [[Underwell]], [[Vault of Silentstone]], [[Vault Warden]]
-- **Pages:** [[Racial Relations]]
+- **Dominant race of:** [[Echohollow]], [[Lowveil]], [[Moonshade Caverns]], [[Saltgrotto]], [[Shaftwarden]], [[Stonefoot]], [[Underwell]], [[Vault of Silentstone]], [[Vault Warden]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Quiet]]
 
-> [!info]- Population in (44)
-> [[Abyssal Throne]], [[Ashwoven]], [[Blackthread]], [[Boghollow]], [[Bogside]], [[Crystalspring]], [[Deepforge]], [[Deephollow Proper]], [[Deepkeep]], [[Duskhollow]], [[Echohollow]], [[Emberheart Forge]], [[Gloomweb Market]], [[Greenmaw]], [[Lowveil]], [[Moonless]], [[Moonshade Caverns]], [[Mudburrow]], [[Saltgrotto]], [[Scalemire]], [[Shadowkin]], [[Shaftwarden]], [[Silentstep]], [[Silkweb Grotto]], [[Spider Court]], [[Spider Gate]], [[Spidersong Cavern]], [[Spinelight]], [[Stillwater]], [[Stonefoot]], [[The Blind Bazaar]], [[The Crawling Dark]], [[The Undermoot]], [[Thornloom]], [[Tidewash]], [[Umbral Gate]], [[Umbral Redoubt]], [[Underwell]], [[Vault of Silentstone]], [[Vault Warden]], [[Veilstone]], [[Voidreach]], [[Weaver Hall]], [[Yarmouth]]
+> [!info]- Population in (41)
+> [[Abyssal Throne]], [[Ashwoven]], [[Blackthread]], [[Boghollow]], [[Bogside]], [[Deepforge]], [[Duskhollow]], [[Echohollow]], [[Emberheart Forge]], [[Gloomweb Market]], [[Greenmaw]], [[Lowveil]], [[Moonless]], [[Moonshade Caverns]], [[Mudburrow]], [[Saltgrotto]], [[Scalemire]], [[Shadowkin]], [[Shaftwarden]], [[Silentstep]], [[Silkweb Grotto]], [[Spider Court]], [[Spider Gate]], [[Spidersong Cavern]], [[Spinelight]], [[Stillwater]], [[Stonefoot]], [[The Blind Bazaar]], [[The Crawling Dark]], [[The Undermoot]], [[Thornloom]], [[Tidewash]], [[Umbral Gate]], [[Umbral Redoubt]], [[Underwell]], [[Vault of Silentstone]], [[Vault Warden]], [[Veilstone]], [[Voidreach]], [[Weaver Hall]], [[Yarmouth]]
 
 > [!note]- Developer notes
 > Deepkin — psionic heritage. Strong across all combat stats, iron resolve; slow recovery.

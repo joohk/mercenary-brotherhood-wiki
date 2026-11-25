@@ -78,6 +78,10 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 |---|---|
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×1.57 |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#War Mage]].
+
 ## Referenced by
 
 - **Available to races:** [[Deepkin]]

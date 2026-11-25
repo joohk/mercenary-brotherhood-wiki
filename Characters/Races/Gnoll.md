@@ -140,10 +140,14 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Hruk, Graak, Gnasher, Vrak, Rrazz, Mauler, Grint, Ripper, Drool, Karrak, Hraal, Skath, Bonegrin, Lopear, Slaver, Gutrend, Hraag, Skulk, Krrask, Gorrash, Snarlgut, Ruttak, Grollik, Hyrrak, Rrothak, Hyekk, Vrokk, Gnarrik, Hrask, Kharrn, Ruzzak, Yarrak, Grazzuk, Snarrk, Khrak, Gharrl, Hrrul, Brakka, Zirrak, Grukk, Yeekra, Hakkra, Vrazz, Kyarr
 
+## Where to recruit
+
+Not part of any settlement's population. Full list, weights and recruiting rules: [[Where Races Live#Gnoll]].
+
 ## Referenced by
 
 - **Enemies of this race:** [[Gnoll Alpha]], [[Gnoll Bone-Render]], [[Gnoll Brute]], [[Gnoll Hex-Touched]], [[Gnoll Hurler]], [[Gnoll Savage]], [[Gnoll Stalker]], [[Gnoll Whelp]]
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Slayer properties:** [[Gnoll Slayer]]
 

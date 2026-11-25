@@ -24,4 +24,8 @@ An uncommon company trait: it applies to every member of the company.
 
 - Company: +50% rate at which new recruits arrive
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 *Generated from `traits/company_traits.json`. Edits will be overwritten — put your own notes in Notes/.*

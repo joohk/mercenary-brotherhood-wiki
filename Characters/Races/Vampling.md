@@ -144,11 +144,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Mordecai, Lazrath, Noctis, Vaelith, Crimson, Duskvar, Faelix, Grath, Ire, Jaxvael, Kalleth, Lucanis, Oblivus, Pyrith, Raven, Sable, Thrix, Umbra, Valdric, Corvin, Draemir, Severin, Belisar, Casimir, Damaris, Evander, Aurelien, Valerian, Isidor, Lucien, Malachai, Orsino, Quillon, Remiel, Corvinus, Theron, Valdrek, Vesprin, Xanthus, Zephraim, Corviel, Morvaine, Sanguis, Nyctus
 
+## Where to recruit
+
+Most common in [[Nightbloom]] (35%), [[Nightveil]] (20%), [[Mistwall]] (15%). Full list, weights and recruiting rules: [[Where Races Live#Vampling]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Cynical]]
-- **Population in:** [[Ashen Redoubt]], [[Azure Court]], [[Barrowdale]], [[Blackcoal]], [[Cindervale]], [[Cinderwell]], [[Crowsreach]], [[Dust Market]], [[Emberport]], [[Ghazira]], [[Mistwall]], [[Nightbloom]], [[Nightveil]], [[Obsidian Quarter]], [[Ravensholme]], [[Redspring]], [[Salt Pillar]], [[Sandgaze]], [[Scaleweave]], [[Scorched Keep]], [[Voidreach]]
+- **Population in:** [[Ashen Redoubt]], [[Azure Court]], [[Barrowdale]], [[Blackcoal]], [[Cindervale]], [[Cinderwell]], [[Crowsreach]], [[Dust Market]], [[Emberport]], [[Ghazira]], [[Obsidian Quarter]], [[Ravensholme]], [[Redspring]], [[Salt Pillar]], [[Sandgaze]], [[Scaleweave]], [[Scorched Keep]], [[Voidreach]]
 - **Slayer properties:** [[Vampire Slayer]]
 
 > [!note]- Developer notes

@@ -51,6 +51,10 @@ Each Prime race has a set of *friendly* (kindred) races; every other race is *ot
 
 Recruit weight scales how often a race appears in recruit pools and drafts; the inject weight lets a Prime or friendly race appear in settlements it isn't native to.
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 > [!note]- Developer notes
 > *affinities:* Prime race -> its set of Friendly (kindred) races. Any race not Prime and not Friendly is 'Other'.
 >

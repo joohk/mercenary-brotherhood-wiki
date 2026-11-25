@@ -148,10 +148,14 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 44 names
 > Thistle, Briar, Gorse, Nettle, Thorn, Lichen, Moss, Fern, Spore, Bark, Crimp, Dew, Elm, Furze, Gall, Hawthorn, Knot, Larchen, Mire, Nett, Oak, Peat, Bramlet, Sedgel, Teasle, Yarrin, Rushel, Vetchin, Hazlet, Burrock, Mallowen, Tansey, Sorrin, Sorrelin, Bracklin, Cobbin, Withel, Sloeth, Hemlet, Spurgel, Ferrin, Thatchel, Acornel, Burdle
 
+## Where to recruit
+
+Most common in [[Sporewick]] (40%), [[Starfall Glade]] (20%), [[Ironroot]] (20%). Full list, weights and recruiting rules: [[Where Races Live#Spriggan]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
-- **Population in:** [[Blackthorn]], [[Boghollow]], [[Bogside]], [[Cedarlight]], [[Ironroot]], [[Oakenford]], [[Reed's End]], [[Sablewood]], [[Scalemire]], [[Sporewick]], [[Starfall Glade]], [[Thistleveil]], [[Thornhaven]], [[Verdantshade]], [[Whisperwood]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
+- **Population in:** [[Blackthorn]], [[Boghollow]], [[Bogside]], [[Cedarlight]], [[Oakenford]], [[Reed's End]], [[Sablewood]], [[Scalemire]], [[Thistleveil]], [[Thornhaven]], [[Verdantshade]], [[Whisperwood]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 
 > [!note]- Developer notes

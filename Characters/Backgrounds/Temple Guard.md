@@ -66,9 +66,14 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×0.85 |
 | Recruited only at temples | Yes |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Temple Guard]].
+
 ## Referenced by
 
 - **Available to races:** [[Dwarf]], [[Elf]], [[Halfling]], [[Human]]
+- **Pages:** [[Where Races Live]]
 - **Recruited by guilds:** [[Fighters' Guild]], [[Holy Order]]
 
 > [!note]- Developer notes

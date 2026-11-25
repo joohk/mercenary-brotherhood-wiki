@@ -60,4 +60,8 @@ Manufactures these trade goods and sells them at a discount; every other trade g
 - [[Raw Hide]]
 - [[Leather Hides]]
 
+## Referenced by
+
+- **Pages:** [[Where Races Live]]
+
 *Generated from `settlements/villages.json`. Edits will be overwritten — put your own notes in Notes/.*

@@ -76,6 +76,10 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 |---|---|
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×1.78 |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Executioner]].
+
 ## Referenced by
 
 - **Available to races:** [[Frostborn]], [[Half-Ogre]], [[Half-Troll]], [[Minotaur]], [[Orc]], [[Tiefling]]

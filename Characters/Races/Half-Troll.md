@@ -137,11 +137,15 @@ Used for recruits only when their home realm has no name pool (see [[Recruit Nam
 > [!abstract]- 48 names
 > Brug, Vrath, Korm, Thug, Srak, Morgg, Grull, Drak, Urgk, Bolg, Crunn, Drugg, Flurg, Grunn, Hugg, Kurm, Lurk, Murgh, Nurk, Prug, Rug, Slurk, Turm, Vrug, Grakh, Urzug, Throm, Vorgh, Durgh, Hrunk, Mugr, Nargh, Pruk, Ruln, Snurg, Torgh, Uzzk, Vlurg, Wrugg, Zurm, Brokh, Klurg, Drunn, Frugg, Gurk, Skurm, Brakk, Ollurg
 
+## Where to recruit
+
+Most common in [[Slag Furnace]] (20%), [[Grimtusk Hold]] (15%), [[Wolfspire]] (15%). Full list, weights and recruiting rules: [[Where Races Live#Half-Troll]].
+
 ## Referenced by
 
-- **Pages:** [[Racial Relations]]
+- **Pages:** [[Racial Relations]], [[Where Backgrounds Come From]]
 - **Personality more/less likely:** [[Reckless]]
-- **Population in:** [[Bloodrock]], [[Bonehill]], [[Crushbone]], [[Dreadmaw]], [[Grimtusk Hold]], [[Gutstitch]], [[Skulltop]], [[Slag Furnace]], [[Warg's Rest]], [[Wolfspire]]
+- **Population in:** [[Bloodrock]], [[Bonehill]], [[Crushbone]], [[Dreadmaw]], [[Gutstitch]], [[Skulltop]], [[Warg's Rest]]
 - **Prime / friendly race in:** [[Prime Race Clan]]
 - **Slayer properties:** [[Troll Slayer]]
 

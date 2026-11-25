@@ -71,6 +71,10 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×0.65 |
 | Recruitment weight | 25 |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Blood Initiate]].
+
 ## Referenced by
 
 - **Available to races:** [[Dark Elf]], [[Deepkin]], [[Gnoll]], [[Half-Ogre]], [[Half-Troll]], [[Human]], [[Lizardfolk]], [[Minotaur]], [[Orc]], [[Tiefling]], [[Vampling]], [[Wild Elf]], [[Wolfkin]], [[Wraithkin]]

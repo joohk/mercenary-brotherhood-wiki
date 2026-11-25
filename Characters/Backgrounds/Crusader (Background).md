@@ -83,9 +83,14 @@ Multipliers on the odds of rolling physical characteristic traits with these tag
 | [[Glossary#Numbers used on this wiki\|Hire cost multiplier]] | ×2 |
 | Recruited only at temples | Yes |
 
+## Where to recruit
+
+Which races can roll this background, the odds, likely settlements and guild halls: [[Where Backgrounds Come From#Crusader]].
+
 ## Referenced by
 
 - **Available to races:** [[Dwarf]], [[Human]]
+- **Pages:** [[Where Races Live]]
 - **Recruited by guilds:** [[Holy Order]]
 
 > [!note]- Developer notes

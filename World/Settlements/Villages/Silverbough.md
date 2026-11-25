@@ -59,4 +59,8 @@ Manufactures these trade goods and sells them at a discount; every other trade g
 - [[Beeswax]]
 - [[Medicinal Herbs]]
 
+## Referenced by
+
+- **Pages:** [[Where Backgrounds Come From]], [[Where Races Live]]
+
 *Generated from `settlements/villages.json`. Edits will be overwritten — put your own notes in Notes/.*
